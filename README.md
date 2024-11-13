@@ -21,28 +21,41 @@ Balance is subjective.  Some people think this Collection makes the game too eas
 Thou shalt read the directions and troubleshooting sections prior to asking for technical assistance.  
 
 ## Assumptions 
+
 A. You have already installed 7D2D, using the latest *stable* version.  Currently, this is: v1.1b14
+
 B. EAC has been disabled from the Game Launcher.
+
 C. You did *not* delete the "0_TFP_Harmony" folder!
+
 D. You ran the vanilla game to the main start-up menu once.  *This is so it can build out folder directories.*  
+
 E. You are not running Mods out of any other folder that could cause a potential Mod Conflict.
+
 F. You are literate, and have basic computer literacy to figure simple things out for yourself.
 
 ### Step 1:
+
 Download MordOrganizer2 (MO2).  
+
 Install it.
 
 ### Step 2. 
+
 Download the "Mod Organizer 2 Plugin - Revived" mod from NexusMods
+
 Unzip the folder somewhere you can find it, and drag the file named "game_7D2D.py" into this MO2 folder on your computer's *YourDriveLetter:\MO2\plugins\basic_games\games*
 
 ### Step 3
+
 Download the Better7D2DbyFNS_Rev47_MO2_list.txt file.
 
 ### Step 4
+
 Read through the Optional Mod list write ups on this Read-Me, and select/deselect mods in MO2 accordingly.
 
 ### Step 5
+
 Hit the Run (play button) within MO2.
 
 
