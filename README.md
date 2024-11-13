@@ -32,7 +32,9 @@ D. You ran the vanilla game to the main start-up menu once.  *This is so it can 
 
 E. You are not running Mods out of any other folder that could cause a potential Mod Conflict.
 
-F. You are literate, and have basic computer literacy to figure simple things out for yourself.
+F. You have an account on NexusMods.  A free account is fine.  
+
+H. You are literate, and have basic computer literacy to figure simple things out for yourself.
 
 ### Step 1:
 
@@ -44,7 +46,20 @@ Install it.
 
 Download the "Mod Organizer 2 Plugin - Revived" mod from NexusMods
 
-Unzip the folder somewhere you can find it, and drag the file named "game_7D2D.py" into this MO2 folder on your computer's *YourDriveLetter:\MO2\plugins\basic_games\games*
+Unzip the folder somewhere you can find it, and drag the file named "game_7D2D.py" into this MO2 folder on your computer: *YourDriveLetter:\MO2\plugins\basic_games\games*
+
+Launch MO2.  
+It will ask if you want to create a new Instance?  Yes.  
+Create a Portable Instance.  Select 7D2D game.  
+You want all three boxes to be checked.
+It will ask where you want to store your Instances.  
+I recommend making a New Folder, label it something like "Game Instances" and place it anywhere you can remember.  
+Do *not* put this "Game Instances" folder in either the vanilla game directory and MO2 folder paths.
+
+Good Example:
+7D2D Vanilla Game folder path: C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die
+MO2 installation folder path: D:\MO2
+Game Instances Folder Path: **D:\Game Instances**
 
 ### Step 3
 
