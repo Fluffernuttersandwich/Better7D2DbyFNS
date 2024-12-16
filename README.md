@@ -37,15 +37,41 @@ F. You are literate, and have basic computer literacy to figure simple things ou
 
 ### Step 1:
 
-Download ModLauncher.  https://7d2dmodlauncher.org/  
+Download ModOrganizer2 (MO2)
+https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files
 
 Install it.
 
 ### Step 2. 
 
-Download the "Better7D2DbyFNS" within the ModLauncher Application.  
+Download the 7D2D MO2 Plugin v2
+https://www.nexusmods.com/7daystodie/mods/5624?tab=files
+Unzip this in the folder where you installed MO2.  
+If Windows prompts you to overwrite the existing files in the MO2 folder, the answer is yes.
 
+Load MO2 once, then exit MO2.  
 
+### Step 3. 
 
+Install Wabbajack.  
+If you already have Wabbajack installed, you must update it to the most current version.  
+Older versions of Wabbajack do not support 7D2D.  7D2D only recently received Wabbajack support.  
 
+### Step 4. 
 
+Search for the 7 Days to Die game in Wabbajack. 
+Download the "Better7D2DbyFNS" Overhaul ModPack.
+
+### Step 5. 
+
+When Wabbajack has finished the download, unzipping, and installation, run the MO2 file for "Better7D2DbyFNS".
+
+### Step 6.
+
+Customize the ModList in MO2 to suit your personal preferences.  
+
+### Step 7.  Play the game.
+
+Create a new world with advanced generation.  I recommend 8-10k sized maps to see all of the Community made POIs.  
+Random World Generation (RWG) will take much longer than vanilla.  10-40 minutes depending on hardware.
+Do not make maps larger than 10k if you are using potato grade hardware.  It could crash in RWG, or mid-game.  
