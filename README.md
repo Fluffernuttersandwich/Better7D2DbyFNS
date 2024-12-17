@@ -1,14 +1,13 @@
-# Better 7D2D byFNS
-This is an Overhaul Modlist for the game 7 Days to Die for Wabbajack and MordOrganizer2 (MO2).
-This Overhaul ModPack is the premier Quality of Life (QoL) Vanilla+ experience for 7D2D.
-It provides a stable and enhanced playthrough for those who like the base game, but wish there was more to it.
+# Better 7D2D by FNS
+This is an Overhaul Modlist for the game 7 Days to Die using Wabbajack and ModOrganizer2 (MO2).
 
 ## Vision for this Collection
 
 ### It's 7 Days to Die, *only better.*
 
 When people think of a stable Vanilla+ mod pack that enhances the original game, I want them to think of this ModList.  
-This list is friendly to a more casual play style for people who want a relaxed game experience.  If you are a hardcore gamer, this pack is not for you.
+This list is friendly to a more casual play style for people who want a relaxed game experience.  
+If you are a hardcore gamer, this pack is not for you.
 
 ## Description
 Most of the mods in this collection are Quality of Life (QoL) improvements to give the players a nice Vanilla+ experience without any game breaking balance issues you see in some other mod lists.  
@@ -34,6 +33,12 @@ D. You ran the vanilla game to the main start-up menu once.  *This is so it can 
 E. You are not running Mods out of any other folder that could cause a potential Mod Conflict.
 
 F. You are literate, and have basic computer literacy to figure simple things out for yourself.
+
+### Step 0: You must have a Nexus Mods account.
+
+Free or Premium.  If you have a free account, prepare to do a lot of clicking.
+
+https://users.nexusmods.com/register
 
 ### Step 1: Download ModOrganizer2 (MO2)
 
@@ -61,8 +66,11 @@ Older versions of Wabbajack do not support 7D2D!
 ### Step 4. Find the "Better 7D2D" ModList in the Wabbajack Gallery of Modlists.  
 
 Search for the 7 Days to Die game in Wabbajack Gallery Search.
-At the time of this writting, my ModPack is the first and only Wabbajack list for 7D2D.
+https://www.wabbajack.org/gallery
+At the time of this writting, my ModPack is the first and only Wabbajack list for the 7D2D game.
 Download the "Better 7D2D" Overhaul ModPack.
+
+The Wabbajack Application will prompt you
 
 ### Step 5. Open MO2 launcher for "Better 7D2D".
 
