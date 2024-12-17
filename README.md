@@ -1,6 +1,6 @@
-# Better7D2DbyFNS
-This is a Overhaul Modlist for the game 7 Days to Die for the ModLauncher (ML) Mod Manager.
-This Overhaul ModPack is to the premier Quality of Life (QoL) Vanilla+ experience for 7D2D.
+# Better 7D2D byFNS
+This is an Overhaul Modlist for the game 7 Days to Die for Wabbajack and MordOrganizer2 (MO2).
+This Overhaul ModPack is the premier Quality of Life (QoL) Vanilla+ experience for 7D2D.
 It provides a stable and enhanced playthrough for those who like the base game, but wish there was more to it.
 
 ## Vision for this Collection
@@ -23,7 +23,7 @@ Thou shalt read the directions and troubleshooting sections prior to asking for 
 
 ## Assumptions 
 
-A. You have already installed 7D2D, using the latest *stable* version.  Currently, this is: v1.1b14
+A. You have already installed 7D2D, using the latest *stable* version.  Currently, this is: v1.2b27
 
 B. EAC has been disabled from the Game Launcher.
 
@@ -35,14 +35,14 @@ E. You are not running Mods out of any other folder that could cause a potential
 
 F. You are literate, and have basic computer literacy to figure simple things out for yourself.
 
-### Step 1:
+### Step 1: Download ModOrganizer2 (MO2)
 
 Download ModOrganizer2 (MO2)
 https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files
 
 Install it.
 
-### Step 2. 
+### Step 2. Download the 7D2D MO2 Plugin v2
 
 Download the 7D2D MO2 Plugin v2
 https://www.nexusmods.com/7daystodie/mods/5624?tab=files
@@ -51,27 +51,50 @@ If Windows prompts you to overwrite the existing files in the MO2 folder, the an
 
 Load MO2 once, then exit MO2.  
 
-### Step 3. 
+### Step 3. Download/update to the latest version of Wabbajack: https://www.wabbajack.org/
 
-Install Wabbajack.  
-If you already have Wabbajack installed, you must update it to the most current version.  
-Older versions of Wabbajack do not support 7D2D.  7D2D only recently received Wabbajack support.  
+If you already have Wabbajack installed, you must update it to the most current version.
+Download the newest version to update Wabbajack!
+Older versions of Wabbajack do not support 7D2D!  
+7D2D only recently received Wabbajack support!  
 
-### Step 4. 
+### Step 4. Find the "Better 7D2D" ModList in the Wabbajack Gallery of Modlists.  
 
-Search for the 7 Days to Die game in Wabbajack. 
-Download the "Better7D2DbyFNS" Overhaul ModPack.
+Search for the 7 Days to Die game in Wabbajack Gallery Search.
+At the time of this writting, my ModPack is the first and only Wabbajack list for 7D2D.
+Download the "Better 7D2D" Overhaul ModPack.
 
-### Step 5. 
+### Step 5. Open MO2 launcher for "Better 7D2D".
 
-When Wabbajack has finished the download, unzipping, and installation, run the MO2 file for "Better7D2DbyFNS".
+When Wabbajack has finished the download, unzipping, and installation of the ModList, run the MO2 list for "Better 7D2D".
 
-### Step 6.
+### Step 6. Customize the ModList in MO2 to suit your personal preferences.  
 
-Customize the ModList in MO2 to suit your personal preferences.  
+Do not disable Framework/Requirement Mods (unless you are an advanced modder and you know what you are doing).
 
-### Step 7.  Play the game.
+Standard Mods are what I (FNS) imagined as integral to the QoL experience.  Some of the mods can be enabled/disabled here, but you should start a new game if you do so.
+
+Optional QoL Mods are to be enabled/disabled as you so choose for your personal preference, but again, it's best practice to start a new game.  
+
+Always start a new game when you change mods.  It's unwise to disable/enable mods midgame unless you know what you are doing as it could corrupt your save.  
+
+### Step 7.  Launch the game from MO2.  
+
+Play the game.
+
+### Step 8.  Random World Generation (RWG) 
 
 Create a new world with advanced generation.  I recommend 8-10k sized maps to see all of the Community made POIs.  
-Random World Generation (RWG) will take much longer than vanilla.  10-40 minutes depending on hardware.
+Random World Generation (RWG) will take much longer than vanilla.  10-60 minutes depending on hardware.
+
+"Why is it so long?!" Becaue of the mods, like the CompoPack.  
+There are a lot changes to RWG to increase city size, more POIs, less wasted space between POIs (compared to empty maps like Navezgane).
+
 Do not make maps larger than 10k if you are using potato grade hardware.  It could crash in RWG, or mid-game.  
+
+You might need to delete worlds to make room for new ones:
+C:\Users\UserName\AppData\Roaming\7DaysToDie\GeneratedWorlds
+
+### Troubleshooting
+
+
