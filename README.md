@@ -152,6 +152,30 @@ Optional Quality of Life (QoL) Mods are to be enabled/disabled as you so choose 
 
 It's unwise to disable/enable mods midgame unless you know what you are doing as it could corrupt your save.  
 
+I also left a sperator/section for you to add your own mods.  I populated it with "Less Annoying Slower Vultures" (disabled) just as a reference.  
+![image](https://github.com/user-attachments/assets/be21bd28-f205-4aed-86c0-47625c72cf46)
+
+Optional Overpowered Mods are to be enabled/disabled as you so choose for your personal preference.  But again, it's best practice to start a new game anytime you alter mods. 
+
+The deselected mods in this screenshot are the ones I play as disabled for my own playthroughs.  
+None of the "OP" mods listed here are aggregiously OP, except for "Legend Perks".  
+That one is Game-Breakingly OP because it grants you two perks at every level on top of giving you more perks to choose from!
+
+![image](https://github.com/user-attachments/assets/92de5741-a517-44d0-9ba3-cf13bbd55760)
+
+Finally, there is a small handfull of Requirement Mods that must load last.  
+Do not add mods after these, or you will probably break these mods.  
+If you want to play without the mods from this section, you MUST start a new game save!
+
+Here are some off-site (not included in the list) mods that are compatible with this ModList if you want to add them to your own game:
+https://7daystodiemods.com/tuk-throw-stuff-mod/
+https://7daystodiemods.com/double-g-zombies/
+https://7daystodiemods.com/non-script-radios-video-games/
+https://7daystodiemods.com/trader-quest-preview/
+You can download these mods, drag them into the Downloads folder within your MO2 folder for this ModList.  
+Then drag them from there into MO2, in the Yellow "Where you may choose to add compatible Mods..." section in the MO2 ModList.  
+If Mods are double-nested, you will need to fix that yourself.  
+
 ### Step 7.  Launch the game from MO2.  
 
 To play the modlist of this game, you hit the "Run" (Play) button from inside the MO2 application.  
