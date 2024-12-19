@@ -1,5 +1,5 @@
 # Better 7D2D by FNS
-This is an Overhaul Modlist for the game 7 Days to Die using Wabbajack and ModOrganizer2 (MO2).
+This is an Overhaul Modlist for the game 7 Days to Die using Wabbajack and ModOrganizer2 (MO2) applications.
 
 ## Vision for this Collection
 
@@ -175,6 +175,15 @@ Do not make maps larger than 10k if you are using potato-grade hardware.
 It could crash in RWG, or worse, mid-game.  
 Know your limitations, or upgrade your potato, don't blame me because you haven't upgraded your hardware in 12 years!  
 
+Recommended RWG Settings for this modpack if you want to see a better variety of the Community Made POIs:
+![image](https://github.com/user-attachments/assets/c318e31b-4926-45fe-8a97-edd045927889)
+
+
+### Step 9.  Recommended Game Settings
+
+Play with Loot Abundance set to 75% or lower.  There is more than enough loot from FNS's Loot All the Things (LAtT) mod.  
+![image](https://github.com/user-attachments/assets/a541ac67-95b3-4d67-a6a2-9e92d7b260d5)
+
 
 ### Troubleshooting
 
@@ -218,12 +227,18 @@ Sometimes Wabbajack, gets _Wabbajacked_.  No?  I'll see myself out.
 ![image](https://github.com/user-attachments/assets/fef51abe-817e-4a3a-a722-62b9539e7f9e)
 
 
+
+
 ### FNS would like to thank the following people for this modlist:
 1. JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7D2D compatible with Wabbajack.  MVP!
 2. EzioTheDeadPoet from the Wabbajack GitHub page for your support.
 3. All of the Mod Authors for making these great mods.  
 4. Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
 5. StallionsDen for allowing me to include the CompoPack.
+6. The good folks at Guppy's 7D2D Modding Discord Server.
+7. Special thanks to LittleRedSonja for Mod Collab Projects.  
+
+
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
 
