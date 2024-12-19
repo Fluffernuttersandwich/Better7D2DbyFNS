@@ -47,8 +47,11 @@ as this can cause potential issues with game updates, compatibility problems,
 and might even lead to your mods being accidentally deleted during system maintenance or updates. 
 
 Here are a few specific places to avoid storing mods on Windows:
+
 Program Files folder: This directory is designed for system files and applications, not user-generated content like mods.
+
 Windows directory: Similarly, the core Windows directory should not be used for storing mods.
+
 Temporary folders: Avoid storing mods in temporary folders as they may be deleted automatically by the system.
 
 **Where to store Mods, Modding Applications, folder paths, and folders instead:**
