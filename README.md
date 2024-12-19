@@ -78,9 +78,24 @@ When Wabbajack has finished the download, unzipping, and installation of the Mod
 
 ### Step 6. Customize the ModList in MO2 to suit your personal preferences.  
 
-Do not disable Framework/Requirement Mods (unless you are an advanced modder and you know what you are doing).
+Do not rearrange the Priority (Load Order) unless you know what you are doing.  
+I hand tailored the priority to avoid mod conflicts.  
+If you mess that up, I cannot fix it for you.
 
-Standard Mods are what I (FNS) imagined as integral to the QoL experience.  Some of the mods can be enabled/disabled here, but you should start a new game if you do so.
+_The following screenshots in this section were uploaded from Revision version 56.0 of this Overhaul ModPack._  
+
+Do not disable **Framework/Requirement Mods** (unless you are an advanced modder and you know what you are doing).
+![image](https://github.com/user-attachments/assets/07fed2a2-1379-4cc7-8c13-f06d4c307889)
+
+**Prefabs and POIs.**  
+If you want to add_and_enable, or disable any prefab/POIs, do it here prior to making a new world.  
+DO NOT DISABLE PREFABS/POIs MID-SAVE!
+![image](https://github.com/user-attachments/assets/12161046-e02b-49f2-9b8f-a5141c956e07)
+
+Standard Mods are what I (FNS) imagined as integral to this modpack.  Most of the mods can be disabled here, but you should start a new game if you do so.
+
+![image](https://github.com/user-attachments/assets/857bd756-de35-420b-92b9-c8ec248b4cfd)
+
 
 Optional QoL Mods are to be enabled/disabled as you so choose for your personal preference, but again, it's best practice to start a new game.  
 
@@ -104,5 +119,40 @@ You might need to delete worlds to make room for new ones:
 C:\Users\UserName\AppData\Roaming\7DaysToDie\GeneratedWorlds
 
 ### Troubleshooting
+1. Are you sure you are on the correct game version?  Currently this is 7D2D game version: **1.2b27**
+![image](https://github.com/user-attachments/assets/7b908b39-5b5a-4012-bc6a-9b638bebd593)
+
+2.Is EAC off?  
+Run the Game Launcher from Steam, and make sure you disable EAC.  
+It CANNOT be set to ask if you want to turn it off at each launch, it must be disabled!
+   ![image](https://github.com/user-attachments/assets/f18cab91-3e23-44fa-aa2d-1e6d214b0e49)
+
+3. Are you sure you didn't delete "0_TFP_Harmony" from the base game files? 
+Typically here:  C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods 
+If you did accidentally delete that file, run a File Integrity check from Steam.
+
+4. You are using the most up-to-date version of Wabbajack right?
+If not, update Wabbajack, by downloading the latest version.
+https://www.wabbajack.org/ 
+
+6. Have you reset your Wabbajack in a while?  If not, you should do the following:
+Close out of Wabbajack.
+Press WindowsKey+R, to bring up the Run prompt box.  Type (or copy+paste) the following:%localappdata%
+Hit enter.
+You will now be in a Windows Explorer Folder directory named "C:\Users\YOURUSERNAME\AppData\Local", delete the "Wabbajack" folder in that Local folder.
+Now open the Wabbajack Application, Settings gear wheel, log into NexusMods from Wabbajack.  
+
+7. Are you logged into NexusMods from Wabbajack?
+![image](https://github.com/user-attachments/assets/baea7e05-d215-459f-b9c3-fbfe936a31dc)
+
+
+
+
+### FNS would like to thank the following people for this modlist:
+1. JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7D2D compatible with Wabbajack.  MVP!
+2. EzioTheDeadPoet from the Wabbajack GitHub page for your support.
+3. All of the Mod Authors for making these great mods.  
+4. Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
+5. StallionsDen for allowing me to include the CompoPack.
 
 
