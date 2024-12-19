@@ -205,4 +205,5 @@ Sometimes Wabbajack, gets _Wabbajacked_.  No?  I'll see myself out.
 4. Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
 5. StallionsDen for allowing me to include the CompoPack.
 
+![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
 
