@@ -22,7 +22,7 @@ Thou shalt read the directions and troubleshooting sections prior to asking for 
 
 ## Assumptions 
 
-A. You have already installed 7D2D, using the latest *stable* version.  Currently, this is: v1.2b27
+A. You have already installed 7D2D, using the latest *stable* version.  Currently, this is: **1.2b27**
 
 B. EAC has been disabled from the Game Launcher.
 
@@ -39,7 +39,9 @@ G. If you edited or added ANYTHING to the main game folder directory, you will p
 ... examples of you molesting base game files include: adding a ReShade, SkipNews Mod, Skip TFP Loading Screen Mod, adding additional folders, making changes to vanilla folders/files, etc.  
 
 H. Best Practice for all PC Gaming, and especially Modding:
+
 **In Windows, you should avoid storing mods on your system drive (usually labeled as "C:"),**
+
 particularly in locations like the "Program Files" folder, 
 as this can cause potential issues with game updates, compatibility problems, 
 and might even lead to your mods being accidentally deleted during system maintenance or updates. 
@@ -49,18 +51,23 @@ Program Files folder: This directory is designed for system files and applicatio
 Windows directory: Similarly, the core Windows directory should not be used for storing mods.
 Temporary folders: Avoid storing mods in temporary folders as they may be deleted automatically by the system.
 
-Where to store Mods, Modding Applications, folder paths, and folders instead:
+**Where to store Mods, Modding Applications, folder paths, and folders instead:**
 
 My Documents folder.
+
 or
-Dedicated drive:
+
+**Dedicated drive:**
 If you have a separate hard drive, consider storing your mods on that drive to maximize space and avoid potential conflicts with your system files.
 If you have a spare drive (like a D Drive), store Mod Applications, file paths, and folders there!!!  This is best practice!  
+
+![image](https://github.com/user-attachments/assets/87030c6e-60de-4921-9cd0-5cca3f885389)
+
 
 ### Step 0: You must have a Nexus Mods account.
 
 Either Free or Premium will work.  
-If you have a free account, prepare to do _a lot_ of clicking.  
+If you have a Free account, prepare to do _a lot_ of clicking.  
 Premium accounts will click once to download all of the Nexus mods, and at a higher speed.  
 
 You can register here:
@@ -121,7 +128,7 @@ When Wabbajack has finished the download, unzipping, and installation of the Mod
 
 Do _not_ rearrange the Priority (Load Order) unless you know what you are doing.  
 I hand-tailored the priority (Load Order) to avoid mod conflicts.  
-If you mess that up, I cannot fix it for you.
+If you mess that up, I cannot/will-not fix it for you, and you will need to uninstall/reinstall the ModList.  
 
 _The following screenshots in this section were uploaded from Revision version 56.0 of this Overhaul ModPack._  
 
@@ -139,29 +146,38 @@ What I mean is: Try playing the list _as is_ before monkeying around with Mods.
 
 ![image](https://github.com/user-attachments/assets/857bd756-de35-420b-92b9-c8ec248b4cfd)
 
-Optional QoL Mods are to be enabled/disabled as you so choose for your personal preference, but again, it's best practice to start a new game anytime you alter mods.  
+Optional Quality of Life (QoL) Mods are to be enabled/disabled as you so choose for your personal preference.  But again, it's best practice to start a new game anytime you alter mods.  
+
+![image](https://github.com/user-attachments/assets/8e5a4b37-03e1-4b5b-bad6-d702667f1d44)
 
 It's unwise to disable/enable mods midgame unless you know what you are doing as it could corrupt your save.  
 
 ### Step 7.  Launch the game from MO2.  
 
-Play the game.
+To play the modlist of this game, you hit the "Run" (Play) button from inside the MO2 application.  
 
 ### Step 8.  Random World Generation (RWG) 
-
-Create a new world with advanced generation.  I recommend 8-10k sized maps to see all of the Community made POIs.  
-Random World Generation (RWG) will take much longer than vanilla.  2-60 minutes depending on hardware and map size.
-
-"Why is it so long?!" Becaue of the mods, like the CompoPack.  
-There are a lot changes to RWG to increase city size, more POIs, less wasted space between POIs (compared to empty maps like Navezgane).
-
-Do not make maps larger than 10k if you are using potato grade hardware.  
-It could crash in RWG, or worse, mid-game.  Know your limitations, or upgrade your potato, don't blame me!  
 
 You might need to delete worlds to make room for new ones:
 C:\Users\UserName\AppData\Roaming\7DaysToDie\GeneratedWorlds
 
+Once inside of the Game, at the start up screen, you will want to create a new game.
+When you go to create a new game, create a new map!  
+Create a new world with advanced generation.  I recommend 8-10k sized maps to see all of the Community made POIs.  
+Random World Generation (RWG) will take much longer than vanilla.  2-60 minutes depending on hardware and map size.  
+NASA boys in 2-3 minutes, potato-bros in 10-40 minutes.  
+
+"Why does it take so long to RWG in this list compared to Vanilla?!" 
+Becaue several of the Framework mods make significant changes to RWG.  
+... increase city size, more POIs, less wasted space between POIs (compared to empty maps like Navezgane), etc.
+
+Do not make maps larger than 10k if you are using potato-grade hardware.  
+It could crash in RWG, or worse, mid-game.  
+Know your limitations, or upgrade your potato, don't blame me because you haven't upgraded your hardware in 12 years!  
+
+
 ### Troubleshooting
+
 1. Are you sure you are on the correct game version?  Currently this is 7D2D game version: **1.2b27**
 ![image](https://github.com/user-attachments/assets/7b908b39-5b5a-4012-bc6a-9b638bebd593)
 
@@ -174,28 +190,32 @@ It CANNOT be set to ask if you want to turn it off at each launch, it must be di
 
 3. Are you sure you didn't delete "0_TFP_Harmony" from the base game files?
 
-![image](https://github.com/user-attachments/assets/e86cbc48-27e8-4302-a38c-8fd607dbd0e0)
-
 Typically here:  C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods 
 If you did accidentally delete that file, run a File Integrity check from Steam.
 
-5. You are using the most up-to-date version of Wabbajack right?
+![image](https://github.com/user-attachments/assets/e86cbc48-27e8-4302-a38c-8fd607dbd0e0)
+
+4. You are using the most up-to-date version of Wabbajack right?
 If not, update Wabbajack, by downloading the latest version.
 https://www.wabbajack.org/ 
 
-6. Have you reset your Wabbajack files in a while?  If not, you should do the following:
+5. Have you reset your Wabbajack files in a while?
+If not, you should do the following:
 Close out of Wabbajack.
-Press WindowsKey+R, to bring up the Run prompt box.  Type (or copy+paste) the following:%localappdata%
+Press WindowsKey+R, to bring up the Run prompt box.
+Type (or copy+paste) the following:%localappdata%
 Hit enter.
-You will now be in a Windows Explorer Folder directory named "C:\Users\YOURUSERNAME\AppData\Local", delete the "Wabbajack" folder in that Local folder.
+You will now be in a Windows Explorer Folder directory named "C:\Users\YOURUSERNAME\AppData\**Local**", delete the "_**Wabbajack**_" folder in that **Local** folder.
 Now open the Wabbajack Application, Settings gear wheel, log into NexusMods from Wabbajack.
 
 Sometimes Wabbajack, gets _Wabbajacked_.  No?  I'll see myself out.
 
-8. Are you logged into NexusMods from Wabbajack?
+6. Are you logged into NexusMods from Wabbajack?
 ![image](https://github.com/user-attachments/assets/baea7e05-d215-459f-b9c3-fbfe936a31dc)
 
+7. When in doubt, **Nuke it from orbit**.  Perform a full unistall and reinstall of the base game, Wabbajack, and the MO2 ModList from Wabbajack.  
 
+![image](https://github.com/user-attachments/assets/fef51abe-817e-4a3a-a722-62b9539e7f9e)
 
 
 ### FNS would like to thank the following people for this modlist:
