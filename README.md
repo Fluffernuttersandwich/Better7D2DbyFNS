@@ -10,15 +10,24 @@ This list is friendly to a more casual play style for people who want a relaxed 
 If you are a hardcore gamer, this pack is not for you.
 
 ## Description
+
 Most of the mods in this collection are Quality of Life (QoL) improvements to give the players a nice Vanilla+ experience without any game breaking balance issues you see in some other mod lists.  
-This Collection is not about overhauling anything, nor adding too many new features.  
+
+This Collection is not about overhauling major systems, nor adding too many new features.  
+
 This list is all about improving dozens of small details that as a whole make for a better overall experience of the original game.  
+
 Unlike other overhaul mod packs, you are not learning a new game. 
-Balance is subjective.  Some people think this Collection makes the game too easy.  If you feel that way, disable the mods you don't like, and/or play with harder difficulty settings.
+
+Balance is subjective.  
+Some people think this Collection makes the game too easy.  
+If you feel that way, disable the mods you don't like, and/or play with harder difficulty settings.  
+
+If you are seeking a more challenging brand new Overhaul experience, I'd recommend Darkness Falls, or Rebirth. 
 
 # Installation Directions
 
-Thou shalt read the directions and troubleshooting sections prior to asking for technical assistance.  
+**Thou shalt read the directions and troubleshooting sections prior to asking for technical assistance.**  
 
 ## Assumptions 
 
@@ -135,7 +144,7 @@ If you mess that up, I cannot/will-not fix it for you, and you will need to unin
 
 _The following screenshots in this section were uploaded from Revision version 56.0 of this Overhaul ModPack._  
 
-Do not disable **Framework/Requirement Mods** (unless you are an advanced modder and you know what you are doing).
+## Do not disable **Framework/Requirement Mods** (unless you are an advanced modder and you know what you are doing).
 ![image](https://github.com/user-attachments/assets/07fed2a2-1379-4cc7-8c13-f06d4c307889)
 
 **Prefabs and POIs.**  
@@ -143,45 +152,55 @@ If you want to add_and_enable, or disable any prefab/POIs, do it here _prior to 
 **DO NOT DISABLE PREFABS/POIs MID-SAVE!**
 ![image](https://github.com/user-attachments/assets/12161046-e02b-49f2-9b8f-a5141c956e07)
 
-Standard Mods are what I (FNS) imagined as integral to this modpack.  Most of the mods can be disabled here, but you should start a new game if you do so.
+##Standard Mods are what I (FNS) imagined as integral to this modpack.  
+Most of the mods can be disabled here, but you should start a new game if you do so.
 We have a saying in my house when children are skiddish to trying new foods: "Trust the Chef!".  
 What I mean is: Try playing the list _as is_ before monkeying around with Mods.  
 
 ![image](https://github.com/user-attachments/assets/857bd756-de35-420b-92b9-c8ec248b4cfd)
 
-Optional Quality of Life (QoL) Mods are to be enabled/disabled as you so choose for your personal preference.  But again, it's best practice to start a new game anytime you alter mods.  
+## Optional Quality of Life (QoL) Mods are to be enabled/disabled as you so choose for your personal preference.  But again, it's best practice to start a new game anytime you alter mods.  
 
 ![image](https://github.com/user-attachments/assets/8e5a4b37-03e1-4b5b-bad6-d702667f1d44)
 
 It's unwise to disable/enable mods midgame unless you know what you are doing as it could corrupt your save.  
 
-I also left a sperator/section for you to add your own mods.  I populated it with "Less Annoying Slower Vultures" (disabled) just as a reference.  
+## I also left a sperator/section for you to add your own mods.  
+I populated it with "Less Annoying Slower Vultures" (disabled) just as a reference.  
 ![image](https://github.com/user-attachments/assets/be21bd28-f205-4aed-86c0-47625c72cf46)
 
-Optional Overpowered Mods are to be enabled/disabled as you so choose for your personal preference.  But again, it's best practice to start a new game anytime you alter mods. 
+Here are some off-site (not included in the list) mods that are compatible with this ModList if you want to add them to your own game:
 
-The deselected mods in this screenshot are the ones I play as disabled for my own playthroughs.  
+https://7daystodiemods.com/tuk-throw-stuff-mod/
+
+https://7daystodiemods.com/double-g-zombies/
+
+https://7daystodiemods.com/non-script-radios-video-games/
+
+https://7daystodiemods.com/trader-quest-preview/
+
+You can download these mods, drag the zip folders into the Downloads folder within the MO2 folder for this ModList.  
+Then drag them from there into MO2, in the Yellow "Where you may choose to add compatible Mods..." section in the MO2 ModList.  
+If Mods are double-nested, you will need to fix that yourself.  
+Depending on the mods, you might need to place them somewhere else in Priority (Load Order).  
+
+## Optional Overpowered Mods are to be enabled/disabled as you so choose for your personal preference.  But again, it's best practice to start a new game anytime you alter mods. 
+
+The deselected mods in this screenshot are the ones I disable for my own playthroughs.  
 None of the "OP" mods listed here are aggregiously OP, except for "Legend Perks".  
 That one is Game-Breakingly OP because it grants you two perks at every level on top of giving you more perks to choose from!
 
 ![image](https://github.com/user-attachments/assets/92de5741-a517-44d0-9ba3-cf13bbd55760)
 
-Finally, there is a small handfull of Requirement Mods that must load last.  
+## Finally, there is a small handfull of Requirement Mods that must load last.  
 Do not add mods after these, or you will probably break these mods.  
 If you want to play without the mods from this section, you MUST start a new game save!
 
-Here are some off-site (not included in the list) mods that are compatible with this ModList if you want to add them to your own game:
-https://7daystodiemods.com/tuk-throw-stuff-mod/
-https://7daystodiemods.com/double-g-zombies/
-https://7daystodiemods.com/non-script-radios-video-games/
-https://7daystodiemods.com/trader-quest-preview/
-You can download these mods, drag them into the Downloads folder within your MO2 folder for this ModList.  
-Then drag them from there into MO2, in the Yellow "Where you may choose to add compatible Mods..." section in the MO2 ModList.  
-If Mods are double-nested, you will need to fix that yourself.  
-
 ### Step 7.  Launch the game from MO2.  
 
-To play the modlist of this game, you hit the "Run" (Play) button from inside the MO2 application.  
+To play the modlist of this game, you hit the "Run" (Play) button from inside the MO2 application. 
+
+**Do not mess with MO2, or the MO2 files for this ModPack while the game is running!!!**
 
 ### Step 8.  Random World Generation (RWG) 
 
@@ -212,7 +231,7 @@ Play with Loot Abundance set to 75% or lower.  There is more than enough loot fr
 ![image](https://github.com/user-attachments/assets/a541ac67-95b3-4d67-a6a2-9e92d7b260d5)
 
 
-### Troubleshooting
+# Troubleshooting
 
 1. Are you sure you are on the correct game version?  Currently this is 7D2D game version: **1.2b27**
 ![image](https://github.com/user-attachments/assets/7b908b39-5b5a-4012-bc6a-9b638bebd593)
@@ -242,28 +261,105 @@ Press WindowsKey+R, to bring up the Run prompt box.
 Type (or copy+paste) the following:%localappdata%
 Hit enter.
 You will now be in a Windows Explorer Folder directory named "C:\Users\YOURUSERNAME\AppData\**Local**", delete the "_**Wabbajack**_" folder in that **Local** folder.
-Now open the Wabbajack Application, Settings gear wheel, log into NexusMods from Wabbajack.
+Now open the Wabbajack Application, Settings gear wheel, log into NexusMods from Wabbajack. 
 
 Sometimes Wabbajack, gets _Wabbajacked_.  No?  I'll see myself out.
 
 6. Are you logged into NexusMods from Wabbajack?
 ![image](https://github.com/user-attachments/assets/baea7e05-d215-459f-b9c3-fbfe936a31dc)
 
-7. When in doubt, **Nuke it from orbit**.  Perform a full unistall and reinstall of the base game, Wabbajack, and the MO2 ModList from Wabbajack.  
+7. When in doubt, **Nuke it from orbit**.  Perform a full uninstall and reinstall of the base game, Wabbajack, and the MO2 ModList from Wabbajack.  
 
 ![image](https://github.com/user-attachments/assets/fef51abe-817e-4a3a-a722-62b9539e7f9e)
 
+If you have read through everything here carefully, tried it all, and still cannot get it to work, please hit me up on **Guppy's 7D2D Modding Discord:  https://discord.gg/fxkW8QvR**  
 
+## FAQs
 
+**1. Why did you leave the Vortex Collection Nexus Mods Manager system?**
+   
+After a recent Vortex update, it broke the stability of Load Orders.
+If you're new to modding, Load Orders (mod priority) are sacred.
+You can't use an application that regularly messes up established Load Order, because it cause mod conflicts, errors, and crashes.
+I care about game stability first, and foremost.  
+Users kept complaining that the Load Order would randomly wander between playing the Vortex Collection.
+It became too time consuming to help users troubleshoot.
+So, it was get the ModList to work in MO2/Wabbajack, or quit providing the list for users entirely.
+Thankfully, the Wabbajack community was extremely helpful in getting 7D2D to work in their ecosystem.  
 
-### FNS would like to thank the following people for this modlist:
+2. "Why didn't you include _fill-in-the-blank-popular-mod_?"
+It's my list, I added what I like, feel free to add more, but do so with care so as not to break the ModList.
+If you have a good mod suggestion, hit me up on the Guppy's Discord #fns channel.
+
+3. Is this for just single player, or could it be multiplayer, or on a dedicated server?
+ 
+This list is designed for single player and small groups.
+There are several users playing multiplayer with friends and family using this ModList.
+I regularly host multiplayer games with my sons, brother, and friends using this ModList.  
+This list is not ideal for a dedicated server, but you could cannibalize the mod list for ideas.
+Heck, maybe this list will inspire others to use MO2/Wabbajack to create Dedicated Server lists.  
+_Caution: Some mods like IDC's Nomad do not work in multiplayer!_
+
+4. Do both server and all clients need to download this entire Collection for it to work on multiplayer?
+
+Yes!  The community-made POIs need to exist on both server and all clients.  Additionally, some of the mods likely also require installation on both client and server.  I don't keep track of which mods are server side or client side, so don't ask me.  I don't have experience with dedicated servers, so I am the wrong person to ask you to troubleshoot that area.  A general rule of thumb I learned is this; simple xml mods are server side. Anything that adds something beyond a Config folder, like textures, icons, new items, UI Atlas changes, dll, meshes, localizations, animations, new sprites, POI, etc., will need to be on both server and client.  EAC can stay on for pretty much anything other than when mods start adding in dll files. Then EAC has to be off.  YES, I AM AWARE THERE ARE EXCEPTIONS TO THESE RULES.
+
+5. No, you should not add this ModList to an existing save/world!  Start a new save/world!
+   
+6. No, this ModList is not compatible with other Overhaul ModPacks.
+No, I will not make you a version compatible with Darkness Falls, nor Rebirth, nor any other Overhaul Pack.
+
+7. Why don't you use ModLauncher, or bundle your own Overhaul Mod like Darkness Falls and Rebirth.
+
+Khaine and FuriousRamsay have more time and talent to dedicate to their own Overhaul Mods than I do.  
+They make almost everything themselves in-house for their Overhaul ModPacks, or only use a handful of community-made framework mods.
+I don't have their time, nor talent to do a "real" Overhaul ModPack.  
+
+This list uses mods from 90+ different Mod Authors.  
+I cannot bundle their works into one zip file without each and every mod authors permission.
+People who bundle other authors mods without permission/credit are seen as scum, and generally get banned from nicer modding communities.  
+
+## Mod Notes
+
+**CAT UI and Health Bars**: CAT UI is the standard for this Collection and comes with Health Bars turned on.  
+There is no way to cut the Health Bars out without causing the whole CAT UI to error.  
+So, if you don't like seeing Health Bars, and/or don't like the CAT UI mod, disable/remove the CAT UI Mod and use the AGF HUD instead.  
+I have confirmed the AGF HUD is compatible with this Collection.  Additionally, the AGF HUD has an add-on for health bars if you like theirs.   
+
+**"Tool Time"** mod: DO NOT ENABLE/DISABLE THIS MOD TO AN EXISTING SAVE OR IT WILL BREAK YOUR GAME!!!  
+This mod makes tools viable weapons... Ever wished axes and tool-hammers actually did real damage?  Well, here you go.    
+
+IDC's Nomad: This is a mobile RV base with crafting workstations.  
+This mod requires IDC Core and Quartz.  
+It is not for multiplayer.  
+It does not currently work for 1.2b27.
+
+## Mods to consider avoiding while using this ModList:
+
+A. **Firearms Expansion 5 (FE5)**
+
+FE5 has a conflict with LittleRedSonja's ammo recycling mods.  
+FE5 also has conflicts with Izy's AIO Gun Pack mod, causing problems with 5.56 ammo.  
+
+B. **NPC Mods** can be buggy in this ModList, which is why I don't include them.  
+
+I'll wait for TFP to provide their Bandit update next year before I try messing with it again.
+
+# FNS would like to thank the following people for this modlist:
+
 1. JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7D2D compatible with Wabbajack.  MVP!
+
 2. EzioTheDeadPoet from the Wabbajack GitHub page for your support.
+
 3. All of the Mod Authors for making these great mods.  
+
 4. Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
-5. StallionsDen for allowing me to include the CompoPack.
+
+5. StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
+
 6. The good folks at Guppy's 7D2D Modding Discord Server.
-7. Special thanks to LittleRedSonja for Mod Collab Projects.  
+   
+7. Special thanks to LittleRedSonja for Mod Collaboration Projects, like with the bat and rifle for the Winchester Pub POI.    
 
 
 
