@@ -46,11 +46,12 @@ ________________________________________________________________________________
 
 # Contents
 
-[Title](#better-7d2d-by-fns)
+[Title](#better-7d2d-by-fns).
      
-     [Description](##description)
+[Description](##description).
 
-          [Requirements and Recommended Hardware Specs](##Requirements-and-Recommended-Hardware-Specs)
+[Requirements and Recommended Hardware Specs](##Requirements-and-Recommended-Hardware-Specs).
+
 
           
 
