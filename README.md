@@ -205,14 +205,14 @@ _The following screenshots in this section were uploaded from Revision version 5
 ![image](https://github.com/user-attachments/assets/07fed2a2-1379-4cc7-8c13-f06d4c307889)
 
 **Prefabs and POIs.**  
-If you want to add_and_enable, or disable any prefab/POIs, do it here _prior to making a new world_.  
+If you want to add _and_ enable, or disable any prefab/POIs, do it here _prior to making a new world_.  
 **DO NOT DISABLE PREFABS/POIs MID-SAVE!**
 ![image](https://github.com/user-attachments/assets/12161046-e02b-49f2-9b8f-a5141c956e07)
 
-##Standard Mods are what I (FNS) imagined as integral to this modpack.  
+## Standard Mods are what I (FNS) imagined as integral to this modpack.  
 _Most_ of the mods can be disabled here, but you should start a new game if you do so.
 We have a saying in my house when children are skiddish to trying new foods: "Trust the Chef!".  
-What I mean is: Try playing the list _as is_ before monkeying around with Mods.  
+What I mean is: Try playing the list _as is_ before monkeying around with the Standard Mods.  
 
 ![image](https://github.com/user-attachments/assets/857bd756-de35-420b-92b9-c8ec248b4cfd)
 
@@ -229,7 +229,7 @@ _It's unwise to disable/enable mods midgame unless you know what you are doing a
 I populated it with "Less Annoying Slower Vultures" (disabled) just as a reference.  
 ![image](https://github.com/user-attachments/assets/be21bd28-f205-4aed-86c0-47625c72cf46)
 
-Here are some off-site (not included in the list) mods that are compatible with this ModList if you want to add them to your own game:
+Here are some popular off-site (not included in the list) mods that are compatible with this ModList if you want to add them to your own game:
 
 https://7daystodiemods.com/tuk-throw-stuff-mod/
 
@@ -244,7 +244,7 @@ Then drag them from there into MO2, in the Yellow "Where you may choose to add c
 If Mods are double-nested, you will need to fix that yourself.  
 Depending on the mods, you might need to place them somewhere else in Priority (Load Order).  
 
-## Optional Overpowered Mods are to be enabled/disabled as you so choose for your personal preference.  
+## Optional Overpowered Mods are to be enabled/disabled at a players discretion.  
 But again, it's best practice to start a new game anytime you alter mods. 
 
 The deselected mods in this screenshot are the ones I disable for my own playthroughs. 
@@ -255,8 +255,8 @@ That one is Game-Breakingly OP because it grants you two perks at every level on
 ![image](https://github.com/user-attachments/assets/92de5741-a517-44d0-9ba3-cf13bbd55760)
 
 ## Finally, there is a small handfull of Requirement Mods that must load last.  
-Do not add mods after these, or you will probably break these mods.  
-If you want to play without the mods from this section, you MUST start a new game save!
+Do not move these mods, nor add mods after these, or you will probably break these mods and possibly your save.  
+If you want to play without the mods from this section, you MUST start a new game save with these mods disabled!
 
 
 ### Step 6.  Launch the game from MO2.  
@@ -345,9 +345,11 @@ Sometimes Wabbajack, gets _Wabbajacked_.  No?  I'll see myself out.
 
 ![image](https://github.com/user-attachments/assets/baea7e05-d215-459f-b9c3-fbfe936a31dc)
 
+
 7. When in doubt, **Nuke it from orbit**.  Perform a full uninstall and reinstall of the base game, Wabbajack, and the MO2 ModList from Wabbajack.  
 
 ![image](https://github.com/user-attachments/assets/fef51abe-817e-4a3a-a722-62b9539e7f9e)
+
 
 8. **Graphic Errors and Unexplainable game freezes:**
    
@@ -364,7 +366,7 @@ A. Update your GPU Drivers.
 
 B. Consider changing your Video Setting Graphics to a lower grade like "High" or lower. 
 
-B. Also, don't go monkeying around with graphic settings if you don't know what you're doing, or you will create errors.  
+C. Also, don't go monkeying around with graphic settings if you don't know what you're doing, or you will create errors.  
 
 For most players, turn off Dynamic Mesh, play on "High", and leave the rest alone!  
 
@@ -372,7 +374,7 @@ Just because one set of settings works for your friends hardware, doesn't mean t
 
 No guarantee that game/world save can still be played in, you might need to start a new game/world.  
 
-C. For Super Ultrawide monitor users: 
+D. A note for Super Ultrawide monitor users: 
 
 I'm sorry, you won't want to hear this, I know you want to make full use of your beefy rig and awesome monitor, but this game hates playing even at "High" with 5120x1440 resolution.  
 
@@ -388,8 +390,12 @@ Nothing will fix it!  This game with that monitor is cursed!
 
 "I'm not trying to rob you, I'm trying to help you!" - Gandalf
 
-9. **Stuck on the in-game loading screen where it says "Building environment..."**
+9. Two common problems, same troubleshooting steps.
    
+**Stuck on the in-game world loading screen where it says "Building environment..."**
+
+**Crafting bug:  "My crafting queue won't complete?!"**
+
 Press F1, you probably have an endless wall of Red Error text dropping down like a waterfall.  
 
 This is preventing the game from loading/working.  Ctrl+Alt+Del, Task Manager, end the 7D2D game task. 
@@ -421,9 +427,9 @@ ________________________________________________________________________________
 
 # On getting assistance from FNS:
 
-No Logs = No Assistance!
+## No Logs = No Assistance!
 
-You must send me your logs if you expect help.  
+### You must send me your logs if you expect help.  
 
 I am currently unable to troubleshoot via telepathy, so you must send logs!  
 
@@ -589,6 +595,11 @@ Now double-click Trader Rekt if that's what you want to do.
 
 To remove the Debug and Creative Menus, simply go back into the (F1) console and type those two commands again to disable them.
 
+11. Interesting information about MO2 for 7D2D:  **It's a self-contained ModList!**
+
+This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, and Vanilla.  
+
+I would not use Vortex, or run Mods out of other not-self-contained packs because they will mess with other games.    
 
 ______________________________________________________________________________________________________________________
 
@@ -621,7 +632,7 @@ This mod requires IDC Core and Quartz.
 
 It is not for multiplayer.  
 
-It does not currently work for 1.2b27, so not currently part of this ModList.
+It does not currently work for 1.2b27, so not currently part of this ModList.  I'll bring it back into the ModList once IDC updates it.
 
 **Vehicle Cruise Control**: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
 
@@ -650,9 +661,9 @@ ________________________________________________________________________________
 
 1. JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7D2D compatible with Wabbajack.  MVP!
 
-2. EzioTheDeadPoet from the Wabbajack GitHub page for your support.
+2. EzioTheDeadPoet, and Dace from the Wabbajack GitHub/Discord for your support.
 
-3. All of the Mod Authors for making these great mods.  
+3. All of the Mod Authors for making these great mods included.  
 
 4. Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
 
