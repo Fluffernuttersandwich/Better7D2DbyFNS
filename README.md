@@ -572,7 +572,7 @@ So, it was get the ModList to work in MO2/Wabbajack, or quit providing the list 
 
 Thankfully, the Wabbajack community was extremely helpful in getting 7D2D to work in their ecosystem.  
 
-
+---
 
 **2. "Why didn't you include _fill-in-the-blank-popular-mod_?" and "Why only include mods from Nexus?"**
 
@@ -582,6 +582,7 @@ If you have a good mod suggestion, hit me up on the Guppy's Discord #fns channel
 
 B. Mods from NexusMods are automatically whitelisted for support with Wabbajack/MO2.  It makes for less work, and less hassle for me as a ModList curator. 
 
+---
 
 **3. Is this for just single player, or could it be multiplayer, or on a dedicated server?**
  
@@ -595,6 +596,7 @@ Heck, maybe this list will inspire others to use MO2/Wabbajack to create Dedicat
 
 _Caution: Some mods like IDC's Nomad do not work in multiplayer!_
 
+---
 
 **4. Do both server and all clients need to download this entire Collection for it to work on multiplayer?**
 
@@ -614,9 +616,11 @@ EAC can stay on for pretty much anything other than when mods start adding in dl
 
 YES, I AM AWARE THERE ARE EXCEPTIONS TO THESE RULES.
 
+---
 
 **5. No, you should not add this ModList to an existing save/world!  Start a new save/world!**
 
+---
    
 **6. No, this ModList is not compatible with other Overhaul ModPacks.**
 
@@ -624,6 +628,7 @@ No, I will not make you a version compatible with Darkness Falls, nor Rebirth, n
 
 Not my circus, not my monkies.  
 
+---
 
 **7. Why don't you use ModLauncher, bundle everything under one zip-file, or make a "real" Overhaul Mod like Darkness Falls and Rebirth?**
 
@@ -639,6 +644,7 @@ I cannot bundle their works into one zip file without each and every mod authors
 People who bundle other authors mods without permission/credit are seen as scum, and generally get banned from nicer modding communities.
 I don't want to piss off my fellow mod authors, they're good people!  
 
+---
 
 8. **"I don't like the ____ Mod!"**
 
@@ -650,6 +656,7 @@ Caution: If you remove a "big" mod mid-game, you might have to start a new game 
 
 Example: Don't install/remove FNS LAtT nor FNS Self-Planting Trees in the middle of a save.
 
+---
 
 9. **This is not a "lightweight" mod list!**  
 
@@ -657,6 +664,7 @@ If you delete this whole ModList, or disable it in parts, you will need to start
 
 Trying to play a heavily modded save/world, after removing big mods will cause you errors... just start a new world/save! 
 
+---
 
 10. **What about normal Trader Progression for RWG?**
     
@@ -700,6 +708,7 @@ Now double-click Trader Rekt if that's what you want to do.
 
 To remove the Debug and Creative Menus, simply go back into the (F1) console and type those two commands again to disable them.
 
+---
 
 11. Interesting information about MO2 for 7D2D:  **It's a self-contained ModList!**
 
@@ -709,6 +718,7 @@ I would not use Vortex, or run Mods out of other not-self-contained packs becaus
 
 ModLauncher can also be self-contained so long as you set it up correctly.  
 
+---
 
 12. "Hey, does this Wabbajack MO2 thing bundle other people's mods without giving them the credit and Donation Points?"
 
@@ -724,15 +734,19 @@ Wabbajack and MO2 work in harmony to provide curators like me (FNS) the ability 
 
 That's it.
 
+---
+
 13. "Does a Wabbajack/MO2 ModList require permission from the others mod authors?"
 
 No, because again, as far as NexusMods sees it, it's no different than a user going and downloading each of the mods from the ModList independantly and stringing them together exactly as I did.  
 
+---
 
-14. Is Wabbajack/MO2 complicated to use... do I have to use that command-line thing?"
+14. "Is Wabbajack/MO2 complicated to use... do I have to use that command-line thing?"
 
 Nope, it's the easiest method to enjoy other people's ModLists.
 
+---
 
 15. Is it difficult to make your own ModList for 7D2D?
 
@@ -744,6 +758,7 @@ Additionally, the Wabbajack Discord group is extrememly helpful in making ModLis
 
 If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki.  
 
+---
 
 16. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing **_War and Peace_**."
 
@@ -766,6 +781,7 @@ I will work with the author to obtain a fix, or find a different similar mod.
 
 The author JNS is usally really good about providing updates/solutions for this stuff. 
 
+---
 
 2. CAT UI additional toolbelt slots UI issue.
 
@@ -780,6 +796,7 @@ Or to something higher but under 24 if you want to use the additonal hotbar slot
 
 Or you could live it, or you could just disable the mod, your call.
 
+---
 
 3. These are some Warnings and Errors you will see when you load into the world.  
 
@@ -835,6 +852,8 @@ A. **Firearms Expansion 5 (FE5)**
 FE5 has a conflict with LittleRedSonja's ammo recycling mods.  
 
 FE5 also has conflicts with Izy's AIO Gun Pack mod, causing problems with 5.56 ammo.  
+
+---
 
 B. **NPC Mods** can be buggy in this ModList, which is why I don't include them.  
 
