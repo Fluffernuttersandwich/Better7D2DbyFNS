@@ -140,7 +140,11 @@ Create your own Modding folder on the OS Drive like this example:
 
 
 
+I. **Do not install/use your own MO2!**
 
+This ModList uses it's own modified instance of MO2, and it is part of the download of this Wabbajack list.  
+
+Do not use a standard MO2 install, it will not work!
 
 
 
@@ -659,12 +663,87 @@ To remove the Debug and Creative Menus, simply go back into the (F1) console and
 
 11. Interesting information about MO2 for 7D2D:  **It's a self-contained ModList!**
 
-This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, and Vanilla.  
+This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, Vanilla, and Better 7D2D by FNS.  
 
-I would not use Vortex, or run Mods out of other not-self-contained packs because they will mess with other games.    
+I would not use Vortex, or run Mods out of other not-self-contained packs because they will mess with other ModPacks.      
+
+ModLauncher can also be self-contained so long as you set it up correctly.  
+
+
+12. "Hey, does this Wabbajack MO2 thing bundle other people's mods without giving them the credit and Donation Points?"
+
+No, that would be unethical.  This system does _not_ bundle their work in a zip and pass it off as mine.  
+
+From a credit and Donation Point aspect, it's no different than a user going and manually downloading each of these mods one-at-a-time on NexusMods.
+
+The Wabbajack and MO2 applications connect the API to NexusMods, so it downloads each mod individually.
+
+Mod Authors still get credit and Donations Points every time a player installs the mods from this ModList.
+
+Wabbajack and MO2 work in harmony to provide curators like me (FNS) the ability to create ModLists for users to efficiently download and run with.
+
+That's it.
+
+13. "Does a Wabbajack/MO2 ModList require permission from the others mod authors?"
+
+No, because again, as far as NexusMods sees it, it's no different than a user going and downloading each of the mods from the ModList independantly and stringing them together exactly as I did.  
+
+
+14. Is Wabbajack/MO2 complicated to use... do I have to use that command-line thing?"
+
+Nope, it's the easiest method to enjoy other people's ModLists.
+
+
+15. Is it difficult to make your own ModList for 7D2D?
+
+That depends how IT-savvy you are.  
+
+The Wabbajack Wiki on how to Compile your own ModLists is great, but requires you to read and follow directions.
+
+Additionally, the Wabbajack Discord group is extrememly helpful in making ModLists.  
+
+If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki.  
+
 
 
 ______________________________________________________________________________________________________________________
+
+## Known Issues
+
+1. MoreQuests not displaying properly and spilling over the UI box.
+
+I will work with the author to obtain a fix, or find a different similar mod.
+
+The author JNS is usally really good about providing updates/solutions for this stuff. 
+
+
+2. CAT UI additional toolbelt slots UI issue.
+
+There is a workaround for now, but it's manual.
+From NexusMods User: AkosEquilibrior
+Regarding the CATUI_toolbelt_more_slot mod.  
+The additional hotbar comes from CATUI (for 1.1 stable) - ZZZ_CATUI_toolbelt_more_slot
+It bothered me, because the extra hotbar interfered with the crafting interface so i found a solution:
+Open the mod folder there should be a folder "Config" then another "XUi" and in there a "windows.xml". 
+Open this file with a text editior and change the value from 12 to 10. 
+Or to something higher but under 24 if you want to use the additonal hotbar slots.
+
+Or you could live it, or you could just disable the mod, your call.
+
+
+3. These are some Warnings and Errors you will see when you load into the world.  
+
+They can be safely ignored.  
+
+Yes, I am working on fixing them eventually.  
+
+However, I have played this ModList for hundreds of hours with these issues without catastrophic failures.  
+
+![image](https://github.com/user-attachments/assets/a01bea39-653a-4c2d-83cf-144bb9213f6e)
+
+![image](https://github.com/user-attachments/assets/43ce3c23-d97b-4009-9e4b-5dfb211560b3)
+
+![image](https://github.com/user-attachments/assets/607d1919-409b-4942-b65f-5ec78d04c35f)
 
 
 ______________________________________________________________________________________________________________________
