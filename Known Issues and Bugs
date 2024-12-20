@@ -1,0 +1,33 @@
+## Known Issues
+
+1. MoreQuests not displaying properly and spilling over the UI box.
+
+I will work with the author to obtain a fix, or find a different similar mod.
+
+2. CAT UI additional toolbelt slots UI issue.
+
+There is a workaround for now, but it's manual.
+From NexusMods User: AkosEquilibrior
+Regarding the CATUI_toolbelt_more_slot mod.  
+The additional hotbar comes from CATUI (for 1.1 stable) - ZZZ_CATUI_toolbelt_more_slot
+It bothered me, because the extra hotbar interfered with the crafting interface so i found a solution:
+Open the mod folder there should be a folder "Config" then another "XUi" and in there a "windows.xml". 
+Open this file with a text editior and change the value from 12 to 10. 
+Or to something higher but under 24 if you want to use the additonal hotbar slots.
+
+Or you could live it, or you could just disable the mod, your call.
+
+
+3. These are some Warnings and Errors you will see when you load into the world.  
+
+They can be safely ignored.  
+
+Yes, I am working on fixing them eventually.  
+
+However, I have played this ModList for hundreds of hours with these issues without catastrophic failures.  
+
+![image](https://github.com/user-attachments/assets/a01bea39-653a-4c2d-83cf-144bb9213f6e)
+
+![image](https://github.com/user-attachments/assets/43ce3c23-d97b-4009-9e4b-5dfb211560b3)
+
+![image](https://github.com/user-attachments/assets/607d1919-409b-4942-b65f-5ec78d04c35f)
