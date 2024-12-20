@@ -46,10 +46,7 @@ ________________________________________________________________________________
 
 1. Hardware capable of running the base game of 7D2D.
    
-2. Windows 10 1809+ or Windows 11 are now required due to the upgrade to Qt 6 and Python 3.11.
-Microsoft Visual C++ Redistributable 14.40.33810.0 required, install from https://aka.ms/vs/17/release/vc_redist.x64.exe if needed.
-
-3. The latest version of Wabbajack.
+2. The latest version of Wabbajack.
 
 https://www.wabbajack.org/ 
 
