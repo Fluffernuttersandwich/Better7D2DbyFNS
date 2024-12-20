@@ -1,0 +1,33 @@
+# Mod Notes
+
+CAT UI and Health Bars: CAT UI is the standard for this Collection and comes with Health Bars turned on.
+There is no way to cut the Health Bars out without causing the whole CAT UI to error.
+So, if you don't like seeing Health Bars, and/or don't like the CAT UI mod, disable/remove the CAT UI Mod and use the AGF HUD instead.
+I have confirmed the AGF HUD is compatible with this ModList. Additionally, the AGF HUD has an add-on for health bars if you like theirs.
+
+From NexusMods User: AkosEquilibrior
+Regarding the CATUI_toolbelt_more_slot mod.  
+The additional hotbar comes from CATUI (for 1.1 stable) - ZZZ_CATUI_toolbelt_more_slot
+It bothered me, because the extra hotbar interfered with the crafting interface so i found a solution:
+Open the mod folder there should be a folder "Config" then another "XUi" and in there a "windows.xml". 
+Open this file with a text editior and change the value from 12 to 10. 
+Or to something higher but under 24 if you want to use the additonal hotbar slots.
+
+"Tool Time" mod: DO NOT ENABLE/DISABLE THIS MOD IN AN EXISTING SAVE OR IT WILL BREAK YOUR GAME!!!
+This mod makes tools viable weapons... Ever wished axes and tool-hammers actually did real damage? Well, here you go.
+
+IDC's Nomad
+This is a mobile RV base with crafting workstations.
+This mod requires IDC Core and Quartz.
+It is not for multiplayer.
+It does not currently work for 1.2b27, so not currently part of this ModList. I'll bring it back into the ModList once IDC updates it.
+
+Vehicle Cruise Control: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
+
+OCB's Parachute: You need the Parachute item mod installed on your chest armor, and a single use parachute item in your tool belt for it to work.
+When falling from a great height, cycle to the parachute item in the toolbelt, and use it with the item use button. 
+You will have limited control of the parachute, and still might take a minimal amount of falling damage. It's a test mod, not 100% perfect, but it's super fun!
+
+Bicycle Synnergy:
+There are multiple bicycle mods that work in tandem in this ModList to allow you to craft the bicycle earlier from your backpack, and forge components.  
+I also included my e-bicycle battery vehicle mod, that lets you go fast so you get more use out of the bike.  
