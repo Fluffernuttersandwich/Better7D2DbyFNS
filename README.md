@@ -56,7 +56,7 @@ https://www.wabbajack.org/
 ______________________________________________________________________________________________________________________
 
 
-**Commandment Zero: Thou shalt read the directions and troubleshooting sections prior to asking for technical assistance.**  
+# **Commandment Zero: Thou shalt read the directions and troubleshooting sections prior to asking for technical assistance.**  
 
 ## Assumptions 
 
