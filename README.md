@@ -469,15 +469,17 @@ D. This is probably your problem:
 
 Remove all mods from Mods: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
-If you see this:
+If you see this in the (F1) Console:
 
 ![image](https://github.com/user-attachments/assets/00b09726-c6f0-4097-9625-48623b7b831e)
 
 Or this:
 
-![image](https://github.com/user-attachments/assets/a94e45af-4252-4c6b-8fba-f00a8d4b9849)
+![image](https://github.com/user-attachments/assets/3f7a520c-2732-4995-80c2-454ffc0ff5af)
+
 
 You have to remove all mods from: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+
 ______________________________________________________________________________________________________________________
 
 
