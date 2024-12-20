@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Better 7D2D",
+    "description": "This is the premier QoL Overhaul Modpack for 7D2D.  This mod list is exclusively compatible with game version 1.2b27.  Please remember to endorse mods in MO2 for Nexus.",
+    "author": "FNS",
+    "maintainers": [
+      "github/Fluffernuttersandwich"
+    ],
+    "game": "7 Days to Die",
+    "tags": [
+      "QoL",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://private-user-images.githubusercontent.com/106537678/397636260-92b104e5-8d0c-4e5d-986a-90219d0b91fd.jpg",
+      "readme": "https://github.com/Fluffernuttersandwich/Better7D2DbyFNS/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Better%207D2D.wabbajack_7a0360d0-4abd-4706-ae9b-1c5d65179737",
+      "machineURL": "Better 7D2D",
+      "discordURL": "https://discord.gg/fxkW8QvR"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "wtmOMW0XkDk=",
+      "Size": 1667396,
+      "NumberOfArchives": 183,
+      "SizeOfArchives": 5100789172,
+      "NumberOfInstalledFiles": 32811,
+      "SizeOfInstalledFiles": 14549205000
+    },
+    "version": "1.0"
+  }
+]
