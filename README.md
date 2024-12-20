@@ -44,24 +44,22 @@ So check out his reviews if you are interested in learning about some of the bes
 
 ______________________________________________________________________________________________________________________
 
-# Requirements
+## Requirements and Recommended Hardware Specs
+
 
 1. Hardware capable of running the base game of 7D2D.
-   
-2. The latest version of Wabbajack.
-
-https://www.wabbajack.org/ 
-
-______________________________________________________________________________________________________________________
-
-
-## Recommended Hardware Specs
 
 If you can run the base game, you can run this ModList without any issues.
 
 Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
 
 Do not make maps larger than 10k if you are running on potato-grade hardware!  Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
+
+
+2. The latest version of Wabbajack.
+
+https://www.wabbajack.org/ 
+
 
 ______________________________________________________________________________________________________________________
 
@@ -70,16 +68,21 @@ ________________________________________________________________________________
 
 ## Assumptions 
 
+
 A. You have already installed 7D2D, using the latest *stable* version of the game.  Currently, this is: **1.2b27**
 
 _This list is exclusively compatible with this version!_
 
+
 B. EAC has been disabled from the Game Launcher.  Not just temporarily muted for a session, but actually disabled so it will not attempt to launch!
+
 
 C. You did *not* delete the "0_TFP_Harmony" folder in the base game's Mods folder!
 
+
 D. You ran the vanilla game to the main start-up menu once.  *This is so it can build out folder directories.*
 _This is considered best practice/mandatory for modding most games._
+
 
 E. You are not running Mods out of any other folder that could cause a potential Mod Conflict.
 If you have Mods running out of the base game Mods folder, or Vortex Mods folder, remove/disable them!
@@ -93,6 +96,7 @@ C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
 F. You are literate, and have basic computer literacy to figure simple things out for yourself.
 
+
 G. If you edited or added _ANYTHING_ to the main game folder directory, you will _probably_ need to performa a full uninstall and reinstall of the base game.  
 
 "But why?!" you ask?  
@@ -103,6 +107,7 @@ Because Wabbajack will compare the hash files of your base game files to it's va
 ... examples of you molesting base game files include: adding a ReShade, injecting the SkipNews Mod into base files, same for the Skip TFP Loading Screen Mod, adding additional folders, in-file gfx tweaks, making changes to vanilla folders/files, etc.  
 
 **When in doubt, full uninstall/reinstall!**
+
 
 H. Best Practice for all PC Gaming, and especially Modding: Store Mods and Mod Applications in the correct locations!
 
@@ -139,20 +144,21 @@ Create your own Modding folder on the OS Drive like this example:
 ![image](https://github.com/user-attachments/assets/93b78bfe-12f6-4a76-aa55-423fc7ac73ea)
 
 
-
 I. **Do not install/use your own MO2!**
 
 This ModList uses it's own modified instance of MO2, and it is part of the download of this Wabbajack list.  
 
 Do not use a standard MO2 install, it will not work!
 
+Again, this Wabbajack list download process will include it's own modified instance for MO2.
 
 
 ______________________________________________________________________________________________________________________
 
 # Installation Directions
 
-### Step 0: You must have a Nexus Mods account.
+
+## Step 0: You must have a Nexus Mods account.
 
 Either Free or Premium will work.  
 If you have a Free account, prepare to do _a lot_ of clicking.  
@@ -163,7 +169,8 @@ https://users.nexusmods.com/register
 
 Remember these login credentials, as you will need to use them to connect the Wabbajack application to the NexusMods page later.
 
-### Step 1: 
+
+## Step 1: 
 
 To get ModOrganizer2 (MO2) to work, you will need:
 Windows 10 1809+ or Windows 11 are now required due to the upgrade to Qt 6 and Python 3.11.
@@ -172,7 +179,7 @@ Microsoft Visual C++ Redistributable 14.40.33810.0 required, install from https:
 If you are not sure you have it, install it.
 
 
-### Step 2.  Download/update to the latest version of Wabbajack: https://www.wabbajack.org/
+## Step 2.  Download/update to the latest version of Wabbajack: https://www.wabbajack.org/
 
 If you already have Wabbajack installed, you _must_ update it to the most current version.
 
@@ -215,16 +222,14 @@ Here's what it looks like as Wabbajack is downloading and installing the ModList
 
 ![image](https://github.com/user-attachments/assets/99c3626c-8735-4bdc-acd2-b16e11419ee3)
 
-
 ![image](https://github.com/user-attachments/assets/3e459127-0ce9-41d2-b89c-185cc861b846)
-
 
 ![image](https://github.com/user-attachments/assets/8c395d4b-7890-45d2-9828-f18119963a39)
 
 ![image](https://github.com/user-attachments/assets/6797a7ba-23b9-44ed-a8b9-d9eea8d68214)
 
 
-### Step 4. Open MO2 launcher for "Better 7D2D".
+## Step 4. Open MO2 launcher for "Better 7D2D".
 
 When Wabbajack has finished the download, unzipping, and installation of the ModList, Launch the MO2 application ModList for "Better 7D2D".  
 
@@ -237,8 +242,7 @@ When you open up MO2, you might see this pop-up.  Just hit "Yes".
 ![image](https://github.com/user-attachments/assets/65cfab71-5be8-4598-b668-f0da4eb48fb4)
 
 
-
-### Step 5. Customize the ModList in MO2 to suit your personal preferences.  
+## Step 5. Customize the ModList in MO2 to suit your personal preferences.  
 
 Do _not_ rearrange the Priority (Load Order) unless you know what you are doing.  
 
@@ -251,19 +255,22 @@ _The following screenshots in this section were uploaded from Revision version 5
 ## Do not disable **Framework/Requirement Mods** (unless you are an advanced modder and you know what you are doing).
 ![image](https://github.com/user-attachments/assets/07fed2a2-1379-4cc7-8c13-f06d4c307889)
 
-**Prefabs and POIs.**  
+
+### **Prefabs and POIs.**  
 If you want to add _and_ enable, or disable any prefab/POIs, do it here _prior to making a new world_.  
 **DO NOT DISABLE PREFABS/POIs MID-SAVE!**
 ![image](https://github.com/user-attachments/assets/12161046-e02b-49f2-9b8f-a5141c956e07)
 
-## Standard Mods are what I (FNS) imagined as integral to this modpack.  
+
+### Standard Mods are what I (FNS) imagined as integral to this modpack.  
 _Most_ of the mods can be disabled here, but you should start a new game if you do so.
 We have a saying in my house when children are skiddish to trying new foods: "Trust the Chef!".  
 What I mean is: Try playing the list _as is_ before monkeying around with the Standard Mods.  
 
 ![image](https://github.com/user-attachments/assets/857bd756-de35-420b-92b9-c8ec248b4cfd)
 
-## Optional Quality of Life (QoL) Mods are to be enabled/disabled as you so choose for your personal preference.  
+
+### Optional Quality of Life (QoL) Mods are to be enabled/disabled as you so choose for your personal preference.  
 
 But again, it's best practice to start a new game anytime you alter mods.  
 
@@ -271,7 +278,8 @@ But again, it's best practice to start a new game anytime you alter mods.
 
 _It's unwise to disable/enable mods midgame unless you know what you are doing as it could corrupt your save._  
 
-## I also left a sperator/section for you to add your own mods.  
+
+### I also left a separator/section for you to add your own mods.  
 
 I populated it with "Less Annoying Slower Vultures" (disabled) just as a reference.  
 ![image](https://github.com/user-attachments/assets/be21bd28-f205-4aed-86c0-47625c72cf46)
@@ -301,19 +309,20 @@ That one is Game-Breakingly OP because it grants you two perks at every level on
 
 ![image](https://github.com/user-attachments/assets/92de5741-a517-44d0-9ba3-cf13bbd55760)
 
-## Finally, there is a small handfull of Requirement Mods that must load last.  
+
+### Finally, there is a small handfull of Requirement Mods that must load last.  
 Do not move these mods, nor add mods after these, or you will probably break these mods and possibly your save.  
 If you want to play without the mods from this section, you MUST start a new game save with these mods disabled!
 
 
-### Step 6.  Launch the game from MO2.  
+## Step 6.  Launch the game from MO2.  
 
 To play the modlist of this game, you hit the "Run" (Play) button from inside the MO2 application.   
 
 **Do not mess with MO2, or the MO2 files for this ModPack while the game is running!!!**
 
 
-### Step 7.  Random World Generation (RWG) 
+## Step 7.  Random World Generation (RWG) 
 
 You might need to delete worlds to make room for new ones:
 C:\Users\UserName\AppData\Roaming\7DaysToDie\GeneratedWorlds
@@ -336,7 +345,7 @@ Recommended RWG Settings for this modpack if you want to see a better variety of
 ![image](https://github.com/user-attachments/assets/c318e31b-4926-45fe-8a97-edd045927889)
 
 
-### Step 8.  Recommended Game Settings
+## Step 8.  Recommended Game Settings
 
 Play with Loot Abundance set to 75% or lower.  There is more than enough loot from the "FNS's Loot All the Things" (LAtT) mod.  
 ![image](https://github.com/user-attachments/assets/a541ac67-95b3-4d67-a6a2-9e92d7b260d5)
@@ -437,6 +446,7 @@ Nothing will fix it!  This game with that monitor is cursed!
 
 "I'm not trying to rob you, I'm trying to help you!" - Gandalf
 
+
 9. Two common problems, same troubleshooting steps.
    
 **Stuck on the in-game world loading screen where it says "Building environment..."**
@@ -481,8 +491,37 @@ Or this:
 
 ![image](https://github.com/user-attachments/assets/3f7a520c-2732-4995-80c2-454ffc0ff5af)
 
-
 You have to remove all mods from: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+
+
+
+______________________________________________________________________________________________________________________
+
+# How do we update the ModList?
+
+Wait for me to update the ModList.  
+
+I will post update notifications to Guppy's 7D2D Modding Discord Server, on my #fns-wabbajack channel.  
+
+Caution: It's considered best practice to start a new world when you move to an updated version of a ModList.  So, if you want to keep playing in an existing save, wait until you are done with that playthrough prior to updating the ModList in Wabbajack.
+
+Always exit MO2 prior to updating your ModList with Wabbajack!
+
+ 
+
+If you cursor-hover over the picture of the ModList in the Wabbajack application gallery, you'll see which version is available.
+
+![image](https://github.com/user-attachments/assets/3cf5544e-a59d-495f-8443-a9e7fdec0536)
+
+
+When a new version is available in the Wabbajack application Gallery, you simply download the list again, overwriting the existing installation. 
+
+
+Check the Overwrite Installation box.  Then hit the play button in Wabbajack to update to the latest ModList version.
+
+![image](https://github.com/user-attachments/assets/e6b1a2c3-e081-4ae5-b4de-0fb13fb2265e)
+
+
 
 ______________________________________________________________________________________________________________________
 
