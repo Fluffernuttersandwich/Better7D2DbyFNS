@@ -1,6 +1,8 @@
 # Better 7D2D by FNS
 This is an Overhaul ModList for the game 7 Days to Die using the Wabbajack and ModOrganizer2 (MO2) applications.
 
+![fluffernutter-2](https://github.com/user-attachments/assets/92b104e5-8d0c-4e5d-986a-90219d0b91fd)
+
 ## Vision for this ModList (aka Overhaul ModPack)
 
 ### It's 7 Days to Die, *only better.*
