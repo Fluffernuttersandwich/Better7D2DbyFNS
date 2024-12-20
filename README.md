@@ -222,7 +222,16 @@ Here's what it looks like as Wabbajack is downloading and installing the ModList
 
 ### Step 4. Open MO2 launcher for "Better 7D2D".
 
-When Wabbajack has finished the download, unzipping, and installation of the ModList, Launch the MO2 application ModList for "Better 7D2D".
+When Wabbajack has finished the download, unzipping, and installation of the ModList, Launch the MO2 application ModList for "Better 7D2D".  
+
+Launch this MO2 instance from where you installed the Wabbajack files for this ModList.
+
+It would be prudent of you to make a shortcut, or pin to taskbar of this "Better 7D2D" MO2 instance.
+
+When you open up MO2, you might see this pop-up.  Just hit "Yes".
+
+![image](https://github.com/user-attachments/assets/65cfab71-5be8-4598-b668-f0da4eb48fb4)
+
 
 
 ### Step 5. Customize the ModList in MO2 to suit your personal preferences.  
@@ -460,6 +469,15 @@ D. This is probably your problem:
 
 Remove all mods from Mods: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
+If you see this:
+
+![image](https://github.com/user-attachments/assets/00b09726-c6f0-4097-9625-48623b7b831e)
+
+Or this:
+
+![image](https://github.com/user-attachments/assets/a94e45af-4252-4c6b-8fba-f00a8d4b9849)
+
+You have to remove all mods from: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 ______________________________________________________________________________________________________________________
 
 
