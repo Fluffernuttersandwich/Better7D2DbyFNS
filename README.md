@@ -55,6 +55,17 @@ https://www.wabbajack.org/
 ______________________________________________________________________________________________________________________
 
 
+## Recommended Hardware Specs
+
+If you can run the base game, you can run this ModList without any issues.
+
+Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
+
+Do not make maps larger than 10k if you are running on potato-grade hardware!  Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
+
+______________________________________________________________________________________________________________________
+
+
 # **Commandment Zero: Thou shalt read the directions and troubleshooting sections prior to asking for technical assistance.**  
 
 ## Assumptions 
@@ -72,21 +83,22 @@ _This is considered best practice/mandatory for modding most games._
 
 E. You are not running Mods out of any other folder that could cause a potential Mod Conflict.
 If you have Mods running out of the base game Mods folder, or Vortex Mods folder, remove/disable them!
+If you have Mods in a self-contained system like ModLauncher, that's fine, it won't interact.
 
 F. You are literate, and have basic computer literacy to figure simple things out for yourself.
 
-G. If you edited or added _ANYTHING_ to the main game folder directory, you will probably need to performa a full uninstall and reinstall of the base game.  
+G. If you edited or added _ANYTHING_ to the main game folder directory, you will _probably_ need to performa a full uninstall and reinstall of the base game.  
 
 "But why?!" you ask?  
 Because Wabbajack will compare the hash files of your base game files to it's vanilla base game hash values, and if they are off, it might cause errors in installing your ModList.
 
 **It's always considered best practice to use a fresh clean vanilla install for _any_ Overhaul ModPack**
 
-... examples of you molesting base game files include: adding a ReShade, SkipNews Mod, Skip TFP Loading Screen Mod, adding additional folders, gfx tweaks, making changes to vanilla folders/files, etc.  
+... examples of you molesting base game files include: adding a ReShade, injecting the SkipNews Mod into base files, same for the Skip TFP Loading Screen Mod, adding additional folders, in-file gfx tweaks, making changes to vanilla folders/files, etc.  
 
 **When in doubt, full uninstall/reinstall!**
 
-H. Best Practice for all PC Gaming, and especially Modding:
+H. Best Practice for all PC Gaming, and especially Modding: Store Mods and Mod Applications in the correct locations!
 
 **In Windows, you should avoid storing mods on your system drive (usually labeled as "C:"),**
 
@@ -138,12 +150,12 @@ To get ModOrganizer2 (MO2) to work, you will need:
 Windows 10 1809+ or Windows 11 are now required due to the upgrade to Qt 6 and Python 3.11.
 Microsoft Visual C++ Redistributable 14.40.33810.0 required, install from https://aka.ms/vs/17/release/vc_redist.x64.exe if needed.
 
-Install it.
+If you are not sure you have it, install it.
 
 
 ### Step 2.  Download/update to the latest version of Wabbajack: https://www.wabbajack.org/
 
-If you already have Wabbajack installed, you must update it to the most current version.
+If you already have Wabbajack installed, you _must_ update it to the most current version.
 
 Older versions of Wabbajack do not support 7D2D!  
 
@@ -180,7 +192,9 @@ Download the "Better 7D2D" Overhaul ModPack.
 
 The Wabbajack Application will prompt you to input information such as:
 
-PLACEHOLDER
+
+
+___________ PLACEHOLDER ( I wil fill out this section as I test it. _______________
 
 
 
@@ -463,7 +477,7 @@ If you're new to modding, Load Order (mod priority) is sacred!
 
 You can't use an application that regularly messes up established Load Order, because it cause mod conflicts, errors, and crashes.
 
-I care about game stability first, and foremost.  
+I care about game stability first and foremost.  
 
 Users kept complaining that the Load Order would randomly wander between playing the Vortex Collection.
 
@@ -478,7 +492,7 @@ Thankfully, the Wabbajack community was extremely helpful in getting 7D2D to wor
 
 A. It's my list, I added what I like, feel free to add more, but do so with care so as not to break the ModList.
 
-If you have a good mod suggestion, hit me up on the Guppy's Discord #fns channel.
+If you have a good mod suggestion, hit me up on the Guppy's Discord #fns channel.  https://discord.gg/fxkW8QvR
 
 B. Mods from NexusMods are automatically whitelisted for support with Wabbajack/MO2.  It makes for less work, and less hassle for me as a ModList curator. 
 
@@ -539,6 +553,7 @@ I cannot bundle their works into one zip file without each and every mod authors
 People who bundle other authors mods without permission/credit are seen as scum, and generally get banned from nicer modding communities.
 I don't want to piss off my fellow mod authors, they're good people!  
 
+
 8. **"I don't like the ____ Mod!"**
 
 Disable it, and move on with your life.  No seriously, don't complain, just disable it!
@@ -549,11 +564,13 @@ Caution: If you remove a "big" mod mid-game, you might have to start a new game 
 
 Example: Don't install/remove FNS LAtT nor FNS Self-Planting Trees in the middle of a save.
 
+
 9. **This is not a "lightweight" mod list!**  
 
 If you delete this whole ModList, or disable it in parts, you will need to start a new save/world.
 
 Trying to play a heavily modded save/world, after removing big mods will cause you errors... just start a new world/save! 
+
 
 10. **What about normal Trader Progression for RWG?**
     
@@ -597,22 +614,16 @@ Now double-click Trader Rekt if that's what you want to do.
 
 To remove the Debug and Creative Menus, simply go back into the (F1) console and type those two commands again to disable them.
 
+
 11. Interesting information about MO2 for 7D2D:  **It's a self-contained ModList!**
 
 This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, and Vanilla.  
 
 I would not use Vortex, or run Mods out of other not-self-contained packs because they will mess with other games.    
 
+
 ______________________________________________________________________________________________________________________
 
-
-## Recommended Hardware Specs
-
-If you can run the base game, you can run this ModList without any issues.
-
-Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
-
-Do not make maps larger than 10k if you are running on potato-grade hardware!  Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
 
 ______________________________________________________________________________________________________________________
 
@@ -681,7 +692,7 @@ ________________________________________________________________________________
 
 # Additional Links
 
-1. If you would like to see videos of me plyaing through this ModList, or showcasing my POIs and mods, **check out my YouTube page**.
+1. If you would like to see videos of me plyaing through this ModList, or showcasing my POIs and mods, **check out my YouTube channel**.
 
 **https://www.youtube.com/@FlufferNutterSandwich**
 
