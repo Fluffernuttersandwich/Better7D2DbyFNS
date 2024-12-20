@@ -9,7 +9,7 @@ When people think of a stable Vanilla+ mod pack that enhances the original game,
 
 This list is friendly to a more casual play style for people who want a relaxed game experience.  
 
-If you are a hardcore gamer, this pack is not for you.
+If you are a hardcore gamer, this pack is _probably_ not for you.
 
 
 ______________________________________________________________________________________________________________________
@@ -42,15 +42,29 @@ So check out his reviews if you are interested in learning about some of the bes
 
 ______________________________________________________________________________________________________________________
 
+# Requirements
+
+1. Hardware capable of running the base game of 7D2D.
+   
+2. Windows 10 1809+ or Windows 11 are now required due to the upgrade to Qt 6 and Python 3.11.
+Microsoft Visual C++ Redistributable 14.40.33810.0 required, install from https://aka.ms/vs/17/release/vc_redist.x64.exe if needed.
+
+3. The latest version of Wabbajack.
+
+https://www.wabbajack.org/ 
+
+______________________________________________________________________________________________________________________
+
+
 **Commandment Zero: Thou shalt read the directions and troubleshooting sections prior to asking for technical assistance.**  
 
 ## Assumptions 
 
-A. You have already installed 7D2D, using the latest *stable* version.  Currently, this is: **1.2b27**
+A. You have already installed 7D2D, using the latest *stable* version of the game.  Currently, this is: **1.2b27**
 
 _This list is exclusively compatible with this version!_
 
-B. EAC has been disabled from the Game Launcher.
+B. EAC has been disabled from the Game Launcher.  Not just temporarily muted for a session, but actually disabled so it will not attempt to launch!
 
 C. You did *not* delete the "0_TFP_Harmony" folder in the base game's Mods folder!
 
@@ -67,11 +81,11 @@ G. If you edited or added _ANYTHING_ to the main game folder directory, you will
 "But why?!" you ask?  
 Because Wabbajack will compare the hash files of your base game files to it's vanilla base game hash values, and if they are off, it might cause errors in installing your ModList.
 
-**It's always considered best practice to use a fresh clean vanilla install for any Overhaul ModPack**
+**It's always considered best practice to use a fresh clean vanilla install for _any_ Overhaul ModPack**
 
-... examples of you molesting base game files include: adding a ReShade, SkipNews Mod, Skip TFP Loading Screen Mod, adding additional folders, making changes to vanilla folders/files, etc.  
+... examples of you molesting base game files include: adding a ReShade, SkipNews Mod, Skip TFP Loading Screen Mod, adding additional folders, gfx tweaks, making changes to vanilla folders/files, etc.  
 
-When in doubt, full uninstall/reinstall!
+**When in doubt, full uninstall/reinstall!**
 
 H. Best Practice for all PC Gaming, and especially Modding:
 
@@ -114,28 +128,21 @@ Either Free or Premium will work.
 If you have a Free account, prepare to do _a lot_ of clicking.  
 Premium accounts will click once to download all of the Nexus mods, and at a higher speed.  
 
-You can register here:
+If you don't already have an account, you can register here:
 https://users.nexusmods.com/register
 
 Remember these login credentials, as you will need to use them to connect the Wabbajack application to the NexusMods page later.
 
-### Step 1: Download ModOrganizer2 (MO2)
+### Step 1: 
 
-Download ModOrganizer2 (MO2)
-https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files
+To get ModOrganizer2 (MO2) to work, you will need:
+Windows 10 1809+ or Windows 11 are now required due to the upgrade to Qt 6 and Python 3.11.
+Microsoft Visual C++ Redistributable 14.40.33810.0 required, install from https://aka.ms/vs/17/release/vc_redist.x64.exe if needed.
 
 Install it.
 
-### Step 2. Download the 7D2D MO2 Plugin v2
 
-Download the 7D2D MO2 Plugin v2
-https://www.nexusmods.com/7daystodie/mods/5624?tab=files
-Unzip this in the folder where you installed MO2.  
-If Windows prompts you to overwrite the existing files in the MO2 folder, the answer is yes.
-
-Load MO2 once, then exit MO2.  
-
-### Step 3. Download/update to the latest version of Wabbajack: https://www.wabbajack.org/
+### Step 2.  Download/update to the latest version of Wabbajack: https://www.wabbajack.org/
 
 If you already have Wabbajack installed, you must update it to the most current version.
 
@@ -149,13 +156,14 @@ It won't prompt you to update from within the application, so go download the ne
 
 https://www.wabbajack.org/ 
 
-Wabbajack will store multiple versions of itself on your system if you don't do housekeeping, so make sure you are launching the newest version... 
+Wabbajack will store multiple versions of itself on your system if you don't do housekeeping, so make sure you are launching the _newest_ version. 
 
 _*cough *cough, update the shortcut/pin on your taskbar._
 
 _If you are new to modding, please see the "Assumptions" section of this write up above, bullet point "H" for where/where-not-to store things when modding._
 
-### Step 4. Find the "Better 7D2D" by FNS Overhaul ModPack in the Wabbajack Gallery of ModLists.  
+
+### Step 3. Find the "Better 7D2D" by FNS Overhaul ModPack in the Wabbajack Gallery of ModLists.  
 
 Search for the 7 Days to Die game in the Wabbajack Gallery Search.
 
@@ -173,15 +181,20 @@ Download the "Better 7D2D" Overhaul ModPack.
 
 The Wabbajack Application will prompt you to input information such as:
 
-LATER
+PLACEHOLDER
+
+
 
 _If you are new to modding, please see the "Assumptions" section of this write up above, bullet point "H" for where/where-not-to store things when modding._   
 
-### Step 5. Open MO2 launcher for "Better 7D2D".
+
+
+### Step 4. Open MO2 launcher for "Better 7D2D".
 
 When Wabbajack has finished the download, unzipping, and installation of the ModList, Launch the MO2 application ModList for "Better 7D2D".
 
-### Step 6. Customize the ModList in MO2 to suit your personal preferences.  
+
+### Step 5. Customize the ModList in MO2 to suit your personal preferences.  
 
 Do _not_ rearrange the Priority (Load Order) unless you know what you are doing.  
 
@@ -248,13 +261,15 @@ That one is Game-Breakingly OP because it grants you two perks at every level on
 Do not add mods after these, or you will probably break these mods.  
 If you want to play without the mods from this section, you MUST start a new game save!
 
-### Step 7.  Launch the game from MO2.  
 
-To play the modlist of this game, you hit the "Run" (Play) button from inside the MO2 application. 
+### Step 6.  Launch the game from MO2.  
+
+To play the modlist of this game, you hit the "Run" (Play) button from inside the MO2 application.   
 
 **Do not mess with MO2, or the MO2 files for this ModPack while the game is running!!!**
 
-### Step 8.  Random World Generation (RWG) 
+
+### Step 7.  Random World Generation (RWG) 
 
 You might need to delete worlds to make room for new ones:
 C:\Users\UserName\AppData\Roaming\7DaysToDie\GeneratedWorlds
@@ -277,9 +292,9 @@ Recommended RWG Settings for this modpack if you want to see a better variety of
 ![image](https://github.com/user-attachments/assets/c318e31b-4926-45fe-8a97-edd045927889)
 
 
-### Step 9.  Recommended Game Settings
+### Step 8.  Recommended Game Settings
 
-Play with Loot Abundance set to 75% or lower.  There is more than enough loot from FNS's Loot All the Things (LAtT) mod.  
+Play with Loot Abundance set to 75% or lower.  There is more than enough loot from the "FNS's Loot All the Things" (LAtT) mod.  
 ![image](https://github.com/user-attachments/assets/a541ac67-95b3-4d67-a6a2-9e92d7b260d5)
 
 
