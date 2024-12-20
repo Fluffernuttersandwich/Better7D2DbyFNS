@@ -93,6 +93,7 @@ If you have a separate hard drive, consider storing your mods on that drive to m
 If you have a spare drive (like a D Drive), store Mod Applications, file paths, and folders there!!!  This is best practice!  
 
 Example:
+
 ![image](https://github.com/user-attachments/assets/87030c6e-60de-4921-9cd0-5cca3f885389)
 
 
