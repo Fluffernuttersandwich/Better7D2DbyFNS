@@ -32,8 +32,12 @@ If you feel that way, disable the mods you don't like, and/or play with harder d
 
 If you are seeking a more challenging brand new Overhaul experience, I'd recommend Darkness Falls, or Rebirth. 
 
-If you are brand new to Modding, and Wabbajack/MO2 in particular, start here for an overview: https://www.youtube.com/watch?v=c9jDnjSRqOE
+If you are brand new to Modding, and Wabbajack/MO2 in particular, start here for an overview: 
+
+https://www.youtube.com/watch?v=c9jDnjSRqOE
+
 The YouTube Content Creator **DroppedIceCream** does a lot of reviews of ModLists for games like Skyrim and Fallout.  
+
 So check out his reviews if you are interested in learning about some of the best mods for those games.    
 
 ______________________________________________________________________________________________________________________
@@ -472,4 +476,13 @@ ________________________________________________________________________________
 
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
+
+
+______________________________________________________________________________________________________________________
+
+If you would like to see videos of me plyaing through this ModList, or showcasing my POIs and mods, check out my YouTube page.
+
+**https://www.youtube.com/@FlufferNutterSandwich**
+
+
 
