@@ -775,14 +775,6 @@ ________________________________________________________________________________
 
 ## Known Issues
 
-**1. MoreQuests not displaying properly and spilling over the UI box.**
-
-I will work with the author to obtain a fix, or find a different similar mod.
-
-The author JNS is usally really good about providing updates/solutions for this stuff. 
-
----
-
 **2. CAT UI additional toolbelt slots UI issue.**
 
 ![image](https://github.com/user-attachments/assets/fc29e78d-0c19-412d-9ed3-5c2280bd103b)
@@ -801,7 +793,7 @@ Or you could live it, or you could just disable the mod, your call.
 
 ---
 
-**3. These are some Warnings and Errors you will see when you load into the world.**
+**2. These are some Warnings and Errors you will see when you load into the world.**
 
 They can be safely ignored.  
 
