@@ -1,37 +1,40 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Better 7D2D",
     "description": "This is the premier QoL Overhaul Modpack for 7D2D.  This mod list is exclusively compatible with game version 1.2b27.  Please remember to endorse mods in MO2 for Nexus.",
     "author": "FNS",
     "maintainers": [
       "github/Fluffernuttersandwich"
     ],
-    "game": "SevenDaysToDie",
+    "game": "sevendaystodie",
+    "official": false,
     "tags": [
       "QoL",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/fluffernutter-2.jpg",
       "readme": "https://github.com/Fluffernuttersandwich/Better7D2DbyFNS/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Better%207D2D.wabbajack_7a0360d0-4abd-4706-ae9b-1c5d65179737",
+      "download": "https://authored-files.wabbajack.org/Better 7D2D.wabbajack_90f8592c-b2ac-4efa-8d9e-44ef801fa1cb",
       "machineURL": "Better7D2D",
       "discordURL": "https://discord.gg/fxkW8QvR"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "wtmOMW0XkDk=",
-      "Size": 1667396,
-      "NumberOfArchives": 183,
-      "SizeOfArchives": 5100789172,
-      "NumberOfInstalledFiles": 32811,
-      "SizeOfInstalledFiles": 14549205000
+      "Hash": "0wjJK/3U3tc=",
+      "Size": 1735010,
+      "NumberOfArchives": 199,
+      "SizeOfArchives": 6576258385,
+      "NumberOfInstalledFiles": 33354,
+      "SizeOfInstalledFiles": 16278049141
     },
-    "version": "1.0"
+    "version": "1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-12-20T16:29:58.3341827Z",
+    "repositoryName": ""
   }
 ]
