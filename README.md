@@ -311,26 +311,100 @@ If not, update Wabbajack, by downloading the latest version.
 https://www.wabbajack.org/ 
 
 5. Have you reset your Wabbajack files in a while?
+   
 If not, you should do the following:
+
 Close out of Wabbajack.
+
 Press WindowsKey+R, to bring up the Run prompt box.
-Type (or copy+paste) the following:%localappdata%
+
+Type (or copy+paste) the following: %localappdata%
+
 Hit enter.
+
 You will now be in a Windows Explorer Folder directory named "C:\Users\YOURUSERNAME\AppData\**Local**", delete the "_**Wabbajack**_" folder in that **Local** folder.
+
 Now open the Wabbajack Application, Settings gear wheel, log into NexusMods from Wabbajack. 
 
 Sometimes Wabbajack, gets _Wabbajacked_.  No?  I'll see myself out.
 
+
 6. Are you logged into NexusMods from Wabbajack?
+
 ![image](https://github.com/user-attachments/assets/baea7e05-d215-459f-b9c3-fbfe936a31dc)
 
 7. When in doubt, **Nuke it from orbit**.  Perform a full uninstall and reinstall of the base game, Wabbajack, and the MO2 ModList from Wabbajack.  
 
 ![image](https://github.com/user-attachments/assets/fef51abe-817e-4a3a-a722-62b9539e7f9e)
 
+8. **Graphic Errors and Unexplainable game freezes:**
+   
+My game was crashing, but it wasn't directly caused by Mods. 
+
+I looked at the Logs, no (unexpected) Mod Errors, but there were issues at the end time of crash:
+
+d3d11: failed to create staging 2D texture w=128 h=2 d3dfmt=10 [887a0005]
+d3d11: failed to create staging 2D texture w=128 h=2 d3dfmt=10 [887a0005]
+d3d11: failed to create buffer (target 0x5 mode 1 size 864) [0x887A0005]
+d3d11: failed to create buffer (target 0x2 mode 1 size 72) [0x887A0005]
+
+A. Update your GPU Drivers.
+
+B. Consider changing your Video Setting Graphics to a lower grade like "High" or lower. 
+
+B. Also, don't go monkeying around with graphic settings if you don't know what you're doing, or you will create errors.  
+
+For most players, turn off Dynamic Mesh, play on "High", and leave the rest alone!  
+
+Just because one set of settings works for your friends hardware, doesn't mean the same graphics settings will work for your system!  
+
+No guarantee that game/world save can still be played in, you might need to start a new game/world.  
+
+C. For Super Ultrawide monitor users: 
+
+I'm sorry, you won't want to hear this, I know you want to make full use of your beefy rig and awesome monitor, but this game hates playing even at "High" with 5120x1440 resolution.  
+
+The Samsung Odyssey series of monitors do not play well at 5120x1440 resolution with 7D2D, and it's even worse when you add mods and try to run with Ultra settings.  
+
+This game is just not optimized for it.  Play with a more modest resolution like 2560x1440, or use a different monitor.  
+
+I don't care what your GPU/CPU is, how much RAM you have, I'm trying to save you from the aggravation of the dreaded monitor-flicker black screen game freeze.  
+
+I have one of these monitors, and I have tried EVERY troubleshooting trick under the sun.  
+
+Nothing will fix it!  This game with that monitor is cursed!  
+
+"I'm not trying to rob you, I'm trying to help you!" - Gandalf
+
+9. **Stuck on the in-game loading screen where it says "Building environment..."**
+   
+Press F1, you probably have an endless wall of Red Error text dropping down like a waterfall.  
+
+This is preventing the game from loading/working.  Ctrl+Alt+Del, Task Manager, end the 7D2D game task. 
+
+The ModList is temperamental to the following conditions:  
+
+A. Did you add mods that weren't part of the ModList?  
+
+I cannot vouch for compatibility for mods that weren't part of the List.    
+
+If you added untested mods not from the list, disable the new mods.  
+
+Maybe your existing game save/world will load in, but it's possible that world/save is ruined.
+
+Example: You tried to add incompatible mods that weren't on the Collection list.  
+
+NPC mods can be buggy with this ModList, which is why I haven't included any. 
+
+B. Did you disable/remove mods mid-play through on an existing world/save?  
+
+That world/save is probably ruined.  Start a new world without enabling/disabling mods mid-play.
+
+Example: If you remove SCore, Quartz, IDC Core, or other support/framework/requirement mods, it will destabilize your save.
+
+C. Are you sure the Priority (Load Order) is correct?  MO2 keeps the Priority (Load Order) I (FNS) set... if you screwed it up, reinstall the ModList from Wabbajack.
 
 ______________________________________________________________________________________________________________________
-
 
 
 # On getting assistance from FNS:
@@ -344,11 +418,16 @@ I am currently unable to troubleshoot via telepathy, so you must send logs!
 Screenshots of the (F1) console are not logs, so send logs!  
 
 When you use MO2/Wabbajack, your game logs go to a unique location:
-C:\Users\_YourUserName_\AppData\LocalLow\The Fun Pimps\7 Days To Die
+
+C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die
+
 ![image](https://github.com/user-attachments/assets/40b8efd2-11dd-4eec-a24d-0457b0ad6f4d)
 
-If you have read through everything here carefully, tried it all, and still cannot get it to work, please hit me up on **Guppy's 7D2D Modding Discord:  https://discord.gg/fxkW8QvR**  
-I have my own channel there #fns...  I'm fairly quick to respond, and can usually get you sorted out.  
+If you have read through everything here carefully, tried it all, and still cannot get it to work, 
+
+please hit me up on **Guppy's 7D2D Modding Discord:  https://discord.gg/fxkW8QvR**  
+
+I have my own channel there, #fns...  I'm fairly quick to respond, and can usually get you sorted out.  
 
 ______________________________________________________________________________________________________________________
 
@@ -359,20 +438,32 @@ ________________________________________________________________________________
 **1. Why did you leave the Vortex Collection Nexus Mods Manager system?**
    
 After a recent Vortex update, it broke the stability of Load Orders.
-If you're new to modding, Load Orders (mod priority) are sacred.
+
+If you're new to modding, Load Order (mod priority) is sacred!
+
 You can't use an application that regularly messes up established Load Order, because it cause mod conflicts, errors, and crashes.
+
 I care about game stability first, and foremost.  
+
 Users kept complaining that the Load Order would randomly wander between playing the Vortex Collection.
+
 It became too time consuming to help users troubleshoot.
+
 So, it was get the ModList to work in MO2/Wabbajack, or quit providing the list for users entirely.
+
 Thankfully, the Wabbajack community was extremely helpful in getting 7D2D to work in their ecosystem.  
 
-2. "Why didn't you include _fill-in-the-blank-popular-mod_?" and "Why only include mods from Nexus?"
+
+2. **"Why didn't you include _fill-in-the-blank-popular-mod_?" and "Why only include mods from Nexus?"**
+
 A. It's my list, I added what I like, feel free to add more, but do so with care so as not to break the ModList.
+
 If you have a good mod suggestion, hit me up on the Guppy's Discord #fns channel.
+
 B. Mods from NexusMods are automatically whitelisted for support with Wabbajack/MO2.  It makes for less work, and less hassle for me as a ModList curator. 
 
-4. Is this for just single player, or could it be multiplayer, or on a dedicated server?
+
+**3. Is this for just single player, or could it be multiplayer, or on a dedicated server?**
  
 This list is designed for single player and small groups.
 
@@ -384,7 +475,8 @@ Heck, maybe this list will inspire others to use MO2/Wabbajack to create Dedicat
 
 _Caution: Some mods like IDC's Nomad do not work in multiplayer!_
 
-4. Do both server and all clients need to download this entire Collection for it to work on multiplayer?
+
+**4. Do both server and all clients need to download this entire Collection for it to work on multiplayer?**
 
 Yes!  The community-made POIs need to exist on both server and all clients.  
 
@@ -402,13 +494,18 @@ EAC can stay on for pretty much anything other than when mods start adding in dl
 
 YES, I AM AWARE THERE ARE EXCEPTIONS TO THESE RULES.
 
-5. No, you should not add this ModList to an existing save/world!  Start a new save/world!
+
+**5. No, you should not add this ModList to an existing save/world!  Start a new save/world!**
+
    
-6. No, this ModList is not compatible with other Overhaul ModPacks.
+**6. No, this ModList is not compatible with other Overhaul ModPacks.**
+
 No, I will not make you a version compatible with Darkness Falls, nor Rebirth, nor any other Overhaul Pack.
+
 Not my circus, not my monkies.  
 
-8. Why don't you use ModLauncher, bundle everything under one zip-file, or make a "real" Overhaul Mod like Darkness Falls and Rebirth?
+
+**7. Why don't you use ModLauncher, bundle everything under one zip-file, or make a "real" Overhaul Mod like Darkness Falls and Rebirth?**
 
 ModLauncher (ML) won't work for my needs in using so many other authors mods in a collated list like this.  
 I tried, it's just not for this use case.  
@@ -417,15 +514,82 @@ ML is for "real" pre-bundled Overhaul ModPacks.
 Khaine and FuriousRamsay have more time and talent to dedicate to their own "real" Overhaul ModPacks than I do.  
 They make almost everything themselves in-house for their Overhaul ModPacks, or only use a handful of community-made framework mods.
 
-This list uses mods from about 100 different Mod Authors.  
-I cannot bundle their works into one zip file without each and every mod authors permission.
+This list uses nearly 200 mods from about 100 different Mod Authors.  
+I cannot bundle their works into one zip file without each and every mod authors permission... see "herding cats".
 People who bundle other authors mods without permission/credit are seen as scum, and generally get banned from nicer modding communities.
 I don't want to piss off my fellow mod authors, they're good people!  
+
+8. **"I don't like the ____ Mod!"**
+
+Disable it, and move on with your life.  No seriously, don't complain, just disable it!
+
+FNS Special Requirement POI Pack, Izy's AIO, Lazy POI Pack, and IDC's Nomad have a few requirement mods (see those mod pages for details), but most mods in this List are optional!
+
+Caution: If you remove a "big" mod mid-game, you might have to start a new game world/save, or you will have game breaking errors.  
+
+Example: Don't install/remove FNS LAtT nor FNS Self-Planting Trees in the middle of a save.
+
+9. **This is not a "lightweight" mod list!**  
+
+If you delete this whole ModList, or disable it in parts, you will need to start a new save/world.
+
+Trying to play a heavily modded save/world, after removing big mods will cause you errors... just start a new world/save! 
+
+10. **What about normal Trader Progression for RWG?**
+    
+On the Generate World settings page, TFPs included a disclaimer that generating a world may break quest progression. 
+
+If you start a new game, and see "NO TRADER" on the top right of your screen, here are your options, pick one:
+
+A. Keep trying a different seed until you get what you want.  
+
+Keep each Biome to at least 14% to have better results of every Biome generating a trader.  
+
+Don't play with maps under 4k in size, or traders might not spawn at all.  
+
+6-10k sized maps are good, 10k+ is best if you want to see more of the Community made POIs. 
+
+B. Walking in to a new Biome will often locate a new Trader for you.  
+
+You could manually find a Trader and complete the first quest missions... 
+
+Since in the base game, the progression starts with a trader, it may work that way on the generated worlds as well.
+
+C. Easiest Method: You could start your world with the creative/debug menus on, find/teleport to your trader of choice, then turn off those menus.  
+
+I usually just teleport to a Trader.
+
+"How do I use the Creative and Debug Menus?"
+
+In the game world, hit the F1 key to open the console.  
+
+In the console, type "cm" and hit Enter.  This will turn the Creative Menu on.
+
+Now type "dm" and hit Enter.  This will turn the Debug Menu on.
+
+Hit the Escape key once to back out of the console.
+
+Hit the Escape key again to open up the "Pause/Menu Screen".  
+
+Now you can open up the POI Teleporter.  From the POI Teleporter, you can type the word "trader" in the search box.  
+
+Now double-click Trader Rekt if that's what you want to do.    
+
+To remove the Debug and Creative Menus, simply go back into the (F1) console and type those two commands again to disable them.
 
 
 ______________________________________________________________________________________________________________________
 
 
+## Recommended Hardware Specs
+
+If you can run the base game, you can run this ModList without any issues.
+
+Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
+
+Do not make maps larger than 10k if you are running on potato-grade hardware!  Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
+
+______________________________________________________________________________________________________________________
 
 ## Mod Notes
 
@@ -437,17 +601,30 @@ I have confirmed the AGF HUD is compatible with this ModList.  Additionally, the
 **"Tool Time"** mod: DO NOT ENABLE/DISABLE THIS MOD IN AN EXISTING SAVE OR IT WILL BREAK YOUR GAME!!!  
 This mod makes tools viable weapons... Ever wished axes and tool-hammers actually did real damage?  Well, here you go.    
 
-IDC's Nomad: 
+**IDC's Nomad**
+
 This is a mobile RV base with crafting workstations.  
+
 This mod requires IDC Core and Quartz.  
+
 It is not for multiplayer.  
+
 It does not currently work for 1.2b27, so not currently part of this ModList.
+
+**Vehicle Cruise Control**: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
+
+**OCB's Parachute**: You need the Parachute item mod installed on your chest armor, and a single use parachute item in your tool belt for it to work.  When falling from a great height, cycle to the parachute item in the toolbelt, and use it with the item use button.  You will have limited control of the parachute, and still might take a minimal amount of falling damage.  It's a test mod, not 100% perfect, but it's super fun!  
+
+______________________________________________________________________________________________________________________
+
+
 
 ## Mods to consider avoiding while using this ModList:
 
 A. **Firearms Expansion 5 (FE5)**
 
 FE5 has a conflict with LittleRedSonja's ammo recycling mods.  
+
 FE5 also has conflicts with Izy's AIO Gun Pack mod, causing problems with 5.56 ammo.  
 
 B. **NPC Mods** can be buggy in this ModList, which is why I don't include them.  
@@ -469,10 +646,7 @@ ________________________________________________________________________________
 
 5. StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
 
-6. The good folks at Guppy's 7D2D Modding Discord Server.
-   
-7. Special thanks to LittleRedSonja for Mod Collaboration Projects, like with the bat and rifle for the Winchester Pub POI.    
-
+6. The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to LittleRedSonja, GoblinRemovalist, creepers152, AM1908, and many others. 
 
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
@@ -480,9 +654,22 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________
 
-If you would like to see videos of me plyaing through this ModList, or showcasing my POIs and mods, check out my YouTube page.
+# Additional Links
+
+1. If you would like to see videos of me plyaing through this ModList, or showcasing my POIs and mods, **check out my YouTube page**.
 
 **https://www.youtube.com/@FlufferNutterSandwich**
 
+2. Article: **How to create and include your own POIs into 7D2D**
+  
+https://www.nexusmods.com/7daystodie/articles/790
+
+3. Article: **Performance Tuning your Graphic Settings for better FPS in 7D2D**
+
+https://www.nexusmods.com/7daystodie/articles/792
+
+4. Article: **The Social Contract of Mod Authors and Users**
+
+https://www.nexusmods.com/7daystodie/articles/806
 
 
