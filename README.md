@@ -66,7 +66,7 @@ Do not make maps larger than 10k if you are running on potato-grade hardware!  E
 ______________________________________________________________________________________________________________________
 
 
-# **Commandment Zero: Thou shalt read the Assumptions, Installation Directions, and troubleshooting sections prior to asking for technical assistance.**  
+# **Commandment Zero: Thou shalt read the Assumptions, Installation Directions, and troubleshooting sections prior to asking for technical assistance.  There's a 99% chance your issue is covered there.**  
 
 ## Assumptions 
 
