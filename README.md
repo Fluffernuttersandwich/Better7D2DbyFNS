@@ -85,7 +85,7 @@ E. You are not running Mods out of any other folder that could cause a potential
 If you have Mods running out of the base game Mods folder, or Vortex Mods folder, remove/disable them!
 If you have Mods in a self-contained system like ModLauncher, that's fine, it won't interact.
 
-**Remove all mods from Mods:**
+Please save yourself hours of aggravation and double-check that you have **Removed all mods from the Mods folder:**
 C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
 ![image](https://github.com/user-attachments/assets/5dc12ac2-57aa-4e6a-8ce7-efc9cbaf5d85)
