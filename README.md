@@ -573,7 +573,8 @@ So, it was get the ModList to work in MO2/Wabbajack, or quit providing the list 
 Thankfully, the Wabbajack community was extremely helpful in getting 7D2D to work in their ecosystem.  
 
 
-2. **"Why didn't you include _fill-in-the-blank-popular-mod_?" and "Why only include mods from Nexus?"**
+
+**2. "Why didn't you include _fill-in-the-blank-popular-mod_?" and "Why only include mods from Nexus?"**
 
 A. It's my list, I added what I like, feel free to add more, but do so with care so as not to break the ModList.
 
@@ -744,6 +745,16 @@ Additionally, the Wabbajack Discord group is extrememly helpful in making ModLis
 If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki.  
 
 
+16. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing **_War and Peace_**."
+
+It's long because it's comprehensive.  
+
+For people who have been modding this game for years, they already know most of this stuff.  
+
+However, it's always somebody's first day.  So they get to drink from the firehose
+
+Also, hopefully good users will read this, and bug me less with troubleshooting.  
+
 
 ______________________________________________________________________________________________________________________
 
@@ -809,10 +820,12 @@ It does not currently work for 1.2b27, so not currently part of this ModList.  I
 
 **Vehicle Cruise Control**: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
 
-**OCB's Parachute**: You need the Parachute item mod installed on your chest armor, and a single use parachute item in your tool belt for it to work.  When falling from a great height, cycle to the parachute item in the toolbelt, and use it with the item use button.  You will have limited control of the parachute, and still might take a minimal amount of falling damage.  It's a test mod, not 100% perfect, but it's super fun!  
+**OCB's Parachute**: You need the Parachute item mod installed on your chest armor, and a single use parachute item in your tool belt for it to work.  
+When falling from a great height, cycle to the parachute item in the toolbelt, and use it with the item use button.  
+You will have limited control of the parachute, and still might take a minimal amount of falling damage.  
+It's a test mod, not 100% perfect, but it's super fun!  
 
 ______________________________________________________________________________________________________________________
-
 
 
 ## Mods to consider avoiding while using this ModList:
@@ -842,7 +855,7 @@ ________________________________________________________________________________
 
 5. StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
 
-6. The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to LittleRedSonja, GoblinRemovalist, creepers152, AM1908, and many others. 
+6. The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, and many others. 
 
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
