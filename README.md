@@ -66,7 +66,7 @@ Do not make maps larger than 10k if you are running on potato-grade hardware!  E
 ______________________________________________________________________________________________________________________
 
 
-# **Commandment Zero: Thou shalt read the directions and troubleshooting sections prior to asking for technical assistance.**  
+# **Commandment Zero: Thou shalt read the Assumptions, Installation Directions, and troubleshooting sections prior to asking for technical assistance.**  
 
 ## Assumptions 
 
@@ -84,6 +84,12 @@ _This is considered best practice/mandatory for modding most games._
 E. You are not running Mods out of any other folder that could cause a potential Mod Conflict.
 If you have Mods running out of the base game Mods folder, or Vortex Mods folder, remove/disable them!
 If you have Mods in a self-contained system like ModLauncher, that's fine, it won't interact.
+
+**Remove all mods from Mods:**
+C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+
+![image](https://github.com/user-attachments/assets/5dc12ac2-57aa-4e6a-8ce7-efc9cbaf5d85)
+
 
 F. You are literate, and have basic computer literacy to figure simple things out for yourself.
 
@@ -116,10 +122,6 @@ Temporary folders: Avoid storing mods in temporary folders as they may be delete
 
 **Where _to_ store Mods, Modding Applications, folder paths, and folders instead:**
 
-My Documents folder.
-
-or
-
 **Dedicated drive:**
 If you have a separate hard drive, consider storing your mods on that drive to maximize space and avoid potential conflicts with your system files.
 If you have a spare drive (like a D Drive), store Mod Applications, file paths, and folders there!!!  This is best practice!  
@@ -127,6 +129,19 @@ If you have a spare drive (like a D Drive), store Mod Applications, file paths, 
 Example:
 
 ![image](https://github.com/user-attachments/assets/87030c6e-60de-4921-9cd0-5cca3f885389)
+
+or
+
+Create your own Modding folder on the OS Drive like this example:
+
+### C:\Modding
+
+![image](https://github.com/user-attachments/assets/93b78bfe-12f6-4a76-aa55-423fc7ac73ea)
+
+
+
+
+
 
 
 ______________________________________________________________________________________________________________________
@@ -176,13 +191,7 @@ _If you are new to modding, please see the "Assumptions" section of this write u
 
 ### Step 3. Find the "Better 7D2D" by FNS Overhaul ModPack in the Wabbajack Gallery of ModLists.  
 
-Search for the 7 Days to Die game in the Wabbajack Gallery Search.
-
-You can do this from the Wabbajack application, or a browser as you prefer.  
-
-I peruse the Gallery from the Wabbajack application (pressing the Browse Modlist button) personally, because I can stay logged in to NexusMods from it.  
-
-https://www.wabbajack.org/gallery
+From the Wabbajack Appliction, Browse Modlist:
 
 You can press the "Game" dropdown arrow and select 7 Days to Die.  Make sure "Show Unnofficial Lists" is also checked.  
 
@@ -190,16 +199,25 @@ At the time of this writting, my ModPack is the first and only Wabbajack list fo
 
 Download the "Better 7D2D" Overhaul ModPack.
 
-The Wabbajack Application will prompt you to input information such as:
+The Wabbajack Application will prompt you to input an Installation Location:
 
+As an example, I made a New Folder, in my Modding Folder, called: "WJ_MO2_7D2D_Installation"
 
-
-___________ PLACEHOLDER ( I wil fill out this section as I test it. _______________
-
-
+![image](https://github.com/user-attachments/assets/9681a93c-77d5-4f39-8ae5-cc6c7a23ea5d)
 
 _If you are new to modding, please see the "Assumptions" section of this write up above, bullet point "H" for where/where-not-to store things when modding._   
 
+Here's what it looks like as Wabbajack is downloading and installing the ModList:
+
+![image](https://github.com/user-attachments/assets/99c3626c-8735-4bdc-acd2-b16e11419ee3)
+
+
+![image](https://github.com/user-attachments/assets/3e459127-0ce9-41d2-b89c-185cc861b846)
+
+
+![image](https://github.com/user-attachments/assets/8c395d4b-7890-45d2-9828-f18119963a39)
+
+![image](https://github.com/user-attachments/assets/6797a7ba-23b9-44ed-a8b9-d9eea8d68214)
 
 
 ### Step 4. Open MO2 launcher for "Better 7D2D".
