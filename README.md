@@ -44,6 +44,12 @@ So check out his reviews if you are interested in learning about some of the bes
 
 ______________________________________________________________________________________________________________________
 
+# Contents
+
+[Title](#better-7d2d-by-fns)
+     [Description](##description)
+
+
 ## Requirements and Recommended Hardware Specs
 
 
@@ -760,7 +766,7 @@ If you want to make one, hit me up on Discord, and I can show you some of the pi
 
 ---
 
-16. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing **_War and Peace_**."
+16. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
 
 It's long because it's comprehensive.  
 
