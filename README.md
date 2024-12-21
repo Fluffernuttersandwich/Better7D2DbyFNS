@@ -671,6 +671,8 @@ I am currently unable to troubleshoot via telepathy, so you must send logs!
 Screenshots of the (F1) console are not logs, so send logs!
 If you send me screenshots of the console, I am just going to tell you to send logs!
 
+![Orb](https://github.com/user-attachments/assets/1e35b6c8-1c38-4a9a-b88b-c8ab6be4d2b9)
+
 > [!IMPORTANT]
 > When you use MO2/Wabbajack, your game logs go to a unique location:
 ```C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die```
