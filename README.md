@@ -703,7 +703,7 @@ Users kept complaining that the Load Order would randomly rearrange itself betwe
 
 You need like a damn PHD to understand all of Vortex's quirks.  
 
-It became too time consuming to help users troubleshoot, and I didn't like people bad-mounting my hard work because the tool was screwing up.  
+It became too time consuming to help users troubleshoot, and I didn't like people bad-mouthing my hard work because the tool was screwing up.  
 
 So, it was get the ModList to work in MO2/Wabbajack, or quit providing the list for users entirely.
 
