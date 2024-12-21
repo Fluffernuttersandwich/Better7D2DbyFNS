@@ -905,8 +905,12 @@ There is no way to cut the Health Bars out without causing the whole CAT UI to e
 So, if you don't like seeing Health Bars, and/or don't like the CAT UI mod, disable/remove the CAT UI Mod and use the AGF HUD instead.  
 I have confirmed the AGF HUD is compatible with this ModList.  Additionally, the AGF HUD has an add-on for health bars if you like theirs.   
 
+---
+
 **"Tool Time"** mod: DO NOT ENABLE/DISABLE THIS MOD IN AN EXISTING SAVE OR IT WILL BREAK YOUR GAME!!!  
 This mod makes tools viable weapons... Ever wished axes and tool-hammers actually did real damage?  Well, here you go.    
+
+---
 
 **IDC's Nomad**
 
@@ -918,7 +922,11 @@ It is not for multiplayer.
 
 It does not currently work for 1.2b27, so not currently part of this ModList.  I'll bring it back into the ModList once IDC updates it.
 
+---
+
 **Vehicle Cruise Control**: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
+
+---
 
 **OCB's Parachute**: You need the Parachute item mod installed on your chest armor, and a single use parachute item in your tool belt for it to work.  
 When falling from a great height, cycle to the parachute item in the toolbelt, and use it with the item use button.  
