@@ -315,11 +315,11 @@ When you open up MO2, you might see this pop-up.  Just hit "Yes".
 ## Step 5. Customize the ModList in MO2 to suit your personal preferences.  
 
 > [!CAUTION]
-> Do _not_ rearrange the Priority (Load Order) unless you know what you are doing.  
+> Do _not_ rearrange the Priority (Load Order) unless you know what you are doing!  
 > I hand-tailored the priority (Load Order) to avoid mod conflicts.  
 > If you mess that up, I cannot/will-not fix it for you, and you will need to uninstall/reinstall the ModList.  
 
-_The following screenshots in this section were uploaded from Revision version 56.0 of this Overhaul ModPack._  
+_The following screenshots in this section were uploaded from Revision version 1.0 of this Overhaul ModPack._  
 
 ## Do not disable **Framework/Requirement Mods** (unless you are an advanced modder and you know what you are doing).
 ![image](https://github.com/user-attachments/assets/07fed2a2-1379-4cc7-8c13-f06d4c307889)
