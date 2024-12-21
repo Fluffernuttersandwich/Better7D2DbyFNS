@@ -927,11 +927,14 @@ ________________________________________________________________________________
 
 ## Known Issues
 
-**2. CAT UI additional toolbelt slots UI issue.**
+**1. CAT UI additional toolbelt slots UI issue.**
 
 ![image](https://github.com/user-attachments/assets/fc29e78d-0c19-412d-9ed3-5c2280bd103b)
 
+I am working on a solution, but am new to UI modding, so it will take a bit of time to figure out.  
 
+
+For the toolbelt overlap:
 There is a workaround for now, but it's manual.
 From NexusMods User: AkosEquilibrior
 Regarding the CATUI_toolbelt_more_slot mod.  
