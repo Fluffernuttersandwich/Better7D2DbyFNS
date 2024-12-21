@@ -65,9 +65,9 @@ ________________________________________________________________________________
 
 1. Hardware capable of running the base game of 7D2D.
 
-You can see this at the Steam Store page for the game.
-
 If you can run the base game, you can run this ModList without any issues.
+
+You can see this at the Steam Store page for the game.
 
 Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
 
@@ -78,7 +78,7 @@ Do not make maps larger than 10k if you are running on potato-grade hardware!  E
 
 https://www.wabbajack.org/ 
 
-3. Storage: currently the collection is about 16Gb.
+3. Storage consideration: currently the collection is about 16Gb.
 "What, but 7D2D mods are small?!"
 Yes, generally, but mods like: the CompoPack, Izy's AIO Gun Pack, Bdub's vehicles, and all the Decor mods add up.
 Do you want to play a nice list or not?
@@ -115,8 +115,9 @@ E. You are not running Mods out of any other folder that could cause a potential
 If you have Mods running out of the base game Mods folder, or Vortex Mods folder, remove/disable them!
 If you have Mods in a self-contained system like ModLauncher, that's fine, it won't interact.
 
-Please save yourself hours of aggravation and double-check that you have **Removed all mods from the Mods folder:**
-C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+> [!WARNING]
+> Please save yourself hours of aggravation and double-check that you have **Removed all mods from the Mods folder:**
+> C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
 ![image](https://github.com/user-attachments/assets/5dc12ac2-57aa-4e6a-8ce7-efc9cbaf5d85)
 
@@ -133,7 +134,8 @@ G. If you edited or added _ANYTHING_ to the main game folder directory, you will
 "But why?!" you ask?  
 Because Wabbajack will compare the hash files of your base game files to it's vanilla base game hash values, and if they are off, it _might_ cause errors in installing your ModList.
 
-**It's always considered best practice to use a fresh clean vanilla install for _any_ Overhaul ModPack**
+> [!TIP]
+> **It's always considered best practice to use a fresh clean vanilla install for _any_ Overhaul ModPack**
 
 ... examples of you molesting base game files include: adding a ReShade, injecting the SkipNews Mod into base files, same for the Skip TFP Loading Screen Mod, adding additional folders, in-file gfx tweaks, making changes to vanilla folders/files, etc.  
 
@@ -284,7 +286,8 @@ When Wabbajack has finished the download, unzipping, and installation of the Mod
 
 Launch this MO2 instance from where you installed the Wabbajack files for this ModList.
 
-It would be prudent of you to make a shortcut, or pin to taskbar of this "Better 7D2D" MO2 instance.
+> [!TIP]
+> It would be prudent of you to make a shortcut, or pin to taskbar of this "Better 7D2D" MO2 instance.
 
 When you open up MO2, you might see this pop-up.  Just hit "Yes".
 
@@ -294,7 +297,8 @@ When you open up MO2, you might see this pop-up.  Just hit "Yes".
 
 ## Step 5. Customize the ModList in MO2 to suit your personal preferences.  
 
-Do _not_ rearrange the Priority (Load Order) unless you know what you are doing.  
+> [!CAUTION]
+> Do _not_ rearrange the Priority (Load Order) unless you know what you are doing.  
 
 I hand-tailored the priority (Load Order) to avoid mod conflicts.  
 
@@ -376,8 +380,9 @@ To play the modlist of this game, you hit the "Run" (Play) button from inside th
 
 ## Step 7.  Random World Generation (RWG) 
 
-You might need to delete worlds to make room for new ones:
-C:\Users\UserName\AppData\Roaming\7DaysToDie\GeneratedWorlds
+> [!NOTE]
+> You might need to delete worlds to make room for new ones:
+```C:\Users\UserName\AppData\Roaming\7DaysToDie\GeneratedWorlds```
 
 Once inside of the Game, at the start up screen, you will want to create a new game.
 When you go to create a new game, create a new map!  
@@ -426,7 +431,8 @@ It CANNOT be set to ask if you want to turn it off at each launch, it must be di
 
 3. Are you sure you didn't delete "0_TFP_Harmony" from the base game files?
 
-Typically here:  C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods 
+Typically here:  
+```C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods``` 
 If you did accidentally delete that file, run a File Integrity check from Steam.
 
 ![image](https://github.com/user-attachments/assets/e86cbc48-27e8-4302-a38c-8fd607dbd0e0)
@@ -510,7 +516,7 @@ I have one of these monitors, and I have tried EVERY troubleshooting trick under
 
 Nothing will fix it!  This game with that monitor is cursed!  
 
-"I'm not trying to rob you, I'm trying to help you!" - Gandalf
+> "I'm not trying to rob you, I'm trying to help you!" - Gandalf
 
 ---
 
@@ -577,10 +583,11 @@ _Just wait for me to update the ModList._
 
 **I will post update notifications to Guppy's 7D2D Modding Discord Server, on my #fns-wabbajack channel.**  
 
-Caution: Sometimes you can keep using the same save-world and safely update to a new version of a ModList.  
-However, there are no guarantees this will be safe.
-It's considered best practice to start a new world-save when you move to an updated version of a ModList.  
-So, if you want to keep playing in an existing save, wait until you are done with that playthrough prior to updating the ModList in Wabbajack.
+> [!CAUTION]
+> Sometimes you can keep using the same save-world and safely update to a new version of a ModList.  
+> However, there are no guarantees this will be safe.
+> It's considered best practice to start a new world-save when you move to an updated version of a ModList.  
+> So, if you want to keep playing in an existing save, wait until you are done with that playthrough prior to updating the ModList in Wabbajack.
 
 Always exit MO2 prior to updating your ModList with Wabbajack!
 
@@ -603,17 +610,19 @@ ________________________________________________________________________________
 
 # On getting assistance from FNS:
 
-## No Logs = No Assistance!
+> [!IMPORTANT]
+> No Logs = No Assistance!
 
 ### You must send me your logs if you expect help.  
 
 I am currently unable to troubleshoot via telepathy, so you must send logs!  
 
-Screenshots of the (F1) console are not logs, so send logs!  
+Screenshots of the (F1) console are not logs, so send logs!
+If you send me screenshots of the console, I am just going to tell you to send logs!
 
-When you use MO2/Wabbajack, your game logs go to a unique location:
-
-C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die
+> [!IMPORTANT]
+> When you use MO2/Wabbajack, your game logs go to a unique location:
+```C:\Users\YourUserName\AppData\LocalLow\The Fun Pimps\7 Days To Die```
 
 ![image](https://github.com/user-attachments/assets/40b8efd2-11dd-4eec-a24d-0457b0ad6f4d)
 
@@ -993,7 +1002,6 @@ ________________________________________________________________________________
 
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
-
 
 
 
