@@ -1056,7 +1056,7 @@ ________________________________________________________________________________
 
 - StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
 
-- The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, and many others. 
+- The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, JNS, and many others. 
 
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
