@@ -367,13 +367,21 @@ That one is Game-Breakingly OP because it grants you two perks at every level on
 Do not move these mods, nor add mods after these, or you will probably break these mods and possibly your save.  
 If you want to play without the mods from this section, you MUST start a new game save with these mods disabled!
 
+![image](https://github.com/user-attachments/assets/b829bc8f-260c-4a36-b26b-95dd1a997cb0)
+
+
+
 ---
 
 ## Step 6.  Launch the game from MO2.  
 
 To play the modlist of this game, you hit the "Run" (Play) button from inside the MO2 application.   
 
-**Do not mess with MO2, or the MO2 files for this ModPack while the game is running!!!**
+![image](https://github.com/user-attachments/assets/0ebb9b69-0be8-4adc-89e9-b4fc3bf47882)
+
+> [!WARNING]
+> Do not mess with MO2, or the MO2 files for this ModPack while the game is running!!!
+> Exit the game completely before altering MO2!
 
 ---
 
