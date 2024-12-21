@@ -20,21 +20,21 @@ ________________________________________________________________________________
 
 ## Description
 
-Most of the mods in this collection are Quality of Life (QoL) improvements to give the players a nice Vanilla+ experience without any game breaking balance issues you see in some other mod lists.  
+- Most of the mods in this collection are Quality of Life (QoL) improvements to give the players a nice Vanilla+ experience without any game breaking balance issues you see in some other mod lists.  
 
-This ModList is not about overhauling major systems, nor adding too many new features.  
+- This ModList is not about overhauling major systems, nor adding too many new features.  
 
-This list is all about improving dozens of small details that as a whole make for a better overall experience of the original game.  
+- This list is all about improving dozens of small details that as a whole make for a better overall experience of the original game.  
 
-Unlike other Overhaul ModPacks, you are _not_ learning a new game. 
+- Unlike other Overhaul ModPacks, you are _not_ learning a new game. 
 
-**Balance is subjective.**  
+- **Balance is subjective.**  
 Some people think this Collection makes the game too easy.  
 If you feel that way, disable the mods you don't like, and/or play with harder difficulty settings.  
 
-If you are seeking a more challenging brand new Overhaul experience, I'd recommend Darkness Falls, or Rebirth. 
+- If you are seeking a more challenging brand new Overhaul experience, I'd recommend Darkness Falls, or Rebirth. 
 
-If you are brand new to Modding, and Wabbajack/MO2 in particular, start here for an overview: 
+- If you are brand new to Modding, and Wabbajack/MO2 in particular, start here for an overview: 
 
 https://www.youtube.com/watch?v=c9jDnjSRqOE
 
