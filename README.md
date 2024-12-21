@@ -513,15 +513,23 @@ ________________________________________________________________________________
 
 # How do we update the ModList?
 
-Wait for me to update the ModList.  
+First: You should not try to update my list piecemeal in MO2.  
+As much as I love MO2, it was one deficiency: Versioning
+MO2, it's weird about versioning updates.
+If a Mod Author is sloppy about versioning, MO2 will tell you there is a more current update available, 
+even though you have the latest one, and it is trying to imply you should download the older-mislabeled-as-newer version.
+So, this is why I don't recommend you DIY Nexus updates from the mods in MO2.
+
+Just wait for me to update the ModList.  
 
 I will post update notifications to Guppy's 7D2D Modding Discord Server, on my #fns-wabbajack channel.  
 
-Caution: It's considered best practice to start a new world when you move to an updated version of a ModList.  So, if you want to keep playing in an existing save, wait until you are done with that playthrough prior to updating the ModList in Wabbajack.
+Caution: Sometimes you can keep using the same save-world and safely update to a new version of a ModList.  
+However, there are no guarantees this will be safe.
+It's considered best practice to start a new world when you move to an updated version of a ModList.  
+So, if you want to keep playing in an existing save, wait until you are done with that playthrough prior to updating the ModList in Wabbajack.
 
 Always exit MO2 prior to updating your ModList with Wabbajack!
-
- 
 
 If you cursor-hover over the picture of the ModList in the Wabbajack application gallery, you'll see which version is available.
 
