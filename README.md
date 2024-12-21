@@ -316,10 +316,8 @@ When you open up MO2, you might see this pop-up.  Just hit "Yes".
 
 > [!CAUTION]
 > Do _not_ rearrange the Priority (Load Order) unless you know what you are doing.  
-
-I hand-tailored the priority (Load Order) to avoid mod conflicts.  
-
-If you mess that up, I cannot/will-not fix it for you, and you will need to uninstall/reinstall the ModList.  
+> I hand-tailored the priority (Load Order) to avoid mod conflicts.  
+> If you mess that up, I cannot/will-not fix it for you, and you will need to uninstall/reinstall the ModList.  
 
 _The following screenshots in this section were uploaded from Revision version 56.0 of this Overhaul ModPack._  
 
