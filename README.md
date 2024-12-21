@@ -63,6 +63,8 @@ ________________________________________________________________________________
 
 1. Hardware capable of running the base game of 7D2D.
 
+You can see this at the Steam Store page for the game.
+
 If you can run the base game, you can run this ModList without any issues.
 
 Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
@@ -74,11 +76,16 @@ Do not make maps larger than 10k if you are running on potato-grade hardware!  E
 
 https://www.wabbajack.org/ 
 
+3. Storage: currently the collection is about 16Gb.
+"What, but 7D2D mods are small?!"
+Yes, generally, but mods like: the CompoPack, Izy's AIO Gun Pack, Bdub's vehicles, and all the Decor mods add up.
+Do you want to play a nice list or not?
+
 
 ______________________________________________________________________________________________________________________
 
 
-# **Commandment Zero: Thou shalt read the Assumptions, Installation Directions, and troubleshooting sections prior to asking for technical assistance.  There's a 99% chance your issue is covered there.**  
+# **Commandment Zero: Thou shalt read the Assumptions, Installation Directions, and Troubleshooting sections prior to asking for technical assistance.  There's a 99% chance your issue is covered there.**  
 
 ## Assumptions 
 
@@ -108,24 +115,26 @@ C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 ![image](https://github.com/user-attachments/assets/5dc12ac2-57aa-4e6a-8ce7-efc9cbaf5d85)
 
 
+_Assumptions continued..._
+
 F. You are literate, and have basic computer literacy to figure simple things out for yourself.
 
 
 G. If you edited or added _ANYTHING_ to the main game folder directory, you will _probably_ need to performa a full uninstall and reinstall of the base game.  
 
 "But why?!" you ask?  
-Because Wabbajack will compare the hash files of your base game files to it's vanilla base game hash values, and if they are off, it might cause errors in installing your ModList.
+Because Wabbajack will compare the hash files of your base game files to it's vanilla base game hash values, and if they are off, it _might_ cause errors in installing your ModList.
 
 **It's always considered best practice to use a fresh clean vanilla install for _any_ Overhaul ModPack**
 
 ... examples of you molesting base game files include: adding a ReShade, injecting the SkipNews Mod into base files, same for the Skip TFP Loading Screen Mod, adding additional folders, in-file gfx tweaks, making changes to vanilla folders/files, etc.  
 
-**When in doubt, full uninstall/reinstall!**
+**If you feel like getting this installation right the first time, perform a full uninstall/reinstall.**
 
 
-H. Best Practice for all PC Gaming, and especially Modding: Store Mods and Mod Applications in the correct locations!
+H. Best Practice for all PC Gaming, and especially Modding: **Store Mods and Mod Applications in the correct locations!**
 
-**In Windows, you should avoid storing mods on your system drive (usually labeled as "C:"),**
+**In Windows, you should _avoid_ storing mods on your system drive (usually labeled as "C:"),**
 
 particularly in locations like the "Program Files" folder, 
 as this can cause potential issues with game updates, compatibility problems, 
@@ -142,16 +151,16 @@ Temporary folders: Avoid storing mods in temporary folders as they may be delete
 **Where _to_ store Mods, Modding Applications, folder paths, and folders instead:**
 
 **Dedicated drive:**
-If you have a separate hard drive, consider storing your mods on that drive to maximize space and avoid potential conflicts with your system files.
-If you have a spare drive (like a D Drive), store Mod Applications, file paths, and folders there!!!  This is best practice!  
+Ideally, you have a separate hard drive for Modding.  
+If so, consider storing your mods on that drive to maximize space and avoid potential conflicts with your system files.
+If you have a spare drive (like a D Drive), store Mod Applications, file paths, and folders there!!!  This is best practice for modding any game!  
 
 Example:
 
 ![image](https://github.com/user-attachments/assets/87030c6e-60de-4921-9cd0-5cca3f885389)
 
-or
-
-Create your own Modding folder on the OS Drive like this example:
+If you only have one drive, like C, and the OS is on it, then create your own Modding folder on the OS Drive like this example:
+_This is the second best option if you don't have a spare drive._
 
 ### C:\Modding
 
@@ -162,9 +171,9 @@ I. **Do not install/use your own MO2!**
 
 This ModList uses it's own modified instance of MO2, and it is part of the download of this Wabbajack list.  
 
-Do not use a standard MO2 install, it will not work!
+Do not use a standard MO2 install downloaded from other locations, it will not work!
 
-Again, this Wabbajack list download process will include it's own modified instance for MO2.
+Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use this one!
 
 
 ______________________________________________________________________________________________________________________
@@ -175,8 +184,11 @@ ________________________________________________________________________________
 ## Step 0: You must have a Nexus Mods account.
 
 Either Free or Premium will work.  
+
 If you have a Free account, prepare to do _a lot_ of clicking.  
-Premium accounts will click once to download all of the Nexus mods, and at a higher speed.  
+For Free accounts, Wabbajack will open one browers tab at a time, for you to manually download each mod. 
+
+Premium accounts will click once to download all of the Nexus mods, and download them at a higher speed.  
 
 If you don't already have an account, you can register here:
 https://users.nexusmods.com/register
@@ -190,7 +202,7 @@ To get ModOrganizer2 (MO2) to work, you will need:
 Windows 10 1809+ or Windows 11 are now required due to the upgrade to Qt 6 and Python 3.11.
 Microsoft Visual C++ Redistributable 14.40.33810.0 required, install from https://aka.ms/vs/17/release/vc_redist.x64.exe if needed.
 
-If you are not sure you have it, install it.
+If you are not sure you have it, downlaod and install it now.
 
 
 ## Step 2.  Download/update to the latest version of Wabbajack: https://www.wabbajack.org/
@@ -213,6 +225,7 @@ _*cough *cough, update the shortcut/pin on your taskbar._
 
 _If you are new to modding, please see the "Assumptions" section of this write up above, bullet point "H" for where/where-not-to store things when modding._
 
+
 Before going any further, connect your Login from Nexus Mods to Wabbajack in the Wabbajack application.
 From the Wabbajack application main screen, press the settings "gearwheel" icon on the top right.
 Login to your Nexus Mods account from inside of the Wabbajack application, and enter your credentials.
@@ -233,7 +246,7 @@ At the time of this writting, my ModPack is the first and only Wabbajack list fo
 
 Download the "Better 7D2D" Overhaul ModPack.
 
-The Wabbajack Application will prompt you to input an Installation Location:
+The Wabbajack Application will prompt you to input an Installation Location folder:
 
 As an example, I made a New Folder, in my Modding Folder, called: "WJ_MO2_7D2D_Installation"
 
