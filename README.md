@@ -597,10 +597,13 @@ Or this:
 
 ![image](https://github.com/user-attachments/assets/3f7a520c-2732-4995-80c2-454ffc0ff5af)
 
-**You have to remove all mods from: 
+**You have to remove all mods from:**
+
 ```C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods```
+
 ---
-The only mod that should be here is the Harmony Mod:
+
+**The only mod that should be here is the Harmony Mod:**
 ```C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods```
 
 
