@@ -45,7 +45,7 @@ So check out his reviews if you are interested in learning about some of the bes
 
 --- 
 
-### Why you should consider using this Wabbajack-MO2 ModList?
+### Why you should consider using this Wabbajack-MO2 ModList
 
 - For users with a Premium NexusMods account, it is damn-near a "one-touch" modding solution to give you the best 
 
