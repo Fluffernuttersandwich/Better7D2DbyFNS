@@ -418,7 +418,7 @@ NASA boys in 2-3 minutes, potato-bros in 10-40 minutes.
 
 "Why does it take so long to RWG in this list compared to Vanilla?!" 
 Becaue several of the Framework mods make significant changes to RWG.  
-... increase city size, more POIs, less wasted space between POIs (compared to empty maps like Navezgane), etc.
+... larger cities, denser cities, more cities, more POIs, less wasted space between POIs (compared to empty maps like Navezgane), fancier roads, new tiles, new block types, etc.
 
 Do not make maps larger than 10k if you are using potato-grade hardware.  
 It could crash in RWG, or worse, mid-game.  
