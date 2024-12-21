@@ -928,26 +928,6 @@ I'll wait for TFP to provide their Bandit update next year before I try messing 
 ______________________________________________________________________________________________________________________
 
 
-# FNS would like to thank the following people for this modlist:
-
-1. JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7D2D compatible with Wabbajack.  MVP!
-
-2. EzioTheDeadPoet, and Dace from the Wabbajack GitHub/Discord for your support.
-
-3. All of the Mod Authors for making these great mods included.  
-
-4. Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
-
-5. StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
-
-6. The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, and many others. 
-
-
-![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
-
-
-______________________________________________________________________________________________________________________
-
 # Additional Links
 
 1. If you would like to see videos of me plyaing through this ModList, or showcasing my POIs and mods, **check out my YouTube channel**.
@@ -965,5 +945,32 @@ https://www.nexusmods.com/7daystodie/articles/792
 4. Article: **The Social Contract of Mod Authors and Users**
 
 https://www.nexusmods.com/7daystodie/articles/806
+
+
+______________________________________________________________________________________________________________________
+
+
+# Credits and Thanks
+
+- YOU for reading this.
+
+- Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
+
+- JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7D2D compatible with Wabbajack.  MVP!
+
+- EzioTheDeadPoet, and Dace from the Wabbajack GitHub/Discord for your support.
+
+- All of the Mod Authors for making the great mods included in this list.  
+
+- StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
+
+- The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, and many others. 
+
+
+![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
+
+
+
+
 
 
