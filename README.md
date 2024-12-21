@@ -5,7 +5,7 @@ This is an Overhaul ModList for the game <ins>**7 Days to Die**</ins> for PC usi
 
 ## Vision for this ModList (aka Overhaul ModPack)
 
-### It's 7 Days to Die, *only better.*
+### It's <ins>**7 Days to Die**</ins>, *only better.*
 
 When people think of a stable Vanilla+ mod pack that enhances the original game, I want them to think of this ModList.
 
