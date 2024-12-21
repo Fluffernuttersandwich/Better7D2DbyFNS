@@ -230,9 +230,9 @@ Remember these login credentials, as you will need to use them to connect the Wa
 
 To get ModOrganizer2 (MO2) to work, you will need:
 Windows 10 1809+ or Windows 11 are now required due to the upgrade to Qt 6 and Python 3.11.
-Microsoft Visual C++ Redistributable 14.40.33810.0 required, install from https://aka.ms/vs/17/release/vc_redist.x64.exe if needed.
+Microsoft Visual C++ Redistributable 14.40.33810.0 is required, install from https://aka.ms/vs/17/release/vc_redist.x64.exe if needed.
 
-If you are not sure you have it, downlaod and install it now.
+If you are not sure you have it, download and install it now.
 
 ---
 
