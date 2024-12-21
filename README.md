@@ -499,7 +499,9 @@ Sometimes Wabbajack, gets _Wabbajacked_.  No?  I'll see myself out.
 
 ---
 
-7. When in doubt, **Nuke it from orbit**.  Perform a full uninstall and reinstall of the base game, Wabbajack, and the MO2 ModList from Wabbajack.  
+7. When in doubt, **Nuke it from orbit**.
+
+Perform a full uninstall and reinstall of the base game, Wabbajack, and the MO2 ModList from Wabbajack.  
 
 ![image](https://github.com/user-attachments/assets/fef51abe-817e-4a3a-a722-62b9539e7f9e)
 
