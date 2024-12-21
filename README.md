@@ -213,6 +213,15 @@ _*cough *cough, update the shortcut/pin on your taskbar._
 
 _If you are new to modding, please see the "Assumptions" section of this write up above, bullet point "H" for where/where-not-to store things when modding._
 
+Before going any further, connect your Login from Nexus Mods to Wabbajack in the Wabbajack application.
+From the Wabbajack application main screen, press the settings "gearwheel" icon on the top right.
+Login to your Nexus Mods account from inside of the Wabbajack application, and enter your credentials.
+
+**If you successfully entered your login username, password, captcha, and (optional) MFA token; it will look like this screenshot.**
+
+![image](https://github.com/user-attachments/assets/d7197a91-44ba-4c5c-ba03-59ea4279c000)
+
+
 
 ### Step 3. Find the "Better 7D2D" by FNS Overhaul ModPack in the Wabbajack Gallery of ModLists.  
 
