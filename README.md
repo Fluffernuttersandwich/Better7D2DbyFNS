@@ -181,11 +181,10 @@ _This is the second best option if you don't have a spare drive._
 
 I. **Do not install/use your own MO2!**
 
-This ModList uses it's own modified instance of MO2, and it is part of the download of this Wabbajack list.  
-
-Do not use a standard MO2 install downloaded from other locations, it will not work!
-
-Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use this one!
+> [!WARNING]
+> This ModList uses it's own modified instance of MO2, and it is part of the download of this Wabbajack list.  
+> Do not use a standard MO2 install downloaded from other locations, it will not work!
+> Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use this one!
 
 
 ______________________________________________________________________________________________________________________
