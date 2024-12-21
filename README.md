@@ -147,7 +147,7 @@ F. You are literate, and have basic computer literacy to figure simple things ou
 
 ---
 
-G. If you edited or added _ANYTHING_ to the main game folder directory, you will _probably_ need to performa a full uninstall and reinstall of the base game.  
+G. If you edited or added _ANYTHING_ to the main game folder directory, you will _probably_ need to perform a full uninstall and reinstall of the base game.  
 
 "But why?!" you ask?  
 Because Wabbajack will compare the hash files of your base game files to it's vanilla base game hash values, and if they are off, it _might_ cause errors in installing your ModList.
