@@ -883,6 +883,10 @@ Additionally, the Wabbajack Discord group is extrememly helpful in making ModLis
 
 If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki specifically for 7D2D.  
 
+https://discord.gg/wabbajack
+
+https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is the process to create your own Wabbajack/MO2 ModList.  It now supports 7D2D.  Just ping me if you need help in making one.
+
 ---
 
 16. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
