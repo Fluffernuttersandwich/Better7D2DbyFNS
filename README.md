@@ -96,16 +96,20 @@ A. You have already installed 7D2D, using the latest *stable* version of the gam
 
 _This list is exclusively compatible with this version!_
 
+---
 
 B. EAC has been disabled from the Game Launcher.  Not just temporarily muted for a session, but actually disabled so it will not attempt to launch!
 
+---
 
 C. You did *not* delete the "0_TFP_Harmony" folder in the base game's Mods folder!
 
+---
 
 D. You ran the vanilla game to the main start-up menu once.  *This is so it can build out folder directories.*
 _This is considered best practice/mandatory for modding most games._
 
+---
 
 E. You are not running Mods out of any other folder that could cause a potential Mod Conflict.
 If you have Mods running out of the base game Mods folder, or Vortex Mods folder, remove/disable them!
@@ -116,11 +120,13 @@ C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
 ![image](https://github.com/user-attachments/assets/5dc12ac2-57aa-4e6a-8ce7-efc9cbaf5d85)
 
+---
 
 _Assumptions continued..._
 
 F. You are literate, and have basic computer literacy to figure simple things out for yourself.
 
+---
 
 G. If you edited or added _ANYTHING_ to the main game folder directory, you will _probably_ need to performa a full uninstall and reinstall of the base game.  
 
@@ -133,6 +139,7 @@ Because Wabbajack will compare the hash files of your base game files to it's va
 
 **If you feel like getting this installation right the first time, perform a full uninstall/reinstall.**
 
+---
 
 H. Best Practice for all PC Gaming, and especially Modding: **Store Mods and Mod Applications in the correct locations!**
 
@@ -168,6 +175,7 @@ _This is the second best option if you don't have a spare drive._
 
 ![image](https://github.com/user-attachments/assets/93b78bfe-12f6-4a76-aa55-423fc7ac73ea)
 
+---
 
 I. **Do not install/use your own MO2!**
 
@@ -197,6 +205,7 @@ https://users.nexusmods.com/register
 
 Remember these login credentials, as you will need to use them to connect the Wabbajack application to the NexusMods page later.
 
+---
 
 ## Step 1: 
 
@@ -206,6 +215,7 @@ Microsoft Visual C++ Redistributable 14.40.33810.0 required, install from https:
 
 If you are not sure you have it, downlaod and install it now.
 
+---
 
 ## Step 2.  Download/update to the latest version of Wabbajack: https://www.wabbajack.org/
 
@@ -236,7 +246,7 @@ Login to your Nexus Mods account from inside of the Wabbajack application, and e
 
 ![image](https://github.com/user-attachments/assets/d7197a91-44ba-4c5c-ba03-59ea4279c000)
 
-
+---
 
 ### Step 3. Find the "Better 7D2D" by FNS Overhaul ModPack in the Wabbajack Gallery of ModLists.  
 
@@ -266,6 +276,7 @@ Here's what it looks like as Wabbajack is downloading and installing the ModList
 
 ![image](https://github.com/user-attachments/assets/6797a7ba-23b9-44ed-a8b9-d9eea8d68214)
 
+---
 
 ## Step 4. Open MO2 launcher for "Better 7D2D".
 
@@ -279,6 +290,7 @@ When you open up MO2, you might see this pop-up.  Just hit "Yes".
 
 ![image](https://github.com/user-attachments/assets/65cfab71-5be8-4598-b668-f0da4eb48fb4)
 
+---
 
 ## Step 5. Customize the ModList in MO2 to suit your personal preferences.  
 
@@ -352,6 +364,7 @@ That one is Game-Breakingly OP because it grants you two perks at every level on
 Do not move these mods, nor add mods after these, or you will probably break these mods and possibly your save.  
 If you want to play without the mods from this section, you MUST start a new game save with these mods disabled!
 
+---
 
 ## Step 6.  Launch the game from MO2.  
 
@@ -359,6 +372,7 @@ To play the modlist of this game, you hit the "Run" (Play) button from inside th
 
 **Do not mess with MO2, or the MO2 files for this ModPack while the game is running!!!**
 
+---
 
 ## Step 7.  Random World Generation (RWG) 
 
@@ -382,6 +396,7 @@ Know your limitations, or upgrade your potato, don't blame me because you haven'
 Recommended RWG Settings for this modpack if you want to see a better variety of the Community Made POIs:
 ![image](https://github.com/user-attachments/assets/c318e31b-4926-45fe-8a97-edd045927889)
 
+---
 
 ## Step 8.  Recommended Game Settings
 
