@@ -650,7 +650,16 @@ Check the Overwrite Installation box.  Then hit the play button in Wabbajack to 
 ______________________________________________________________________________________________________________________
 
 
-# On getting assistance from FNS:
+# Contacting FNS:
+
+Please hit me up on **Guppy's 7DtD Unofficial Modding Discord: https://discord.gg/fxkW8QvR**  
+You cna find me there in the #fns-wabbajack channel.  
+
+Please give me your feedback, suggestions, additions, and workarounds.
+
+---
+
+## On asking FNS for assistance in Troubleshooting
 
 > [!IMPORTANT]
 > No Logs = No Assistance!
@@ -670,9 +679,7 @@ If you send me screenshots of the console, I am just going to tell you to send l
 
 If you have read through everything here carefully, tried it all, and still cannot get it to work, 
 
-please hit me up on **Guppy's 7D2D Modding Discord:  https://discord.gg/fxkW8QvR**  
 
-I have my own channel there, #fns-wabbajack.  I'm fairly quick to respond, and can usually get you sorted out.  
 
 ______________________________________________________________________________________________________________________
 
