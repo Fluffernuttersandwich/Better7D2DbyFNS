@@ -396,12 +396,16 @@ ________________________________________________________________________________
 1. Are you sure you are on the correct game version?  Currently this is 7D2D game version: **1.2b27**
 ![image](https://github.com/user-attachments/assets/7b908b39-5b5a-4012-bc6a-9b638bebd593)
 
-2.Is EAC off?  
+---
+
+2. Is EAC off?  
 Run the Game Launcher from Steam, and make sure you disable EAC.  
 It CANNOT be set to ask if you want to turn it off at each launch, it must be disabled!
 ![image](https://github.com/user-attachments/assets/c5862c19-6d78-4670-aaf4-7c38c2d6cf88)
 
    ![image](https://github.com/user-attachments/assets/f18cab91-3e23-44fa-aa2d-1e6d214b0e49)
+
+---
 
 3. Are you sure you didn't delete "0_TFP_Harmony" from the base game files?
 
@@ -410,9 +414,13 @@ If you did accidentally delete that file, run a File Integrity check from Steam.
 
 ![image](https://github.com/user-attachments/assets/e86cbc48-27e8-4302-a38c-8fd607dbd0e0)
 
+---
+
 4. You are using the most up-to-date version of Wabbajack right?
 If not, update Wabbajack, by downloading the latest version.
 https://www.wabbajack.org/ 
+
+---
 
 5. Have you reset your Wabbajack files in a while?
    
@@ -432,16 +440,19 @@ Now open the Wabbajack Application, Settings gear wheel, log into NexusMods from
 
 Sometimes Wabbajack, gets _Wabbajacked_.  No?  I'll see myself out.
 
+---
 
 6. Are you logged into NexusMods from Wabbajack?
 
 ![image](https://github.com/user-attachments/assets/baea7e05-d215-459f-b9c3-fbfe936a31dc)
 
+---
 
 7. When in doubt, **Nuke it from orbit**.  Perform a full uninstall and reinstall of the base game, Wabbajack, and the MO2 ModList from Wabbajack.  
 
 ![image](https://github.com/user-attachments/assets/fef51abe-817e-4a3a-a722-62b9539e7f9e)
 
+---
 
 8. **Graphic Errors and Unexplainable game freezes:**
    
@@ -466,7 +477,9 @@ Just because one set of settings works for your friends hardware, doesn't mean t
 
 No guarantee that game/world save can still be played in, you might need to start a new game/world.  
 
-D. A note for Super Ultrawide monitor users: 
+---
+
+9. A note for Super Ultrawide monitor users: 
 
 I'm sorry, you won't want to hear this, I know you want to make full use of your beefy rig and awesome monitor, but this game hates playing even at "High" with 5120x1440 resolution.  
 
@@ -482,8 +495,9 @@ Nothing will fix it!  This game with that monitor is cursed!
 
 "I'm not trying to rob you, I'm trying to help you!" - Gandalf
 
+---
 
-9. Two common problems, same troubleshooting steps.
+10. Two common problems, same troubleshooting steps.
    
 **Stuck on the in-game world loading screen where it says "Building environment..."**
 
@@ -495,7 +509,7 @@ This is preventing the game from loading/working.  Ctrl+Alt+Del, Task Manager, e
 
 The ModList is temperamental to the following conditions:  
 
-A. Did you add mods that weren't part of the ModList?  
+**A. Did you add mods that weren't part of the ModList?**
 
 I cannot vouch for compatibility for mods that weren't part of the List.    
 
@@ -507,15 +521,15 @@ Example: You tried to add incompatible mods that weren't on the Collection list.
 
 NPC mods can be buggy with this ModList, which is why I haven't included any. 
 
-B. Did you disable/remove mods mid-play through on an existing world/save?  
+**B. Did you disable/remove mods mid-play through on an existing world/save?**  
 
 That world/save is probably ruined.  Start a new world without enabling/disabling mods mid-play.
 
 Example: If you remove SCore, Quartz, IDC Core, or other support/framework/requirement mods, it will destabilize your save.
 
-C. Are you sure the Priority (Load Order) is correct?  MO2 keeps the Priority (Load Order) I (FNS) set... if you screwed it up, reinstall the ModList from Wabbajack.
+**C. Are you sure the Priority (Load Order) is correct?  MO2 keeps the Priority (Load Order) I (FNS) set... if you screwed it up, reinstall the ModList from Wabbajack.**
 
-D. This is probably your problem:
+**D. This is probably your problem:**
 
 Remove all mods from Mods: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
 
@@ -527,7 +541,7 @@ Or this:
 
 ![image](https://github.com/user-attachments/assets/3f7a520c-2732-4995-80c2-454ffc0ff5af)
 
-You have to remove all mods from: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+**You have to remove all mods from: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods**
 
 
 
@@ -536,19 +550,19 @@ ________________________________________________________________________________
 # How do we update the ModList?
 
 First: You should not try to update my list piecemeal in MO2.  
-As much as I love MO2, it was one deficiency: Versioning
+As much as I love MO2, it has one deficiency: Versioning
 MO2, it's weird about versioning updates.
 If a Mod Author is sloppy about versioning, MO2 will tell you there is a more current update available, 
 even though you have the latest one, and it is trying to imply you should download the older-mislabeled-as-newer version.
 So, this is why I don't recommend you DIY Nexus updates from the mods in MO2.
 
-Just wait for me to update the ModList.  
+_Just wait for me to update the ModList._ 
 
-I will post update notifications to Guppy's 7D2D Modding Discord Server, on my #fns-wabbajack channel.  
+**I will post update notifications to Guppy's 7D2D Modding Discord Server, on my #fns-wabbajack channel.**  
 
 Caution: Sometimes you can keep using the same save-world and safely update to a new version of a ModList.  
 However, there are no guarantees this will be safe.
-It's considered best practice to start a new world when you move to an updated version of a ModList.  
+It's considered best practice to start a new world-save when you move to an updated version of a ModList.  
 So, if you want to keep playing in an existing save, wait until you are done with that playthrough prior to updating the ModList in Wabbajack.
 
 Always exit MO2 prior to updating your ModList with Wabbajack!
@@ -590,7 +604,7 @@ If you have read through everything here carefully, tried it all, and still cann
 
 please hit me up on **Guppy's 7D2D Modding Discord:  https://discord.gg/fxkW8QvR**  
 
-I have my own channel there, #fns...  I'm fairly quick to respond, and can usually get you sorted out.  
+I have my own channel there, #fns-wabbajack.  I'm fairly quick to respond, and can usually get you sorted out.  
 
 ______________________________________________________________________________________________________________________
 
@@ -604,13 +618,15 @@ After a recent Vortex update, it broke the stability of Load Orders.
 
 If you're new to modding, Load Order (mod priority) is sacred!
 
-You can't use an application that regularly messes up established Load Order, because it cause mod conflicts, errors, and crashes.
+You can't use an application that regularly messes up established Load Order, because it causes mod conflicts, errors, and crashes.
 
 I care about game stability first and foremost.  
 
-Users kept complaining that the Load Order would randomly wander between playing the Vortex Collection.
+Users kept complaining that the Load Order would randomly rearrange itself between sessions when playing the Vortex Collection.
 
-It became too time consuming to help users troubleshoot.
+You need like a damn PHD to understand all of Vortex's quirks.  
+
+It became too time consuming to help users troubleshoot, and I didn't like people bad-mounting my hard work because the tool was screwing up.  
 
 So, it was get the ModList to work in MO2/Wabbajack, or quit providing the list for users entirely.
 
@@ -622,9 +638,11 @@ Thankfully, the Wabbajack community was extremely helpful in getting 7D2D to wor
 
 A. It's my list, I added what I like, feel free to add more, but do so with care so as not to break the ModList.
 
-If you have a good mod suggestion, hit me up on the Guppy's Discord #fns channel.  https://discord.gg/fxkW8QvR
+If you have a good mod suggestion, and have tested it works with the list, please hit me up on the Guppy's Discord #fns-wabbajack channel.  https://discord.gg/fxkW8QvR
 
-B. Mods from NexusMods are automatically whitelisted for support with Wabbajack/MO2.  It makes for less work, and less hassle for me as a ModList curator. 
+B. Mods from NexusMods are automatically whitelisted for support with Wabbajack/MO2.  It makes for less work, and less hassle for me as a ModList curator.
+Including mods from other sources adds more work for me as the curator, and also adds points of failure for users using the list. 
+KISS!
 
 ---
 
@@ -636,13 +654,12 @@ There are several users playing multiplayer with friends and family using this M
 I regularly host multiplayer games with my sons, brother, and friends using this ModList.  
 
 This list is not ideal for a dedicated server, but you could cannibalize the mod list for ideas.
-Heck, maybe this list will inspire others to use MO2/Wabbajack to create Dedicated Server lists.  
 
 _Caution: Some mods like IDC's Nomad do not work in multiplayer!_
 
 ---
 
-**4. Do both server and all clients need to download this entire Collection for it to work on multiplayer?**
+**4. Do both the server and all clients need to download this entire ModList for it to work on multiplayer?**
 
 Yes!  The community-made POIs need to exist on both server and all clients.  
 
@@ -654,9 +671,11 @@ I don't have experience with dedicated servers, so I am the wrong person to ask 
 
 A general rule of thumb I learned is this; simple xml mods are generally server side. 
 
-Anything that adds something beyond a Config folder, like textures, icons, new items, UI Atlas changes, dll, meshes, **localizations**, animations, new sprites, POI, etc., will need to be on both server and client.  
+Anything that adds something beyond a Config folder, such as; textures, icons, new items, UI Atlas changes, dll, meshes, **localizations**, animations, new sprites, POI, etc., will need to be on both server and client.  
 
-EAC can stay on for pretty much anything other than when mods start adding in dll files. Then EAC has to be off.  
+EAC can stay on for pretty much anything other than when mods start adding in dll files. 
+Then EAC has to be off.    
+_EAC must be disabled prior to launching this ModList!_
 
 YES, I AM AWARE THERE ARE EXCEPTIONS TO THESE RULES.
 
@@ -672,21 +691,25 @@ No, I will not make you a version compatible with Darkness Falls, nor Rebirth, n
 
 Not my circus, not my monkies.  
 
+Both Khaine and FuriousRamsey do their own thing, and don't like people adding crap to their packs.  
+
 ---
 
 **7. Why don't you use ModLauncher, bundle everything under one zip-file, or make a "real" Overhaul Mod like Darkness Falls and Rebirth?**
 
-ModLauncher (ML) won't work for my needs in using so many other authors mods in a collated list like this.  
+A. ModLauncher (ML) won't work for my needs in using so many other authors mods in a collated list like this.  
 I tried, it's just not for this use case.  
 ML is for "real" pre-bundled Overhaul ModPacks.  
 
-Khaine and FuriousRamsay have more time and talent to dedicate to their own "real" Overhaul ModPacks than I do.  
-They make almost everything themselves in-house for their Overhaul ModPacks, or only use a handful of community-made framework mods.
-
-This list uses nearly 200 mods from about 100 different Mod Authors.  
+B. This list uses nearly 200 mods from about 100 different Mod Authors.  
 I cannot bundle their works into one zip file without each and every mod authors permission... see "herding cats".
 People who bundle other authors mods without permission/credit are seen as scum, and generally get banned from nicer modding communities.
 I don't want to piss off my fellow mod authors, they're good people!  
+
+C. Khaine and FuriousRamsay have more time and talent to dedicate to their own "real" Overhaul ModPacks than I do.  
+They make almost everything themselves in-house for their Overhaul ModPacks, or only use a handful of community-made framework mods.
+
+
 
 ---
 
@@ -698,7 +721,7 @@ FNS Special Requirement POI Pack, Izy's AIO, Lazy POI Pack, and IDC's Nomad have
 
 Caution: If you remove a "big" mod mid-game, you might have to start a new game world/save, or you will have game breaking errors.  
 
-Example: Don't install/remove FNS LAtT nor FNS Self-Planting Trees in the middle of a save.
+Example: Don't enable/disable FNS LAtT nor FNS Self-Planting Trees in the middle of a save.
 
 ---
 
@@ -732,11 +755,9 @@ Since in the base game, the progression starts with a trader, it may work that w
 
 C. Easiest Method: You could start your world with the creative/debug menus on, find/teleport to your trader of choice, then turn off those menus.  
 
-I usually just teleport to a Trader.
-
 "How do I use the Creative and Debug Menus?"
 
-In the game world, hit the F1 key to open the console.  
+In the game world, hit the F1 key to open up the console.  
 
 In the console, type "cm" and hit Enter.  This will turn the Creative Menu on.
 
@@ -764,7 +785,7 @@ ModLauncher can also be self-contained so long as you set it up correctly.
 
 ---
 
-12. "Hey, does this Wabbajack MO2 thing bundle other people's mods without giving them the credit and Donation Points?"
+12. "Hey, does this Wabbajack MO2 thing bundle other people's mods without giving them the credit and Donation Points?!"
 
 No, that would be unethical.  This system does _not_ bundle their work in a zip and pass it off as mine.  
 
@@ -772,23 +793,27 @@ From a credit and Donation Point aspect, it's no different than a user going and
 
 The Wabbajack and MO2 applications connect the API to NexusMods, so it downloads each mod individually.
 
-Mod Authors still get credit and Donations Points every time a player installs the mods from this ModList.
+Mod Authors still get download credit, complete ownership of their mods, and Donations Points (if they opted in) every time a player installs the mods from this ModList.
 
 Wabbajack and MO2 work in harmony to provide curators like me (FNS) the ability to create ModLists for users to efficiently download and run with.
 
+It's like paying for someone else to do the grocery shopping.  
+A ModPack curator provides the ModList. 
+The user just swings by and picks up the groceries that the Wabbajack-Store workers have already bagged. 
 That's it.
 
 ---
 
 13. "Does a Wabbajack/MO2 ModList require permission from the others mod authors?"
 
-No, because again, as far as NexusMods sees it, it's no different than a user going and downloading each of the mods from the ModList independantly and stringing them together exactly as I did.  
+No, because again, as far as Nexus Mods sees it, it's no different than a user going and downloading each of the mods from the ModList independantly and stringing them together exactly as I did.
+All the Wabbajack/MO2 applications do is make the process more efficient to use someone else's list.  It does **_not_** rebundle/repackage mods!  
 
 ---
 
 14. "Is Wabbajack/MO2 complicated to use... do I have to use that command-line thing?"
 
-Nope, it's the easiest method to enjoy other people's ModLists.
+Nope, it's the easiest method to enjoy other people's ModLists.  No CLI, just a simple GUI.
 
 ---
 
@@ -796,11 +821,11 @@ Nope, it's the easiest method to enjoy other people's ModLists.
 
 That depends how IT-savvy you are.  
 
-The Wabbajack Wiki on how to Compile your own ModLists is great, but requires you to read and follow directions.
+The Wabbajack Wiki on how to Compile your own ModLists is great, but it requires you to read and follow directions.
 
 Additionally, the Wabbajack Discord group is extrememly helpful in making ModLists.  
 
-If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki.  
+If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki specifically for 7D2D.  
 
 ---
 
@@ -810,9 +835,11 @@ It's long because it's comprehensive.
 
 For people who have been modding this game for years, they already know most of this stuff.  
 
-However, it's always somebody's first day.  So they get to drink from the firehose
+The more self-service users are with troubleshooting their own problems, the less work and aggravation there is for me!  
 
-Also, hopefully good users will read this, and bug me less with troubleshooting.  
+It's always someone's first day, so I assume anyone reading this could be entering the world of game modding with an empty cup.  
+
+![image](https://github.com/user-attachments/assets/9394e729-c90e-448a-90f6-f5e1111a779b)
 
 
 ______________________________________________________________________________________________________________________
