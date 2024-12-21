@@ -1,5 +1,5 @@
 # Better 7D2D by FNS
-This is an Overhaul ModList for the game 7 Days to Die using the Wabbajack and ModOrganizer2 (MO2) applications.
+This is an Overhaul ModList for the game <ins>**7 Days to Die**</ins> for PC using the Wabbajack and ModOrganizer2 (MO2) applications.
 
 ![fluffernutter-2](https://github.com/user-attachments/assets/92b104e5-8d0c-4e5d-986a-90219d0b91fd)
 
@@ -50,7 +50,15 @@ So check out his reviews if you are interested in learning about some of the bes
 - For users with a Premium NexusMods account, it is damn-near a "one-touch" modding solution to give you the best 
 
 - Even if you only have a Free NexusMods account, I've done all the work of collecting these mods and testing their Load Order for you.  
-So, even though you need to click through to download each mod, one-at-a-time, it's still faster than you doing it yourself, and with no wasted time spent troubleshooting the Load Order to sort out mod conflicts.  
+So, even though you need to click through to download each mod, one-at-a-time, it's still faster than you doing it yourself, and with no wasted time spent troubleshooting the Load Order to sort out mod conflicts.
+
+- This ModList is self-contained, meaning you can have concurrent games of **Darkness Falls**, **Rebirth**, Vanilla, and my **Better 7D2D** ModPack all without issue, so long as you don't add mods in these locations, you are good to go! 
+
+```C:\Users\UserName\AppData\Roaming\7DaysToDie\Mods```
+ 
+ and 
+ 
+```C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods```
 
 ______________________________________________________________________________________________________________________
 
@@ -77,7 +85,7 @@ ________________________________________________________________________________
 
 If you can run the base game, you can run this ModList without any issues.
 
-You can see this at the Steam Store page for the game.
+![image](https://github.com/user-attachments/assets/15da16e1-14f4-4461-a89a-2618035a5363)
 
 Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
 
