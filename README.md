@@ -438,7 +438,7 @@ If you did accidentally delete that file, run a File Integrity check from Steam.
 
 > [!WARNING]
 > The "0_TFP_Harmony" is a required reference other Mods will point to.  
-> If you delete it, or do something dumb like rename it, the other mods will not be able to refence it, and will not work!
+> If you delete it, or do something dumb like rename it, the other mods in this list will not be able to reference it, and will not work!
 
 
 ---
