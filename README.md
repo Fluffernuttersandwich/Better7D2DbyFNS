@@ -42,6 +42,16 @@ The YouTube Content Creator **DroppedIceCream** does a lot of reviews of ModList
 
 So check out his reviews if you are interested in learning about some of the best mods for those games.    
 
+
+--- 
+
+### Why you should consider using this Wabbajack-MO2 ModList?
+
+- For users with a Premium NexusMods account, it is damn-near a "one-touch" modding solution to give you the best 
+
+- Even if you only have a Free NexusMods account, I've done all the work of collecting these mods and testing their Load Order for you.  
+So, even though you need to click through to download each mod, one-at-a-time, it's still faster than you doing it yourself, and with no wasted time spent troubleshooting the Load Order to sort out mod conflicts.  
+
 ______________________________________________________________________________________________________________________
 
 # Contents
