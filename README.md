@@ -436,6 +436,11 @@ If you did accidentally delete that file, run a File Integrity check from Steam.
 
 ![image](https://github.com/user-attachments/assets/e86cbc48-27e8-4302-a38c-8fd607dbd0e0)
 
+> [!WARNING]
+> The "0_TFP_Harmony" is a required reference other Mods will point to.  
+> If you delete it, or do something dumb like rename it, the other mods will not be able to refence it, and will not work!
+
+
 ---
 
 4. You are using the most up-to-date version of Wabbajack right?
