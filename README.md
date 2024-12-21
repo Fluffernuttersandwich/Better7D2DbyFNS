@@ -332,8 +332,11 @@ If you want to add _and_ enable, or disable any prefab/POIs, do it here _prior t
 
 
 ### Standard Mods are what I (FNS) imagined as integral to this modpack.  
+
 _Most_ of the mods can be disabled here, but you should start a new game if you do so.
+
 We have a saying in my house when children are skiddish to trying new foods: "Trust the Chef!".  
+
 What I mean is: Try playing the list _as is_ before monkeying around with the Standard Mods.  
 
 ![image](https://github.com/user-attachments/assets/857bd756-de35-420b-92b9-c8ec248b4cfd)
