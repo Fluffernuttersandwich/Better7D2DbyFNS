@@ -602,7 +602,9 @@ ________________________________________________________________________________
 
 First: You should not try to update my list piecemeal in MO2.  
 As much as I love MO2, it has one deficiency: Versioning
+
 MO2, it's weird about versioning updates.
+
 If a Mod Author is sloppy about versioning, MO2 will tell you there is a more current update available, 
 even though you have the latest one, and it is trying to imply you should download the older-mislabeled-as-newer version.
 So, this is why I don't recommend you DIY Nexus updates from the mods in MO2.
