@@ -5,14 +5,6 @@ There is no way to cut the Health Bars out without causing the whole CAT UI to e
 So, if you don't like seeing Health Bars, and/or don't like the CAT UI mod, disable/remove the CAT UI Mod and use the AGF HUD instead.
 I have confirmed the AGF HUD is compatible with this ModList. Additionally, the AGF HUD has an add-on for health bars if you like theirs.
 
-From NexusMods User: AkosEquilibrior
-Regarding the CATUI_toolbelt_more_slot mod.  
-The additional hotbar comes from CATUI (for 1.1 stable) - ZZZ_CATUI_toolbelt_more_slot
-It bothered me, because the extra hotbar interfered with the crafting interface so i found a solution:
-Open the mod folder there should be a folder "Config" then another "XUi" and in there a "windows.xml". 
-Open this file with a text editior and change the value from 12 to 10. 
-Or to something higher but under 24 if you want to use the additonal hotbar slots.
-
 "Tool Time" mod: DO NOT ENABLE/DISABLE THIS MOD IN AN EXISTING SAVE OR IT WILL BREAK YOUR GAME!!!
 Disable or Enable this mod prior to starting a new game and leave that setting as is!
 This mod makes tools viable weapons... Ever wished axes and tool-hammers actually did real damage? Well, here you go.
