@@ -652,14 +652,17 @@ ________________________________________________________________________________
 
 # Contacting FNS:
 
-Please hit me up on **Guppy's 7DtD Unofficial Modding Discord: https://discord.gg/fxkW8QvR**  
-You cna find me there in the #fns-wabbajack channel.  
+You can leave comments or Bug Trackers here: https://www.nexusmods.com/7daystodie/mods/6716
+
+Or you can hit me up on **Guppy's 7DtD Unofficial Modding Discord: https://discord.gg/fxkW8QvR**  
+You can find me there in the #fns-wabbajack channel.  
+I prefer to discuss things publically over DMs, we all learn and improve together this way.  
 
 Please give me your feedback, suggestions, additions, and workarounds.
 
 ---
 
-## On asking FNS for assistance in Troubleshooting
+## On asking FNS for assistance with Troubleshooting
 
 > [!IMPORTANT]
 > No Logs = No Assistance!
@@ -679,12 +682,9 @@ If you send me screenshots of the console, I am just going to tell you to send l
 
 ![image](https://github.com/user-attachments/assets/40b8efd2-11dd-4eec-a24d-0457b0ad6f4d)
 
-If you have read through everything here carefully, tried it all, and still cannot get it to work, 
-
-
+If you have read through everything here carefully, tried it all, and still cannot get it to work, please contact me before giving up.  
 
 ______________________________________________________________________________________________________________________
-
 
 
 ## FAQs
