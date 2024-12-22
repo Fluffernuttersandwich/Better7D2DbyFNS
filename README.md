@@ -585,9 +585,9 @@ Example: If you remove SCore, Quartz, IDC Core, or other support/framework/requi
 
 **C. Are you sure the Priority (Load Order) is correct?  MO2 keeps the Priority (Load Order) I (FNS) set... if you screwed it up, reinstall the ModList from Wabbajack.**
 
-**D. This is probably your problem:**
+**D. This is probably your issue:**
 
-Remove all mods from Mods: C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+You need to remove all mods from here: ```C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods```
 
 If you see this in the (F1) Console:
 
