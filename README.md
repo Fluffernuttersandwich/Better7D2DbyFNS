@@ -910,7 +910,15 @@ https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is
 
 ---
 
-16. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
+16.
+
+How does MO2 determine Load Order for 7D2D in this ModList?
+
+![image](https://github.com/user-attachments/assets/6c2772d0-4f91-49e3-9718-1add277a269f)
+
+---
+
+17. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
 
 It's long because it's comprehensive.  
 
