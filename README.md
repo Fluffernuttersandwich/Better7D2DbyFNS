@@ -910,9 +910,7 @@ https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is
 
 ---
 
-16.
-
-How does MO2 determine Load Order for 7D2D in this ModList?
+16. How does MO2 determine Load Order for 7D2D in this ModList?
 
 ![image](https://github.com/user-attachments/assets/6c2772d0-4f91-49e3-9718-1add277a269f)
 
