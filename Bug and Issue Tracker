@@ -1,20 +1,6 @@
 ## Known Issues
 
-1. CAT UI additional toolbelt slots UI issue.
-
-There is a workaround for now, but it's manual.
-From NexusMods User: AkosEquilibrior
-Regarding the CATUI_toolbelt_more_slot mod.  
-The additional hotbar comes from CATUI (for 1.1 stable) - ZZZ_CATUI_toolbelt_more_slot
-It bothered me, because the extra hotbar interfered with the crafting interface so i found a solution:
-Open the mod folder there should be a folder "Config" then another "XUi" and in there a "windows.xml". 
-Open this file with a text editior and change the value from 12 to 10. 
-Or to something higher but under 24 if you want to use the additonal hotbar slots.
-
-Or you could live it, or you could just disable the mod, your call.
-
-
-2. These are some Warnings and Errors you will see when you load into the world.  
+1. These are some Warnings and Errors you will see when you load into the world.  
 
 They can be safely ignored.  
 
