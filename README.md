@@ -933,28 +933,7 @@ ________________________________________________________________________________
 
 ## Known Issues
 
-**1. CAT UI additional toolbelt slots UI issue.**
-
-![image](https://github.com/user-attachments/assets/fc29e78d-0c19-412d-9ed3-5c2280bd103b)
-
-I am working on a solution, but am new to UI modding, so it will take a bit of time to figure out.  
-
-
-For the toolbelt overlap:
-There is a workaround for now, but it's manual.
-From NexusMods User: AkosEquilibrior
-Regarding the CATUI_toolbelt_more_slot mod.  
-The additional hotbar comes from CATUI (for 1.1 stable) - ZZZ_CATUI_toolbelt_more_slot
-It bothered me, because the extra hotbar interfered with the crafting interface so i found a solution:
-Open the mod folder there should be a folder "Config" then another "XUi" and in there a "windows.xml". 
-Open this file with a text editior and change the value from 12 to 10. 
-Or to something higher but under 24 if you want to use the additonal hotbar slots.
-
-Or you could live it, or you could just disable the mod, your call.
-
----
-
-**2. These are some Warnings and Errors you will see when you load into the world.**
+**1. These are some Warnings and Errors you will see when you load into the world.**
 
 They can be safely ignored.  
 
@@ -1062,7 +1041,7 @@ ________________________________________________________________________________
 
 - StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
 
-- The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, JNS, and many others. 
+- The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, JNS, Keywal, and many others. 
 
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
