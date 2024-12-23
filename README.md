@@ -670,6 +670,9 @@ ________________________________________________________________________________
 
 You can use the Issues tab on top of this GitHub page to report bugs, or installation problems.  
 
+![image](https://github.com/user-attachments/assets/ac28a957-16d2-49df-8539-eef5871b140e)
+
+
 ---
 
 You can use the Discussion tab here to comment, suggest, provide tips, and chat about your overall playthrough experience using this list.  Please keep all conversation in the Discussion tab related to using this ModList. 
