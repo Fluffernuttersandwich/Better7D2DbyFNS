@@ -726,7 +726,8 @@ A. It's my list, I added what I like, feel free to add more, but do so with care
 If you have a good mod suggestion, and have tested it works with the list, please hit me up on the Guppy's Discord #fns-wabbajack channel.  https://discord.gg/fxkW8QvR
 
 B. Mods from NexusMods are automatically whitelisted for support with Wabbajack/MO2.  It makes for less work, and less hassle for me as a ModList curator.
-Including mods from other sources adds more work for me as the curator, and also adds points of failure for users using the list. 
+Including mods from other sources adds more work for me as the curator, and also introduces points of failure for users installing the list.
+I'm not looking for more work.
 KISS!
 
 ---
