@@ -668,13 +668,19 @@ ________________________________________________________________________________
 
 # Contacting FNS:
 
-You can leave comments or Bug Trackers here: https://www.nexusmods.com/7daystodie/mods/6716
+You can use the Issues tab on top of this GitHub page to report bugs, or installation problems.  
 
-Or you can hit me up on **Guppy's 7DtD Unofficial Modding Discord: https://discord.gg/fxkW8QvR**  
+---
+
+You can use the Discussion tab here to comment, suggest, provide tips, and chat about your overall playthrough experience using this list.  Please keep all conversation in the Discussion tab related to using this ModList. 
+
+If you have a moment, please vote in the current poll for "How did you hear about this ModList?"
+
+---
+
+You can also hit me up on **Guppy's 7DtD Unofficial Modding Discord: https://discord.gg/fxkW8QvR**  
 You can find me there in the #fns-wabbajack channel.  
-I prefer to discuss things publically over DMs, we all learn and improve together this way.  
-
-Please give me your feedback, suggestions, additions, and workarounds.
+I prefer to discuss things publically, and not use DMs if possible, so we all learn and improve together this way.  
 
 ---
 
