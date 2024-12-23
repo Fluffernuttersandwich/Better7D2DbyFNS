@@ -17,7 +17,8 @@ If you are a hardcore gamer, this pack is _probably_ not for you.
 
 Sample video:
 
-![treefire6 png](https://github.com/user-attachments/assets/aaa37b68-9699-48cb-8fbe-01f46f7a309e)(https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=2TC3GQESNSM))
+![treefire6 png]
+https://www.youtube.com/watch?v=2TC3GQESNSM
 
 
 
