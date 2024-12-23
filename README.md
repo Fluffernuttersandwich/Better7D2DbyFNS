@@ -217,6 +217,9 @@ ________________________________________________________________________________
 
 # Installation Directions
 
+---
+Here is a generic write-up from Wabbajack: https://wiki.wabbajack.org/user_documentation/Installing%20a%20Modlist.html
+---
 
 ## Step 0: You must have a Nexus Mods account.
 
