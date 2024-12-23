@@ -631,6 +631,14 @@ _Just wait for me to update the ModList._
 > It's considered best practice to start a new world-save when you move to an updated version of a ModList.  
 > So, if you want to keep playing in an existing save, wait until you are done with that playthrough prior to updating the ModList in Wabbajack.
 
+---
+
+> A user asked: "When updating the list from Wabbajack, is it best to make a seperate folder and re-do the list or does it automatically replace files for updates?"  
+
+- I generally do not recommend making multiple profiles.  Just update the same location you originally installed the ModList to.    
+
+---
+
 Always exit MO2 prior to updating your ModList with Wabbajack!
 
 If you cursor-hover over the picture of the ModList in the Wabbajack application gallery, you'll see which version is available.
