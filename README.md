@@ -13,6 +13,12 @@ This list is friendly to a more casual play style for people who want a relaxed 
 
 If you are a hardcore gamer, this pack is _probably_ not for you.
 
+---
+
+Sample video:
+
+https://www.youtube.com/watch?v=2TC3GQESNSM
+
 
 ______________________________________________________________________________________________________________________
 
