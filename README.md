@@ -702,7 +702,7 @@ I am currently unable to troubleshoot via telepathy, so you must send logs!
 Screenshots of the (F1) console are not logs, so send logs!
 If you send me screenshots of the console, I am just going to tell you to send logs!
 
-![Orb](https://github.com/user-attachments/assets/1e35b6c8-1c38-4a9a-b88b-c8ab6be4d2b9)
+![image](https://github.com/user-attachments/assets/9fadcd36-2cfa-49d8-a691-7d6b3f218b0c)
 
 > [!IMPORTANT]
 > When you use MO2/Wabbajack, your game logs go to a unique location:
