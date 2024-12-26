@@ -226,7 +226,8 @@ Here is a generic write-up from Wabbajack: https://wiki.wabbajack.org/user_docum
 Either Free or Premium will work.  
 
 If you have a Free account, prepare to do _a lot_ of clicking.  
-For Free accounts, Wabbajack will open one browers tab at a time, for you to manually download each mod. 
+For Free accounts, Wabbajack will open one-brower-tab-at-a-time, for you to manually download each mod.  
+200 mods = 200 tabs to click through. 
 
 Premium accounts will click once to download all of the Nexus mods, and download them at a higher speed.  
 
