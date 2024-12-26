@@ -425,12 +425,13 @@ To play the modlist of this game, you hit the "Run" (Play) button from inside th
 Once inside of the Game, at the start up screen, you will want to create a new game.
 When you go to create a new game, create a new map!  
 Create a new world with advanced generation.  I recommend 8-10k sized maps to see all of the Community made POIs.  
-Random World Generation (RWG) will take much longer than vanilla.  2-60 minutes depending on hardware and map size.  
-NASA boys in 2-3 minutes, potato-bros in 10-40 minutes.  
+Random World Generation (RWG) will take much longer than vanilla.  10-60 minutes depending on hardware and map size.  
+NASA boys in 5-20 minutes, potato-bros in 25-60 minutes.  
 
 "Why does it take so long to RWG in this list compared to Vanilla?!" 
 Becaue several of the Framework mods make significant changes to RWG.  
-... larger cities, denser cities, more cities, more POIs, less wasted space between POIs (compared to empty maps like Navezgane), fancier roads, new tiles, new block types, etc.
+Larger cities, denser cities, more cities, more POIs, less wasted space between POIs (compared to empty maps like Navezgane), fancier roads, new tiles, new block types, etc.  
+If you don't want it to take so long for RWG, you could disable "CP All in One No Traders" Mod, but then you miss out on all those great POIs.  
 
 Do not make maps larger than 10k if you are using potato-grade hardware.  
 It could crash in RWG, or worse, mid-game.  
