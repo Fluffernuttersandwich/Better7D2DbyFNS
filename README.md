@@ -104,7 +104,7 @@ Do not make maps larger than 10k if you are running on potato-grade hardware!  E
 
 https://www.wabbajack.org/ 
 
-3. Storage consideration: currently the collection is about 22GB.
+3. Storage consideration: currently the collection is about 23GB.
 "What, but 7D2D mods are small?!"
 Yes, generally, but mods like: the CompoPack, Izy's AIO Gun Pack, Bdub's vehicles, and all the Decor mods add up.
 Do you want to play a nice list or not?
