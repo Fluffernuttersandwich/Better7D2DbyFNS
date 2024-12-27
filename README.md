@@ -763,8 +763,6 @@ I regularly host multiplayer games with my sons, brother, and friends using this
 
 This list is not ideal for a dedicated server, but you could cannibalize the mod list for ideas.
 
-_Caution: Some mods like IDC's Nomad do not work in multiplayer!_
-
 ---
 
 **4. Do both the server and all clients need to download this entire ModList for it to work on multiplayer?**
@@ -825,7 +823,7 @@ They make almost everything themselves in-house for their Overhaul ModPacks, or 
 
 Disable it, and move on with your life.  No seriously, don't complain, just disable it!
 
-FNS Special Requirement POI Pack, Izy's AIO, Lazy POI Pack, and IDC's Nomad have a few requirement mods (see those mod pages for details), but most mods in this List are optional!
+Some Mods have requirement mods (see those mod pages for details), but most mods in this List are optional!
 
 Caution: If you remove a "big" mod mid-game, you might have to start a new game world/save, or you will have game breaking errors.  
 
@@ -995,18 +993,6 @@ This mod makes tools viable weapons... Ever wished axes and tool-hammers actuall
 
 ---
 
-**IDC's Nomad**
-
-This is a mobile RV base with crafting workstations.  
-
-This mod requires IDC Core and Quartz.  
-
-It is not for multiplayer.  
-
-It does not currently work for 1.2b27, so not currently part of this ModList.  I'll bring it back into the ModList once IDC updates it.
-
----
-
 **Vehicle Cruise Control**: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
 
 ---
@@ -1032,6 +1018,10 @@ FE5 also has conflicts with Izy's AIO Gun Pack mod, causing problems with 5.56 a
 B. **NPC Mods** can be buggy in this ModList, which is why I don't include them.  
 
 I'll wait for TFP to provide their Bandit update next year before I try messing with it again.
+
+C. You can either use Craft from Container (Beyond Storage) mods, or you can use the IDC Nomad.  Not both  
+If you use one set, they are not compatible with the other.  
+I chose Beyond Storage for this list.  If you can live without that, you can add IDC Core and Nomad to your game (once it's been updated).  
 
 ______________________________________________________________________________________________________________________
 
