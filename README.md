@@ -1025,6 +1025,8 @@ B. **NPC Mods** can be buggy in this ModList, which is why I don't include them.
 
 I'll wait for TFP to provide their Bandit update next year before I try messing with it again.
 
+---
+
 C. You can either use Craft from Container (Beyond Storage) mods, or you can use the IDC Nomad.  Not both  
 If you use one set, they are not compatible with the other.  
 I chose Beyond Storage for this list.  If you can live without that, you can add IDC Core and Nomad to your game (once it's been updated).  
