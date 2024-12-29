@@ -212,6 +212,8 @@ I. **Do not install/use your own MO2!**
 > Do not use a standard MO2 install downloaded from other locations, it will not work!
 > Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use this one!
 
+J. **Create Antivirus Exceptions for MO2 and 7D2D**
+Sometimes certain Antivirus softwares will silently prevent MO2 from launching the modded game correctly.  
 
 ______________________________________________________________________________________________________________________
 
@@ -619,7 +621,11 @@ Or this:
 **The only mod that should be here is the Harmony Mod:**
 ```C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods```
 
+---
 
+11. Are you sure it's not your Antivirus software blocking you from launching the game successfully with MO2?
+
+Recent user experience: "Welp, it WAS my anti-virus... just added exceptions for both MO2 and 7daystodie.exe and now it's loading."
 
 ______________________________________________________________________________________________________________________
 
