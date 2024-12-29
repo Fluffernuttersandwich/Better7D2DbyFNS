@@ -625,7 +625,15 @@ Or this:
 
 11. Are you sure it's not your Antivirus software blocking you from launching the game successfully with MO2?
 
-Recent user experience: "Welp, it WAS my anti-virus... just added exceptions for both MO2 and 7daystodie.exe and now it's loading."
+Recent user experience: "Welp, it _was_ my anti-virus... 'just added exceptions for both MO2 and 7daystodie.exe, and now it's loading."
+
+---
+
+12. Fixing Headers in MO2:
+
+> "Help, I pressed something in the MO2 application and now the Priority and Separators are messed up!  How do I fix this?!"
+
+Calm down, you didn't break it.  Click on the Priority column header in the MO2 application so it will go back to sorting by Priority.  
 
 ______________________________________________________________________________________________________________________
 
