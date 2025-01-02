@@ -1,3 +1,8 @@
+1.13: 21:00 EST 01JAN2025
+Removed: All three OSD mods because they were causing an FPS crater in some of the CompoPack POIs.  
+Removed: Both WookieNookie Named Zombies and Named Animal mods.  They had a minor conflict of not naming new mob types.  
+Status Change: Disabled Trader Quest Addendum, awaiting update... if used now, you won't get the option of vanilla quest types.  
+
 1.12: 07:30 EST 01JAN2025
 Status change: I added LittleRedSonja's Christmas is Coming (Alt) back into the List as Optional.  
 It was accidentally withheld from the WJ "ignore disabled" list.  
