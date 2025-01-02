@@ -20,21 +20,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/fluffernutter-2.jpg",
       "readme": "https://github.com/Fluffernuttersandwich/Better7D2DbyFNS/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Better 7D2D.wabbajack_a7f2e6e0-78fe-442e-b7a2-abe0b7f54403",
+      "download": "https://authored-files.wabbajack.org/Better 7D2D.wabbajack_510df782-6397-4cec-86d1-30ca473612fb",
       "machineURL": "Better7D2D",
       "discordURL": "https://discord.gg/fxkW8QvR"
     },
     "download_metadata": {
-      "Hash": "HVeH/doGE7s=",
-      "Size": 1679300,
-      "NumberOfArchives": 212,
-      "SizeOfArchives": 10498847777,
-      "NumberOfInstalledFiles": 33759,
-      "SizeOfInstalledFiles": 17127026246
+      "Hash": "Qh9vYjMmH5c=",
+      "Size": 1669649,
+      "NumberOfArchives": 208,
+      "SizeOfArchives": 10497949048,
+      "NumberOfInstalledFiles": 33679,
+      "SizeOfInstalledFiles": 17125979850
     },
-    "version": "1.12",
+    "version": "1.13",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-01T12:23:53.6769383Z",
+    "dateUpdated": "2025-01-02T01:53:27.0372437Z",
     "repositoryName": ""
   }
 ]
