@@ -1,3 +1,12 @@
+1.14 23:30 EST 02JAN2025
+Added, OP Optional: "FNS Make Quest Rewards Great Again", this mod returns the Quest Reward system back to how it was in A21, meaning you can get guns, like Izy's Guns as Quest Rewards.  
+Added, OP Optional: "Reduce Demolisher Damage".
+Added, OP Optional: "FPS No Demolishers".
+Added, OP Optional: "Start with 10 Forge Aheads by GR".
+Status Change: Disabled "Dyable" because it's not fully functional, and causes the armor to look to glossy.
+Status Change: Disabled "Trader Quest Addendum", it hasn't been updated for 1.2b27, so the special jobs it adds do not allow for normal variants to show up as job choices.   
+Notes: I added notes in MO2 for every mod on the list.  If you find any mod quirks, please report them to me, and I can add them in to the next update.  
+
 1.13: 21:00 EST 01JAN2025
 Removed: All three OSD mods because they were causing an FPS crater in some of the CompoPack POIs.  
 Removed: Both WookieNookie Named Zombies and Named Animal mods.  They had a minor conflict of not naming new mob types.  
