@@ -1,3 +1,13 @@
+1.17 14:45 EST 05JAN2025
+Added a new Separator in MO2: "Optional Performance and Graphics Tweaks (These mods may be hardware specific and might require additional knowledge to use correctly)"
+Added Framework Mod: "Gears", adds a UI to the in-game Menu Screen, needed for "Torch".
+Added Gfx/Perf Optional Mod: "Torch" to allow you to configure Lighting from the Gears menu. Will not work on potato hardware.  For Advance Users!  Please read that mods page for more info. 
+Added Gfx/Perf Optional Mod: "7 Days Super Resolution", provides DLSS options for users with a GPU that supports RTX.  For Advance Users!  Please read that mods page for more info. 
+Added Standard Mod: "Crafting Dew Collector Mods".  I thought we already had this one, but must have forgot to include it.  I only discovered it was missing when I went to go try and make a filter.   
+Added POI mods: Baron Wildpig's Castle (with zombies), Ultra Scans Clinic.  
+Note 1: Moved some mods around on the list.  
+Note 2: If you have a higher-end machine, with a GPU that supports RTX, I recommend fiddling with Torch and Super Resolution (DLSS) settings.  My game is looking gorgeous with these!
+
 1.16 19:00 EST 03JAN2025
 Update: "Sensible Lootz".
 Notes: file replacement to fix a bug.
@@ -6,7 +16,6 @@ Notes: file replacement to fix a bug.
 Added, OP Optional: "Sensible Lootz", find weapons in weapon bags.
 Added, OP Optional: "Black Wolf's Better Loot Spawns", improves loot spawns, and variety.
 Update: "Make Quest Rewards Great Again", had a bug that caused CTD, and/or not being able to collect rewards from a trader... typo on my part, sorry about that.  
-
 
 1.14 23:30 EST 02JAN2025
 Added, OP Optional: "FNS Make Quest Rewards Great Again", this mod returns the Quest Reward system back to how it was in A21, meaning you can get guns, like Izy's Guns as Quest Rewards.  
