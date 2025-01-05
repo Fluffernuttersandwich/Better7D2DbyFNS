@@ -395,6 +395,9 @@ That one is Game-Breakingly OP because it grants you two perks at every level on
 
 ![image](https://github.com/user-attachments/assets/92de5741-a517-44d0-9ba3-cf13bbd55760)
 
+## Optional Performance and Graphics Tweaks (These mods may be hardware specific and might require additional knowledge to use correctly)
+
+![image](https://github.com/user-attachments/assets/e155fa9d-e533-42c3-ac05-4ad4ae3f196b)
 
 ### Finally, there is a small handful of Requirement Mods that must load last.  
 Do not move these mods, nor add mods after these, or you will probably break these mods and possibly your save.  
@@ -403,8 +406,8 @@ If you want to play without the mods from this section, you MUST start a new gam
 ![image](https://github.com/user-attachments/assets/b829bc8f-260c-4a36-b26b-95dd1a997cb0)
 
 
-
 ---
+
 
 ## Step 6.  Launch the game from MO2.  
 
