@@ -1,3 +1,6 @@
+1.20 17:45 EST 11JAN2025
+Fixed a back end issue.  A missing reference prevented 1.19 from being available.  Thank you to community member Donovan for pointing this out.  
+
 1.19: 13:00 EST 11JAN2025
 Added Optional QoL: "FNS No Crispies with Guppy's Fire Mod".
 Updated: "Better 7D2D ModList POI Pack".  
