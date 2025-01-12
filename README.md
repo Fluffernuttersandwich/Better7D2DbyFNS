@@ -644,6 +644,8 @@ Recent user experience: "Welp, it _was_ my anti-virus... 'just added exceptions 
 
 Calm down, you didn't break it.  Click on the Priority column header in the MO2 application so it will go back to sorting by Priority.  
 
+---
+
 13. "I am unable to play multiplayer with this modlist?!"
 
 There's a ton of reasons you could be having a problem connecting, but usually it's because you didn't disable Crossplay.  
