@@ -644,6 +644,19 @@ Recent user experience: "Welp, it _was_ my anti-virus... 'just added exceptions 
 
 Calm down, you didn't break it.  Click on the Priority column header in the MO2 application so it will go back to sorting by Priority.  
 
+13. "I am unable to play multiplayer with this modlist?!"
+
+There's a ton of reasons you could be having a problem connecting, but usually it's because you didn't disable Crossplay.  
+
+Crossplay must be disabled for multiplayer using my ModList.
+
+![image](https://github.com/user-attachments/assets/77ece60e-a5f7-47dc-bd0e-4826bbbe20e6)
+
+It could also be several other reasons, like these:
+
+![image](https://github.com/user-attachments/assets/2f96d7fb-d9ec-458c-b1aa-55b2a9096484)
+
+
 ______________________________________________________________________________________________________________________
 
 # How do we update the ModList?
