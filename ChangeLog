@@ -1,5 +1,6 @@
 1.21: 20:55 EST 20JAN2025
 Added: "Legend Perks Compatibility Patch".  This tweaks the "Legend Perks" mod so you only gain 1 Perk Point per level (and not 2).  
+Added: "7DtD MO2 PLugin". I had to repackage the MO2 plugin as my own since the other one had the wronf folder structure.  
 Updated: "Sensible Lootz"
 Updated: "7 Days Super Resolution(DLSS)"
 Updated: "Better 7D2D ModList POI Pack"
