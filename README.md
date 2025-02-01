@@ -658,7 +658,6 @@ It could also be several other reasons, like these:
 
 ![image](https://github.com/user-attachments/assets/2f96d7fb-d9ec-458c-b1aa-55b2a9096484)
 
-
 ______________________________________________________________________________________________________________________
 
 # How do we update the ModList?
@@ -981,9 +980,20 @@ https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is
 
 ![image](https://github.com/user-attachments/assets/6c2772d0-4f91-49e3-9718-1add277a269f)
 
+
 ---
 
-17. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
+17. Is there a way to disable the extra HP on zombies spawning as a result of the blood moon and wandering hordes? 
+
+Sure, disable the following two mods: A. "Wandering Horde Lootbags", B. "Blood Moon Loot Bags".  
+They are both towards the bottom of the list in MO2.  It's best practice to only enable-disable mods when you start a new world.  
+It's those mods making the Horde/Wandering-Horde aombies stronger.  
+If you are going to disable those in the middle of a saved-world/playthrough, I would make a backup first, just in case.
+
+
+---
+
+18. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
 
 It's long because it's comprehensive.  
 
@@ -994,6 +1004,7 @@ The more self-service users are with troubleshooting their own problems, the les
 It's always someone's first day, so I assume anyone reading this could be entering the world of game modding with an empty cup.  
 
 ![image](https://github.com/user-attachments/assets/9394e729-c90e-448a-90f6-f5e1111a779b)
+
 
 
 ______________________________________________________________________________________________________________________
