@@ -3,6 +3,30 @@
 ![image](https://github.com/user-attachments/assets/b89d7f08-1e5b-4f16-a831-d6433a0af8d7)
 
 
+______________________________________________________________________________________________________________________
+
+## Distinctive features about this Mod List:
+
+- This is the most modular approach to modding you will see for a 7DtD ModPack.
+Unlike other Overhaul Lists that add things not all players like, you have complete control over what mods to enable/disable in your game to suit your own play style by using ModOrganizer2 (MO2). 
+
+- Unlike other Overhaul ModPacks, you are not learning a new game.
+Yet, it still feels like a fresh experience.  
+
+- This Mod List is not about overhauling major systems, nor adding too many new features.
+This list is all about improving dozens of small details that as a whole make for a better overall experience of the original game.
+
+-Most of the mods in this collection are Quality of Life (QoL) improvements to give the players a nice Vanilla+ experience without any game breaking balance issues you see in some other mod lists.
+
+- **Balance is subjective.**
+Some people think this Collection makes the game too easy.
+If you feel that way, disable the mods you don't like, and/or play with harder difficulty settings.
+
+- If you are seeking a more challenging "real" Overhaul experience, I'd recommend Darkness Falls, or Rebirth.
+
+______________________________________________________________________________________________________________________
+
+
 ## Vision for this ModList (aka Overhaul ModPack)
 
 ### It's <ins>**7 Days to Die**</ins>, *only better.*
@@ -17,30 +41,11 @@ If you are a hardcore gamer, this pack is _probably_ not for you.
 
 Sample video:
 
-![treefire6 png](https://github.com/user-attachments/assets/d4d0c349-f2ad-4850-9136-f0deef94f908)
+![small_hive](https://github.com/user-attachments/assets/dfb17561-f347-426f-b6a3-03b98d4a0efd)
 
-https://www.youtube.com/watch?v=2TC3GQESNSM
-
-
+https://youtu.be/EjcPL_E-l3w?si=4QIRitkhhwqOGEqb
 ______________________________________________________________________________________________________________________
 
-
-
-## Description
-
-- Most of the mods in this collection are Quality of Life (QoL) improvements to give the players a nice Vanilla+ experience without any game breaking balance issues you see in some other mod lists.  
-
-- This ModList is not about overhauling major systems, nor adding too many new features.  
-
-- This list is all about improving dozens of small details that as a whole make for a better overall experience of the original game.  
-
-- Unlike other Overhaul ModPacks, you are _not_ learning a new game. 
-
-- **Balance is subjective.**  
-Some people think this Collection makes the game too easy.  
-If you feel that way, disable the mods you don't like, and/or play with harder difficulty settings.  
-
-- If you are seeking a more challenging brand new Overhaul experience, I'd recommend Darkness Falls, or Rebirth. 
 
 - If you are brand new to Modding, and Wabbajack/MO2 in particular, start here for an overview: 
 
@@ -81,10 +86,6 @@ ________________________________________________________________________________
 [Requirements and Recommended Hardware Specs](##Requirements-and-Recommended-Hardware-Specs).
 
 
-          
-
-     
-
 
 ## Requirements and Recommended Hardware Specs
 
@@ -97,10 +98,12 @@ If you can run the base game, you can run this ModList without any issues.
 
 Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
 
-Do not make maps larger than 10k if you are running on potato-grade hardware!  Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
+Do not make maps larger than 10k if you are running on potato-grade hardware!  
+Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
 
 
 2. The latest version of Wabbajack.
+3. Wabbajack only recently added 7DtD compatability, so you must use the latest version or the game will not be available.
 
 https://www.wabbajack.org/ 
 
@@ -128,7 +131,8 @@ B. EAC has been disabled from the Game Launcher.  Not just temporarily muted for
 
 ---
 
-C. You did *not* delete the "0_TFP_Harmony" folder in the base game's Mods folder!
+C. You did *not* delete the "0_TFP_Harmony" folder in the base game's Mods folder!  
+>  C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods
 
 ---
 
@@ -142,8 +146,11 @@ If you have Mods running out of the base game Mods folder, or Vortex Mods folder
 If you have Mods in a self-contained system like ModLauncher, that's fine, it won't interact.
 
 > [!WARNING]
-> Please save yourself hours of aggravation and double-check that you have **Removed all mods from the Mods folder:**
+> Please save yourself hours of aggravation and double-check that you have **Removed all mods from the Mods folders:**
 > C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+> Do *not* delete the "0_TFP_Harmony" folder!!!
+> C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods
+> With the exception of the "0_TFP_Harmony" folder, both of those folders should be empty!  
 
 ![image](https://github.com/user-attachments/assets/5dc12ac2-57aa-4e6a-8ce7-efc9cbaf5d85)
 
@@ -174,9 +181,9 @@ H. Best Practice for all PC Gaming, and especially Modding: **Store Mods and Mod
 > [!WARNING]
 > Never name your the download/installation folder/sub-folder directory "downloads"!
 > It will confuse the download process because MO2 creates its own "downloads" folder.
-> If you did this, you messed up.  You _might_ be able to rename your folder, but chances are, you need to start again.  
+> If you did this, you messed up.  You _might_ be able to rename your folder/manually move files, but chances are, you need to start again.  
 
-**In Windows, you should _avoid_ storing mods on your system drive (usually labeled as "C:"),**
+**In Windows, you should avoid storing mods on your system drive (usually labeled as "C:"), _if possible_**
 
 particularly in locations like the "Program Files" folder, 
 as this can cause potential issues with game updates, compatibility problems, 
@@ -201,7 +208,7 @@ Example:
 
 ![image](https://github.com/user-attachments/assets/87030c6e-60de-4921-9cd0-5cca3f885389)
 
-If you only have one drive, like C, and the OS is on it, then create your own Modding folder on the OS Drive like this example:
+If you only have one drive, like C:, and the OS is on it, then create your own Modding folder on the OS Drive like this example:
 _This is the second best option if you don't have a spare drive._
 
 ### C:\Modding
@@ -214,7 +221,7 @@ I. **Do not install/use your own MO2!**
 
 > [!WARNING]
 > This ModList uses it's own modified instance of MO2, and it is part of the download of this Wabbajack list.  
-> Do not use a standard MO2 install downloaded from other locations, it will not work!
+> Do not use a standard MO2 install downloaded from other locations, it will (probably) not work!
 > Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use this one!
 
 J. **Create Antivirus Exceptions for MO2 and 7D2D**
@@ -234,7 +241,7 @@ Either Free or Premium will work.
 
 If you have a Free account, prepare to do _a lot_ of clicking.  
 For Free accounts, Wabbajack will open one-browser-tab-at-a-time, for you to manually download each mod.  
-200 mods = 200 tabs to click through. 
+230 mods = 230 tabs to click through. 
 
 Premium accounts will click once to download all of the Nexus mods, and download them at a higher speed.  
 
@@ -395,8 +402,7 @@ But again, it's best practice to start a new game anytime you alter mods.
 
 The deselected mods in this screenshot are the ones I disable for my own playthroughs. 
 
-None of the "OP" mods listed here are aggregiously OP, except for "Legend Perks".  
-That one is Game-Breakingly OP because it grants you two perks at every level on top of giving you more perks to choose from!
+None of the "OP" mods listed here are aggregiously OP.
 
 ![image](https://github.com/user-attachments/assets/92de5741-a517-44d0-9ba3-cf13bbd55760)
 
@@ -483,7 +489,7 @@ It CANNOT be set to ask if you want to turn it off at each launch, it must be di
 
 Typically here:  
 ```C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods``` 
-If you did accidentally delete that file, run a File Integrity check from Steam.
+If you did accidentally delete that file, run a File Integrity check from Steam, and it will redownload those missing files.  
 
 ![image](https://github.com/user-attachments/assets/e86cbc48-27e8-4302-a38c-8fd607dbd0e0)
 
@@ -662,18 +668,18 @@ ________________________________________________________________________________
 
 # How do we update the ModList?
 
-First: You should not try to update my list piecemeal in MO2.  
+First: You should not try to update my list piecemeal in MO2 manually yourself unless you are an advanced user.  
 As much as I love MO2, it has one deficiency: Versioning
 
 MO2, it's weird about versioning updates.
 
 If a Mod Author is sloppy about versioning, MO2 will tell you there is a more current update available, 
-even though you have the latest one, and it is trying to imply you should download the older-mislabeled-as-newer version.
+even though you have the latest one, and it is trying to imply you should download the older-but-mislabeled-as-newer version.
 So, this is why I don't recommend you DIY Nexus updates from the mods in MO2.
 
 _Just wait for me to update the ModList._ 
 
-**I will post update notifications to Guppy's 7D2D Modding Discord Server, on my #fns-wabbajack channel. https://discord.gg/qXkMBVHX **  
+**I will post update notifications to Guppy's Unofficial 7DtD Modding Discord Server, on my #fns-wabbajack channel. https://discord.gg/qXkMBVHX **  
 
 > [!CAUTION]
 > Sometimes you can keep using the same save-world and safely update to a new version of a ModList.  
@@ -810,7 +816,7 @@ Additionally, some of the mods likely also require installation on both client a
 
 I don't keep track of which mods are server side or client side, so don't ask me.  
 
-I don't have experience with dedicated servers, so I am the wrong person to ask you to troubleshoot that area.  
+I don't have experience with dedicated servers, so I am the wrong person to ask to troubleshoot that area.  
 
 A general rule of thumb I learned is this; simple xml mods are generally server side. 
 
@@ -832,7 +838,7 @@ YES, I AM AWARE THERE ARE EXCEPTIONS TO THESE RULES.
 
 No, I will not make you a version compatible with Darkness Falls, nor Rebirth, nor any other Overhaul Pack.
 
-Not my circus, not my monkies.  
+Not my circus, not my monkeys.  
 
 Both Khaine and FuriousRamsey do their own thing, and don't like people adding crap to their packs.  
 
@@ -844,13 +850,17 @@ A. ModLauncher (ML) won't work for my needs in using so many other authors mods 
 I tried, it's just not for this use case.  
 ML is for "real" pre-bundled Overhaul ModPacks.  
 
-B. This list uses nearly 200 mods from about 100 different Mod Authors.  
+B. This list uses over 200 mods from about 100 different Mod Authors.  
 I cannot bundle their works into one zip file without each and every mod authors permission... see "herding cats".
 People who bundle other authors mods without permission/credit are seen as scum, and generally get banned from nicer modding communities.
 I don't want to piss off my fellow mod authors, they're good people!  
 
 C. Khaine and FuriousRamsay have more time and talent to dedicate to their own "real" Overhaul ModPacks than I do.  
 They make almost everything themselves in-house for their Overhaul ModPacks, or only use a handful of community-made framework mods.
+
+D. I prefer a more modular approach to modding.  
+Darkness Falls and Rebirth are both excellent Overhauls, but contain mods I wish I could disable/add-to. 
+With my ModList, it's like a buffet table, take the things you like, and leave the things you don't.  
 
 
 
@@ -860,7 +870,7 @@ They make almost everything themselves in-house for their Overhaul ModPacks, or 
 
 Disable it, and move on with your life.  No seriously, don't complain, just disable it!
 
-Some Mods have requirement mods (see those mod pages for details), but most mods in this List are optional!
+Some Mods have requirement mods (see those mod pages for details), but the vast majority of mods in this List are optional!
 
 Caution: If you remove a "big" mod mid-game, you might have to start a new game world/save, or you will have game breaking errors.  
 
@@ -872,7 +882,7 @@ Example: Don't enable/disable FNS LAtT nor FNS Self-Planting Trees in the middle
 
 If you delete this whole ModList, or disable it in parts, you will need to start a new save/world.
 
-Trying to play a heavily modded save/world, after removing big mods will cause you errors... just start a new world/save! 
+Trying to play a heavily modded save/world in any game, after removing big mods will cause you errors... just start a new world/save! 
 
 ---
 
@@ -987,7 +997,7 @@ https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is
 
 Sure, disable the following two mods: A. "Wandering Horde Lootbags", B. "Blood Moon Loot Bags".  
 They are both towards the bottom of the list in MO2.  It's best practice to only enable-disable mods when you start a new world.  
-It's those mods making the Horde/Wandering-Horde aombies stronger.  
+It's those mods making the Horde/Wandering-Horde zombies stronger.  
 If you are going to disable those in the middle of a saved-world/playthrough, I would make a backup first, just in case.
 
 
@@ -1079,7 +1089,7 @@ ________________________________________________________________________________
 
 # Additional Links
 
-1. If you would like to see videos of me plyaing through this ModList, or showcasing my POIs and mods, **check out my YouTube channel**.
+1. If you would like to see videos of me playing through this ModList, or showcasing my POIs and mods, **check out my YouTube channel**.
 
 **https://www.youtube.com/@FlufferNutterSandwich**
 
@@ -1103,7 +1113,7 @@ ________________________________________________________________________________
 
 - YOU for reading this.
 
-- Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
+- - Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
 
 - JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7D2D compatible with Wabbajack.  MVP!
 
