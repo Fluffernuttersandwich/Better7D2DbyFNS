@@ -147,9 +147,13 @@ If you have Mods in a self-contained system like ModLauncher, that's fine, it wo
 
 > [!WARNING]
 > Please save yourself hours of aggravation and double-check that you have **Removed all mods from the Mods folders:**
+> 
 > C:\Users\YourUserName\AppData\Roaming\7DaysToDie\Mods
+> 
 > Do *not* delete the "0_TFP_Harmony" folder!!!
+> 
 > C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods
+> 
 > With the exception of the "0_TFP_Harmony" folder, both of those folders should be empty!  
 
 ![image](https://github.com/user-attachments/assets/5dc12ac2-57aa-4e6a-8ce7-efc9cbaf5d85)
