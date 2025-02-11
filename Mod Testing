@@ -1,5 +1,7 @@
 1.24: TBD
 
+Removed: "Azarath Park".  It was causing an error at start up... it was working in game, but I didn't want users complaining about an error.  
+
 Added: "Show Repair Requirements".
 Added: "Efficient Base Repair - Upgrade"
 Added: "REASONABLE Large Stacks for IZY AIO"
@@ -8,12 +10,10 @@ Added: "Clear Quest Debug"
 Added: "Zeebark POI Pack"
 Added: "Chickens and small bears can climb ladders"
 
-
 Updated: "Essex Bridge (Straight Gateway Tile)"
 Updated: "Farnsworth Residence" 
 Updated: "Clopex Estate"
 Updated: "Stargate P7D-427"
-Updated: "Azarath Park"
 Updated: "Gella Park"
 Updated: "Dyable"
 
