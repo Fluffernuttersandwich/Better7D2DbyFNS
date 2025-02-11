@@ -103,7 +103,7 @@ Even if you are able to generate the map, the game could become corrupted after 
 
 
 2. The latest version of Wabbajack.
-3. Wabbajack only recently added 7DtD compatability, so you must use the latest version or the game will not be available.
+Wabbajack only recently added 7DtD compatability, so you must use the latest version or the game will not be available.
 
 https://www.wabbajack.org/ 
 
