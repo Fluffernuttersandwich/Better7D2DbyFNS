@@ -16,7 +16,7 @@ Yet, it still feels like a fresh experience.
 - This Mod List is not about overhauling major systems, nor adding too many new features.
 This list is all about improving dozens of small details that as a whole make for a better overall experience of the original game.
 
--Most of the mods in this collection are Quality of Life (QoL) improvements to give the players a nice Vanilla+ experience without any game breaking balance issues you see in some other mod lists.
+- Most of the mods in this collection are Quality of Life (QoL) improvements to give the players a nice Vanilla+ experience without any game breaking balance issues you see in some other mod lists.
 
 - **Balance is subjective.**
 Some people think this Collection makes the game too easy.
