@@ -121,7 +121,7 @@ ________________________________________________________________________________
 ## Assumptions 
 
 
-A. You have already installed 7D2D, using the latest *stable* version of the game.  Currently, this is: **1.2b27**
+A. You have already installed 7D2D, using the latest *stable* version of the game.  Currently, this is: **1.3b9**
 
 _This list is exclusively compatible with this version!_
 
@@ -475,7 +475,7 @@ ________________________________________________________________________________
 
 # Troubleshooting
 
-1. Are you sure you are on the correct game version?  Currently this is 7D2D game version: **1.2b27**
+1. Are you sure you are on the correct game version?  Currently this is 7D2D game version: **1.3b9**
 ![image](https://github.com/user-attachments/assets/7b908b39-5b5a-4012-bc6a-9b638bebd593)
 
 ---
