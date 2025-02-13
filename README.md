@@ -476,7 +476,9 @@ ________________________________________________________________________________
 # Troubleshooting
 
 1. Are you sure you are on the correct game version?  Currently this is 7D2D game version: **1.3b9**
-![image](https://github.com/user-attachments/assets/7b908b39-5b5a-4012-bc6a-9b638bebd593)
+![1 3b9](https://github.com/user-attachments/assets/c1d2322c-20aa-4a18-951f-24c9ca0cf034)
+
+
 
 ---
 
