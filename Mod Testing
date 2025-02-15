@@ -6,22 +6,35 @@ Added:
 "Full Auto Launcher" Framework/Requirement mod for EFT.  
 "Custom Muzzle Flash" Framework/Requirement mod for EFT.  
 "KF Common Utility Library" Framework/Requirement mod for EFT.  
-"Oakraven Rock Drill"
-"Oakraven Cooking Stations"
-"Oakraven Cement Mixer"
-"Oakraven Power Things"
-"Oakraven Fish Farm"
-"Oakraven Bee Hives"
-"Oakraven Balloons"
-"Oakraven Forges"
-"Oakraven Walkways"
-"Oakraven Self-Seed Farming"
-"Oakraven Chicken Coops"
-"Natural Progression"
-
+"Oakraven Rock Drill" Auto-resource mining workstation.  
+"Oakraven Cooking Stations" Aesthetic variant cooking workstations.
+"Oakraven Cement Mixer" More efficient cement mixing.
+"Oakraven Power Things" Superior late game power generation systems.  
+"Oakraven Fish Farm" Adds a fish farm workstation to the game.
+"Oakraven Bee Hives" Adds new workstations for honey production.
+"Oakraven Balloons" Hot Air Balloons as a means of conveyance.  
+"Oakraven Forges" Aesthetic variant forge workstations.
+"Oakraven Walkways" Adds 'accordian' bridges
+"Oakraven Self-Seed Farming" Harvestable plants in Farm Plots will self-plant instead of seed-drop.  
+"Oakraven Chicken Coops" Adds a chicken coop workstation.  
+"Natural Progression" Learn by doing experience system stacked on top of the learn by reading system.  
  
 Updated: 
 "0-SCore"
+
+Comments: 
+
+1. With EFT becoming massively popular, players kept asking me if it was compatible with my Mod List.  
+It's not.  However, StallionsDen was working on EFT/Izy weapons compatability.  I helped him play test balance and troubleshooting some problems.
+Now we have his EFT Extraction Pack as a mod for the list if you are a gun nut.  It's nearly 6 Gb, so don't complain, it is what it is.  
+EFT weapons will water down the ammo, ammo ingredient, and weapon loot tables.  
+After playtesting with it for a while, I noticed ammo production will be crucial, because you will never find your flavor of ammo in large quantities.  
+Because of that, I am working on expanding Oakraven's Ammo Press workstation to support Izy and EFT ammo.
+
+2. I originally held off on adding Oakraven's stuff, because I wasn't sure if it would add loot bloat, or uneccessarily complicate the game.  
+Players kept asking, and I finally decided to try using them in the list.  They are straight forward, and no loot bloat.
+
+3. 
 
 
 __________________________________________________________
