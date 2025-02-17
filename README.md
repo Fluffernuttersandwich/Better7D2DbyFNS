@@ -465,10 +465,11 @@ Recommended RWG Settings for this modpack if you want to see a better variety of
 
 ## Step 8.  Recommended Game Settings
 
-Play with Loot Abundance set to 75% or lower.  There is more than enough loot from the "FNS's Loot All the Things" (LAtT) mod.  
+**Loot Consideration:** Play with Loot Abundance set to 75% or lower.  There is more than enough loot from the "FNS's Loot All the Things" (LAtT) mod.  
+
 ![image](https://github.com/user-attachments/assets/a541ac67-95b3-4d67-a6a2-9e92d7b260d5)
 
-
+**Difficulty Recommendation:** Since the weapons from EFT and Izy are stronger than vanilla guns, you are strongly encouraged to play with higher than normal difficulty settings.  
 ______________________________________________________________________________________________________________________
 
 
