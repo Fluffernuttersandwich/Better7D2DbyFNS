@@ -877,6 +877,8 @@ With my ModList, it's like a buffet table, take the things you like, and leave t
 
 Disable it, and move on with your life.  No seriously, don't complain, just disable it!
 
+This is the beauty of using MO2; I provide you with a buffet table of options, you get to choose what you want.
+
 Some Mods have requirement mods (see those mod pages for details), but the vast majority of mods in this List are optional!
 
 Caution: If you remove a "big" mod mid-game, you might have to start a new game world/save, or you will have game breaking errors.  
@@ -887,7 +889,7 @@ Example: Don't enable/disable FNS LAtT nor FNS Self-Planting Trees in the middle
 
 9. **This is not a "lightweight" mod list!**  
 
-If you delete this whole ModList, or disable it in parts, you will need to start a new save/world.
+If you delete this whole ModList, or disable it in parts, you will (probably) need to start a new save/world.
 
 Trying to play a heavily modded save/world in any game, after removing big mods will cause you errors... just start a new world/save! 
 
