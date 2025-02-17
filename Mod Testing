@@ -1,5 +1,7 @@
 1.26: TBD
 
+Removed: "Reclaim Storage Crates", replaced with a better version.
+
 Added:
 "EFT Extraction Pack" Adds the weapons, ammo, mods, injectables, first aid, and all of the ingredient components to craft them from the popular Escape from Tarkov Overhaul mod. 
 "Custom Player Action Manager" Framework/Requirement mod for EFT.  
@@ -23,7 +25,9 @@ Added:
 "Natural Progression" Learn by doing experience system stacked on top of the learn by reading system.  
 "World Ready Chime" plays a sound to let you know your game is ready to play at "spawn" screen.  
 "The Descent" This mod is an extension of the Random World Generator to generate massive cave systems procedurally, includes exclusive cave prefab.  
-
+"The Vault Pack for The Descent" 
+"Mega Pack I for The Descent" 
+"TheMeanOnes Pickup Crates N Workstations"
  
 Updated: 
 "0-SCore"
