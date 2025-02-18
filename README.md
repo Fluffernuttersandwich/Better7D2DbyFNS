@@ -362,10 +362,16 @@ _The following screenshots in this section were uploaded from Revision version 1
 > Choose only one UI Provider or disable them all!  Do not mix and match from multiple Providers.
 
 **Pick _one_ UI Suite from the following four options:**
+
 A. CAT UI
+
 B. Steel UI
+
 C. AGF HUD UI
+
 D. Disable all the UI mods, and play with the vanilla POI.
+
+
 
 ### **Prefabs, POIs, and RWG tweaks.**  
 If you want to add _and_ enable, or disable any prefab/POIs, do it here _prior to making a new world_.  
