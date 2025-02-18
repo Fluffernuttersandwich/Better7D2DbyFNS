@@ -354,8 +354,20 @@ _The following screenshots in this section were uploaded from Revision version 1
 ## Do not disable **Framework/Requirement Mods** (unless you are an advanced modder and you know what you are doing).
 ![image](https://github.com/user-attachments/assets/07fed2a2-1379-4cc7-8c13-f06d4c307889)
 
+### **UI Suite Option**  
 
-### **Prefabs and POIs.**  
+![UI_Options](https://github.com/user-attachments/assets/ea44bbca-91af-4c17-8c71-a1a0ef31e76d)
+
+> [!CAUTION]
+> Choose only one UI Provider or disable them all!  Do not mix and match from multiple Providers.
+
+**Pick _one_ UI Suite from the following four options:**
+A. CAT UI
+B. Steel UI
+C. AGF HUD UI
+D. Disable all the UI mods, and play with the vanilla POI.
+
+### **Prefabs, POIs, and RWG tweaks.**  
 If you want to add _and_ enable, or disable any prefab/POIs, do it here _prior to making a new world_.  
 **DO NOT DISABLE PREFABS/POIs MID-SAVE!**
 ![image](https://github.com/user-attachments/assets/12161046-e02b-49f2-9b8f-a5141c956e07)
