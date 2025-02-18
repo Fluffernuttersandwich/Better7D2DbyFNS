@@ -433,11 +433,13 @@ None of the "OP" mods listed here are aggregiously OP.
 ![image](https://github.com/user-attachments/assets/e155fa9d-e533-42c3-ac05-4ad4ae3f196b)
 
 
-### Finally, there is a small handful of Requirement Mods that must load last.  
+### Finally, there is a small handful of mods that must load last.  
 Do not move these mods, nor add mods after these, or you will probably break these mods and possibly your save.  
-If you want to play without the mods from this section, you MUST start a new game save with these mods disabled!
+If you want to play without the mods from this section, you _should_ start a new game save with these mods disabled!
 
-![image](https://github.com/user-attachments/assets/b829bc8f-260c-4a36-b26b-95dd1a997cb0)
+
+![last](https://github.com/user-attachments/assets/a6dfa4a8-341f-408c-90f1-c5b3f8701a46)
+
 
 
 ---
