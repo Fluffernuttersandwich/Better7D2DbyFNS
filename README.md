@@ -1095,11 +1095,9 @@ ________________________________________________________________________________
 
 ## Mods to consider avoiding while using this ModList:
 
-A. **Firearms Expansion 5 (FE5)**
+A. **Firearms Expansion 5 (FE5)** , **Pant's Weapons**
 
-FE5 has a conflict with LittleRedSonja's ammo recycling mods.  
-
-FE5 also has conflicts with Izy's AIO Gun Pack mod, causing problems with 5.56 ammo.  
+Ammo Conflicts.
 
 ---
 
@@ -1112,6 +1110,10 @@ I'll wait for TFP to provide their Bandit update next year before I try messing 
 C. You can either use Craft from Container (Beyond Storage) mods, or you can use the IDC Nomad.  Not both  
 If you use one set, they are not compatible with the other.  
 I chose Beyond Storage for this list.  If you can live without that, you can add IDC Core and Nomad to your game (once it's been updated).  
+
+---
+
+D. This Mod List is not compatible with the main EFT, Rebirth, Darkness Falls, nor Overhauls.  
 
 ______________________________________________________________________________________________________________________
 
