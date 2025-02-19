@@ -14,6 +14,9 @@ So I also made a patch for Oakraven's Ammo Press to support Izy and the "EFT Ext
 Players kept asking, and I finally decided to try using them in the list.  They intuitively work in the game, no errors, and no loot bloat.  
 
 3. The Descent.  This is a brand new and EXPERIMENTAL mod, but from the playtesting I have done so far, it works just fine.
+This Mod is Experimental!  
+Known issue: If you play with both the Descent and the EFT Extraction Pack, you cannot run or jump while a player lightsource is on.  
+I reported the bug to the author, he will patch it in a week or so.  
 
 4. UI Options: Some players absoloutely hate the CAT UI.  So, I gave them more options.  
 They can now choose from four optional UI Suites: CAT UI, Steel UI, AGF HUD UI, or disable them all for the vanilla UI.  
@@ -29,10 +32,6 @@ New Separator for UI Options
 "Steel UI HUD" Optional UI suite.
 "AGF HUD UI" Optional UI suite.
 "EFT Extraction Pack" Adds the weapons, ammo, mods, injectables, first aid, and all of the ingredient components to craft them from the popular Escape from Tarkov Overhaul mod. 
-"Custom Player Action Manager" Framework/Requirement mod for EFT.  
-"Full Auto Launcher" Framework/Requirement mod for EFT.  
-"Custom Muzzle Flash" Framework/Requirement mod for EFT.  
-"KF Common Utility Library" Framework/Requirement mod for EFT.  
 "Oakraven Rock Drill" Auto-resource mining workstation.  
 "Oakraven Cooking Stations" Aesthetic variant cooking workstations.
 "Oakraven Cement Mixer" More efficient cement mixing.
