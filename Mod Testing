@@ -1,67 +1,27 @@
-1.26: TBD
+1.28: TBD
 Comments: 
-
-Shucks howdy this is the biggest update I have ever done.
-
-1. With EFT becoming massively popular, players kept asking me if it was compatible with my Mod List.  
-It's not.  However, StallionsDen was working on EFT/Izy weapons compatibility.  I helped him with playtesting balance and troubleshooting some problems.
-Now we have his "EFT Extraction Pack" as a mod for the list if you are a gun nut.  It's nearly 6 Gb, so don't complain about the size, it is what it is.  
-EFT weapons will water down the ammo, ammo ingredient, and weapon loot tables.  That can't be helped.  
-After playtesting with it for a while, I noticed ammo production will be crucial, because you will never find your flavor of ammo in large quantities.  
-So I also made a patch for Oakraven's Ammo Press to support Izy and the "EFT Extraction Pack".
-
-2. I originally held off on adding Oakraven's stuff, because I wasn't sure if it would add loot bloat, cause errors, or uneccessarily complicate the game.  
-Players kept asking, and I finally decided to try using them in the list.  They intuitively work in the game, no errors, and no loot bloat.  
-
-3. The Descent.  This is a brand new and EXPERIMENTAL mod, but from the playtesting I have done so far, it works just fine.
-This Mod is Experimental!  
-The Descent adds time to RWG and loading into the world.
-Currently Descent has some lighting issues that will be resolved in the next update, within a week or so.  
-Known issue: If you play with both the Descent and the EFT Extraction Pack, you cannot run or jump while a player lightsource is on.  
-I reported the bug to the author, he will patch it in a week or so.  
-
-4. UI Options: Some players absoloutely hate the CAT UI.  So, I gave them more options.  
-They can now choose from four optional UI Suites: CAT UI, Steel UI, AGF HUD UI, or disable them all for the vanilla UI.  
+1. Added an optional sleep system mod: "7 Days of Insomnia".  
+2. Shuffled some mods around on the list to better categorize them.
 
 Removed: 
-"Reclaim Storage Crates", replaced with a better version.
-
-Disabled: 
-"Little Buddy" currently bugged, 'worked with LRS to give the author the fix.  Keeping in the list until the author updates their mod.  
+"Sleep Unitl Dawn", replaced by Insomnia.
 
 Added:
-New Separator for UI Options
-"Steel UI HUD" Optional UI suite.
-"AGF HUD UI" Optional UI suite.
-"EFT Extraction Pack" Adds the weapons, ammo, mods, injectables, first aid, and all of the ingredient components to craft them from the popular Escape from Tarkov Overhaul mod. 
-"Oakraven Rock Drill" Auto-resource mining workstation.  
-"Oakraven Cooking Stations" Aesthetic variant cooking workstations.
-"Oakraven Cement Mixer" More efficient cement mixing.
-"Oakraven Power Things" Superior late game power generation systems.  
-"Oakraven Fish Farm" Adds a fish farm workstation to the game.
-"Oakraven Bee Hives" Adds new workstations for honey production.
-"Oakraven Balloons" Hot Air Balloons as a means of conveyance.  
-"Oakraven Forges" Aesthetic variant forge workstations.
-"Oakraven Walkways" Adds 'accordian' bridges
-"Oakraven Self-Seed Farming" Harvestable plants in Farm Plots will self-plant instead of seed-drop.  
-"Oakraven Chicken Coops" Adds a chicken coop workstation.  
-"Oakraven Ammo Press" Adds an Ammo Press workstation for more efficient ammo production.  
-"Ammo Press Add-On Compatibility Patch for EFT" for EFT ammo.
-"Ammo Press Add-On Compatibility Patch for Izy" for Izy ammo.
-"Natural Progression" Learn by doing experience system stacked on top of the learn by reading system.  
-"World Ready Chime" plays a sound to let you know your game is ready to play at the spawn screen.  
-"The Descent" This mod is an extension of the Random World Generator to generate massive cave systems procedurally, includes exclusive cave prefab.  
-"The Vault Pack for The Descent" Fallout Vaults under The Descent.
-"Mega Pack I for The Descent" More POIs for The Descent.
-"TheMeanOnes Pickup Crates N Workstations"
-"Sphereii One Block Crouch".  I think it accidentally fell off of the list.  
+New Separator for Decor Mods.
+New Separator for Insomnia Suite.
+"RuntimeOCD" to help troubleshoot errors.  
+"7 Days of Insomnia" Sleep system.
+"Dewtas Car Respawner"
+
  
 Updated: 
-"0-SCore"
-"FNS Make Quest Rewards Great Again" Thanks StallionsDen!
-"Halloweeny"
-"(A21 and 1.0) Black Wolf's better loot spawns"
-"Compopack V1 CP Modded"
+"Modded CompoPack"
+"EFT Extraction Pack"
+"LittleRedSonja Ammunition Recycling".  
+"OPTIONAL ADD-ON Custom Ammo Bench by LittleRedSonja"
+LittleRedSonja kindly added compatibility to our EFT Extraction Pack, and Oakraven Ammo Press add-ons!  
+She's wonderful!  Please thank her if you appreciate what she does for our community!
+
 
 
 
