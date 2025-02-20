@@ -1109,11 +1109,11 @@ I'll wait for TFP to provide their Bandit update next year before I try messing 
 
 C. You can either use Craft from Container (Beyond Storage) mods, or you can use the IDC Nomad.  Not both  
 If you use one set, they are not compatible with the other.  
-I chose Beyond Storage for this list.  If you can live without that, you can add IDC Core and Nomad to your game (once it's been updated).  
+I chose Beyond Storage for this list.  If you can live without that, you can add IDC Core and Nomad to your game.  
 
 ---
 
-D. This Mod List is not compatible with the main EFT, Rebirth, Darkness Falls, nor Overhauls.  
+D. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness Falls, nor most other Overhauls.  
 
 ______________________________________________________________________________________________________________________
 
