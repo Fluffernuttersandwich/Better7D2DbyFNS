@@ -681,7 +681,7 @@ Calm down, you didn't break it.  Click on the Priority column header in the MO2 
 
 13. "I am unable to play multiplayer with this modlist?!"
 
-There's a ton of reasons you could be having a problem connecting, but usually it's because you didn't disable Crossplay.  
+There's a ton of reasons you could be having that would cause this issue, but usually it's because you didn't disable Crossplay.  
 
 Crossplay must be disabled for multiplayer using my ModList.
 
