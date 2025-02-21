@@ -1,11 +1,20 @@
 1.28: sometime 21FEB2025
+
 Comments: 
-1. Added an optional sleep system mod: "7 Days of Insomnia".  
-2. Shuffled some mods around on the list to better categorize them.
+
+1. Added an optional sleep system mod: "7 Days of Insomnia". If you don't want to play with it, that's fine, again, it's optional!   
+
+2. Shuffled some mods around on the list to better categorize them.  
+
+3. Using "TheMeanOnes Pickup Crates N Workstations" mod, it doesn't currently work on the modded-oakraven workstations, only vanilla workstations.  
+I might make a patch add-on for this...
+
+4. Because we are the primary guinea pigs for the EFT Extraction Pack, if you notice a balance issue, please let me or StallionsDen know.
+Example: We might pull the surgical kit in a future update... it doesn't function like it does in the EFT Overhaul, is worth too much money, and is too common to find.  
 
 Removed: 
 "More Shots" Causing an issue breaking progression for other mods.  
-"Falcons Bike changes" Causing an issue breaking progression for other mods.  
+"Falcons Bike changes" Causing an issue breaking progression for other mods.  Sad to see this one go, but not worth the knots it tied everything up in.  
 "Sleep Unitl Dawn", replaced by Insomnia.
 "Jakmeister999's REASONABLE Large Stacks (V1.0)" replaced with "Stallionsdens Stack Size Increaser V1.0"
 "REASONABLE Large Stacks for IZY AIO" replaced with "Stallionsdens Stack Size Increaser V1.0"
@@ -14,14 +23,14 @@ Both Oakraven Ammo Press add-on patches for Izy and EFT, replaced by "V1-Oakrave
 Added:
 New Separator for Decor Mods.
 New Separator for Insomnia Suite.
-"RuntimeOCD" to help troubleshoot errors.  
+"RuntimeOCD" to help troubleshoot errors.  Please keep this one if you send me logs to troubleshoot for you!    
 "7 Days of Insomnia" Sleep system.
 "Dewtas Car Respawner"
 "Stallionsdens Stack Size Increaser V1.0"
 "V1-OakravenAmmoPress-Izy-EFT-Extraction"
 "Craftable Helmet Attribute Mods"
+"DoubleBlundy's Bounty Quests"
 
- 
 Updated: 
 "Modded CompoPack"
 "EFT Extraction Pack"
@@ -29,8 +38,6 @@ Updated:
 "OPTIONAL ADD-ON Custom Ammo Bench by LittleRedSonja"
 LittleRedSonja kindly added compatibility to our EFT Extraction Pack, and Oakraven Ammo Press add-ons!  
 She's wonderful!  Please thank her if you appreciate what she does for our community!
-
-
 
 
 __________________________________________________________
