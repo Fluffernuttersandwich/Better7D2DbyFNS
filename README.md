@@ -183,7 +183,7 @@ Because Wabbajack will compare the hash files of your base game files to it's va
 H. Best Practice for all PC Gaming, and especially Modding: **Store Mods and Mod Applications in the correct locations!**
 
 > [!WARNING]
-> Never name your the download/installation folder/sub-folder directory "downloads"!
+> Never name your download/installation folder/sub-folder directory "downloads"!
 > It will confuse the download process because MO2 creates its own "downloads" folder.
 > If you did this, you messed up.  You _might_ be able to rename your folder/manually move files, but chances are, you need to start again.  
 
