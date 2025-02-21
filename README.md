@@ -853,7 +853,7 @@ EAC can stay on for pretty much anything other than when mods start adding in dl
 Then EAC has to be off.    
 _EAC must be disabled prior to launching this ModList!_
 
-YES, I AM AWARE THERE ARE EXCEPTIONS TO THESE RULES.
+To the Plebbit MidWit itching to correct me: YES, I AM AWARE THERE ARE EXCEPTIONS TO THESE RULES.
 
 ![Reddit_MidWit](https://github.com/user-attachments/assets/a5dd5727-a795-4a87-b85b-c239f5df01c6)
 
