@@ -855,6 +855,9 @@ _EAC must be disabled prior to launching this ModList!_
 
 YES, I AM AWARE THERE ARE EXCEPTIONS TO THESE RULES.
 
+![Reddit_MidWit](https://github.com/user-attachments/assets/a5dd5727-a795-4a87-b85b-c239f5df01c6)
+
+
 ---
 
 **5. No, you should not add this ModList to an existing save/world!  Start a new save/world!**
