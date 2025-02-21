@@ -906,7 +906,9 @@ Some Mods have requirement mods (see those mod pages for details), but the vast 
 
 Caution: If you remove a "big" mod mid-game, you might have to start a new game world/save, or you will have game breaking errors.  
 
-Example: Don't enable/disable FNS LAtT nor FNS Self-Planting Trees in the middle of a save.
+Examples: Don't enable/disable EFT Extraction Pack, Izy, Tool Time, FNS LAtT, and FNS Self-Planting Trees in the middle of a save.  
+
+Good Rule of thumb: A mod with a progression.xml file should not be toggled mid-play.  It will screw you more often than not.    
 
 ---
 
