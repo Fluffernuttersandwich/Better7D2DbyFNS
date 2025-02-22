@@ -1089,16 +1089,6 @@ ________________________________________________________________________________
 
 ## Mod Notes
 
-**CAT UI and Health Bars**: CAT UI is the standard for this Collection and comes with Health Bars turned on.  
-There is no way to cut the Health Bars out without causing the whole CAT UI to error.  
-So, if you don't like seeing Health Bars, and/or don't like the CAT UI mod, disable/remove the CAT UI Mod and use the AGF HUD instead.  
-I have confirmed the AGF HUD is compatible with this ModList.  Additionally, the AGF HUD has an add-on for health bars if you like theirs.   
-
----
-
-**"Tool Time"** mod: DO NOT ENABLE/DISABLE THIS MOD IN AN EXISTING SAVE OR IT WILL BREAK YOUR GAME!!!  
-This mod makes tools viable weapons... Ever wished axes and tool-hammers actually did real damage?  Well, here you go.    
-
 ---
 
 **Vehicle Cruise Control**: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
@@ -1134,6 +1124,8 @@ I chose Beyond Storage for this list.  If you can live without that, you can add
 ---
 
 D. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness Falls, nor most other Overhauls.  
+
+No I will not make it compatible, that's too much work.  
 
 ______________________________________________________________________________________________________________________
 
