@@ -1,6 +1,6 @@
 [
   {
-    "title": "Smörgåsbord",
+    "title": "Sm\u00F6rg\u00E5sbord",
     "description": "This list is the modular buffet table of the very best mods available for 7 Days to Die.",
     "author": "FNS",
     "maintainers": [
@@ -20,21 +20,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/refs/heads/main/Smorgasbord/Smorg1.jpg",
       "readme": "https://github.com/Fluffernuttersandwich/Better7D2DbyFNS/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Better 7D2D.wabbajack_25055506-e3a9-4e7e-bde7-dab523ff3488",
+      "download": "https://authored-files.wabbajack.org/Sm\u00F6rg\u00E5sbord.wabbajack_191ff85a-321d-49b1-b542-f76309b33390",
       "machineURL": "Better7D2D",
       "discordURL": "https://discord.gg/BeYnjhA9"
     },
     "download_metadata": {
-      "Hash": "w4RqXEKZHjI=",
-      "Size": 2017868,
+      "Hash": "p2VRwV/AQxY=",
+      "Size": 2200369,
       "NumberOfArchives": 262,
       "SizeOfArchives": 14034062943,
-      "NumberOfInstalledFiles": 38408,
-      "SizeOfInstalledFiles": 25091551057
+      "NumberOfInstalledFiles": 38409,
+      "SizeOfInstalledFiles": 25091564593
     },
-    "version": "1.28",
+    "version": "1.29",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-22T02:18:32.5234588Z",
+    "dateUpdated": "2025-02-22T02:38:46.8983428Z",
     "repositoryName": ""
   }
 ]
