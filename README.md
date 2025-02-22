@@ -1,9 +1,21 @@
-# Better 7D2D by FNS
+# Smörgåsbord by FNS
 
-![image](https://github.com/user-attachments/assets/b89d7f08-1e5b-4f16-a831-d6433a0af8d7)
+![Smorg1](https://github.com/user-attachments/assets/84245d84-fcfc-4842-a874-987e7332f840)
+
 
 
 ______________________________________________________________________________________________________________________
+
+
+Smörgåsbord
+/ ˈsmɔr gəsˌbɔrd, -ˌboʊrdor, often, ˈʃmɔr- /
+noun
+an extensive array or variety:
+That list is a smorgasbord of mods.
+
+
+______________________________________________________________________________________________________________________
+
 
 ## Distinctive features about this Mod List:
 
@@ -22,7 +34,6 @@ This list is all about improving dozens of small details that as a whole make fo
 Some people think this Collection makes the game too easy.
 If you feel that way, disable the mods you don't like, and/or play with harder difficulty settings.
 
-- If you are seeking a more challenging "real" Overhaul experience, I'd recommend Darkness Falls, or Rebirth.
 
 ______________________________________________________________________________________________________________________
 
