@@ -1,6 +1,6 @@
 [
   {
-    "title": "Better 7D2D",
+    "title": "Smörgåsbord",
     "description": "This list is the modular buffet table of the very best mods available for 7 Days to Die.",
     "author": "FNS",
     "maintainers": [
@@ -14,15 +14,15 @@
     ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/main/fluffernutter-2.jpg",
+      "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/refs/heads/main/Smorgasbord/Smorg1.jpg",
       "readme": "https://github.com/Fluffernuttersandwich/Better7D2DbyFNS/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Better 7D2D.wabbajack_25055506-e3a9-4e7e-bde7-dab523ff3488",
       "machineURL": "Better7D2D",
-      "discordURL": "https://discord.gg/fxkW8QvR"
+      "discordURL": "https://discord.gg/BeYnjhA9"
     },
     "download_metadata": {
       "Hash": "w4RqXEKZHjI=",
