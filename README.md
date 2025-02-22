@@ -122,9 +122,9 @@ Wabbajack only recently added 7DtD compatability, so you must use the latest ver
 
 https://www.wabbajack.org/ 
 
-3. Storage consideration: currently the collection is about 28GB.
+3. Storage consideration: currently the collection is about 40GB.
 "What, but 7D2D mods are small?!"
-Yes, generally, but mods like: the CompoPack, Izy's AIO Gun Pack, Bdub's vehicles, and all the Decor mods add up.
+Yes, generally, but mods like: the CompoPack, EFT Extraction Pack, Izy's AIO Gun Pack, Bdub's vehicles, and all the Decor mods add up.
 Do you want to play a nice list or not?
 
 
