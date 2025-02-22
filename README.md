@@ -7,10 +7,14 @@
 ______________________________________________________________________________________________________________________
 
 
-Smörgåsbord
+**Smörgåsbord**
+
 / ˈsmɔr gəsˌbɔrd, -ˌboʊrdor, often, ˈʃmɔr- /
-noun
+
+_noun_
+
 an extensive array or variety:
+
 That list is a smorgasbord of mods.
 
 
