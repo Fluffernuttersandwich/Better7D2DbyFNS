@@ -80,7 +80,7 @@ So check out his reviews if you are interested in learning about some of the bes
 - Even if you only have a Free NexusMods account, I've done all the work of collecting these mods and testing their Load Order for you.  
 So, even though you need to click through to download each mod, one-at-a-time, it's still faster than you doing it yourself, and with no wasted time spent troubleshooting the Load Order to sort out mod conflicts.
 
-- This ModList is self-contained, meaning you can have concurrent games of **Darkness Falls**, **Rebirth**, Vanilla, and my **Better 7D2D** ModPack all without issue, so long as you don't add mods in these locations, you are good to go! 
+- This ModList is self-contained, meaning you can have concurrent games of **Darkness Falls**, **Rebirth**, Vanilla, and my **Smörgåsbord** ModPack all without issue, so long as you don't add mods in these locations, you are good to go! 
 
 ```C:\Users\UserName\AppData\Roaming\7DaysToDie\Mods```
  
@@ -312,15 +312,19 @@ Login to your Nexus Mods account from inside of the Wabbajack application, and e
 
 ---
 
-### Step 3. Find the "Better 7D2D" by FNS Overhaul ModPack in the Wabbajack Gallery of ModLists.  
+### Step 3. Find the "Smörgåsbord" by FNS Overhaul ModPack in the Wabbajack Gallery of ModLists.  
 
 From the Wabbajack Appliction, Browse Modlist:
 
 You can press the "Game" dropdown arrow and select 7 Days to Die.  Make sure "Show Unnofficial Lists" is also checked.  
 
+Sometimes the Wabbajack App gets stuck, and will only display 50 games instead of 120+... if this happens, see this image:
+
+![image](https://github.com/user-attachments/assets/1d4f675a-44c2-4601-a869-2f7980877b6f)
+
 At the time of this writting, my ModPack is the first and only Wabbajack list for the 7D2D game.
 
-Download the "Better 7D2D" Overhaul ModPack.
+Download the "Smörgåsbord" Overhaul ModPack.
 
 The Wabbajack Application will prompt you to input an Installation Location folder:
 
@@ -342,14 +346,14 @@ Here's what it looks like as Wabbajack is downloading and installing the ModList
 
 ---
 
-## Step 4. Open MO2 launcher for "Better 7D2D".
+## Step 4. Open MO2 launcher for "Smörgåsbord".
 
-When Wabbajack has finished the download, unzipping, and installation of the ModList, Launch the MO2 application ModList for "Better 7D2D".  
+When Wabbajack has finished the download, unzipping, and installation of the ModList, Launch the MO2 application ModList for "Smörgåsbord".  
 
 Launch this MO2 instance from where you installed the Wabbajack files for this ModList.
 
 > [!TIP]
-> It would be prudent of you to make a shortcut, or pin to taskbar of this "Better 7D2D" MO2 instance.
+> It would be prudent of you to make a shortcut, or pin to taskbar of this "Smörgåsbord" MO2 instance.
 
 When you open up MO2, you might see this pop-up.  Just hit "Yes".
 
@@ -979,7 +983,7 @@ To remove the Debug and Creative Menus, simply go back into the (F1) console and
 
 11. Interesting information about MO2 for 7D2D:  **It's a self-contained ModList!**
 
-This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, Vanilla, and Better 7D2D by FNS.  
+This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, Vanilla, and Smörgåsbord by FNS.  
 
 I would not use Vortex, or run Mods out of other not-self-contained packs because they will mess with other ModPacks.      
 
