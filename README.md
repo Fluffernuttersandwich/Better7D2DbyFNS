@@ -498,8 +498,8 @@ NASA boys in 5-20 minutes, potato-bros in 25-60 minutes.
 
 "Why does it take so long to RWG in this list compared to Vanilla?!" 
 Becaue several of the Framework mods make significant changes to RWG.  
-Larger cities, denser cities, more cities, more POIs, less wasted space between POIs (compared to empty maps like Navezgane), fancier roads, new tiles, new block types, etc.  
-If you don't want it to take so long for RWG, you could disable "CP All in One No Traders" Mod, but then you miss out on all those great POIs.  
+Larger cities, denser cities, more cities, more POIs, less wasted space between POIs (compared to empty maps like Navezgane), fancier roads, new tiles, new block types, The Descent mod digs a whole cave system under the world, etc.  
+If you don't want it to take so long for RWG, you could disable "CP All in One No Traders" and "The Descent" mods, but then you miss out on all those great POIs.  
 
 Do not make maps larger than 10k if you are using potato-grade hardware.  
 It could crash in RWG, or worse, mid-game.  
@@ -516,7 +516,7 @@ Recommended RWG Settings for this modpack if you want to see a better variety of
 
 ![image](https://github.com/user-attachments/assets/a541ac67-95b3-4d67-a6a2-9e92d7b260d5)
 
-**Difficulty Recommendation:** Since the weapons from EFT and Izy are stronger than vanilla guns, you are strongly encouraged to play with higher than normal difficulty settings.  
+**Difficulty Recommendation:** Since the weapons from EFT and Izy are stronger than vanilla guns, you are strongly encouraged to play with higher than your normal difficulty settings.  
 ______________________________________________________________________________________________________________________
 
 
@@ -1084,7 +1084,7 @@ ________________________________________________________________________________
 
 **1. These are some Warnings and Errors you will see when you load into the world.**
 
-They can be safely ignored.  
+They're benign and can be safely ignored.  
 
 Yes, I am working on fixing them eventually.  
 
@@ -1138,6 +1138,8 @@ I chose Beyond Storage for this list.  If you can live without that, you can add
 D. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness Falls, nor most other Overhauls.  
 
 No I will not make it compatible, that's too much work.  
+
+E. "More Shots" Brazmocks Archery" and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  If one of you guys want to try to figure it out, please help the community if you are able!  
 
 ______________________________________________________________________________________________________________________
 
