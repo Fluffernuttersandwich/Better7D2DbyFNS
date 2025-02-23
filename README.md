@@ -418,6 +418,11 @@ But again, it's best practice to start a new game anytime you alter mods.
 _It's unwise to disable/enable mods midgame unless you know what you are doing as it could corrupt your save._  
 
 
+### Optional Insomnia Sleep System (disabled by default)  
+
+![image](https://github.com/user-attachments/assets/839b08de-3dba-4b67-8329-21995a93ce0b)
+
+
 ### I also left a separator/section for you to add your own mods.  
 
 I populated it with "Less Annoying Slower Vultures" (disabled) just as a reference.  
