@@ -322,6 +322,9 @@ Sometimes the Wabbajack App gets stuck, and will only display 50 games instead o
 
 ![image](https://github.com/user-attachments/assets/1d4f675a-44c2-4601-a869-2f7980877b6f)
 
+![image](https://github.com/user-attachments/assets/824ffa1b-514e-4d6a-8b2a-bed9f8dd6b47)
+
+
 At the time of this writting, my ModPack is the first and only Wabbajack list for the 7D2D game.
 
 Download the "Smörgåsbord" Overhaul ModPack.
