@@ -244,7 +244,10 @@ I. **Do not install/use your own MO2!**
 > Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use this one!
 
 J. **Create Antivirus Exceptions for MO2 and 7D2D**
-Sometimes certain Antivirus softwares will silently prevent MO2 from launching the modded game correctly.  
+You might need to create Antivirus Exceptions for MO2 and 7DtD. 
+There are other programs that might be preventing you from launching 7DtD from MO2.  
+These might include: Antivirus, Firewalls, steelseries, light-controlling apps, performance monitoring software, etc.  
+Sometimes you need to restart Steam, or your PC as well. 
 
 ______________________________________________________________________________________________________________________
 
