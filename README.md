@@ -916,7 +916,7 @@ A. ModLauncher (ML) won't work for my needs in using so many other authors mods 
 I tried, it's just not for this use case.  
 ML is for "real" pre-bundled Overhaul ModPacks.  
 
-B. This list uses over 200 mods from about 100 different Mod Authors.  
+B. This list uses over 250+ mods from about 100+ different Mod Authors.  
 I cannot bundle their works into one zip file without each and every mod authors permission... see "herding cats".
 People who bundle other authors mods without permission/credit are seen as scum, and generally get banned from nicer modding communities.
 I don't want to piss off my fellow mod authors, they're good people!  
