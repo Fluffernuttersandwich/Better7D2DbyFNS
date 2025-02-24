@@ -883,7 +883,7 @@ I don't have experience with dedicated servers, so I am the wrong person to ask 
 
 A general rule of thumb I learned is this; simple xml mods are generally server side. 
 
-Anything that adds something beyond a Config folder, such as; textures, icons, new items, UI Atlas changes, dll, meshes, **localizations**, animations, new sprites, POI, etc., will need to be on both server and client.  
+Anything that adds something beyond a Config folder, such as; textures, icons, new items, UI Atlas changes, dll, meshes, animations, new sprites, POI, etc., will need to be on both server and client.  
 
 EAC can stay on for pretty much anything other than when mods start adding in dll files. 
 Then EAC has to be off.    
