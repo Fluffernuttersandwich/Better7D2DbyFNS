@@ -1171,6 +1171,10 @@ https://www.nexusmods.com/7daystodie/articles/792
 
 https://www.nexusmods.com/7daystodie/articles/806
 
+5. Article: **How to use Mod Organizer 2 (MO2) for 7 Days to Die**
+
+https://www.nexusmods.com/7daystodie/articles/1053
+
 
 ______________________________________________________________________________________________________________________
 
