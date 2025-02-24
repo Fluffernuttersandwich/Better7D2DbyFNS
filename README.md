@@ -358,7 +358,9 @@ Launch this MO2 instance from where you installed the Wabbajack files for this M
 > [!TIP]
 > It would be prudent of you to make a shortcut, or pin to taskbar of this "Smörgåsbord" MO2 instance.
 
-When you open up MO2, you might see this pop-up.  Just hit "Yes".
+_What do I press when MO2 says: "Mod Organizer is not set up to handle nxm links.  Associate it with nxm links?"_
+
+Press the `Yes` button, because nxm links don't matter for 7DtD.
 
 ![image](https://github.com/user-attachments/assets/65cfab71-5be8-4598-b668-f0da4eb48fb4)
 
