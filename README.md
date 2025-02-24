@@ -727,6 +727,19 @@ It could also be several other reasons, like these:
 
 ![image](https://github.com/user-attachments/assets/2f96d7fb-d9ec-458c-b1aa-55b2a9096484)
 
+---
+
+14. Unrelated Applications causing an issue:
+
+A. Antivirus and Firewalls: Create an Exception for MO2 and 7daystodie.exe.
+
+B. Disable/remove programs that could be preventing your game from launching: SteelSeries, performance monitors, Light-Controlling-HW-apps, etc.
+
+C. This is an obscure one, but could be messing with 0_Harmony... Windows Security > Exploit Protection > High-entropy ASLR > needs to be set to "Default".
+
+![image](https://github.com/user-attachments/assets/26eb3ee2-c55a-4915-b97e-2785cabdf1d2)
+
+
 ______________________________________________________________________________________________________________________
 
 # How do we update the ModList?
