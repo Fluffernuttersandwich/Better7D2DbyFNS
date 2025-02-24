@@ -1148,7 +1148,9 @@ D. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness
 
 No I will not make it compatible, that's too much work.  
 
-E. "More Shots" Brazmocks Archery" and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  If one of you guys want to try to figure it out, please help the community if you are able!  
+E. "More Shots", "Brazmocks Archery", and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  If one of you guys want to try to figure it out, please help the community if you are able!  
+
+F. "Active Ingredients", it was breaking compatibility with other mods in the list and keeping me from loading into a game.  
 
 ______________________________________________________________________________________________________________________
 
