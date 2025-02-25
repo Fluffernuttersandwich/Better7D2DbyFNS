@@ -1165,6 +1165,8 @@ E. "More Shots", "Brazmocks Archery", and "Falcons Bicycle Changes" are currentl
 
 F. "Active Ingredients", it was breaking compatibility with other mods in the list and keeping me from loading into a game.  
 
+G. "OCB Advanced Pin Recipes (V1.2)"  Conflicts with various UI mods, might work with only using the vanilla UI.  
+
 ______________________________________________________________________________________________________________________
 
 
