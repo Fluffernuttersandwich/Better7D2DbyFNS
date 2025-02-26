@@ -735,9 +735,10 @@ A. Antivirus and Firewalls: Create an Exception for MO2 and 7daystodie.exe.
 
 B. Disable/remove programs that could be preventing your game from launching: SteelSeries, performance monitors, Light-Controlling-HW-apps, etc.
 
-C. This is an obscure one, but could be messing with 0_Harmony... Windows Security > Exploit Protection > High-entropy ASLR > needs to be set to "Default".
+C. This is an obscure one, but could be messing with 0_Harmony... Windows Security > Exploit Protection > Randomize Memory Allocations(Bottom-up ASLR).  
+If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 0_Harmony will not be able to properly patch any method and will cause null pointers on the first method that is called that is patched.  To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memory Allocations(Bottom-up ASLR) to On by Default or Use default (On).
 
-![image](https://github.com/user-attachments/assets/26eb3ee2-c55a-4915-b97e-2785cabdf1d2)
+![image](https://github.com/user-attachments/assets/d4ee4b18-7ef8-4956-9a23-e9b69e73322a)
 
 
 ______________________________________________________________________________________________________________________
