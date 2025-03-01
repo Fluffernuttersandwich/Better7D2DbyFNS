@@ -1,16 +1,20 @@
 1.35: TBD
 
 Comments: 
-Added a new Separator for Quests, since they have some extra comments for how they function.  
+Added a new Separator for Quests, since they have some extra comments for how they function... mostly as Mod Compatibility warnings.  
 
 Removed: 
-"MoreQuests" When combined with various other quests mods, it could sometimes cause compatibility issues.  Replaced with Dewta's.  
+"MoreQuests" When combined with various other quests mods, it could sometimes cause compatibility issues.  
+Replaced with a few other mods to achieve the same effect without the issues.    
 
 Added:
 "Dewtas Hold Multiple Quests -- 1.0 Stable"
+"Traders Have More Quests"
+"Reset Trader's Quests"
+
 
 Updated: 
-"
+N/A
 
 
 
