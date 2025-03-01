@@ -1,3 +1,24 @@
+1.35: 12:30 EST 01MAR2025
+
+Comments: 
+Added a new Separator for Quests, since they have some extra comments for how they function... mostly as Mod Compatibility warnings.  
+
+Removed: 
+"MoreQuests" When combined with various other quests mods, it could sometimes cause compatibility issues.  
+Replaced with a few other mods to achieve the same effect without the issues.    
+
+Added:
+"Dewtas Hold Multiple Quests -- 1.0 Stable"
+"Traders Have More Quests"
+"Reset Trader's Quests"
+"(A21 and 1.0) Black Wolf's controls improvements for helicopters and planes"
+
+
+Updated: 
+N/A
+
+__________________________________________________________________________________________________________________________________________
+
 1.34: 20:35 EST 28FEB2025
 
 Comments: 
