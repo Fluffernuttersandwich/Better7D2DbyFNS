@@ -120,11 +120,19 @@ Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues,
 ---
 
 > [!WARNING]
-> The Descent mod(s) require more Memory than the vanilla game. Recommend 32+Gb of RAM, and a more recent CPU.
+> The Descent mod(s) require more Memory than the vanilla game.
+>
+> Do not generate a Descent map above 10k unless you are running rich-boi NASA systems.  
+>
+> When you are RWG-ing a new world, or loading into a new world, disable all other programs if you are on older hardware.
+>
+> I have seen some user reports saying 16Gb of RAM is/isn't enough for the Descent.  Your Mileage May Vary(YMMV).  
+> 
+> I recommend 32+Gb of RAM, and a more recent CPU to support the Descent.  
 >  
 > If you are getting unexplainable Crash-to-Desktop (CTD), and Crash-Report logs saying:
 > 
-> 'Could not allocate memory: System out of memory!',
+> 'Could not allocate memory: System out of memory!' while Descent is running in the Console,
 > 
 > your hardware is likey not able to support The Descent suite of mods.  
 
