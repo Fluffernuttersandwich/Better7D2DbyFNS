@@ -117,7 +117,6 @@ Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues,
 > Do not make maps larger than 10k if you are running on potato-grade hardware!
 > Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
 
----
 
 > [!WARNING]
 > The Descent mod(s) require more Memory than the vanilla game.
@@ -135,6 +134,13 @@ Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues,
 > 'Could not allocate memory: System out of memory!' while Descent is running in the Console,
 > 
 > your hardware is likey not able to support The Descent suite of mods.  
+
+
+> [!TIP]
+> If you are on older/weaker hardware having trouble loading a game, try disabling some more mods in MO2.
+>
+> Start by disabling the decor mods under the Decor Separator in MO2.  
+
 
 
 2. The latest version of Wabbajack.
