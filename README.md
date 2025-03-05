@@ -1188,6 +1188,9 @@ F. "Active Ingredients", it was breaking compatibility with other mods in the li
 
 G. "OCB Advanced Pin Recipes (V1.2)"  Conflicts with various UI mods, might work with only using the vanilla UI.  
 
+H. "SMX" UI Suite.  I like this UI Suite, but it throws compatibility issues with multiple mods on my Mod List.  
+From the author Sirillion himself: SMX does not play nice with added workstation mods, and any mod that adds a progression.xml file.  
+
 ______________________________________________________________________________________________________________________
 
 
