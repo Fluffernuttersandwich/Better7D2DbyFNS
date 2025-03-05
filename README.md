@@ -113,8 +113,9 @@ If you can run the base game, you can run _most_ of the mods on this ModList wit
 
 Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
 
-Do not make maps larger than 10k if you are running on potato-grade hardware!  
-Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
+> [!CAUTION]
+> Do not make maps larger than 10k if you are running on potato-grade hardware!
+> Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
 
 > [!WARNING]
 > The Descent mod(s) require more Memory than the vanilla game. Recommend 32+Gb of RAM, and a more recent CPU.**  
