@@ -107,7 +107,7 @@ ________________________________________________________________________________
 
 1. Hardware capable of running the base game of 7D2D.
 
-If you can run the base game, you can run most of the mods on this ModList without any issues.
+If you can run the base game, you can run _most_ of the mods on this ModList without any issues.
 
 ![image](https://github.com/user-attachments/assets/15da16e1-14f4-4461-a89a-2618035a5363)
 
@@ -116,10 +116,11 @@ Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues,
 Do not make maps larger than 10k if you are running on potato-grade hardware!  
 Even if you are able to generate the map, the game could become corrupted after several hours into a playthrough.  
 
-**Warning: The Descent mod(s) require more Memory than the vanilla game. Recommend 32+Gb of RAM, and a more recent CPU.**  
-If you are getting unexplainable Crash-to-Desktop (CTD), and Crash-Report logs saying: 
-'Could not allocate memory: System out of memory!',
-your hardware is likey not able to support The Descent suite of mods.  
+> [!WARNING]
+> The Descent mod(s) require more Memory than the vanilla game. Recommend 32+Gb of RAM, and a more recent CPU.**  
+> If you are getting unexplainable Crash-to-Desktop (CTD), and Crash-Report logs saying: 
+> 'Could not allocate memory: System out of memory!',
+> your hardware is likey not able to support The Descent suite of mods.  
 
 
 2. The latest version of Wabbajack.
