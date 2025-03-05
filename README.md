@@ -128,7 +128,7 @@ Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues,
 >
 > I have seen some user reports saying 16Gb of RAM is/isn't enough for the Descent.  Your Mileage May Vary(YMMV).  
 > 
-> I recommend 32+Gb of RAM, and a more recent CPU to support the Descent.  
+> I was able to create and play on a 6k Descent RWG-ed map using a 10 year old gaming laptop with 32 Gb of RAM.  
 >  
 > If you are getting unexplainable Crash-to-Desktop (CTD), and Crash-Report logs saying:
 > 
