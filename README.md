@@ -495,12 +495,11 @@ None of the "OP" mods listed here are aggregiously OP.
 ![image](https://github.com/user-attachments/assets/e155fa9d-e533-42c3-ac05-4ad4ae3f196b)
 
 
-### Finally, there is a small handful of mods that must load last.  
-Do not move these mods, nor add mods after these, or you will probably break these mods and possibly your save.  
-If you want to play without the mods from this section, you _should_ start a new game save with these mods disabled!
+## Zombie Spawning Options
 
+![image](https://github.com/user-attachments/assets/6e9d3b8e-6ce6-49d4-8bb4-17b1d11ba1ba)
 
-![last](https://github.com/user-attachments/assets/a6dfa4a8-341f-408c-90f1-c5b3f8701a46)
+Beefy Hordes by GR increases roaming zombie spawning throughout the 
 
 
 
