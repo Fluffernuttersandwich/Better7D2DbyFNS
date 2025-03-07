@@ -499,7 +499,8 @@ None of the "OP" mods listed here are aggregiously OP.
 
 ![image](https://github.com/user-attachments/assets/6e9d3b8e-6ce6-49d4-8bb4-17b1d11ba1ba)
 
-Beefy Hordes by GR increases roaming zombie spawning throughout the 
+"**Beefy Hordes by GR**" increases roaming zombie spawning throughout the world (not POI spawns).  
+This makes for a more challenging early game.  It also triples Wandering Horde spawns.    
 
 
 
