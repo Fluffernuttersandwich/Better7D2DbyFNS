@@ -1,7 +1,7 @@
 1.36: TBD
 
 Comments: 
-
+Be mindful of the two new Environmental mods as they are Resource Intensive and could drag your performance down.  
 
 Removed: 
 N/A
@@ -16,6 +16,13 @@ Added:
 "Bump Stock": Weapon-mod For some vanilla guns.  
 "Double Drum Magazine": Weapon-mod For some vanilla guns.  
 "Fari's Pulse Rifle": Adds the M41A Pulse Rifle from the Aliens franchise...I'll likely add this to the Hadley's Hope POI.
+
+"Better Biomes"
+"Urban Decay"
+These two are Environmental mods that add a ton of new decor to the game to make the world feel more organic.  
+They're excellent, but are Resource Intensive!  
+Do not use on older/weaker computers.  Even on a powerful PC, you might need to lower your settings. 
+
 "Remove Buried Supplies Quests by GR": This mod removes T1-3 Buried Supplies Quests from possible Trader Quest selections. 
 This does not remove the initial Special Quest "Introduction Buried Supplies" quest when you first meet the trader in a new game... other mods do that already.
 
@@ -23,10 +30,13 @@ This does not remove the initial Special Quest "Introduction Buried Supplies" qu
 Updated: 
 "Cedar Creek" POI.
 "Barricaded House" POI.  
+"SG Militia" POI.
+"Dwarven Citadel" POI.
 "TheMeanOnes Paintings Pack x Expanded x 39 Paintings"
 "CP Modded Core"
 "CP Modded Traders Only"
 "CBP"
+"MPLogue's Prefabs"
 
 
 
