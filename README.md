@@ -1168,7 +1168,7 @@ ________________________________________________________________________________
 
 A. **Firearms Expansion 5 (FE5)** , **Pant's Weapons**
 
-Ammo Conflicts.
+Ammo Conflicts, progression.xml issues, and mod compatibility errors.
 
 ---
 
