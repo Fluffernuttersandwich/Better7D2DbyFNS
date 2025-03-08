@@ -1198,6 +1198,9 @@ H. "SMX" UI Suite.  I like this UI Suite, but it throws compatibility issues wit
 From the author Sirillion himself: SMX does not play nice with added workstation mods, and any mod that adds a progression.xml file.
 If one of you guys wants to patch the SMX UI mod, I'd be happy to provide this suite on the list, but right now I have too much on my plate.
 
+I. THOR Thunderstorm Mod.  This mod, when combined with other performance decreasing mods will tank your FPS.  
+When I combined this with MPL's Envirnomental mods for Better Biomes and Urban Decay, it dropped my powerful gaming desktop dow to 20 fps, even on lower graphic settings.  
+
 ______________________________________________________________________________________________________________________
 
 
