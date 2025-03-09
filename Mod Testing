@@ -13,6 +13,13 @@ Added:
 Updated: 
 "SG Militia" POI.
 
+"EFT Extraction Pack" Changelog v1.3.6:
+- Added vanilla ammo as an optional variant compatible EFT Guns.  
+Using vanilla ammo in an EFT Gun will do less damage than the designated EFT ammo designed for that gun.
+- Reduced amount of medical stuff found in loot
+- Fixed desertEagle laser site
+- Filled in some missing descriptions to the injectors
+
 
 
 
