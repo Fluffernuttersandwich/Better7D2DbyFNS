@@ -147,7 +147,7 @@ Some of the mods will lower FPS (15-20) somewhat, if you are experiencing issues
 
 > [!TIP]
 > 1. Follow most (but not all) of the PC-Gaming Optimization steps in this video.
-> It's [rimarily for CounterStrike2, but ignore the CS2 sections, and skip the "Advanced" Section entirely.
+> It's Primarily for CounterStrike2, but ignore the CS2 sections, and skip the "Advanced" Section entirely.
 > I squeezed an additional 20 FPS from using most of those steps.
 > https://youtu.be/p-gXanyB69o?si=tzUZlr5gkYLEFGMj
 >
