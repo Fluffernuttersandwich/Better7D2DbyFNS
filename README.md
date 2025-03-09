@@ -137,8 +137,11 @@ Some of the mods will lower FPS (15-20) somewhat, if you are experiencing issues
 
 > [!WARNING]
 > MPLogue's "Better Biomes" and "Urban Decay" will hit your performance.
+> 
 > A. Optimize your PC for performance.
+> 
 > B. Lower your Graphics settings.
+> 
 > C. Play without these mods.  
 
 
