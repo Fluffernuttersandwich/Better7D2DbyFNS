@@ -111,7 +111,7 @@ If you can run the base game, you can run _most_ of the mods on this ModList wit
 
 ![image](https://github.com/user-attachments/assets/15da16e1-14f4-4461-a89a-2618035a5363)
 
-Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
+Some of the mods will lower FPS (15-20) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
 
 > [!CAUTION]
 > Do not make maps larger than 10k if you are running on potato-grade hardware!
@@ -133,13 +133,23 @@ Some of the mods will lower FPS (2-10) somewhat, if you are experiencing issues,
 > 
 > 'Could not allocate memory: System out of memory!' while Descent is running in the Console,
 > 
-> your hardware is likey not able to support The Descent suite of mods.  
+> your hardware is likey not able to support The Descent suite of mods.
+
+> [!WARNING]
+> MPLogue's "Better Biomes" and "Urban Decay" will hit your performance.
+> A. Optimize your PC for performance.
+> B. Lower your Graphics settings.
+> C. Play without these mods.  
 
 
 > [!TIP]
-> If you are on older/weaker hardware having trouble loading a game, try disabling some more mods in MO2.
+> 1. Follow most (but not all) of the PC-Gaming Optimization steps in this video.
+> It's [rimarily for CounterStrike2, but ignore the CS2 sections, and skip the "Advanced" Section entirely.
+> I squeezed an additional 20 FPS from using most of those steps.
+> https://youtu.be/p-gXanyB69o?si=tzUZlr5gkYLEFGMj
 >
-> Start by disabling the decor mods under the Decor Separator in MO2.  
+> 2. If you are on older/weaker hardware having trouble loading a game, try disabling some more mods in MO2.
+> Start by disabling the decor mods under the Decor Separator in MO2.
 
 
 
