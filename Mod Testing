@@ -8,19 +8,19 @@ N/A
 
 Added:
 "Galaxy Far Far Away" Optional QoL mod, it adds an interesting nightscape that randomly changes every night.
+"(V1) Firefighter Driving Skill"
 
 
 Updated: 
 "SG Militia" POI.
 
-"EFT Extraction Pack" Changelog v1.3.6:
+"EFT Extraction Pack" Changelog v1.3.7:
 - Added vanilla ammo as an optional variant compatible EFT Guns.  
 Using vanilla ammo in an EFT Gun will do less damage than the designated EFT ammo designed for that gun.
 - Reduced amount of medical stuff found in loot
 - Fixed desertEagle laser site
 - Filled in some missing descriptions to the injectors
--NOTE FROM FNS: Some of the vanilla ammo in the EFT guns is doing Zero damage.  
-It's still a work in progress, StallionsDen will probably be issuing an update in the next day or two.
+- Fixed a few ammo tag issues.
 
 
 
