@@ -146,12 +146,12 @@ Some of the mods will lower FPS (15-20) somewhat, if you are experiencing issues
 
 
 > [!TIP]
-> 1. Follow most (but not all) of the PC-Gaming Optimization steps in this video.
+> A. Follow most (but not all) of the PC-Gaming Optimization steps in this video.
 > It's Primarily for CounterStrike2, but ignore the CS2 sections, and skip the "Advanced" Section entirely.
 > I squeezed an additional 20 FPS from using most of those steps.
 > https://youtu.be/p-gXanyB69o?si=tzUZlr5gkYLEFGMj
 >
-> 2. If you are on older/weaker hardware having trouble loading a game, try disabling some more mods in MO2.
+> B. If you are on older/weaker hardware having trouble loading a game, try disabling some more mods in MO2.
 > Start by disabling the decor mods under the Decor Separator in MO2.
 
 
@@ -565,6 +565,27 @@ Recommended RWG Settings for this modpack if you want to see a better variety of
 ![image](https://github.com/user-attachments/assets/a541ac67-95b3-4d67-a6a2-9e92d7b260d5)
 
 **Difficulty Recommendation:** Since the weapons from EFT and Izy are stronger than vanilla guns, you are strongly encouraged to play with higher than your normal difficulty settings.  
+
+
+---
+
+## How do I convert this ModList to run on a Dedicated Server:
+
+
+One of our Community Members named **Kajdaniec** has converted this ModList to run on a Dedicated Server using MO2.  
+
+
+![image](https://github.com/user-attachments/assets/5c1763ae-40db-416b-b958-e979e910157b)
+
+
+He changed the MO2 *.exe file into a *.bat file, and used the Dedicated Server tool.
+
+Here are the XML changes he made:
+
+![image](https://github.com/user-attachments/assets/54b55fe3-7728-46b1-a5cc-a1ec055c160c)
+
+![image](https://github.com/user-attachments/assets/69a11a3a-9c11-4c9d-a2b4-48fd2fffc979)
+
 ______________________________________________________________________________________________________________________
 
 
