@@ -569,7 +569,7 @@ Recommended RWG Settings for this modpack if you want to see a better variety of
 
 ---
 
-## How do I convert this ModList to run on a Dedicated Server:
+## How to convert this ModList to run on a Dedicated Server:
 
 
 One of our Community Members named **Kajdaniec** has converted this ModList to run on a Dedicated Server using MO2.  
