@@ -1,26 +1,45 @@
 1.37: TBD
 
 Comments: 
+Updates to the ModList are usually dependant on other mods with dependencies getting updated.  
+When the main EFT Overhaul ModPack updated this week, StallionsDen needed time ot test the EFT Extraction Pack.
+Then I needed a chance to update and test Smorgasbord with all of the new updates,  
 
+Big thanks to Kajdaniec for creating, testing, and proving this list can work on a Dedicated Server.  
+See the ReadMe on the GitHub page for reference.  
 
 Removed: 
 N/A
 
 Added:
+
 "Galaxy Far Far Away" Optional QoL mod, it adds an interesting nightscape that randomly changes every night.
-"(V1) Firefighter Driving Skill"
+
+"(V1) Firefighter Driving Skill" Optional OP mod: 
+Increases the benefit of reading The Fireman's Almanac Vol 7 : Emergency Driving.
 
 
 Updated: 
-"SG Militia" POI.
 
-"EFT Extraction Pack" Changelog v1.3.7:
+"Deluxe Block POI Pack by FNS"
+"SG Militia" POI.
+"Fari's Pulse Rifle"
+"Better Flying Vehicles"
+"Torch"
+"Little Red Sonja's Bad Boyz Figurines"
+"0-Score"
+"Closer Weapon Pack"
+
+All of the Oakraven mods were updated.
+
+"EFT Extraction Pack" Changelog v1.3.8:
 - Added vanilla ammo as an optional variant compatible EFT Guns.  
 Using vanilla ammo in an EFT Gun will do less damage than the designated EFT ammo designed for that gun.
 - Reduced amount of medical stuff found in loot
 - Fixed desertEagle laser site
 - Filled in some missing descriptions to the injectors
 - Fixed a few ammo tag issues.
+- updated the bundled sub-component requirement mods within the Extraction pack.  
 
 
 
