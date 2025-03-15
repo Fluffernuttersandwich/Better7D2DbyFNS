@@ -1,9 +1,9 @@
 1.37: TBD
 
 Comments: 
-Updates to the ModList are usually dependant on other mods with dependencies getting updated.  
-When the main EFT Overhaul ModPack updated this week, StallionsDen needed time ot test the EFT Extraction Pack.
-Then I needed a chance to update and test Smorgasbord with all of the new updates,  
+Updates to the ModList are usually dependant on other mods with their own dependencies getting updated.  
+When the main EFT Overhaul ModPack updated this week, StallionsDen needed time to test the EFT Extraction Pack.
+Then I needed a chance to update and test Smorgasbord with all of the new updates, so that is why this update took a little longer. 
 
 Big thanks to Kajdaniec for creating, testing, and proving this list can work on a Dedicated Server.  
 See the ReadMe on the GitHub page for reference.  
@@ -24,6 +24,7 @@ Increases the benefit of reading The Fireman's Almanac Vol 7 : Emergency Driving
 Updated: 
 
 "Deluxe Block POI Pack by FNS"
+"RWG Mixer for Smorgasbord"
 "SG Militia" POI.
 "Fari's Pulse Rifle"
 "Better Flying Vehicles"
