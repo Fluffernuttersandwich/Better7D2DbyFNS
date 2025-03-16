@@ -35,14 +35,21 @@ Updated:
 
 All of the Oakraven mods were updated.
 
-"EFT Extraction Pack" Changelog v1.3.8:
+"EFT Extraction Pack" Changelog from v1.3.6 to v1.3.8:
 - Added vanilla ammo as an optional variant compatible EFT Guns.  
 Using vanilla ammo in an EFT Gun will do less damage than the designated EFT ammo designed for that gun.
 - Reduced amount of medical stuff found in loot
 - Fixed desertEagle laser site
 - Filled in some missing descriptions to the injectors
 - Fixed a few ammo tag issues.
-- updated the bundled sub-component requirement mods within the Extraction pack.  
+- updated the bundled sub-component requirement mods within the Extraction pack.
+- Updated To current EFT Overhaul
+- Fixed M1A-EBR & SR-25 NREs when trying to craft
+- Fixed Progression to actually show correct "Combat Stimulant"
+Known issue: 
+- mp7a1 warnings in console this does not affect anything, Occurs in overhaul
+To do: 
+make the guns show what attachments go with it
 
 
 
