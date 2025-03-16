@@ -1186,6 +1186,24 @@ ________________________________________________________________________________
 
 ---
 
+"I turned off World Lighting Tuned, but my game is still too dark?!"
+
+The Descent Mod effects lighting globally making your game darker.  You have two options:
+
+
+A. Play without The Descent.
+
+
+B. Manually delete the cave-lights folder from your Descent mod folder.  
+
+From the Author, he said Descent will work without the cave-light.
+
+
+![image](https://github.com/user-attachments/assets/86fae4c1-b5a9-4625-b280-cd2b9c0da83a)
+
+
+---
+
 **Vehicle Cruise Control**: When mounted in/on a vehicle, cycle the Q-key on the keyboard to switch from Slow, Sprint, and Off.
 
 ---
