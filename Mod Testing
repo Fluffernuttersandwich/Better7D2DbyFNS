@@ -1,79 +1,21 @@
-1.37: TBD
+1.38: TBD
 
 Comments: 
-Updates to the ModList are usually dependant on other mods with their own dependencies getting updated.  
-When the main EFT Overhaul ModPack updated last week, StallionsDen needed time to update and test the EFT Extraction Pack.
-Then every day over the last week, there were like a dozen new updates of mods on the list.
-Then I needed a chance to update and test Smorgasbord with all of the new updates, so that is why this update took a little longer.
-I was also holding out for a new update to Izy, but that might take a bit longer...
+Hot fix, the list was forcing users to download some mods twice, like EFT Extraction, so I figured out the problem.  
+Thanks once again to Kajdaniec for noticing this issue and reporting the bug.
 
-Big thanks to Kajdaniec for creating, testing, and proving this list can work on a Dedicated Server.  
-See the ReadMe on the GitHub page for reference.  
 
 Removed: 
-N/A
+"Pick up crops" replaced with functioning version.  
 
 Added:
 
-"Network Timeout Extension" Framework mod.  
-Assists in multiplayer and Dedicated Server connection issues.  
-
-"Galaxy Far Far Away" Optional QoL mod.  
-It adds an interesting nightscape that randomly changes every night.  You can manually set one you prefer in the files.  
-
-"(V1) Firefighter Driving Skill" Optional OP mod: 
-Increases the benefit of reading The Fireman's Almanac Vol 7 : Emergency Driving.
-
-"WMM AirDrops Spawn Zeds" Standard Mod. Spawns zombies when you go to collect the air drops.  
-
-"WMM Loot Respawn Tweak" Standard Mod.  
-Small modlet that shows what day and time a container will respawn.  
-I don't think this is working with this list, still testing functionality.  
-
-"WMM Trader Quest Map" Standard Mod. 
-When you first talk to the trader about jobs, it will pop-open a map screen on the left allowing you to choose from every job available in your vicinity.
-Just reengage the Trader about jobs to reopen this map screen.  Yes, I am aware of a bit of UI-screen overlap, but it works and isn't a major problem.  
-
-"Custom FPV FOV" You can change these settings in GEARS from within the game.  
-
-"GEARS Settings Saver" Saves GEARS settings between new worlds/games.    
-
-"Add-on to Black Wolf's Better Loot Spawns for EFT-Extraction and Izy guns" Optional OP mod
+"TechFreqs Pickup Plants Pickup Crops Gives Seeds and Living off the land bonuses too"
 
 Updated: 
-
-"Deluxe Block POI Pack by FNS"
 "RWG Mixer for Smorgasbord"
-"SG Militia" POI.
-"Fari's Pulse Rifle"
-"Better Flying Vehicles"
-"Torch"
-"Little Red Sonja's Bad Boyz Figurines"
-"0-Score"
-"Closer Weapon Pack"
-"Remove Intro to Buried Supplies Quest"
-"The Vault Pack (for The Descent)"
 
-All of the Oakraven mods were updated.
 
-All of the WookieNookie (WMM) mods were updated.
-
-"EFT Extraction Pack" Changelog from v1.3.6 to v1.3.8.3:
-- Added vanilla ammo as an optional variant compatible EFT Guns.  
-Using vanilla ammo in an EFT Gun will do less damage than the designated EFT ammo designed for that gun.
-- Reduced amount of medical stuff found in loot
-- Fixed desertEagle laser site
-- Filled in some missing descriptions to the injectors
-- Fixed a few ammo tag issues.
-- updated the bundled sub-component requirement mods within the Extraction pack.
-- Updated To current EFT Overhaul
-- Fixed M1A-EBR & SR-25 NREs when trying to craft
-- Fixed Progression to actually show correct "Combat Stimulant"
-- Hotfix for progression.xml to allow t5 crafting of grips
-Known issue: 
-- mp7a1 warnings in console this does not affect anything, Occurs in overhaul
-To do: 
-make the guns show what attachments go with it
 
 
 __________________________________________________________
