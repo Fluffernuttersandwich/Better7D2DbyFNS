@@ -364,9 +364,10 @@ From the Wabbajack Appliction, Browse Modlist:
 
 You can press the "Game" dropdown arrow and select 7 Days to Die.  Make sure "Show Unnofficial Lists" is also checked.  
 
-Sometimes the Wabbajack App gets stuck, and will only display 50 games instead of 120+... if this happens, see this image:
+Sometimes the Wabbajack App gets stuck, and will only display 50 ModLists instead of 120+... if this happens, see this image:
 
-![image](https://github.com/user-attachments/assets/1d4f675a-44c2-4601-a869-2f7980877b6f)
+![image](https://github.com/user-attachments/assets/6c820a0a-ff11-4fe8-b518-2e2b3f58c0dd)
+
 
 ![image](https://github.com/user-attachments/assets/824ffa1b-514e-4d6a-8b2a-bed9f8dd6b47)
 
