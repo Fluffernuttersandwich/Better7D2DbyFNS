@@ -364,15 +364,18 @@ From the Wabbajack Appliction, Browse Modlist:
 
 You can press the "Game" dropdown arrow and select 7 Days to Die.  Make sure "Show Unnofficial Lists" is also checked.  
 
-Sometimes the Wabbajack App gets stuck, and will only display 50 ModLists instead of 120+... if this happens, see this image:
+Sometimes the Wabbajack App gets stuck, and will only display 50+ ModLists instead of 120+... if this happens, 
+
+Reset Filters, then try again to select Non-Featured ModLists, and the dropdown should be back to 120+ ModLists.  
 
 ![image](https://github.com/user-attachments/assets/6c820a0a-ff11-4fe8-b518-2e2b3f58c0dd)
 
 
-![image](https://github.com/user-attachments/assets/824ffa1b-514e-4d6a-8b2a-bed9f8dd6b47)
+![image](https://github.com/user-attachments/assets/ba042aa5-065b-40c4-9ee6-5fe751f203a3)
 
 
-At the time of this writting, my ModPack is the first and only Wabbajack list for the 7D2D game.
+
+At the time of this writting, my ModPack is the first and only Wabbajack list for the 7DtD game.
 
 Download the "Smörgåsbord" Overhaul ModPack.
 
