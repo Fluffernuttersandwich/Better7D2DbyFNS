@@ -820,7 +820,7 @@ So, this is why I don't recommend you DIY Nexus updates from the mods in MO2.
 
 _Just wait for me to update the ModList._ 
 
-**I will post update notifications to Guppy's Unofficial 7DtD Modding Discord Server, on my #fns-smörgåsbord channel. https://discord.gg/qXkMBVHX **  
+**I will post update notifications to Guppy's Unofficial 7DtD Modding Discord Server, and SnowBee's**, on my #fns-smörgåsbord channel.  https://discord.gg/8Pt46uCE
 
 > [!CAUTION]
 > Sometimes you can keep using the same save-world and safely update to a new version of a ModList.  
@@ -851,6 +851,8 @@ Check the Overwrite Installation box.  Then hit the play button in Wabbajack to 
 ![image](https://github.com/user-attachments/assets/e6b1a2c3-e081-4ae5-b4de-0fb13fb2265e)
 
 
+With the recent updates to Wabbajack (4.x+), if you are updating the ModList, you might have to point to the folder again for overwriting.  
+
 
 ______________________________________________________________________________________________________________________
 
@@ -864,13 +866,15 @@ You can use the Issues tab on top of this GitHub page to report bugs, or install
 
 ---
 
-You can use the Discussion tab here to comment, suggest, provide tips, and chat about your overall playthrough experience using this list.  Please keep all conversation in the Discussion tab related to using this ModList. 
+You can use the Discussion tab here to comment, suggest, provide tips, and chat about your overall playthrough experience using this list.  
+
+Please keep all conversation in the Discussion tab related to using this ModList. 
 
 If you have a moment, please vote in the current poll for "How did you hear about this ModList?"
 
 ---
 
-You can also hit me up on **Guppy's 7DtD Unofficial Modding Discord: https://discord.gg/qXkMBVHX **  
+You can also hit me up on **Guppy's 7DtD Unofficial Modding Discord:** https://discord.gg/8Pt46uCE
 You can find me there in the #fns-smörgåsbord channel.  
 I prefer to discuss things publically, and not use DMs if possible, so we all learn and improve together this way.  
 
@@ -921,7 +925,7 @@ It became too time consuming to help users troubleshoot, and I didn't like peopl
 
 So, it was get the ModList to work in MO2/Wabbajack, or quit providing the list for users entirely.
 
-Thankfully, the Wabbajack community was extremely helpful in getting 7D2D to work in their ecosystem.  
+Thankfully, the Wabbajack community was extremely helpful in getting 7DtD to work in their ecosystem.  
 
 ---
 
@@ -929,7 +933,7 @@ Thankfully, the Wabbajack community was extremely helpful in getting 7D2D to wor
 
 A. It's my list, I added what I like, feel free to add more, but do so with care so as not to break the ModList.
 
-If you have a good mod suggestion, and have tested it works with the list, please hit me up on the Guppy's Discord #fns-smörgåsbord channel.  https://discord.gg/qXkMBVHX
+If you have a good mod suggestion, and have tested it works with the list, please hit me up on the **Guppy's Discord #fns-smörgåsbord channel**. https://discord.gg/8Pt46uCE
 
 B. Mods from NexusMods are automatically whitelisted for support with Wabbajack/MO2.  It makes for less work, and less hassle for me as a ModList curator.
 Including mods from other sources adds more work for me as the curator, and also introduces points of failure for users installing the list.
@@ -945,7 +949,9 @@ This list is designed for single player and small groups.
 There are several users playing multiplayer with friends and family using this ModList.
 I regularly host multiplayer games with my sons, brother, and friends using this ModList.  
 
-This list is not ideal for a dedicated server, but you could cannibalize the mod list for ideas.
+Community Member Kajdaniec and I have confirmed the list works as a Dedicated Server (but requires all users to download it locally).  
+
+We both had the modList installed and played a test game on his dedicated server.
 
 ---
 
@@ -994,7 +1000,7 @@ A. ModLauncher (ML) won't work for my needs in using so many other authors mods 
 I tried, it's just not for this use case.  
 ML is for "real" pre-bundled Overhaul ModPacks.  
 
-B. This list uses over 250+ mods from about 100+ different Mod Authors.  
+B. This list uses over 300+ mods from about 100+ different Mod Authors.  
 I cannot bundle their works into one zip file without each and every mod authors permission... see "herding cats".
 People who bundle other authors mods without permission/credit are seen as scum, and generally get banned from nicer modding communities.
 I don't want to piss off my fellow mod authors, they're good people!  
