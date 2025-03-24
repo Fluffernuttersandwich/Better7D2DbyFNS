@@ -584,6 +584,20 @@ One of our Community Members named **Kajdaniec** has converted this ModList to r
 
 He changed the MO2 *.exe file into a *.bat file, and used the Dedicated Server tool.
 
+
+Just tell MO2 to use the server install folder instead of the game folder, as in this MO2 screenshot. 
+
+![image](https://github.com/user-attachments/assets/e315a042-cfab-4a49-859e-e697abf67ccb)
+
+
+Replace that with the server folder and executable for the .bat file within server folder that's all I did.
+
+There are users who have used Kajdaniec's method on a separate computer, and some users who have self-hosted the Dedicated Server from the same machine they are running their own game from.  
+
+
+I'm still waiting to see if users have been able to run this from a Dedicated Server Provider like Havoc.  
+
+
 Here are the XML changes he made:
 
 ![image](https://github.com/user-attachments/assets/54b55fe3-7728-46b1-a5cc-a1ec055c160c)
