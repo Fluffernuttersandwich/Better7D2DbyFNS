@@ -1336,6 +1336,10 @@ I have not played with any Upscaling yet, because the Frame Generation is what I
 If you are using an AMD card, or an Nvidia card without RTX, you will need to play with the LS settings for yourself.  
 
 
+Additional note: Some users have said it can be helpful on some games to use RivaTuner to lock the FPS to a lower more stable rate like 48 or 60 FPS.  
+I tried it for 7DtD and didn't notice a difference.  
+
+
 ______________________________________________________________________________________________________________________
 
 
