@@ -1300,20 +1300,20 @@ However, when I am using LS + Laydor's Super Resolution Mod with DLSS set to Qua
 
 **Who would I recommend LS to**:
 
-1. You have a GPU with RTX.
-2. You are combining LS with Laydor's Super Resolution mod with DLSS turned on.
-3. You are capable of following directions to set up LS.
+1. You have a GPU with RTX.  I am using a 3090ti with RTX.
+2. You have a Monitor with at least a 120MHz refresh rate.  I am using a monitor with 240MHz refresh rate.
+3. You are combining LS with Laydor's Super Resolution mod with DLSS turned on.  I set the in-game DLSS setting to Quality.  
+4. You are capable of following directions to set up LS.  It's fairly straightforward.  
 
 If those things are applicable to you, you really should try LS to maximize your performance without sacrificing graphic settings.
 
-And it's not just for 7DtD, you can use it on most games and applications.  
 
-I also use it on a heavily modded Skyrim ModList, and see huge gains there as well.  
+And it's not just for 7DtD, you can use it on most games and applications.  I also use it on a heavily modded Skyrim ModList, and see huge gains there as well.  
 
 
 If you use LS, you must disable the Vsync setting in-game for 7DtD.  
 
-You can keep Vsync on the Monitor, Nvidia Control Panel, and the LS app.
+You can keep Vsync enabled on the Monitor, Nvidia Control Panel, and the LS app.
 
 If you don't disable Vsync in-game with 7DtD, it puts the game into slow-mo.
 
@@ -1331,7 +1331,7 @@ Here is how I configured LS for 7DtD with an Nvidia 3090ti.
 
 If you are using an Nvidia GPU with RTX, these settings will probably work well for you for Frame Generation.  
 
-I have not played with any Upscaling yet...
+I have not played with any Upscaling yet, because the Frame Generation is what I bought it for.
 
 If you are using an AMD card, or an Nvidia card without RTX, you will need to play with the LS settings for yourself.  
 
