@@ -1281,7 +1281,7 @@ When I combined this with MPL's Envirnomental mods for Better Biomes and Urban D
 ______________________________________________________________________________________________________________________
 
 
-# Lossless Scaling
+# Using the Lossless Scaling application with 7DtD
 
 Lossless Scaling (LS) is an application that can produce Frame Generation and perform upscaling.  
 
