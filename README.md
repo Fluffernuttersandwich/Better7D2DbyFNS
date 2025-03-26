@@ -1277,6 +1277,65 @@ If one of you guys wants to patch the SMX UI mod, I'd be happy to provide this s
 I. THOR Thunderstorm Mod.  This mod, when combined with other performance decreasing mods will tank your FPS.  
 When I combined this with MPL's Envirnomental mods for Better Biomes and Urban Decay, it dropped my powerful gaming desktop dow to 20 fps, even on lower graphic settings.  
 
+
+______________________________________________________________________________________________________________________
+
+
+# Lossless Scaling
+
+Lossless Scaling (LS) is an application that can produce Frame Generation and perform upscaling.  
+
+It's a paid-for app available on Steam.  Normally it goes for $7USD at full price, but has gone on sale for as little as one dollar. 
+
+It can be used on most games and applications.  In certain situations, it can help increase performance using Frame Gneration significantly.
+
+Can LS help increase performance on 7DtD?
+Yes, but it's very system specific.  YMMV.  
+
+I haven't tested it on older hardware, but I assume the benefits there might only be something along the lines of playing at your current Graphics settings, with a negligible performance boost. 
+
+Normally I can play vanilla 7DtD at Ultra, but when I use the Smorgasbord ModList with mods like MPLogue's Better Biomes + Urban Decay, I generally take a 15-30 hit to FPS, with stuttering in intense combat situations.  
+
+However, when I am using LS + Laydor's Super Resolution Mod with DLSS set to Quality, on a 3090ti GPU (has RTX), the Frame Generation works like a champ so I can play at Ultra graphics settings without stuttering.  
+
+**Who would I recommend LS to**:
+
+1. You have a GPU with RTX.
+2. You are combining LS with Laydor's Super Resolution mod with DLSS turned on.
+3. You are capable of following directions to set up LS.
+
+If those things are applicable to you, you really should try LS to maximize your performance without sacrificing graphic settings.
+
+And it's not just for 7DtD, you can use it on most games and applications.  
+
+I also use it on a heavily modded Skyrim ModList, and see huge gains there as well.  
+
+
+If you use LS, you must disable the Vsync setting in-game for 7DtD.  
+
+You can keep Vsync on the Monitor, Nvidia Control Panel, and the LS app.
+
+If you don't disable Vsync in-game with 7DtD, it puts the game into slow-mo.
+
+Here is a great video on the benefits of LS and how to use it:
+
+
+![image](https://github.com/user-attachments/assets/b1d235b3-6c5e-4079-b0e9-e91691c1bdde)
+
+https://www.youtube.com/watch?v=qc3zZEYpfLY
+
+
+Here is how I configured LS for 7DtD with an Nvidia 3090ti.  
+
+![image](https://github.com/user-attachments/assets/92ba3b31-83aa-4e0b-a292-ab9765af4902)
+
+If you are using an Nvidia GPU with RTX, these settings will probably work well for you for Frame Generation.  
+
+I have not played with any Upscaling yet...
+
+If you are using an AMD card, or an Nvidia card without RTX, you will need to play with the LS settings for yourself.  
+
+
 ______________________________________________________________________________________________________________________
 
 
