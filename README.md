@@ -1287,7 +1287,7 @@ Lossless Scaling (LS) is an application that can produce Frame Generation and pe
 
 It's a paid-for app available on Steam.  Normally it goes for $7USD at full price, but has gone on sale for as little as one dollar. 
 
-It can be used on most games and applications.  In certain situations, it can help increase performance using Frame Gneration significantly.
+It can be used on most games and applications.  In certain situations, it can help increase performance using Frame Generation significantly.
 
 Can LS help increase performance on 7DtD?
 Yes, but it's very system specific.  YMMV.  
@@ -1296,48 +1296,82 @@ I haven't tested it on older hardware, but I assume the benefits there might onl
 
 Normally I can play vanilla 7DtD at Ultra, but when I use the Smorgasbord ModList with mods like MPLogue's Better Biomes + Urban Decay, I generally take a 15-30 hit to FPS, with stuttering in intense combat situations.  
 
-However, when I am using LS + Laydor's Super Resolution Mod with DLSS set to Quality, on a 3090ti GPU (has RTX), the Frame Generation works like a champ so I can play at Ultra graphics settings without stuttering.  
+However, when I am using LS on a 3090ti GPU (has RTX), the Frame Generation works like a champ.  It makes my game run smoother with less stuttering.   
 
 **Who would I recommend LS to**:
 
-1. You have a GPU with RTX.  I am using a 3090ti with RTX.
-2. You have a Monitor with at least a 120MHz refresh rate.  I am using a monitor with 240MHz refresh rate.
-3. You are combining LS with Laydor's Super Resolution mod with DLSS turned on.  I set the in-game DLSS setting to Quality.  
-4. You are capable of following directions to set up LS.  It's fairly straightforward.  
+1. You have a Monitor with at least a 120hz refresh rate.  I am using a monitor with 240hz refresh rate.
+2. You are capable of following directions to set up LS.  It's fairly straightforward.
+3. You are okay with playing your games windowed.  LS does not support full screen on most games.
+4. Having a GPU that supports RTX does work better generally, but not required.
+
 
 If those things are applicable to you, you really should try LS to maximize your performance without sacrificing graphic settings.
 
 
-And it's not just for 7DtD, you can use it on most games and applications.  I also use it on a heavily modded Skyrim ModList, and see huge gains there as well.  
+And it's not just for 7DtD, you can use it on most games and applications.  
+I also use it on a heavily modded Skyrim ModList, and see huge gains there as well.  
 
 
-If you use LS, you must disable the Vsync setting in-game for 7DtD.  
+**If you use LS, you must disable the Vsync setting in-game for 7DtD.**
 
 You can keep Vsync enabled on the Monitor, Nvidia Control Panel, and the LS app.
 
 If you don't disable Vsync in-game with 7DtD, it puts the game into slow-mo.
 
-Here is a great video on the benefits of LS and how to use it:
 
+Here is a great video on the benefits of LS and how to use it:
 
 ![image](https://github.com/user-attachments/assets/b1d235b3-6c5e-4079-b0e9-e91691c1bdde)
 
 https://www.youtube.com/watch?v=qc3zZEYpfLY
 
 
-Here is how I configured LS for 7DtD with an Nvidia 3090ti.  
-
-![image](https://github.com/user-attachments/assets/92ba3b31-83aa-4e0b-a292-ab9765af4902)
-
-If you are using an Nvidia GPU with RTX, these settings will probably work well for you for Frame Generation.  
-
-I have not played with any Upscaling yet, because the Frame Generation is what I bought it for.
-
-If you are using an AMD card, or an Nvidia card without RTX, you will need to play with the LS settings for yourself.  
+**Here are two different Profiles for using LS:**
 
 
-Additional note: Some users have said it can be helpful on some games to use RivaTuner to lock the FPS to a lower more stable rate like 48 or 60 FPS.  
-I tried it for 7DtD and didn't notice a difference.  
+1. **Fin's LS Profile**:
+MOBO: ASUS ROG Crosshair VIII Dark Hero
+CPU: AMD RYZEN 9 5950X 16C/32T 4.9GHz
+RAM: DDR4 3600MHZ G.SKILL TRIDENT Z NEO- 128GB (4x32GB)
+GPU: NVIDIA RTX 3090TI 24GB G6X
+OS SSD: m.2 SSD, WD BLACK SN850 NVME GEN4 2TB M.2 
+Storage SSD: m.2 SSD, WD BLACK SN850 NVME GEN4 2TB M.2
+
+I turned off Laydor's Super Resolution DLSS settings.
+I'm also using RivaTuner on top of LS.
+Notice how I used RivaTuner to lock FPS to 30 for 7DtD, this was intentional.  
+LSFG works best with a stable FPS range.  
+My average range was 30 at Ultra with this list, so I locked it there.  
+
+
+![image](https://github.com/user-attachments/assets/76cacaf6-3c4c-4fe1-aeb8-8534140864d9)
+
+
+
+I also added a custom LS Overlay to RivaTuner... it's available at the LS Discord.
+
+![image](https://github.com/user-attachments/assets/34a4a632-4ac3-4a0a-b8f4-24d95514973f)
+
+
+______________________________________________________________________________________________________________________
+
+
+2. **Kajdaniec's LS Profile**:
+MOBO: MSI X670E Carbon WIFI
+CPU: Ryzen 9 7950X
+RAM: Kingston Fury Beast 2x16GB 5600 MT/s
+GPU: MSI RTX 4080 Suprim X
+Storage: Seagate FireCuda 530 2TB (256GB OS Partition), Samsung SSD 990 PRO 2TB both M.2
+
+Kajdaniec did not use RivaTuner, and has kept Laydor's Super Resolution mod enabled with DLSS set to Quality.
+
+He's getting amazing results!
+
+![image](https://github.com/user-attachments/assets/bfa4383b-5c37-4e5e-a56e-f4b2874dae08)
+
+
+If you are willing to experiment, LS is pretty amazing.  
 
 
 ______________________________________________________________________________________________________________________
