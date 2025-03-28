@@ -1,7 +1,21 @@
 1.39: TBD
 
 Comments: 
-Small updates.
+
+1. I added a new separator in MO2 for Optional OP Perks.  Either use "Legend Perks" or "Flogi's Perk..." NOT BOTH!!!  
+
+2. I added a section to the ReadMe about using Lossless Scaling to improve 7DtD performance.  
+It allows me to run Ultra on this ModList with smoother graphics, and less stutters.  
+It's a bit of a process to set up, but worth it if you want to get the most out of your game.  
+It's very Hardware specific.  Kajdaniec and I have different profiles, I posted both.  
+
+As always, I'd like to express my gratitude to people who comment, troubleshoot, and provide feedback.
+This week's shout-outs: 
+Kajdaniec for being our "unnofficial" tester!
+Cinnaspice for finding an issue with Plant Collection Challenges.
+NobodyNobody666 for the Flogi's Perk suggestion.
+CarnaeAssada for helping us identify a Mod Compatibility issue with Solar Powered.  
+LittleRedSonja for assisting in chasing down the issue.  
 
 
 Removed: 
@@ -13,6 +27,9 @@ Added:
 "Robotic Drone Headlamp Soft White" Standard Mod.  Changes Drone light mod from blue to white.
 
 "PGz Boosted Big Cities" POI/RWG mod. Increases city sizes and allows them to spawn in all biomes.  This is redundant if you play with the CompoPack.  
+
+"(V1) Quests Per Tier - 20" For people who want to slow down their game!
+Instead of 10 quests per quest tier level, this mod makes it 20 slowing down your progression to keep the game going longer.  
 
 "Flogi's Perk Mod" Optional OP, 
 "Flogi's Perk Mod XP HUD" Optional OP, 
@@ -28,6 +45,7 @@ Updated:
 "Deluxe Block POI Pack by FNS" tweaks to existing POIs.  
 "Vault Pack for Descent"
 "Danzo All Text With Shadow"
+"Despawn Zombies Mod Optimize Zombie Despawning"
 
 
 
