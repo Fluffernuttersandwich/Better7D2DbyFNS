@@ -1331,12 +1331,19 @@ https://www.youtube.com/watch?v=qc3zZEYpfLY
 
 
 1. **Fin's LS Profile**:
+
 MOBO: ASUS ROG Crosshair VIII Dark Hero
+
 CPU: AMD RYZEN 9 5950X 16C/32T 4.9GHz
+
 RAM: DDR4 3600MHZ G.SKILL TRIDENT Z NEO- 128GB (4x32GB)
+
 GPU: NVIDIA RTX 3090TI 24GB G6X
+
 OS SSD: m.2 SSD, WD BLACK SN850 NVME GEN4 2TB M.2 
+
 Storage SSD: m.2 SSD, WD BLACK SN850 NVME GEN4 2TB M.2
+
 
 I turned off Laydor's Super Resolution DLSS settings.
 I'm also using RivaTuner on top of LS.
@@ -1358,13 +1365,20 @@ ________________________________________________________________________________
 
 
 2. **Kajdaniec's LS Profile**:
+
 MOBO: MSI X670E Carbon WIFI
+
 CPU: Ryzen 9 7950X
+
 RAM: Kingston Fury Beast 2x16GB 5600 MT/s
+
 GPU: MSI RTX 4080 Suprim X
+
 Storage: Seagate FireCuda 530 2TB (256GB OS Partition), Samsung SSD 990 PRO 2TB both M.2
 
+
 Kajdaniec did not use RivaTuner, and has kept Laydor's Super Resolution mod enabled with DLSS set to Quality.
+
 
 He's getting amazing results!
 
