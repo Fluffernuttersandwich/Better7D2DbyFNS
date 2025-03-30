@@ -306,7 +306,7 @@ Either Free or Premium will work.
 
 If you have a Free account, prepare to do _a lot_ of clicking.  
 For Free accounts, Wabbajack will open one-browser-tab-at-a-time, for you to manually download each mod.  
-250 mods = 250 tabs to click through. 
+350 mods = 350 tabs to open and click through one-at-a-time. 
 
 Premium accounts will click once to download all of the Nexus mods, and download them at a higher speed.  
 
@@ -410,7 +410,13 @@ Launch this MO2 instance from where you installed the Wabbajack files for this M
 
 _What do I press when MO2 says: "Mod Organizer is not set up to handle nxm links.  Associate it with nxm links?"_
 
-Press the `Yes` button, because nxm links don't matter for 7DtD.
+Press the `Yes` button.  
+
+This will tell the NexusMods website to associate this instance of MO2 as your ModManager of choice to download mods. 
+
+It's temporary, you can associate another mO2 instance, or Vortex next time you go to open those.  
+
+Be careful if you switch to/have MO2 and Vortex open at the same time downloading mods... you'll accidentally start downloading 7dtd mods to Skyrim.
 
 ![image](https://github.com/user-attachments/assets/65cfab71-5be8-4598-b668-f0da4eb48fb4)
 
@@ -491,8 +497,6 @@ https://7daystodiemods.com/double-g-zombies/
 
 https://7daystodiemods.com/non-script-radios-video-games/
 
-https://7daystodiemods.com/trader-quest-preview/
-
 You can download these mods, drag the zip folders into the Downloads folder within the MO2 folder for this ModList.  
 Then drag them from there into MO2, in the Yellow "Where you may choose to add compatible Mods..." section in the MO2 ModList.  
 If Mods are double-nested, you will need to fix that yourself.  
@@ -500,8 +504,6 @@ Depending on the mods, you might need to place them somewhere else in Priority (
 
 ## Optional Overpowered Mods are to be enabled/disabled at a players discretion.  
 But again, it's best practice to start a new game anytime you alter mods. 
-
-The deselected mods in this screenshot are the ones I disable for my own playthroughs. 
 
 None of the "OP" mods listed here are aggregiously OP.
 
@@ -512,13 +514,19 @@ None of the "OP" mods listed here are aggregiously OP.
 ![image](https://github.com/user-attachments/assets/e155fa9d-e533-42c3-ac05-4ad4ae3f196b)
 
 
+## Vehicle Mods (Do not toggle mid-save)
+
+![image](https://github.com/user-attachments/assets/75efa4c8-c03c-434f-a43e-be8566c127a9)
+
+
 ## Zombie Spawning Options
 
 ![image](https://github.com/user-attachments/assets/6e9d3b8e-6ce6-49d4-8bb4-17b1d11ba1ba)
 
-"**Beefy Hordes by GR**" increases roaming zombie spawning throughout the world (not POI spawns).  
-This makes for a more challenging early game.  It also triples Wandering Horde spawns.    
 
+## Optional Audio Mods
+
+![image](https://github.com/user-attachments/assets/0d056762-eee9-4857-81ae-34a94952bac9)
 
 
 ---
