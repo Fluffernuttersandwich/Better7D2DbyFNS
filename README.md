@@ -75,7 +75,7 @@ So check out his reviews if you are interested in learning about some of the bes
 
 ### Why you should consider using this Wabbajack-MO2 ModList
 
-- For users with a Premium NexusMods account, it is damn-near a "one-touch" modding solution to give you the best mods available for 7D2D.
+- For users with a Premium NexusMods account, it is damn-near a "one-touch" modding solution to give you the best mods available for 7DtD.
 
 - Even if you only have a Free NexusMods account, I've done all the work of collecting these mods and testing their Load Order for you.  
 So, even though you need to click through to download each mod, one-at-a-time, it's still faster than you doing it yourself, and with no wasted time spent troubleshooting the Load Order to sort out mod conflicts.
@@ -105,7 +105,7 @@ ________________________________________________________________________________
 ## Requirements and Recommended Hardware Specs
 
 
-1. Hardware capable of running the base game of 7D2D.
+1. Hardware capable of running the base game of 7DtD.
 
 If you can run the base game, you can run _most_ of the mods on this ModList without any issues.
 
@@ -449,7 +449,7 @@ B. Steel UI
 
 C. AGF HUD UI
 
-D. Disable all the UI mods, and play with the vanilla POI.
+D. Disable all the UI mods, and play with the vanilla UI.
 
 
 
@@ -618,7 +618,7 @@ ________________________________________________________________________________
 
 # Troubleshooting
 
-1. Are you sure you are on the correct game version?  Currently this is 7D2D game version: **1.3b9**
+1. Are you sure you are on the correct game version?  Currently this is 7DtD game version: **1.3b9**
 ![1 3b9](https://github.com/user-attachments/assets/c1d2322c-20aa-4a18-951f-24c9ca0cf034)
 
 
@@ -718,7 +718,7 @@ No guarantee that game/world save can still be played in, you might need to star
 
 I'm sorry, you won't want to hear this, I know you want to make full use of your beefy rig and awesome monitor, but this game hates playing even at "High" with 5120x1440 resolution.  
 
-The Samsung Odyssey series of monitors do not play well at 5120x1440 resolution with 7D2D, and it's even worse when you add mods and try to run with Ultra settings.  
+The Samsung Odyssey series of monitors do not play well at 5120x1440 resolution with 7DtD, and it's even worse when you add mods and try to run with Ultra settings.  
 
 This game is just not optimized for it.  Play with a more modest resolution like 2560x1440, or use a different monitor.  
 
@@ -740,7 +740,7 @@ Nothing will fix it!  This game with that monitor is cursed!
 
 Press F1, you probably have an endless wall of Red Error text dropping down like a waterfall.  
 
-This is preventing the game from loading/working.  Ctrl+Alt+Del, Task Manager, end the 7D2D game task. 
+This is preventing the game from loading/working.  Ctrl+Alt+Del, Task Manager, end the 7DtD game task. 
 
 The ModList is temperamental to the following conditions:  
 
@@ -1104,7 +1104,7 @@ To remove the Debug and Creative Menus, simply go back into the (F1) console and
 
 ---
 
-11. Interesting information about MO2 for 7D2D:  **It's a self-contained ModList!**
+11. Interesting information about MO2 for 7DtD:  **It's a self-contained ModList!**
 
 This means it shouldn't stop you from having a concurrent game of Darkness Falls, Rebirth, Vanilla, and Smörgåsbord by FNS.  
 
@@ -1146,7 +1146,7 @@ Nope, it's the easiest method to enjoy other people's ModLists.  No CLI, just a 
 
 ---
 
-15. Is it difficult to make your own ModList for 7D2D?
+15. Is it difficult to make your own ModList for 7DtD?
 
 That depends how IT-savvy you are.  
 
@@ -1154,15 +1154,15 @@ The Wabbajack Wiki on how to Compile your own ModLists is great, but it requires
 
 Additionally, the Wabbajack Discord group is extrememly helpful in making ModLists.  
 
-If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki specifically for 7D2D.  
+If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki specifically for 7DtD.  
 
 https://discord.gg/wabbajack
 
-https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is the process to create your own Wabbajack/MO2 ModList.  It now supports 7D2D.  Just ping me if you need help in making one.
+https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is the process to create your own Wabbajack/MO2 ModList.  It now supports 7DtD.  Just ping me if you need help in making one.
 
 ---
 
-16. How does MO2 determine Load Order for 7D2D in this ModList?
+16. How does MO2 determine Load Order for 7DtD in this ModList?
 
 ![image](https://github.com/user-attachments/assets/6c2772d0-4f91-49e3-9718-1add277a269f)
 
@@ -1405,11 +1405,11 @@ ________________________________________________________________________________
 
 **https://www.youtube.com/@FlufferNutterSandwich**
 
-2. Article: **How to create and include your own POIs into 7D2D**
+2. Article: **How to create and include your own POIs into 7DtD**
   
 https://www.nexusmods.com/7daystodie/articles/790
 
-3. Article: **Performance Tuning your Graphic Settings for better FPS in 7D2D**
+3. Article: **Performance Tuning your Graphic Settings for better FPS in 7DtD**
 
 https://www.nexusmods.com/7daystodie/articles/792
 
@@ -1431,7 +1431,7 @@ ________________________________________________________________________________
 
 - - Users like you who provide feedback, endorse mods on Nexus, and help troubleshoot bugs.
 
-- JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7D2D compatible with Wabbajack.  MVP!
+- JanuarySnow from the Wabbajack Discord: Thank you for all of your assistance, patience, and time in making 7DtD compatible with Wabbajack.  MVP!
 
 - EzioTheDeadPoet, and Dace from the Wabbajack GitHub/Discord for your support.
 
@@ -1439,7 +1439,7 @@ ________________________________________________________________________________
 
 - StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
 
-- The good folks at Guppy's 7D2D Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, JNS, Keywal, and many others. 
+- The good folks at Guppy's 7DtD Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, JNS, Keywal, and many others. 
 
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
