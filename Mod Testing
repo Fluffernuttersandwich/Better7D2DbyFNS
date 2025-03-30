@@ -1,69 +1,19 @@
-1.39: TBD
+1.40: TBD
 
 Comments: 
-
-You can call this the Perks, Sounds, and Cars update.  
-
-1. I added a new separator in MO2 for Optional OP Perks.  Either use "Legend Perks" or "Flogi's Perk..." NOT BOTH!!!  "Natural Progression" can be used with either.
-
-2. Added an Optional Sound Mods separator. 
-
-3. I also added a new Cars separator.  The people asked for more cool cars, so more cars it is.  
-The new Luxury cars are set to default Metallic color.  
-If you don't like that color, you can manually reinstall those individual mods on your own MO2 yourself.  
-Only choose one color or the mod won't work!!!
-
-4. I added a section to the ReadMe about using Lossless Scaling to improve 7DtD performance.  
-It allows me to run Ultra on this ModList with smoother graphics, and less stutters.  
-It's a bit of a process to set up, but worth it if you want to get the most out of your game.  
-It's very Hardware specific.  Kajdaniec and I have different profiles, I posted both.  
-
-
-As always, I'd like to express my gratitude to people who comment, troubleshoot, and provide feedback.
-This week's shout-outs: 
-Kajdaniec for being our "unnofficial" tester!  We did a lot of LS testing this week with great results!
-Cinnaspice for finding an issue with Plant Collection Challenges.  It's been reported to the Mod Author, still a WiP.  
-NobodyNobody666 for the Flogi's Perk suggestion.
-CarnaeAssada for helping us identify a Mod Compatibility issue with Solar Powered.  
-LittleRedSonja for assisting in chasing down the Solar Powered issue.  
 
 
 Removed: 
 
-"Solar Powered"  It's redundant with Oakraven's mods, and was causing a compatibility issue with FHD.  
+"
 
 Added:
 
-"Robotic Drone Headlamp Soft White" Standard Mod.  Changes Drone light mod from blue to white.
-
-"PGz Boosted Big Cities" POI/RWG mod. Increases city sizes and allows them to spawn in all biomes.  This is redundant if you play with the CompoPack.  
-
-"(V1) Quests Per Tier - 20" For people who want to slow down their game!
-Instead of 10 quests per quest tier level, this mod makes you complete 20 quests slowing down your progression to keep the game going longer.  
-
-"Flogi's Perk Mod" Optional OP, 
-"Flogi's Perk Mod XP HUD" Optional OP, 
-
-"Fancy Home Decor - Add-On patch" Optional Decor Add-On patch to Fancy Home Decor.  
-Now the lights don't need power, and you don't need to read the Wiring 101 magazines to unlock it.  
-Allows you to loot some decor blocks and resuse them from POIs.  
-If you turn these mods off mid-save, it can cause errors.
-
-"St. Mary's Hospital" Epic POI mod.  
-
-Sound mods and Vehicles stuff, see the new separators, too many mods to list, I'm tired of typing.
-
+"
 
 Updated: 
 
-"EFT Extraction Pack"
-"ZEFT_Extraction_No_Vanilla_Guns"
-"Deluxe Block POI Pack by FNS" tweaks to existing POIs.  
-"Vault Pack for Descent"
-"Danzo All Text With Shadow"
-"Despawn Zombies Mod Optimize Zombie Despawning"
-"...Pickup Crops"
-
+"
 
 
 
