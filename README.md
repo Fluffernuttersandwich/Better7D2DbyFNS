@@ -1245,6 +1245,27 @@ When falling from a great height, cycle to the parachute item in the toolbelt, a
 You will have limited control of the parachute, and still might take a minimal amount of falling damage.  
 It's a test mod, not 100% perfect, but it's super fun!  
 
+
+---
+
+Key Binds for EFT/EFT Extraction Pack:
+
+How do I change firing type? From Full-Auto to Single-Fire or Burst?  Z-key
+
+How do I switch to under-barrel launchers?  X-key
+
+How do I switch ammo types from vanilla to EFT ammo on EFT guns?  Hold the R-key, use the wheel to select the ammo choice.  
+
+
+There is an Add-on mod to the EFT Extraction Pack called "ZEFT_Extraction_No_Vanilla_Guns".  
+
+
+This mod removes vanilla pipe guns from loot and traders, but you should still be able to craft them.  
+
+
+It also makes it so the Trader rewards you with an EFT gun when you complete the initial Buried Supplies mission.  
+
+
 ______________________________________________________________________________________________________________________
 
 
@@ -1270,7 +1291,7 @@ I chose Beyond Storage for this list.  If you can live without that, you can add
 
 D. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness Falls, nor most other Overhauls.  
 
-No I will not make it compatible, that's too much work.  
+No I will not make it compatible, that's too much work.
 
 E. "More Shots", "Brazmocks Archery", and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  If one of you guys want to try to figure it out, please help the community if you are able!  
 
