@@ -1340,7 +1340,7 @@ https://www.youtube.com/watch?v=qc3zZEYpfLY
 
 1. **Fin's LS Profile**:
 
-MOBO: ASUS ROG Crosshair VIII Dark Hero
+**Hardware:**
 
 CPU: AMD RYZEN 9 5950X 16C/32T 4.9GHz
 
@@ -1348,23 +1348,59 @@ RAM: DDR4 3600MHZ G.SKILL TRIDENT Z NEO- 128GB (4x32GB)
 
 GPU: NVIDIA RTX 3090TI 24GB G6X
 
-OS SSD: m.2 SSD, WD BLACK SN850 NVME GEN4 2TB M.2 
+OS SSD: m.2 SSD, WD BLACK SN850 NVME GEN4 2TB M.2
 
 Storage SSD: m.2 SSD, WD BLACK SN850 NVME GEN4 2TB M.2
 
+Monitor: Samsung Odyssey G9 Neo, with game Windowed to 2560x1440 @ 240Hz
+
+Recording: OBS @ 1080p with 60 FPS.
+
+
+**Lossless Scaling Settings:**
+
+Mode: FG (no LS Upscaling, just Frame Generation)
+
+Target: 60 FPS Average
+
+Flow Scale: 75  
+
+Capture API: DXGI  
+
+Queue Target: 1  
+
+Sync Mode: Vsync (in LS app, not game)
+
+Max Frame Latency: 3
+
+HDR Support: On (in app and Windows)
+
+Graphic Settings: Custom, with the biggies set to Ultra, with a few options scaled down to High or Medium. 
+
+Base Framerate Capped: 40 FPS in RTSS
+
+Comments: This game is not optimized, and is also CPU bottlenecked.  
 
 I turned off Laydor's Super Resolution DLSS settings.
-I'm also using RivaTuner on top of LS.
-Notice how I used RivaTuner to lock FPS to 30 for 7DtD, this was intentional.  
-LSFG works best with a stable FPS range.  
-My average range was 30 at Ultra with this list, so I locked it there.  
 
+I'm also using RivaTuner (RTSS) on top of LS.
 
-![image](https://github.com/user-attachments/assets/76cacaf6-3c4c-4fe1-aeb8-8534140864d9)
+Notice how I used RivaTuner to lock FPS to 40 for 7DtD, this was intentional.
+
+LSFG works best with a stable FPS range.
+
+My average range was 40 FPS at Ultra with this list, so I locked it there. 
+
+I have tried a few configurations where I saw better visual results in some places, but had worse performance when stress testing the game. 
+
+This configuration was the most stable for me overall with "good enough" Ultra visuals.  
+
+![image](https://github.com/user-attachments/assets/cf1b18ad-a3fe-47db-a22f-512dc4779796)
 
 
 
 I also added a custom LS Overlay to RivaTuner... it's available at the LS Discord.
+
 
 ![image](https://github.com/user-attachments/assets/34a4a632-4ac3-4a0a-b8f4-24d95514973f)
 
