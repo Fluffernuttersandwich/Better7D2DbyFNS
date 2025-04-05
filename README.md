@@ -282,9 +282,9 @@ I. **Do not install/use your own MO2!**
 > Do not use a standard MO2 install downloaded from other locations, it will (probably) not work!
 > Again, this Wabbajack list download process will include it's own modified instance for MO2.  Use this one!
 
-J. **Create Antivirus Exceptions for MO2 and 7D2D**
+J. **Create Antivirus Exceptions for the MO2 and 7D2D Executables**
 
-You might need to create Antivirus Exceptions for MO2 and 7DtD. 
+You might need to create Antivirus Exceptions for MO2 and 7DtD executables. 
 
 There are other programs that might be preventing you from launching 7DtD from MO2.  
 
