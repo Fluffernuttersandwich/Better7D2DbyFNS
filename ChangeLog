@@ -1,3 +1,31 @@
+1.43: 17:15 EST 11APR2025
+
+Comments: 
+The Smorgasbord ModList v1.43 is now compatible with 7DtD game version 1.4b8.
+The new 1.4b8 stable version mostly fixed bugs, and did not add/subtract any features.
+I did see some minor UI errors, 
+but they didn't pop-open the console mid-game and I didn't see any game-breaking errors.  
+I tested it for a few hours and didn't notice any other major problems.  
+It's impossible for my testing to be exhaustive, so if you notice any new unreported issues,
+please let me know so I can fix things.  
+
+On a personal note: I will be starting a new job in two weeks, and will have less time support this modding.  
+I will still be updating it, but my update frequency and responsiveness to troubleshoot will be slower.  
+
+Removed: 
+N/A
+
+Added:
+N/A
+
+Updated: 
+"7 Days to Die Gore Remover"
+"Flogi's Perk Mod"
+"Flogi's Quest Mod"
+
+__________________________________________________________
+
+
 1.42: 19:15 EST 09APR2025
 
 Comments: 
