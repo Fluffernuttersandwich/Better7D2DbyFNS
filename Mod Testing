@@ -1,7 +1,13 @@
-1.42: TBD
+1.43: TBD
 
 Comments: 
-Still on game version 1.3b9
+The Smorgasbord ModList v1.43 is now compatible with 7DtD game version 1.4b8.
+The new 1.4b8 stable version mostly fixed bugs, and did not add/subtract any features.
+I did see some minor UI errors, 
+but they didn't pop-open the console mid-game and I didn't see any game-breaking errors.  
+I tested it for a few hours and didn't notice any other major problems.  
+It's impossible for my testing to be exhaustive, so if you notice any new unreported issues,
+please let me know so I can fix things.  
 
 FNS gratitude shout-outs:
 
@@ -9,19 +15,12 @@ Removed:
 N/A
 
 Added:
-"Witos Camera" Vehicle mod.  Better First-person-camera for vehicles.  
-"Player Spawn Protection" Optional OP mod. Player has 2 minutes of invulnerability when they immediately spawn into the world.  
-"Go Faster on Roads" Optional OP mod.  Character moves slightly faster on asphalt and concrete blocks.  
-"Better Mod Compatibility" Framework mod.  This mod helps fix some common mod compatibility issues.  
-"Better Vanilla Attachments"
-
+N/A
 
 Updated: 
-"Better Flying Vehicles" 
-"ZEFT_Extraction_No_Vanilla_Guns"
-"Army Biological Center"
-"Deluxe Block POI Pack by FNS"
-"RWG Mixer for Smorgasbord"
+"7 Days to Die Gore Remover"
+"Flogi's Perk Mod"
+"Flogi's Quest Mod"
 
 
 __________________________________________________________
