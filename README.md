@@ -828,6 +828,14 @@ If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 0_Harmony
 ![image](https://github.com/user-attachments/assets/d4ee4b18-7ef8-4956-9a23-e9b69e73322a)
 
 
+---
+
+15. Trees, plants, and textures flickering in and out?
+
+    A. Go to Video (Graphics) settings and Disable Occlusion.  If you are playing with Better Biomes and Urban Decay, the author also suggests this.
+
+    B. Some overlarge POIs like those from The Walking Dead POI Pack will not render correctly.  This is a game engine limitation.  POIs larger than 150x150 blocks will have cause issues with roads, textures, and spawning.  
+
 ______________________________________________________________________________________________________________________
 
 # How do we update the ModList?
