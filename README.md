@@ -1483,7 +1483,7 @@ https://www.nexusmods.com/7daystodie/articles/1053
 ______________________________________________________________________________________________________________________
 
 
-# Credits and Thanks
+# Credits and Thanks:
 
 - YOU for reading this.
 
@@ -1503,6 +1503,21 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
 
 
+______________________________________________________________________________________________________________________
+
+
+# Donations:
+
+I am not an e-beggar.  I hate being pushy, and will never be the person to ask for YouTube subscribers nor donations. 
+
+However, community members have repeatedly asked if they can donate to me to support the work I do here for the Smorgasbord ModList.
+
+If you feel so inclined, you can donate through the PayPal Donate link on my NexusMods Profile page:
+
+**https://next.nexusmods.com/profile/FlufferNutterSandwich**
+
+
+![image](https://github.com/user-attachments/assets/24818a2f-e839-47cd-bc3e-35e66f4a4b34)
 
 
 
