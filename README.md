@@ -619,7 +619,8 @@ ________________________________________________________________________________
 # Troubleshooting
 
 1. Are you sure you are on the correct game version?  Currently this is 7DtD game version: **1.4b8**
-![1 3b9](https://github.com/user-attachments/assets/c1d2322c-20aa-4a18-951f-24c9ca0cf034)
+![image](https://github.com/user-attachments/assets/c433baf8-6bb0-4c24-8488-971615a3a078)
+
 
 
 
