@@ -834,7 +834,11 @@ If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 0_Harmony
 
     A. Go to Video (Graphics) settings and Disable Occlusion.  If you are playing with Better Biomes and Urban Decay, the author also suggests this.
 
-    B. Some overlarge POIs like those from The Walking Dead POI Pack will not render correctly.  This is a game engine limitation.  POIs larger than 150x150 blocks will have cause issues with roads, textures, and spawning.  
+    B. Some overlarge POIs like those from The Walking Dead POI Pack will not render correctly.  This is a game engine limitation.  POIs larger than 150x150 blocks will have cause issues with roads, textures, and spawning.
+
+
+![image](https://github.com/user-attachments/assets/fc53369f-e9de-4c74-a2df-3fe37dea0fb9)
+
 
 ______________________________________________________________________________________________________________________
 
