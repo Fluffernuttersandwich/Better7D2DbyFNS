@@ -1242,6 +1242,7 @@ From the Author, he said Descent will work without the cave-light.
 
 ![image](https://github.com/user-attachments/assets/86fae4c1-b5a9-4625-b280-cd2b9c0da83a)
 
+The Torch mod also has a global effect on lighting.  If you don't like those mods, disable them.  You can also adjust the in-game Brightness setting.
 
 ---
 
@@ -1528,4 +1529,5 @@ If you feel so inclined, you can donate through the PayPal Donate link on my Nex
 ![image](https://github.com/user-attachments/assets/24818a2f-e839-47cd-bc3e-35e66f4a4b34)
 
 
+Donations are always appreciated, but never expected.  
 
