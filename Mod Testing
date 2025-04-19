@@ -1,13 +1,9 @@
-1.43: TBD
+1.44: TBD
 
 Comments: 
-The Smorgasbord ModList v1.43 is now compatible with 7DtD game version 1.4b8.
-The new 1.4b8 stable version mostly fixed bugs, and did not add/subtract any features.
-I did see some minor UI errors, 
-but they didn't pop-open the console mid-game and I didn't see any game-breaking errors.  
-I tested it for a few hours and didn't notice any other major problems.  
-It's impossible for my testing to be exhaustive, so if you notice any new unreported issues,
-please let me know so I can fix things.  
+Users had a problem with Flogi's Perks Mod.  
+It was updated so this revision of the Smorgasbord Modlist to 1.44 is mostly as a hotfix to that issue.  
+While I was there, I updated a few others.  
 
 FNS gratitude shout-outs:
 
