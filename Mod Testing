@@ -3,20 +3,37 @@
 Comments: 
 Users had a problem with Flogi's Perks Mod.  
 It was updated so this revision of the Smorgasbord Modlist to 1.44 is mostly as a hotfix to that issue.  
-While I was there, I updated a few others.  
+While I was at it, I updated a few others... 
+
+Notice:
+EFT Extraction Pack and Izy are both planning an update in the near future, so the next update to Smorgasbord could be as quickly as today/tomorrow.   
 
 FNS gratitude shout-outs:
+EyeOfWolf for reporting the issue with Flogi's Perk Mod.
 
 Removed: 
-N/A
+
+Two of the OakravenAmmoPress-CompatibilityAddOn patches (because they were consolidated under one new file).  
 
 Added:
-N/A
+
+"RWG POI Blocker" 
+Optional POI mod, set to Disabled by default in MO2.  
+Manual modification is required!  
+Prevents user specified vanilla POIs from appearing on maps created by the vanilla RWG.  
+By default it is set to block a few strip club POIs from spawning, but can easily be customized with your own list of POIs.  
+Some users might want to use this mod to blacklist POIs like modded traders.
+
+"(V1)-OakravenAmmoPress-CompatibilityAddOn"
+Optional OP Mod... this was a consolodation of two other mods into one file.  
 
 Updated: 
-"7 Days to Die Gore Remover"
+
 "Flogi's Perk Mod"
 "Flogi's Quest Mod"
+"World Tower"
+"LittleRedSonja Ammunition Recycling"
+"(V1)-OakravenAmmoPress-CompatibilityAddOn"
 
 
 __________________________________________________________
