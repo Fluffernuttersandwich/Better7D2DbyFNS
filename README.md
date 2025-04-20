@@ -491,8 +491,6 @@ I populated it with "Less Annoying Slower Vultures" (disabled) just as a referen
 
 Here are some popular off-site (not included in the list) mods that are compatible with this ModList if you want to add them to your own game:
 
-https://7daystodiemods.com/tuk-throw-stuff-mod/
-
 https://7daystodiemods.com/double-g-zombies/
 
 https://7daystodiemods.com/non-script-radios-video-games/
@@ -500,7 +498,6 @@ https://7daystodiemods.com/non-script-radios-video-games/
 You can download these mods, drag the zip folders into the Downloads folder within the MO2 folder for this ModList.  
 Then drag them from there into MO2, in the Yellow "Where you may choose to add compatible Mods..." section in the MO2 ModList.  
 If Mods are double-nested, you will need to fix that yourself.  
-Depending on the mods, you might need to place them somewhere else in Priority (Load Order).  
 
 ## Optional Overpowered Mods are to be enabled/disabled at a players discretion.  
 But again, it's best practice to start a new game anytime you alter mods. 
