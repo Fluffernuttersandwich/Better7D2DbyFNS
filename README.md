@@ -797,6 +797,10 @@ Recent user experience: "Welp, it _was_ my anti-virus... 'just added exceptions 
 
 Calm down, you didn't break it.  Click on the Priority column header in the MO2 application so it will go back to sorting by Priority.  
 
+![image](https://github.com/user-attachments/assets/8c911ff8-f637-4b51-9e29-a6e52b6e3ef0)
+
+
+
 ---
 
 13. "I am unable to play multiplayer with this modlist?!"
