@@ -1,39 +1,71 @@
-1.44: TBD
+1.45: TBD
+
+Warning: Do not update this ModList until you are ready to start a new game!
+This is a major ModList update!  
+This update will very likely break your existing save.  
 
 Comments: 
-Users had a problem with Flogi's Perks Mod.  
-It was updated so this revision of the Smorgasbord Modlist to 1.44 is mostly as a hotfix to that issue.  
-While I was at it, I updated a few others... 
+
+1. This is the NPC Update many of you have been asking for.  
+It was a farily large undertaking adding this stuff to the list and testing as much as I reasonably could (as one man with limited time).
+I have noticed the Gears setting button is not in the Settings options currently, not sure if it's from the NPC Core addition, or another mod causing it to not show up... 
+Gears is still applying but the button is not displaying...
+
+2. EFT Extraction Pack received a major update.  
+I have said it before, but have to say it again for new people: EFT Extraction Pack follows behind the EFT Overhaul modpack.  
+This past week the EFT Overhaul modpack radically changed progression.  
+They now use a Learn-By-Doing System.  
+Extraction Pack copied this.
+What this means for users: 
+A. You will miss something like 50% of your shots, even at point blank "impossible to miss" range until you level up.
+B. Extremely sluggish aiming animation until you level up.
+StallionsDen is considering to offer a separate option that doesn't use the Overhaul's Learn-by-Doing system.  
+Please be patient, it wil take him some time to create a deviation.
+Until that option becomes available, I am setting the EFT Extraction Suite mods to disabledon this ModList for the time being.  
+They're there if you want to use them, but I know the majority of my player base will prefer to wait.
+
+3. For the first time, I have added Non-NexusMods "offsite" mods to the list.  
+My secondary computer is on the fritz, so I cannot test the download process from the user perspective.  
+You guys are my guinea pigs, if something didn't download right, please let me know.  
+Fingers crossed, I set everything up correctly, and it should all work out alright... should, should.
+
+4. Izy AIO update...
 
 Notice:
-EFT Extraction Pack and Izy are both planning an update in the near future, so the next update to Smorgasbord could be in the next few days. 
+I start a new job next week so will not have as much time to devote to modding/troubleshooting.  
 
 FNS gratitude shout-outs:
-EyeOfWolf for reporting the issue with Flogi's Perk Mod.
+Grey.  He is working on providing the community with directions for converting this list to Linux Nobara and possibly Steam Deck.
 
 Removed: 
-
-Two of the OakravenAmmoPress-CompatibilityAddOn patches (because they were consolidated under one new file).  
+N/A
 
 Added:
 
-"RWG POI Blocker" 
-Optional POI mod, set to Disabled by default in MO2.  
-Manual modification is required!  
-Prevents user specified vanilla POIs from appearing on maps created by the vanilla RWG.  
-By default it is set to block a few strip club POIs from spawning, but can easily be customized with your own list of POIs.  
-Some users might want to use this mod to blacklist POIs like modded traders.
+NPC Separator and all mods therein.
+You might notice a few missing NPC mods you see on other listings.  This is because the links were dead, or required manual manipulation, and I won't add those.
+There are a few more NPC mods I tried, but were throwing errors so just skipped those for now.  I'll check them again in future updates.
+I disabled all NPC mods by default, because they really do change the game drastically.  
+Being shot at constantly, or seeing random giant spiders, or dinosaurs rubs some people the wrong way.
 
-"(V1)-OakravenAmmoPress-CompatibilityAddOn"
-Optional OP Mod... this was a consolodation of two other mods into one file.  
+"Guppy's Zombies": Zombie Spawning, Optional mod, adds zombie variety.
+"KHZmusik Zombies": Zombie Spawning, Optional mod, adds zombie variety.
+
+"WalkerSim" Zombie Spawning, Optional mod.  This replaces the normal Wandering Horde mechanic.  
+Zombies will be present as soon as you spawn in to a new world.  
+This mod changes random global zombie spawning, so it is more uniquely random.
+This mod is set to default settings, but you can manually play with settings... see NexusMods page for details.  
+The WalkerSim mod replaces wandering hordes which are spawned at random with a more complex simulation taking advantage of the entire map. 
+The simulation will spawn the zombies when a player gets close and if the player is too far it will put them back into the simulation.  
+This mod makes the "Wandering Horde Lootbags" and "Beefy Hordes" mods irrelevant.
+I like this mod and think you should give it a fair try before disabling it.  
 
 Updated: 
 
-"Flogi's Perk Mod"
-"Flogi's Quest Mod"
-"World Tower"
-"LittleRedSonja Ammunition Recycling"
-"(V1)-OakravenAmmoPress-CompatibilityAddOn"
+"LittleRedSonja Fancy Decor"
+"Efficient Base Repair"
+"EFT Extraction Pack" suite.
+"Izy AIO Weapons Pack"
 
 
 __________________________________________________________
