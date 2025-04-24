@@ -3,40 +3,40 @@
 Warning: Do not update this ModList until you are ready to start a new game!
 This is a major ModList update!  
 This update will very likely break your existing save.  
+You've been warned!
 
 Comments: 
 
 1. This is the NPC Update many of you have been asking for.  
 It was a farily large undertaking adding this stuff to the list and testing as much as I reasonably could (as one man with limited time).
 I have noticed the Gears setting button is not in the Settings options currently, not sure if it's from the NPC Core addition, or another mod causing it to not show up... 
-Gears is still applying but the button is not displaying...
+Gears is still applying but the button is not displaying... if anyone could help me figure this out, I'd appreciate it.  
 
 2. EFT Extraction Pack received a major update.  
 I have said it before, but have to say it again for new people: EFT Extraction Pack follows behind the EFT Overhaul modpack.  
 This past week the EFT Overhaul modpack radically changed progression.  
-They now use a Learn-By-Doing System.  
-Extraction Pack copied this.
+They now use a Learn-By-Doing (LBD) System.  The EFT Overhaul did this for balance. Extraction Pack copied this to be inline with their changes.
 What this means for users: 
 A. You will miss something like 50% of your shots, even at point blank "impossible to miss" range until you level up.
 B. Extremely sluggish aiming animation until you level up.
-StallionsDen is planning an alternative, to offer a separate option that doesn't use the EFT Overhaul's Learn-by-Doing system.  
+StallionsDen is planning an alternative, to offer a separate option that doesn't use the EFT Overhaul's Learn-By-Doing system.  
 Please be patient, it wil take him some time to create a deviation.
 Until that option becomes available, I am setting the EFT Extraction Suite mods to disabled on this ModList for the time being.  
-They're there if you want to use them, but I know the majority of my player base will not like the current system.
-Use Izy's for now...
+They're there if you want to use them, but I know the majority of my player base will have mixed reactions to the current system.
+If you don't like the change, keep it disabled for now, and just use Izy's for now...
 
 3. For the first time, I have added Non-NexusMods "offsite" mods to the list.  
-My secondary computer is on the fritz, so I cannot test the download process from the user perspective.  
+They should all still be one-click.  I purposefully avoided any mods that required users to manually manipulate.  
+My secondary computer is on the fritz, so I cannot currently test the download process from the user perspective.  
 You guys are my guinea pigs, if something didn't download right, please let me know.  
-Fingers crossed, I set everything up correctly, and it should all work out alright... should, should.
-
-4. Izy AIO update...
+Fingers crossed, I set everything up correctly, and it should all work out alright... should, should. :)
 
 Notice:
-I start a new job next week so will not have as much time to devote to modding/troubleshooting.  
+1. I start a new job next week so will not have as much time to devote to modding/troubleshooting.  Expect slower response times going forward.   
+2. Izy is working on his AIO v5.0 update, hopefully releasing in a few weeks.   
 
 FNS gratitude shout-outs:
-Grey.  He is working on providing the community with directions for converting this list to Linux Nobara and possibly Steam Deck.
+Grey.  He is working on providing the community with directions for converting this list to Linux Nobara.
 
 Removed: 
 N/A
@@ -54,13 +54,22 @@ If you use NPC Mods, go into the in-game NPC Settings, and hit the checkbox to m
 "KHZmusik Zombies": Zombie Spawning, Optional mod, adds zombie variety.
 
 "WalkerSim" Zombie Spawning, Optional mod.  This replaces the normal Wandering Horde mechanic.  
+I set this mod to enabled.  I'd like to hear some feedback from you folks on how you feel about it.
 Zombies will be present as soon as you spawn in to a new world.  
-This mod changes random global zombie spawning, so it is more uniquely random.
+This mod changes random global zombie spawning, so it is more uniquely organic.
 This mod is set to default settings, but you can manually play with settings... see NexusMods page for details.  
 The WalkerSim mod replaces wandering hordes which are spawned at random with a more complex simulation taking advantage of the entire map. 
 The simulation will spawn the zombies when a player gets close and if the player is too far it will put them back into the simulation.  
 This mod makes the "Wandering Horde Lootbags" and "Beefy Hordes" mods irrelevant.
+Zombies will start spawning as soon as you enter the world.  
+You will see daylight ferals in the forest biome on day one.  
 I like this mod and think you should give it a fair try before disabling it.  
+
+"Izy's Vanilla Replacer": OP mods, Optional.  Izy added an Optional mod called the Vanilla Replacer.  
+This add-on mod replaces vanilla gun models, their animations, and sounds with new versions by Izayo. 
+It also adds a kick-attack. Press the flashlight key to use. 
+By default this is the F-key on a keyboard, or the D-pad Up button on an Xbox gamepad.  
+The kick-function will only work on the vanilla-replaced guns.  Not Izy's other guns, nor EFT, etc.  
 
 Updated: 
 
