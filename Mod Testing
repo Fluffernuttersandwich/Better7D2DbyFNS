@@ -5,6 +5,7 @@ Comments:
 1. Hotfix update.  
 A. Izy's Vanilla Replacer
 B. Removed the Western NPC mod because it required users to manually manipulate it for installation.
+C. EFT Extraction Pack was fixed.  The Learn-by-Doing (LBD) system was removed.  I will now set the Extraction suite back to enabled in MO2 by default.  
 
 FNS gratitude shout-outs:
 Kajdaniec for helping me test the download process for the new offsite mods.  
@@ -23,5 +24,6 @@ Throw it immediately or it will blow up in your hand.
 Updated: 
 
 "Izy's Vanilla Replacer"
+"EFT Extraction Pack"
 
 __________________________________________________________
