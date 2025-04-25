@@ -7,14 +7,14 @@ I am not going to use mods that go to ModDB because their site intermittently fo
 
 1. Hotfix update.  
 A. Izy's Vanilla Replacer
-B. Removed the Western NPC mod because it required users to manually manipulate it for installation from ModDB.
+B. Removed the Western NPC mod for two reasons.  It was throwing errors and it required users to manually manipulate it for installation from ModDB.
 C. EFT Extraction Pack was fixed.  The Learn-by-Doing (LBD) system was removed.  I will now set the Extraction suite back to enabled in MO2 by default.  
 
 FNS gratitude shout-outs:
 Kajdaniec for helping me test the download process for the new offsite mods.  
 
 Removed: 
-"Western Entity Pack for NPC-Core". I don't want to include mods that require users to manually drag them into the list.   
+"Western Entity Pack for NPC-Core"
 
 Added:
 
