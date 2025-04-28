@@ -1,3 +1,64 @@
+1.46: 08:20 EST 24APR2025
+
+Comments: 
+
+Regarding mods from Non-NexusMods offsite locations; I will use offsite mods if they link to GitHub/GitLab locations.  
+I am not going to use mods that go to ModDB/G-Drives because they force users to download and install the mods manually.  
+
+A. Izy's Vanilla Replacer.  Izy added a few small fixes.
+
+B. Removed the Western NPC mod for two reasons.  
+It was throwing errors and it required users to manually manipulate it for installation from ModDB.
+I have alerted the Mod Author, so it might be updated and return at some point in the future.  
+
+C. EFT Extraction Pack was fixed.  
+The Learn-by-Doing (LBD) system was removed.  
+I have now set the Extraction suite back to enabled in MO2 by default.
+
+FNS gratitude shout-outs:
+Kajdaniec for helping me test the download process for the new offsite mods.  
+StallionsDen for working so hard on the EFT Extraction Pack revision.  
+
+Removed: 
+"Western Entity Pack for NPC-Core"
+
+Added:
+
+"Guppy's Tin Can Grenade" Optional QoL mod.  
+This mod does two things: 
+1. Adds an empty tin can to the players inventory after consuming a canned food item. 
+2. Adds a recipe that allows players to create small improvised (ghetto-rigged) Tin Can Grenades.
+Throw it immediately or it will blow up in your hand.  
+
+"Guppy's Motorized Shopping Cart" From LittleRedSonja, we ressurected a fun vehicle Guppy made years ago. 
+
+"Better Pipe Guns" Optional OP Mod.  Increases the damage of the Pipe Rifle and Pipe Shotgun slightly, just to make them less useless.  
+
+"LittleRedSonja and Mumpfy's DangerGirl ArmorPack01" Adds some new armor for the ladies.  
+
+"IncreasedStackSize" mods of various sizes.  
+
+"Thor Thunderstorm Mod" Optional, Graphic/Environmental.  
+This is set to disabled by default, it can be resource intensive on some systems, but the latest update is working fine for me.
+
+"Games Settings Extender" Optional QoL.  Do not go too far in either extreme for some of the game options or you could have upredictable results. 
+
+"ChainMining" Optional OP Mod.  This is the VeinMining mod from Minecraft.  
+If you mine one ore type with a mining tool, you will mine all of the conncted ore of the same type.
+
+"QuickStop" Optional OP Mod.  Aim improves when you come to a full stop like in other FPS games.  
+
+Updated: 
+
+"Izy's Vanilla Replacer"
+"EFT Extraction Pack"
+"Oakraven's Balloons"
+"TMO Trader Never Closes"
+"WalkerSim"
+
+__________________________________________________________
+
+
 1.45: 09:00 EST 24APR2025
 
 Warning: Do not update this ModList until you are ready to start a new game!
