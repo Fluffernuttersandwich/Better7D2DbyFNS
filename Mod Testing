@@ -9,6 +9,7 @@ A. Izy's Vanilla Replacer.  Izy added a few small fixes.
 
 B. Removed the Western NPC mod for two reasons.  
 It was throwing errors and it required users to manually manipulate it for installation from ModDB.
+I have alerted the Mod Author, so it might be updated and return at some point in the future.  
 
 C. EFT Extraction Pack was fixed.  
 The Learn-by-Doing (LBD) system was removed.  
@@ -32,9 +33,19 @@ Throw it immediately or it will blow up in your hand.
 
 "Better Pipe Guns" Optional OP Mod.  Increases the damage of the Pipe Rifle and Pipe Shotgun slightly, just to make them less useless.  
 
-"LittleRedSonja and Mumpfy's DangerGirl ArmorPack01" Adds some new armor fo rthe ladies.  
+"LittleRedSonja and Mumpfy's DangerGirl ArmorPack01" Adds some new armor for the ladies.  
 
 "IncreasedStackSize" mods of various sizes.  
+
+"Thor Thunderstorm Mod" Optional, Graphic/Environmental.  
+This is set to disabled by default, it can be resource intensive on some systems, but the latest update is working fine for me.
+
+"Games Settings Extender" Optional QoL.  Do not go too far in either extreme for some of the game options or you could have upredictable results. 
+
+"ChainMining" Optional OP Mod.  This is the VeinMining mod from Minecraft.  
+If you mine one ore type with a mining tool, you will mine all of the conncted ore of the same type.
+
+"QuickStop" Optional OP Mod.  Aim improves when you come to a full stop like in other FPS games.  
 
 Updated: 
 
@@ -42,4 +53,5 @@ Updated:
 "EFT Extraction Pack"
 "Oakraven's Balloons"
 "TMO Trader Never Closes"
+"WalkerSim"
 __________________________________________________________
