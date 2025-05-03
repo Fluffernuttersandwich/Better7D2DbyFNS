@@ -12,7 +12,7 @@ Removed:
 
 Added:
 
-"Additional Research - add-on patch" OP Optional. This is an add-on patch to the Research mod. I made this to allow EFTX players to craft magazines from the Research Workstation.
+"Additional Research - add-on patch" OP Optional. This is an add-on patch to the Research mod. I made this to allow players to craft EFTX magazines from the Research Workstation.
 "Rodent Reducer add-on patch for Urban Decay" Optional, under graphics-performance separator, just to keep it near Urban Decay.  This reduces rat/bat spawns by 90%.  
 "Crouching Doesnt Make The Screen Go Dark" Optional QoL, enabled by default. 
 "LittleRedSonja and Mumpfy ArmorPack02 VanillaReVamp" Decor/Armor.  
@@ -28,10 +28,20 @@ This mod adds a craftable "Online Shopping Terminal" that allows you to buy, 24/
 
 Updated: 
 
-"EFT Extraction Pack"
-StallionsDen added a magazine series for each unique gun.  
-If you have any constructive criticism, please share it on the Nexus comments forum for the mod, or over at his eft-guns-only channel at Guppy's Discord Server.  
+"EFT Extraction Pack" (new abbreviation is EFTX, it's what all the cool-kids are saying).
+StallionsDen added a magazine series for each unique gun.  Not gun type, but each unique gun-model.  Not just pistols, an M1911 has it's own magazine series, Glock17 has it's own, etc.        
+What this means for you as a player:
+1. You will now rarely find EFT guns, only after Game Stage 15, and you will only pull tier 1 quality EFTX-guns.  The emphasis has moved to crafting.  
+2. You need to read 25 magazines of the same specific gun type to unlock the ability to craft that one gun at tier 1.  25 subsequent magazines need to be read for each crafting tier level.
+3. Vanilla Cop, Soldier, and Nurse zombies are now lootable (if you play with EFTX).  This will likely be your best source of magazines.  
+4. I strongly encourage you to play at 100% Loot Abundance with EFTX going forward to give yourself the best odds to pull those magazines.  
+For Smorgasbord, I disabled the 'zombies despawn in 6 seconds' mod.  It's still there, but since most players will be playing with EFTX, I wanted to make sure they had adequate time to loot those specified zombies. 
+Some people might not like the changes, but this was done to lengthen your playthrough and make it feel like you earned it when you get an EFT gun.  Finding tier 6 doom-cannons on day 1 was broken, way too OP.
+I like the direction EFTX is going.  In time, StallionsDen will play with the balance.  He's open to constructive criticism, but please don't whinge! 
+If you have any constructive criticism, please share it on the Nexus comments forum for the mod, or over at his eft-guns-only channel at Guppy's Discord Server. 
+Trying to get 25 magazines of one gun-model could take you weeks in-game.  Knowing my player base fairly well, I made the "Additional Research" mod, as an option in Smorgasbord to help you get your preffered gun a little bit faster. 
 
+"Research" I changed the variant from Hardcore to Default to support users playing with EFTX.  Makes it slightly cheaper/faster.   
 "Summon Animals (NPC Mod Add On Pack)"
 "Plumbed in Water Solutions"
 "LittleRedSonja Fancy Wall Art - NukaCola"
