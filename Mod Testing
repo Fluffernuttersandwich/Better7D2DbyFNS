@@ -37,21 +37,26 @@ It also supports the Knife, Sledgehammer, and Tool Time Books.
 Updated: 
 
 "EFT Extraction Pack" (new abbreviation is EFTX, it's what all the cool-kids are calling it).
-StallionsDen added a skill magazine series for each unique gun-model.  Not gun type, but each unique gun-model.  100 gun-models = 100 new gun-model-Skill-Magazines series.  
-So, it's not just a magazine series for pistols, an M1911 has it's own magazine series, Glock17 has it's own, etc.        
+Learn-by-reading (LbR) System update: EFTX-Core-Standard
+There are new EFTX magazine series.   
 What this means for you as a player:
-1. You will now rarely find EFT guns, only after Game Stage 15, and you will only pull tier 1 quality EFTX-guns.  The emphasis has moved to crafting.
-2. You can find EFTX guns in these loot containers: toilets, military trucks, police cars, and gun safes.  
-3. You need to read 25 magazines of the same specific gun-model to unlock the ability to craft that one gun-model at tier 1 quality.  25 subsequent magazines need to be read for each additional crafting tier level per gun-model.
-4. Vanilla Cop, Soldier, Mutants, and Nurse zombies are now lootable (if you play with EFTX).  This will likely be your best source of EFTX magazines.  They may also drop EFTX guns.  I cannot stress this enough: Looting Cop and Soldier corpses is priority #1!!!
+1. You will now rarely find EFT guns, only after Game Stage 15, and you will only pull tier 1 quality EFTX-guns. 
+The emphasis of this mod has moved to crafting to get superior versions.
+2. You can find tier 1 EFTX guns in these loot containers: toilets, military trucks, police cars, and gun safes. 
+3. You need to read between 10 and 25 (depending on the weapon) related magazines to unlock the ability to craft it. 
+Then you need to continue reading more magazines for additional crafting tier levels.
+4. Vanilla Cop, Soldier, Mutants, and Nurse zombie corpses are now lootable. 
+This will likely be your best source of EFTX magazines. 
+They also have a small chance of dropping tier 1 EFTX guns. 
+I cannot stress this enough: Looting Vanilla Cop, Soldier, and Mutant corpses is priority #1!!!
 5. Ammo Piles are another great place to find EFTX Skill Magazines.  
 6. I strongly encourage you to play at 100% Loot Abundance with EFTX going forward to give yourself the best odds to pull those new EFTX skill magazines.  
+Please keep an open mind to the recent changes made to this mod, a lot of hard work went into this update.
+Some people might not like all of the changes, but this was done to lengthen your playthrough and make it feel like you earned it when you get a higher tier EFT gun. 
+Finding tier 6 doom-cannons on day 1 was broken, way too OP.
+I'm open to constructive criticism, but please don't whinge!   
+If you have any constructive criticism, please share it on the Nexus comments forum, or over at the #eft-only-guns channel at Guppy's Discord Server. 
 For Smorgasbord, I disabled the 'zombies despawn in 6 seconds' mod.  It's still there, but since most players will be playing with EFTX, I wanted to make sure they had adequate time to loot those specified zombies. 
-Please keep an open mind to the changes made, a lot of hard work went into this update.
-Some people might not like the changes, but this was done to lengthen your playthrough and make it feel like you earned it when you get an EFT gun.  Finding tier 6 doom-cannons on day 1 was broken, way too OP.
-I like the direction EFTX is going.  In time, StallionsDen will play with the balance.  He's open to constructive criticism, but please don't whinge!   
-If you have any constructive criticism, please share it on the Nexus comments forum for the mod, or over at his #eft-guns-only channel at Guppy's Discord Server. 
-Yes, trying to get 25 magazines of one gun-model may take you a good bit of time.
 Knowing my player base fairly well, I made the "Additional Research" mod, as an option in Smorgasbord to help you get your preferred gun a little bit faster.
 
 "Research" I changed the variant from Hardcore to Default to support users playing with EFTX.  Makes it slightly cheaper/faster.  
@@ -69,5 +74,6 @@ Knowing my player base fairly well, I made the "Additional Research" mod, as an 
 "FNS_Super_Rad_BMX_Vehicle_Mods"
 "RuntimeOCD"
 "...Insomnia"
+"Efficient Base Repair"
 
 __________________________________________________________
