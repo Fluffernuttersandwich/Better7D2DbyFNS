@@ -451,6 +451,25 @@ C. AGF HUD UI
 
 D. Disable all the UI mods, and play with the vanilla UI.
 
+"Zombie Hunter Scifi Minimap"
+
+"Zombie Hunter Scifi Minimap - Visible Enemy Dots"
+
+These are both UI Mods, they're optional, and disabled by default. 
+
+This mod adds a Sci-Fi themed Minimap to the bottom right corner of the screen.  
+
+One version shows enemy dots on the minimap, the other doesn't.
+
+Animal mobs (both hostile and prey types) do not show up as dots on the minimap.
+
+You can play with the minimap settings under the GEARS "Mods" section in the Game's Menu Options.
+
+**GEARS Mods > Quartz > Minimap tab.**
+
+The minimap has an overlap with the Steel-UI 15-slot toolbelt.  
+
+You can live with it, use a different UI, disable the 15-Slot toolbelt, or use the Immersive Toolbelt mod so it's less of an issue. 
 
 
 ### **Prefabs, POIs, and RWG tweaks.**  
