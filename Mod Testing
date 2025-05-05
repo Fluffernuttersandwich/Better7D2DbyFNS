@@ -16,7 +16,7 @@ Removed:
 
 Added:
 
-"Rodent Reducer add-on patch for Urban Decay" Optional, under graphics-performance separator, just to keep it near Urban Decay.  This reduces rat/bat spawns by 90%.  
+"Rodent Reducer add-on patch for Urban Decay" Optional, under graphics-performance separator, just to keep it near Urban Decay.  This removes rat/bat spawns by entirely from global random spawning.  
 "Crouching Doesnt Make The Screen Go Dark" Optional QoL, enabled by default. 
 "LittleRedSonja and Mumpfy ArmorPack02 VanillaReVamp" Decor/Armor.  
 "(V1) Vehicle Mods Crafting Skill" Reading Vehicle Magazines unlocks vehicle-mods.  
@@ -26,7 +26,7 @@ Added:
 "LittleRedSonja Normalized Craft Times" Optional QoL, disabled by default.  Balances crafting times... some are shorter, most are longer.
 "LittleRedSonja Flying Fancy Magic Broom" Vehicle mod, enabled.  For those of you who want to fly around on a broom.  
 
-"LittleRedSonja Shopping Time FULL version" Optional OP, disabled by default (because it's really OP).  
+"LittleRedSonja Shopping Time FULL version" Optional OP, disabled by default (because it's pretty OP).  
 This mod adds a craftable "Online Shopping Terminal" that allows you to buy, 24/7, from a selection of rare, difficult to find or highly demanded items, such as solar cells, engines, learning elixirs, duct tape, candies and much much more.
 
 "Additional Research - add-on patch" OP Optional, enabled. 
@@ -54,7 +54,7 @@ I cannot stress this enough: Looting Vanilla Cop, Soldier, and Mutant corpses is
 Please keep an open mind to the recent changes made to this mod, a lot of hard work went into this update.
 Some people might not like all of the changes, but this was done to lengthen your playthrough and make it feel like you earned it when you get a higher tier EFT gun. 
 Finding tier 6 doom-cannons on day 1 was broken, way too OP.
-I'm open to constructive criticism, but please don't whinge!   
+StallionsDen is open to constructive criticism, but please don't whinge!   
 If you have any constructive criticism, please share it on the Nexus comments forum, or over at the #eft-only-guns channel at Guppy's Discord Server. 
 For Smorgasbord, I disabled the 'zombies despawn in 6 seconds' mod.  It's still there, but since most players will be playing with EFTX, I wanted to make sure they had adequate time to loot those specified zombies. 
 Knowing my player base fairly well, I made the "Additional Research" mod, as an option in Smorgasbord to help you get your preferred gun a little bit faster.
