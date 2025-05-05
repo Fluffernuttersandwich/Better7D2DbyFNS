@@ -1,3 +1,81 @@
+1.47: 21:30 04MAY2025
+
+Comments: 
+You will need to start a new game with this update, because the EFT Extraction Pack (EFTX) received another major update.   
+Some of the other mods might have received updates to their progression.xml file, so again, start a new save.
+If you're not ready to start a new save, there's no pressure, just wait to update the ModList.  
+
+FNS gratitude shout-outs:
+StallionsDen for the tremendous effort he pours into EFTX.  
+
+Removed: 
+"TechFreqsBackToMainMenuMod" The author informed me it had a significant error issue depending on how it was used.  Removing for now.  
+
+Added:
+
+"Rodent Reducer add-on patch for Urban Decay" Optional, under graphics-performance separator, just to keep it near Urban Decay.  This removes rat/bat spawns by entirely from global random spawning.  
+"Crouching Doesnt Make The Screen Go Dark" Optional QoL, enabled by default.  It disables that vignette dark border at the edge of the screen when you crouch.   
+"LittleRedSonja and Mumpfy ArmorPack02 VanillaReVamp" Decor/Armor.  
+"(V1) Vehicle Mods Crafting Skill" Reading Vehicle Magazines unlocks vehicle-mods.  
+"TheMeanOnes Interchangable Skies" Optional QoL.  I disabled "Galaxy..." and enabled this one to do the same thing.  Both are there, choose one.  
+"TheMeanOnes Loot Indicators"
+"LittleRedSonja Timber Inc Table Saw" Standard, enabled.  Adds a new Table Saw workstation where you can trade dukes for stacks of wood.  
+"LittleRedSonja Normalized Craft Times" Optional QoL, disabled by default.  Balances crafting times... some are shorter, most are longer.
+"LittleRedSonja Flying Fancy Magic Broom" Vehicle mod, enabled.  For those of you who want to fly around on a broom.  
+
+"LittleRedSonja Shopping Time FULL version" Optional OP, disabled by default (because it's pretty OP).  
+This mod adds a craftable "Online Shopping Terminal" that allows you to buy, 24/7, from a selection of rare, difficult to find or highly demanded items, such as solar cells, engines, learning elixirs, duct tape, candies and much much more.
+
+"Additional Research - add-on patch" OP Optional, enabled. 
+This is an add-on patch to the 'Research' mod. I made this to allow players to craft EFTX magazines from the Research Workstation.  
+It also supports the Knife, Sledgehammer, and Tool Time Books. 
+
+
+Updated: 
+
+"EFT Extraction Pack" (new abbreviation is EFTX, it's what all the cool-kids are calling it).
+Learn-by-reading (LbR) System update: EFTX-Core-Standard
+There are new EFTX magazine series.   
+What this means for you as a player:
+1. You will now rarely find EFTX guns, only after Game Stage 15, and you will only pull tier 1 quality EFTX-guns. 
+The emphasis of this mod has moved to crafting to get superior versions.
+2. You can find tier 1 EFTX guns in these loot containers: toilets, military trucks, police cars, and gun safes. 
+3. You need to read between 10 and 25 (depending on the weapon) related magazines to unlock the ability to craft it. 
+Then you need to continue reading more magazines for additional crafting tier levels.
+4. Vanilla Cop, Soldier, Mutants, and Nurse zombie corpses are now lootable. 
+This will likely be your best source of EFTX magazines. 
+They also have a small chance of dropping tier 1 EFTX guns. 
+I cannot stress this enough: Looting Vanilla Cop, Soldier, and Mutant corpses is priority #1!!!
+5. Ammo Piles are another great place to find EFTX Skill Magazines.  
+6. I strongly encourage you to play at 100% Loot Abundance with EFTX going forward to give yourself the best odds to pull those new EFTX skill magazines.  
+Please keep an open mind to the recent changes made to this mod, a lot of hard work went into this update.
+Some people might not like all of the changes, but this was done to lengthen your playthrough and make it feel like you earned it when you get a higher tier EFT gun. 
+Finding tier 6 doom-cannons on day 1 was broken, way too OP.
+StallionsDen is open to constructive criticism, but please don't whinge!   
+If you have any constructive criticism, please share it on the Nexus comments forum, or over at the #eft-only-guns channel at Guppy's Discord Server. 
+For Smorgasbord, I disabled the 'zombies despawn in 6 seconds' mod.  It's still there, but since most players will be playing with EFTX, I wanted to make sure they had adequate time to loot those specified zombies. 
+Knowing my player base fairly well, I made the "Additional Research" mod, as an option in Smorgasbord to help you get your preferred gun a little bit faster.
+
+"Research" I changed the variant from Hardcore to Default to support users playing with EFTX.  Makes it slightly cheaper/faster.  
+"Summon Animals (NPC Mod Add On Pack)"
+"Plumbed in Water Solutions"
+"LittleRedSonja Fancy Wall Art - NukaCola"
+"LittleRedSonja Fancy Wall Art - Vault-Tec (Fallout)"
+"...Insomnia"
+"KFC"
+"CPAM"
+"LittleRedSonja CyberGirls NPCs"
+"LittleRedSonja Christmas is Coming"
+"7 Days Super Resolution"
+"RuntimeOCD"  
+"FNS_Super_Rad_BMX_Vehicle_Mods"
+"RuntimeOCD"
+"...Insomnia"
+"Efficient Base Repair"
+
+__________________________________________________________
+
+
 1.46: 08:20 EST 24APR2025
 
 Comments: 
