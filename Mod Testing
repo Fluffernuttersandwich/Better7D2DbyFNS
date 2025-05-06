@@ -3,12 +3,13 @@
 Comments: 
 
 Hotfix for EFTX and a few other small mods.  
-You might need to restart a new game because of the EFTX fixes to progression.xml.  
-Sorry guys, there were bugs, they've been fixed. 
+I was able to update EFTX from 1.4.0.5 to 1.4.0.6 and continue playing in the same save. 
+I was able to go from Smorgasbord v1.47 to 1.48 in the same save.  
+It's always recommended to start a new game when you update this list, but you could make a backup and try.  It worked for me. 
 
 FNS gratitude shout-outs:
 
-StallionsDen for the tremendous effort he pours into EFTX.  
+Once again, to StallionsDen for the improvement and quick fixes to EFTX.  
 
 Removed: 
 N/A
@@ -25,11 +26,12 @@ You can play with the minimap settings under the GEARS "Mods" section in the Gam
 GEARS Mods > Quartz > Minimap tab.  
 The minimap has an overlap with the Steel-UI 15-slot toolbelt.  
 You can live with it, use a different UI, disable the 15-Slot toolbelt, or use the Immersive Toolbelt mod so it's less of an issue. 
+I actually tried both the Zombie Hunter and Scifi UI mods, but neither worked.  So, all we get is this optional Scifi minimap for now.
 
 Updated: 
 
-"EFTX-Core-Standard"
-"ZEFT Extraction No Vanilla Guns"
-"Ammo Press Add-On Patch for EFT and Izy"
+"EFT Extraction Pack suite"
+"Ammo Press Add-On Patch for EFT and Izy" Minor mispelling in xml, my bad.  
+"Rodent Reducer" I added an additional remover xml file because they kept spawning in some calls.  
 
 __________________________________________________________
