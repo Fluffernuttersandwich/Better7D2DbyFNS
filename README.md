@@ -999,6 +999,16 @@ Then you must Enable the mod (hit the checkmark inside of it)
 ![image](https://github.com/user-attachments/assets/a938eef0-fd4c-4e71-a051-65e43421dd9e)
 
 
+Pregenerated Maps are available in-game when you go to start a new world.  
+
+Unless those pregenerated maps specifically include them, you will not see other modded community-made POIs in that pregenerated map.
+
+
+![image](https://github.com/user-attachments/assets/45677c3d-0ee1-4680-9d5a-447a4b6ff022)
+
+
+
+
 ______________________________________________________________________________________________________________________
 
 
