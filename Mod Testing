@@ -19,12 +19,12 @@ Added:
 "LittleRedSonja Fancy Zombie Variants" 
 
 "No Texture Streaming" Optional Performance/Graphics mod, DISABLED by default!
-Do not combine with Resource Intensive mods like Urban Decay, Better Biomes, Thor, Descent, and possibly others.  
 This mod is system/mod dependant.  
 For some users, they see a rendering improvement.  
 If you see your FPS drop significantly, disable this mod!  
 When I tried to add it to a heavily modded game with all of those nice resource intensive mods, it dropped my FPS to 5.  
 For another tester, not using resource intensive mods, playing at lower graphic settings, he saw improved texture loading without the FPS drop. 
+Be careful when combining with Resource Intensive mods like Urban Decay, Better Biomes, Thor, Descent, and possibly others.  
 
 
 Updated: 
