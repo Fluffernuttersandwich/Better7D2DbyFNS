@@ -1367,35 +1367,25 @@ Ammo Conflicts, progression.xml issues, and mod compatibility errors.
 
 ---
 
-B. **NPC Mods** can be buggy in this ModList, which is why I don't include them.  
-
-I'll wait for TFP to provide their Bandit update next year before I try messing with it again.
-
----
-
-C. You can either use Craft from Container (Beyond Storage) mods, or you can use the IDC Nomad.  Not both  
+B. You can either use Craft from Container (Beyond Storage) mods, or you can use the IDC Nomad.  Not both  
 If you use one set, they are not compatible with the other.  
 I chose Beyond Storage for this list.  If you can live without that, you can add IDC Core and Nomad to your game.  
 
 ---
 
-D. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness Falls, nor most other Overhauls.  
+C. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness Falls, nor most other Overhauls.  
 
 No I will not make it compatible, that's too much work.
 
-E. "More Shots", "Brazmocks Archery", and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  If one of you guys want to try to figure it out, please help the community if you are able!  
+D. "More Shots", "Brazmocks Archery", and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  If one of you guys want to try to figure it out, please help the community if you are able!  
 
-F. "Active Ingredients", it was breaking compatibility with other mods in the list and keeping me from loading into a game.  
+E. "Active Ingredients", it was breaking compatibility with other mods in the list and keeping me from loading into a game.  
 
-G. "OCB Advanced Pin Recipes (V1.2)"  Conflicts with various UI mods, might work with only using the vanilla UI.  
+F. "OCB Advanced Pin Recipes (V1.2)"  Conflicts with various UI mods, might work with only using the vanilla UI.  
 
-H. "SMX" UI Suite.  I like this UI Suite, but it throws compatibility issues with multiple mods on my Mod List.  
+G. "SMX" UI Suite.  I like this UI Suite, but it throws compatibility issues with multiple mods on my Mod List.  
 From the author Sirillion himself: SMX does not play nice with added workstation mods, and any mod that adds a progression.xml file.
 If one of you guys wants to patch the SMX UI mod, I'd be happy to provide this suite on the list, but right now I have too much on my plate.
-
-I. THOR Thunderstorm Mod.  This mod, when combined with other performance decreasing mods will tank your FPS.  
-When I combined this with MPL's Envirnomental mods for Better Biomes and Urban Decay, it dropped my powerful gaming desktop dow to 20 fps, even on lower graphic settings.  
-
 
 ______________________________________________________________________________________________________________________
 
