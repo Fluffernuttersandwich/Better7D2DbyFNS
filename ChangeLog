@@ -1,48 +1,56 @@
-1.49: 09:50 EST 09MAY2025
+1.50: 19:15 EST 11MAY2025
 
 Comments: 
-
-1. Another hotfix on EFTX.  We leapfrogged from 1.4.0.6 to 1.4.0.8  
-Always make a backup prior to updating the list if you are trying to play in the same save.  
-There is no guarantee it will work.  Which is why I always recommend to wait to update the ModList until you are ready to start a new save.
-Again, I was able to continue playing in the same save of Smorgasbord from ModList versions 1.47 through 1.49 without issues, but your mileage may vary.  
-
-2. Do not run MS Teams and 7DtD simultaneously.  Teams is a resource hog and will cause in-game loading to slow, and stutters in UI-menu screens.  
-I have had dozens of other applications running concurrently without issue.  But Teams doesn't play nice.
-I learned this the hard way.  I was pulling my hair out for an hour trying to figure out which new mod was causing my FPS to tank.  
-Not a mod, just Teams.  Thanks Microsoft.  
+A few small modlet additions and some minor updates.  
 
 FNS gratitude shout-outs:
-
-Wabbiit  
-A. He suggested that I try adding ByteBlazar's "No Texture Streaming" mod to the list.
-B. He discovered/reminded me that you can use the mouse to help make reading and scrapping faster.
-RIGHT CLICK to read books/magazines, 
-MIDDLE MOUSE BUTTON (MMB) to scrap,
-Shift + MMB drops item on ground
+1. LegionOfTheFallen for making a mod with Smorgasbord in mind.  It is sincerely appreciated.  
+2. StallionsDen for patching/adding things to his mods because Smorgasbord Community Members asked for more stuff.  
 
 Removed: 
 N/A
 
 Added:
 
-"LittleRedSonja Fancy Zombie Variants" Zombie Spawning mod, enabled by default.  
-Adds new reskins of vanilla zombies to give them more variety in clothing and coloration.  
-I confirmed the reskinned vanilla zombies are still lootable with EFTX... pastel-suited businessman can still be looted.  
+"Better Biomes - PickUp Plants Add-On Patch" Optional Graphics (just to keep it next to BB).
+I added this primarily for community member Cinnaspice, but I like it myself as well... 'need that Goldenrod for the MegaCrush recipe.
+This is an add-on to Better Biomes + TechFreq's PickUpPlants. 
+From the Mod Author:
+The 'Issue', ﻿MPLogue's Better Biomes mod is great at adding a wide diversity of flora to the game. 
+However, when using TechFreq's Pickup Plants mod, they look like a harvestable plant. 
+You will see the prompt to 'Press E to Pickup' on all the new added flowers, but if you pick them up it doesn't harvest them and instead adds a decorative plant block in your inventory. 
+This really confused users on my server as they didn't recognize which flowers provided crafting ingredients, and which provided decorative flowers. 
+We ended up with people unintentionally spending time harvesting decorative flowers and a storage box full of them at the base.
+The 'Solution', I couldn't figure out how to disable the prompt on these plants (someone let me know if you know how!!) but I did figure out how to at least make them behave like existing in-game flowers and grant crafting materials. 
+So when you harvest any of the flowers added by Better Biomes, (either by pressing E or by chopping them down) you will be granted a Goldenrod and a Chrysanthemum ingredient. 
+Perhaps not very balanced, but it solved my players' frustration, and finding flower ingredients was never very difficult to begin with.
+Requirements (this patch is useless without them)
+- Better Biomes
+- Pickup Plants
 
-"No Texture Streaming" Optional Performance/Graphics mod, enabled by default.
-For most users, it gives them a small performance boost making textures load faster.  
-This mod disables Texture Streaming so the quality of textures is never reduced automatically. In theory, this can have a negative impact on performance but, in my experience, the difference is not noticeable at all.  
-YMMV.  Hardware, Mods, Settings, and other running applications will effect if this mod will work for your setup. 
-The game has a system called Texture Streaming that automatically lowers the quality of some textures based on heuristics to save system resources and improve performance, 
-but Texture Streaming is not smart about it and makes many wrong calls, so you can easily end up walking around in a fully rendered world where only a few textures look very low quality (like the car in the image), and those really stand out. 
-This is especially noticeable for players with mid or low-end PCs or with other mods that add new blocks with their own custom textures to the game, but even players with high-end PCs will sometimes notice these.
+"LOTF Better Bullet Range" Optional OP, enabled.  Vanilla and EFTX Guns have longer range.  Does not work for other modded weapons.  
+I personally like this because I prefer shotguns having longer range.  
+I understand TFP reduces range for game balance, but being someone who shoots shotguns irl, it drives me crazy that buckshot does zero damage after 11 blocks (11m, or 33ft) .
+It's maximum effective range is much further!  The spread of each pellet in the buckshot is still concentrated enough to do devastating damage at 16 blocks (16m, or 48ft).
+If TFP had a better system where buckshot did less damage as distance increased, that would be ideal, but for now, this mod is great.  
+
+"LOTF No Vanilla Ammo" Optional OP, disabled.
+Please engage your brain when enabling this mod.  
+You use this mod as an add-on when playing with 'Z2 EFT Extraction EFT Only Ammo' and "ZEFT_Exraction_No_Vanilla_Guns', while disabling Izy's mods.  
+This is a simple mod that removes vanilla ammo from lootable cantainers, trader inventory, and quest rewards.
+
+"Z3 EFTX Core Standard Food" Optional OP, enabled.  Adds EFT Food and beverages with eating animations for those items (exclusively).
+I was able to add this mod to my existing save without issues.  
 
 Updated: 
 
-"KFC"
-"EFT Extraction Pack suite"
-"Rodent Reducer add-on patch for Urban Decay"
+"WalkerSim" This mod is getting so good, it should become vanilla!  The latest update makes is awesome!  You'll see!  I'm not going to spoil the surprises!  Hehehe  
+
+"CP Modded Core" StallionsDen made adjustments to Vulture drops that Smorgasbord Community Member GreenTheGhost requested.  Thank you both!  
+
+"CP Modded Compat Patch EFT IZYS" 
+
+"Guppy's Tin Can Grenade" I increased the fuse delay and damage.  I also made the tin cans able to be scrapped for metal.  
 
 __________________________________________________________
 
