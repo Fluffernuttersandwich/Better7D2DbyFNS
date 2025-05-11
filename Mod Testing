@@ -1,50 +1,23 @@
-1.49: TBD
+1.51: TBD
 
 Comments: 
 
-1. Another hotfix on EFTX.  We leapfrogged from 1.4.0.6 to 1.4.0.8  
-Always make a backup prior to updating the list if you are trying to play in the same save.  
-There is no guarantee it will work.  Which is why I always recommend to wait to update the ModList until you are ready to start a new save.
-Again, I was able to continue playing in the same save of Smorgasbord from ModList versions 1.47 through 1.49 without issues, but your mileage may vary.  
-
-2. Do not run MS Teams and 7DtD simultaneously.  Teams is a resource hog and will cause in-game loading to slow, and stutters in UI-menu screens.  
-I have had dozens of other applications running concurrently without issue.  But Teams doesn't play nice.
-I learned this the hard way.  I was pulling my hair out for an hour trying to figure out which new mod was causing my FPS to tank.  
-Not a mod, just Teams.  Thanks Microsoft.  
 
 FNS gratitude shout-outs:
 
-Wabbiit  
-A. He suggested that I try adding ByteBlazar's "No Texture Streaming" mod to the list.
-B. He discovered/reminded me that you can use the mouse to help make reading and scrapping faster.
-RIGHT CLICK to read books/magazines, 
-MIDDLE MOUSE BUTTON (MMB) to scrap,
-Shift + MMB drops item on ground
 
 Removed: 
 N/A
 
 Added:
 
-"LittleRedSonja Fancy Zombie Variants" Zombie Spawning mod, enabled by default.  
-Adds new reskins of vanilla zombies to give them more variety in clothing and coloration.  
-I confirmed the reskinned vanilla zombies are still lootable with EFTX... pastel-suited businessman can still be looted.  
-
-"No Texture Streaming" Optional Performance/Graphics mod, enabled by default.
-For most users, it gives them a small performance boost making textures load faster.  
-This mod disables Texture Streaming so the quality of textures is never reduced automatically. In theory, this can have a negative impact on performance but, in my experience, the difference is not noticeable at all.  
-YMMV.  Hardware, Mods, Settings, and other running applications will effect if this mod will work for your setup. 
-The game has a system called Texture Streaming that automatically lowers the quality of some textures based on heuristics to save system resources and improve performance, 
-but Texture Streaming is not smart about it and makes many wrong calls, so you can easily end up walking around in a fully rendered world where only a few textures look very low quality (like the car in the image), and those really stand out. 
-This is especially noticeable for players with mid or low-end PCs or with other mods that add new blocks with their own custom textures to the game, but even players with high-end PCs will sometimes notice these.
+"
 
 
 
 Updated: 
 
-"KFC"
-"EFT Extraction Pack suite"
-"Rodent Reducer add-on patch for Urban Decay"
+"
 
 
 __________________________________________________________
