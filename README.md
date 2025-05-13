@@ -875,7 +875,7 @@ So, this is why I don't recommend you DIY Nexus updates from the mods in MO2.
 
 _Just wait for me to update the ModList._ 
 
-**I will post update notifications to Guppy's Unofficial 7DtD Modding Discord Server, and SnowBee's**, on my #fns-smörgåsbord channel.  https://discord.gg/8Pt46uCE
+**I will post update notifications to Guppy's Unofficial 7DtD Modding Discord Server, and SnowBee's**, on my #fns-smörgåsbord channel.  discord.gg/WpVPJWj7Xk
 
 > [!CAUTION]
 > Sometimes you can keep using the same save-world and safely update to a new version of a ModList.  
@@ -929,7 +929,7 @@ If you have a moment, please vote in the current poll for "How did you hear abou
 
 ---
 
-You can also hit me up on **Guppy's 7DtD Unofficial Modding Discord:** https://discord.gg/8Pt46uCE
+You can also hit me up on **Guppy's 7DtD Unofficial Modding Discord:** discord.gg/WpVPJWj7Xk
 You can find me there in the #fns-smörgåsbord channel.  
 I prefer to discuss things publically, and not use DMs if possible, so we all learn and improve together this way.  
 
@@ -1044,7 +1044,7 @@ Thankfully, the Wabbajack community was extremely helpful in getting 7DtD to wor
 
 A. It's my list, I added what I like, feel free to add more, but do so with care so as not to break the ModList.
 
-If you have a good mod suggestion, and have tested it works with the list, please hit me up on the **Guppy's Discord #fns-smörgåsbord channel**. https://discord.gg/8Pt46uCE
+If you have a good mod suggestion, and have tested it works with the list, please hit me up on the **Guppy's Discord #fns-smörgåsbord channel**. discord.gg/WpVPJWj7Xk
 
 B. Mods from NexusMods are automatically whitelisted for support with Wabbajack/MO2.  It makes for less work, and less hassle for me as a ModList curator.
 Including mods from other sources adds more work for me as the curator, and also introduces points of failure for users installing the list.
