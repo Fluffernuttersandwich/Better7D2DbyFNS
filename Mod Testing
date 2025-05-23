@@ -1,13 +1,8 @@
-1.53: TBD
+1.54: TBD
 
 Comments: 
 
-1. You will 100% need to start a new save with this update.  
-This is because of the changes made to EFTX.
-On a positive note: 
-StallionsDen segmented the EFTX gun assets in a separate component mod... 
-This file will not be updated very often allowing revisions to this ModList to take you less time to download going forward.  
-This will save you from updating those 5GB every time you need to update Smorgasbord going forward.  
+Minor updates. 
 
 FNS gratitude shout-outs:
 
@@ -16,23 +11,16 @@ Removed:
 N/A
 
 Added:
-
-"TheMeanOnes Zombies Can't Dig" 
-Optional Zombie Spawning & Behavior mod, enabled by default.  Zombies will not dig unless you manually configure a type to do so in the xml file.  
-I don't personally like digging zombies, especially how it screws up their pathing... like digging at the rim of a hole above you instead of dropping down towards you.    
-
-"Timely Drones" 
-Optional OP Mod, More reasonable recipe to unlock the drone earlier making it actualy relevant in time for it to matter in your playthrough.  
+N/A
 
 Updated: 
 
-"Thor..."
-"KFC..."
 "LittleRedSonja Ammunition Recycling"
-"LRS&Mumpfy's ArmorPack 01 Danger Girls"
-"Zeebark POI Pack"
-"Scomar82Hobac's Better Highlighted Containers"
+"Zeebark POIs"
 "EFTX Suite"
+"Bdubs Vehicles"
+"Police Car Pack" This replaced a handful of individual mods.  Same vehicles, just bundled.  
+"TechFreq Trader Restock"
 
 
 __________________________________________________________
