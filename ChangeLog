@@ -1,3 +1,28 @@
+1.56: 09:30 EST 26MAY2025
+
+Comments: 
+Minor updates. 
+
+Removed: 
+N/A
+
+Added:
+"Cloud's Combine Toolbox" OP Optional, enabled.  
+Adds a special Green Combining Toolbox that you place in your backpack, exit the backpack UI, then re-enter the backpack menu screen.
+Example: You have two tier 1 wrenches, you combine into one tier 2 wrench.  
+If you don't see the third box of the Combining Toolbox filling up with the higher tier item, it's because you need to level up your Salvage skill.
+With points into the Salvage skill, you can combine two of the same item to make a higher tier new version.  Up to tier 5!
+This works with vanilla items, Izy guns, and EFTX guns.  
+
+Updated: 
+
+"LRS&Mumpfy's ArmorPack01DangerGirls"
+"LRS&Mumpfy's ArmorPack02VanillaRevamp"
+"EFTX Suite"
+"Custom FPV FOV"
+
+__________________________________________________________
+
 1.55: 12:15 EST 24MAY2025
 
 Comments: 
