@@ -1301,6 +1301,14 @@ However, I have played this ModList for hundreds of hours with these issues with
 ![image](https://github.com/user-attachments/assets/607d1919-409b-4942-b65f-5ec78d04c35f)
 
 
+Do not select Daily Quest Progression Limit of 0 (Custom), unless you want a game without quests!
+
+If you want unlimited Quests, choose Unlimited!
+
+
+![image](https://github.com/user-attachments/assets/6fd328be-a438-4399-af97-269141cd1635)
+
+
 ______________________________________________________________________________________________________________________
 
 ## Mod Notes
