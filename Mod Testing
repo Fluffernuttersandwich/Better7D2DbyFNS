@@ -1,27 +1,24 @@
-1.56: TBD
+1.57: TBD
 
 Comments: 
-Minor updates. 
+One moderate update.  I removed "Game-Settings-Extender-main" and this could break your existing save.  
+So, if you are happy with your current game, wait to update the list until you are ready to begin a new game.
 
 FNS gratitude shout-outs:
-
+1. 𝕷𝖊𝖌𝖎𝖔𝖓 𝖆𝖞 𝖇𝖆𝖇𝖔𝖞 for reporting some new bugs.
+2. LittleRedSonja, she has been helping Smorgasbord users with troubleshooting.  
+We are blessed to have someone so helpful in our community.
 
 Removed: 
-N/A
+"Game-Settings-Extender-main"
 
 Added:
-"Cloud's Combine Toolbox" OP Optional, enabled.  
-Adds a special Green Combining Toolbox that you place in your backpack, exit the backpack UI, then re-enter the backpack menu screen.
-Example: You have two tier 1 wrenches, you combine into one tier 2 wrench.  
-If you don't see the third box of the Combining Toolbox filling up with the higher tier item, it's because you need to level up your Salvage skill.
-With points into the Salvage skill, you can combine two of the same item to make a higher tier new version.  Up to tier 5!
-This works with vanilla items, Izy guns, and EFTX guns.  
+
 
 Updated: 
 
-"LRS&Mumpfy's ArmorPack01DangerGirls"
-"LRS&Mumpfy's ArmorPack02VanillaRevamp"
+"Cloud's Combine Toolbox"
 "EFTX Suite"
-"Custom FPV FOV"
+"...Insomnia"
 
 __________________________________________________________
