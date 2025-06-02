@@ -1,27 +1,48 @@
-1.58: 19:20 EST 30MAY2025
+1.59: TBD
 
 Comments: 
-Several small changes.
-As always, make a backup prior to updating the list, or just wait to update your game when you next start a new save.  
-Made a new separator for EFTX.  
-Disabled a few OP mods.  
+
+Planning for 2.0.  Once it release in experimental, I will be checking/fixing my own POI Pack first and foremost.  
+Then checking my other mods still work in 2.0.
+After that, I will be testing Smorgasbord with 2.x while it's in the experimental beta.  
+As a reminder, I will not publish an update to Smorgasbord until game version 2.x goes STABLE!
+I only support Stable releases because I have had it bite me in the past.  
+I can keep you guys aware of the changes in my channel at Guppy's.
+If it appears to be working in 2.x experimental, I'll let you know there.  
+
 
 FNS gratitude shout-outs:
-My wife, for not giving me a hard time when I spend time updating the ModList.  
+Mayers and 𝕷𝖊𝖌𝖎𝖔𝖓 𝖆𝖞 𝖇𝖆𝖇𝖔𝖞.  For reporting/suggesting we fix the lack of Queen Bees when using Better Biomes with Oakraven's Bee Hives.
+Arramus and Oakraven for providing that Bee Hive patch for Queen Bees with Better Biomes.  
+When Smorgasbord Community members report issues, it sometimes benefits people outside of our group too.  
+So, good job everyone involved.
 
 Removed: 
 N/A
 
 Added:
-"FPV Legs" Optional QoL, enabled.  Now you can see your legs when you look down in First-Person.  
+
+"Harry's Wheatley Drone" Audio, enabled.  
+Changes the voice from Vanilla DroneRivers to Wheatley from Portal 2.
+
+"7D2D New Zed Sounds" Audio, enabled.  
+This mod adds new sounds into the mix for some zombies. Some zombie sounds are taken from Dying Light and Dead Island.  
+
+"Oakraven's Bee Hives Stump and Tree Queen Patch" Performance Graphics... to keep it with Better Biome.  Enabled.  
+Allows you to find Queen Bees when harvesting vanilla trees while using Better Biomes + Oakraven's Bee Hives.  
+
+"EFT Recoil Patch" EFTX Section, enabled.  
+Replaces the vanilla style recoil with more EFT-like procedural recoil animations for all EFTX guns.
+
+"OG Trader Joel Voice Lines for V1.0" Audio, enabled. 
+Replaces the new 1.x Trader Joel voice with the old version so he doesn't sound like Barney the Dinosaur.  
+
 
 Updated: 
 
 "EFTX Suite"
-"...Insomnia"
-"LOTF Better Bullet Range Plus for Izy's AIO"
-"No Blurry Texture"
-"LRS Flying Fancy Magic Broom"
-"KFC"
+"WalkerSim"
+"Oakraven's Bee Hives"
+
 
 __________________________________________________________
