@@ -1,3 +1,81 @@
+1.59: 17:20 EST 07JUN2025
+
+Standard warning: 
+There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
+It's best practice to wait to update the ModList until you are ready to start a new playthrough.  
+
+Comments: 
+
+Planning for 2.0.  Once it releases in experimental, I will be checking/fixing my own POI Pack first and foremost.  
+Then checking my other mods still work in 2.0.
+After that, I will be testing Smorgasbord with 2.x while it's in the experimental beta.  
+As a reminder, I will not publish an update to Smorgasbord until game version 2.x goes STABLE!
+I only support Stable releases because I have had it bite me in the past.  
+I can keep you guys aware of the changes in my channel at Guppy's.
+If it appears to be working in 2.x experimental, I'll let you know there.  
+
+
+FNS gratitude shout-outs:
+1. Mayers and 𝕷𝖊𝖌𝖎𝖔𝖓 𝖆𝖞 𝖇𝖆𝖇𝖔𝖞.  For reporting/suggesting we fix the lack of Queen Bees when using Better Biomes with Oakraven's Bee Hives.
+2. Arramus and Oakraven for providing that Bee Hive patch for Queen Bees with Better Biomes.  
+When Smorgasbord Community members report issues, it sometimes benefits people outside of our group too.  
+So, good job everyone involved.
+3. Kajdaniec, for providing assistance to other community members in setting up Smorgasbord as a Dedicated Server.
+4. LittleRedSonja for helping .𝕷𝖊𝖌𝖎𝖔𝖓 𝖆𝖞 𝖇𝖆𝖇𝖔𝖞 fix a small mod compatibillity issue.  
+
+
+Mods Removed: 
+N/A
+
+
+Mods Added:
+
+"Harry's Wheatley Drone" Audio, enabled.  
+Changes the voice from Vanilla DroneRivers to Wheatley from Portal 2.
+
+"7D2D New Zed Sounds" Audio, enabled.  
+This mod adds new sounds into the mix for some zombies. Some zombie sounds are taken from Dying Light and Dead Island.  
+
+"Oakraven's Bee Hives Stump and Tree Queen Patch" Performance Graphics... to keep it with Better Biome.  Enabled.  
+Allows you to find Queen Bees when harvesting vanilla trees while using Better Biomes + Oakraven's Bee Hives.  
+
+"EFT Recoil Patch" EFTX Section, enabled.  
+Replaces the vanilla style recoil with more EFT-like procedural recoil animations for all EFTX guns.
+
+"OG Trader Joel Voice Lines for V1.0" Audio, enabled. 
+Replaces the new 1.x Trader Joel voice with the old version so he doesn't sound like Barney the Dinosaur.  
+
+"LOTF's Skill Point Milestone Mod" Perk Mod, disabled.  
+One Bonus Skill Point Every 10 Levels.  
+A simple milestone notification and sound let you know when you’ve hit each reward.  Works with ongoing saves.
+
+"LittleRedSonja's ZR Army Truck" Vehilces, enabled.
+Adds a new vehicle, the Zombie Removers Army Truck. 
+Includes a "Rusty Cammo" and a "Dyable" variants. Capacity for 10 players. 
+7 mod slots. Big storage. Custom visuals for all the installable vehicle mods.
+
+"Cloud's No Invisible Trader Walls" OP, enabled.  
+Removes the Invisible forcefield surrounding the Trader.  
+Trader protection is still on, but you can walk behind them and loot.
+
+"Cloud's Chain Link Fences" Standard, enabled.
+Allows you to create/upgrade Chain Link Fences.
+
+Mods Updated: 
+
+"EFTX Suite"
+"Ammo Press Add-On Patch for EFT and Izy"
+"WalkerSim"
+"Oakraven's Bee Hives"
+"LOTF's Better Bullet Range"
+"FAL"
+"KFC"
+"LRS&Mumpfy's Halloweeny"
+"Black Wolf's better loot spawns"
+
+__________________________________________________________
+
+
 1.58: 19:20 EST 30MAY2025
 
 Comments: 
