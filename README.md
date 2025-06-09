@@ -1272,7 +1272,7 @@ If you are going to disable those in the middle of a saved-world/playthrough, I 
 
 Yes, but you need to manually install 7DVR into the base game files, then configure the 7DtD game to launch MO2 from Steam.
 
-Reccomendation: Go into the Properties of the MO2.exe and set the permissions to Always Run as Administrator.
+Recommendation: Go into the Properties of the MO2.exe and set the permissions to Always Run as Administrator.
 
 I have not fully tested every mod for compatibility, but so far, so good.
 
