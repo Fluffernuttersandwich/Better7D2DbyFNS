@@ -1268,7 +1268,24 @@ If you are going to disable those in the middle of a saved-world/playthrough, I 
 
 ---
 
-18. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
+18. Does Smorgasbord work with 7DVR?
+
+Yes, but you need to manually install 7DVR into the base game files, then configure the 7DtD game to launch MO2 from Steam.
+
+I have not fully tested every mod for compatibility, but so far, so good.
+
+Use the directory path for where you launch the MO2 for Smorgasbord from:
+
+Edit your Launch Option in Steam similar to this:
+```"D:\MO2 from Git\ModOrganizer.exe" "moshortcut://:7 Days to Die" %command%```
+
+![image](https://github.com/user-attachments/assets/7d07ddd3-bb8f-4f81-b83e-b87cee03bd5c)
+
+
+---
+
+
+19. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
 
 It's long because it's comprehensive.  
 
