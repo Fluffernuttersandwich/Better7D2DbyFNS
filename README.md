@@ -1272,6 +1272,8 @@ If you are going to disable those in the middle of a saved-world/playthrough, I 
 
 Yes, but you need to manually install 7DVR into the base game files, then configure the 7DtD game to launch MO2 from Steam.
 
+Reccomendation: Go into the Properties of the MO2.exe and set the permissions to Always Run as Administrator.
+
 I have not fully tested every mod for compatibility, but so far, so good.
 
 Use the directory path for where you launch the MO2 for Smorgasbord from:
@@ -1281,6 +1283,12 @@ Edit your Launch Option in Steam similar to this:
 
 ![image](https://github.com/user-attachments/assets/7d07ddd3-bb8f-4f81-b83e-b87cee03bd5c)
 
+
+I use a Meta Quest 3, with the Virtual Desktop Application, to launch Steam VR.
+
+Within Steam VR, after launching 7DtD, I Alt+Tab over to MO2 to launch the game.  
+
+It then places the 7DVR Loader into the Steam VR overlay.
 
 ---
 
