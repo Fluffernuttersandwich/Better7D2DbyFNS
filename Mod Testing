@@ -10,11 +10,12 @@ I will test them, and let people know unofficially in my fns-smorgasbord channel
 But I do not update the ModList until a version goes stable because bugs and lack of framework mod support can leave the list in a broken state.
 I generally only have time for quick and simple tests.  Some bugs take several hours and unique methods to unearth, it's impossible for me to account for everything.
 Also, if framework (requirement) mods have not been updated, I am forced to wait on them.  
-So, even if a version goes stable, Smorgasbord might still be waiting for other mods to update.  
+So, even if a game version goes stable, Smorgasbord might still be waiting for other mods to update.  As Mod Authors, we are always playing catch up after updates.  
 The main takaway is this: Please be patient during a major game revision season.
 4. Smorgasbord is now compatible with 7DVR, BUT (big BUT) you must manually unzip the latest supported version of 7DVR files directly into your base-game files.  
 7DVR players using Smorgasbord can play in the same server as players with Smorgasbord that do not have 7DVR installed.  They need the same list of mods enabled/disabled!  
 I can help 7DVR players troubleshooting 7DVR+Smorgasbord issues specifically, but if you have generic 7DVR/VR problems, please ask over at the "Flatscreen to VR" Discord Server.  
+I will be recording 7DVR+Smorgasbord videos at some point in the future.  
 
 Mods with Status Changes:
 
@@ -38,6 +39,8 @@ Mods Added:
 "Torchbearer" QoL, enabled. Configurable mod that allows you to one-button drop a torch with the "G" key.  
 
 "TMO Apocalyptic Melee Weapons" OP, enabled.  Adds more melee weapons... candleabra, pipe sword, handicap sign, mailbox, etc.  
+
+"YouTube Video Player" QoL, enabled.  Allows you to play YouTube videos from URLs from in-game movie theaters.
 
 Mods Updated: 
 
