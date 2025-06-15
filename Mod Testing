@@ -18,6 +18,7 @@ Mods with Status Changes:
 "Custom FPV FOV" changed to disabled because it messes up 7DVR.  If you are not playing with 7DVR, feel free to enable this mod.  
 
 Mods Removed: 
+
 "Laydor's Super Resolution (DLSS)" It's now natively supported in vanilla in 2.x.
 "Sledgehammer book series" It's now vanilla in 2.x.
 "Weather is Real - Lite" Temperature effects have returned to vanilla in 2.x.
@@ -25,17 +26,19 @@ Mods Removed:
 
 Mods Added:
 
-"
+"Torchbearer" QoL, enabled. Configurable mod that allows you to one-button drop a torch with the "G" key.  
+"TMO Apocalyptic Melee Weapons" OP, enabled.  Adds more melee weapons... candleabra, pipe sword, handicap sign, mailbox, etc.  
+
 Mods Updated: 
 
 "EFTX Suite"
 "Ammo Press Add-On Patch for EFT and Izy"
-"WalkerSim"
-"Oakraven's Bee Hives"
-"LOTF's Better Bullet Range"
-"FAL"
-"KFC"
-"LRS&Mumpfy's Halloweeny"
-"Black Wolf's better loot spawns"
+"AGF HUD Suite"
+"Better Loot"
+"LRS&Mumpfy's ArmorPack01 DangerGirls"
+"TMO Trader Never Closes"
+"FPV Legs"
+
+
 
 __________________________________________________________
