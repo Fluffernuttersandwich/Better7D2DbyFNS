@@ -1400,9 +1400,14 @@ Ammo Conflicts, progression.xml issues, and mod compatibility errors.
 
 ---
 
-B. You can either use Craft from Container (Beyond Storage) mods, or you can use the IDC Nomad.  Not both  
-If you use one set, they are not compatible with the other.  
-I chose Beyond Storage for this list.  If you can live without that, you can add IDC Core and Nomad to your game.  
+B. IDC Core and Nomad mod suite.  
+
+I really wish I could get this mod to work since now biome progression is an important part of game version 2.x.  
+However, there are multiple compatibility issues with other mods on the ModList.  
+
+The Nomad doesn't have full functionality in multiplayer.
+
+IDC Core is boobytrapped to not work with the Beyond Storage mod.  
 
 ---
 
@@ -1410,11 +1415,21 @@ C. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness
 
 No I will not make it compatible, that's too much work.
 
-D. "More Shots", "Brazmocks Archery", and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  If one of you guys want to try to figure it out, please help the community if you are able!  
+---
+
+D. "More Shots", "Brazmocks Archery", and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  
+
+If one of you guys want to try to figure it out, please help the community if you are able!  
+
+---
 
 E. "Active Ingredients", it was breaking compatibility with other mods in the list and keeping me from loading into a game.  
 
+---
+
 F. "OCB Advanced Pin Recipes (V1.2)"  Conflicts with various UI mods, might work with only using the vanilla UI.  
+
+---
 
 G. "SMX" UI Suite.  I like this UI Suite, but it throws compatibility issues with multiple mods on my Mod List.  
 From the author Sirillion himself: SMX does not play nice with added workstation mods, and any mod that adds a progression.xml file.
