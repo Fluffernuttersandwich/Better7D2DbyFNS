@@ -31,11 +31,22 @@ I also moved a few mods to different Separator sections.
 
 Mods Removed: 
 
-"Laydor's Super Resolution" DLSS is now natively supported in vanilla in 2.x.
+The following mods were removed because they are now redundant by being supported in the vanilla game:
+"Laydor's Super Resolution" 
+"Sledgehammer book series" 
+"Weather is Real - Lite"
 
-"Sledgehammer book series" It's now vanilla in 2.x.
+The following mods were removed because I am trying to reduce "tolerable" Errors on the list to make it easier for me to troubleshoot.  
+If you are willing to troubleshoot things YOURSELF, you can add them back into your own game.
+"Telric's Decorations"
+"Flogi's Perk mods" Mod Compatibility issues
+"Flogi's Quest Mod"
+"DoubleBlundy's Bounty Quests"
+"Trader Quest Addendum"
+"Blood Moon Loot Bags"
+"Wandering Horde Loot Bags"
+"Telric's Compact Health Bar"
 
-"Weather is Real - Lite" Temperature effects have returned to vanilla in 2.x.
 
 
 Mods Added:
