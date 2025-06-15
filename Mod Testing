@@ -1,10 +1,13 @@
 2.01: TBD
 
 Comments: 
+
 1. The Smorgasbord ModList is now exclusively compatible with 7 Days to Die game version 2xy.
 This is a major revision to the list, you will need to RWG a new world and start a new game.
+
 2. History has shown us that TFP will likely have several small hotfix version updates over the next few weeks.  
 Every time TFP updates the game version, I will need to test everything again, supply new game hashes to Wabbajack, and update the list.
+
 3. Reminder: I will never officially support Experimental versions.  
 I will test them, and let people know unofficially in my fns-smorgasbord channel at Guppy's if they can use the list on an experimental version.
 But I do not update the ModList until a version goes stable because bugs and lack of framework mod support can leave the list in a broken state.
@@ -12,6 +15,7 @@ I generally only have time for quick and simple tests.  Some bugs take several h
 Also, if framework (requirement) mods have not been updated, I am forced to wait on them.  
 So, even if a game version goes stable, Smorgasbord might still be waiting for other mods to update.  As Mod Authors, we are always playing catch up after updates.  
 The main takaway is this: Please be patient during a major game revision season.
+
 4. Smorgasbord is now compatible with 7DVR, BUT (big BUT) you must manually unzip the latest supported version of 7DVR files directly into your base-game files.  
 7DVR players using Smorgasbord can play in the same server as players with Smorgasbord that do not have 7DVR installed.  They need the same list of mods enabled/disabled!  
 I can help 7DVR players troubleshooting 7DVR+Smorgasbord issues specifically, but if you have generic 7DVR/VR problems, please ask over at the "Flatscreen to VR" Discord Server.  
