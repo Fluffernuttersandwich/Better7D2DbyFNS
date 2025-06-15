@@ -14,20 +14,26 @@ If framework (requirement) mods have not been updated, I am forced to wait on th
 7DVR players using Smorgasbord can play in the same server as players with Smorgasbord that do not have 7DVR installed.  They need the same list of mods enabled/disabled!  
 
 Mods with Status Changes:
-"FPV Legs" changed to disabled because it messes up 7DVR.  If you are not playing with 7DVR, feel free to enable this mod.  
+
+"FPV Legs" changed to disabled because it messes up 7DVR.  If you are not playing with 7DVR, feel free to enable this mod.
+
 "Custom FPV FOV" changed to disabled because it messes up 7DVR.  If you are not playing with 7DVR, feel free to enable this mod. 
+
 I also moved a few mods to different Separator sections.  
 
 Mods Removed: 
 
 "Laydor's Super Resolution" DLSS is now natively supported in vanilla in 2.x.
+
 "Sledgehammer book series" It's now vanilla in 2.x.
+
 "Weather is Real - Lite" Temperature effects have returned to vanilla in 2.x.
 
 
 Mods Added:
 
 "Torchbearer" QoL, enabled. Configurable mod that allows you to one-button drop a torch with the "G" key.  
+
 "TMO Apocalyptic Melee Weapons" OP, enabled.  Adds more melee weapons... candleabra, pipe sword, handicap sign, mailbox, etc.  
 
 Mods Updated: 
