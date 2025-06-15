@@ -10,7 +10,7 @@ Please be patient while the game versions are in flux.
 I will test them, and let people know in my fns-smorgasbord channel at Guppy's if they can use the list on an experimental version.
 But I do not update the ModList until a version goes stable because bugs and lack of framework mod support can leave the list in a broken state.
 If framework (requirement) mods have not been updated, I am forced to wait on them.
-4. Smorgasbord is now compatible with 7DVR, BUT (big BUT), you must unzip the latest supported version of 7DVR files directly into your base-game files.  
+4. Smorgasbord is now compatible with 7DVR, BUT (big BUT) you must manually unzip the latest supported version of 7DVR files directly into your base-game files.  
 7DVR players using Smorgasbord can play in the same server as players with Smorgasbord that do not have 7DVR installed.  They need the same list of mods enabled/disabled!  
 
 Mods with Status Changes:
