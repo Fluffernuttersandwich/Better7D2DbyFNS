@@ -1,66 +1,31 @@
-1.59: TBD
-
-Standard warning: 
-There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
-It's best practice to wait to update the ModList until you are ready to start a new playthrough.  
+2.01: TBD
 
 Comments: 
+1. The Smorgasbord ModList is now exclusively compatible with 7 Days to Die game version 2xy.
+This is a major revision to the list, you will need to RWG a new world and start a new game.
+2. History has shown us that TFP will likely have several small hotfix version updates over the next few weeks.  
+Every time TFP updates the game version, I will need to test everything again, supply new game hashes to Wabbajack, and update the list.
+Please be patient while the game versions are in flux.
+3. Reminder: I will never officially support Experimental versions.  
+I will test them, and let people know in my fns-smorgasbord channel at Guppy's if they can use the list on an experimental version.
+But I do not update the ModList until a version goes stable because bugs and lack of framework mod support can leave the list in a broken state.
+If framework (requirement) mods have not been updated, I am forced to wait on them.  
+4. Smorgasbord is now compatible with 7DVR, BUT (big BUT), you must unzip the latest supported version of 7DVR files directly into your base-game files.  
+7DVR players using Smorgasbord can play in the same server as players with Smorgasbord that do not have 7DVR installed.  They need the same list of mods enabled/disabled!  
 
-Planning for 2.0.  Once it releases in experimental, I will be checking/fixing my own POI Pack first and foremost.  
-Then checking my other mods still work in 2.0.
-After that, I will be testing Smorgasbord with 2.x while it's in the experimental beta.  
-As a reminder, I will not publish an update to Smorgasbord until game version 2.x goes STABLE!
-I only support Stable releases because I have had it bite me in the past.  
-I can keep you guys aware of the changes in my channel at Guppy's.
-If it appears to be working in 2.x experimental, I'll let you know there.  
-
-
-FNS gratitude shout-outs:
-1. Mayers and 𝕷𝖊𝖌𝖎𝖔𝖓 𝖆𝖞 𝖇𝖆𝖇𝖔𝖞.  For reporting/suggesting we fix the lack of Queen Bees when using Better Biomes with Oakraven's Bee Hives.
-2. Arramus and Oakraven for providing that Bee Hive patch for Queen Bees with Better Biomes.  
-When Smorgasbord Community members report issues, it sometimes benefits people outside of our group too.  
-So, good job everyone involved.
-3. Kajdaniec, for providing assistance to other community members in setting up Smorgasbord as a Dedicated Server.
-4. LittleRedSonja for helping .𝕷𝖊𝖌𝖎𝖔𝖓 𝖆𝖞 𝖇𝖆𝖇𝖔𝖞 fix a small mod compatibillity issue.  
-
+Mods with Status Changes:
+"FPV Legs" changed to disabled because it messes up 7DVR.  If you are not playing with 7DVR, feel free to enable this mod.  
+"Custom FPV FOV" changed to disabled because it messes up 7DVR.  If you are not playing with 7DVR, feel free to enable this mod.  
 
 Mods Removed: 
-N/A
+"Laydor's Super Resolution (DLSS)" It's now natively supported in vanilla in 2.x.
+"Sledgehammer book series" It's now vanilla in 2.x.
+"Weather is Real - Lite" Temperature effects have returned to vanilla in 2.x.
 
 
 Mods Added:
 
-"Harry's Wheatley Drone" Audio, enabled.  
-Changes the voice from Vanilla DroneRivers to Wheatley from Portal 2.
-
-"7D2D New Zed Sounds" Audio, enabled.  
-This mod adds new sounds into the mix for some zombies. Some zombie sounds are taken from Dying Light and Dead Island.  
-
-"Oakraven's Bee Hives Stump and Tree Queen Patch" Performance Graphics... to keep it with Better Biome.  Enabled.  
-Allows you to find Queen Bees when harvesting vanilla trees while using Better Biomes + Oakraven's Bee Hives.  
-
-"EFT Recoil Patch" EFTX Section, enabled.  
-Replaces the vanilla style recoil with more EFT-like procedural recoil animations for all EFTX guns.
-
-"OG Trader Joel Voice Lines for V1.0" Audio, enabled. 
-Replaces the new 1.x Trader Joel voice with the old version so he doesn't sound like Barney the Dinosaur.  
-
-"LOTF's Skill Point Milestone Mod" Perk Mod, disabled.  
-One Bonus Skill Point Every 10 Levels.  
-A simple milestone notification and sound let you know when you’ve hit each reward.  Works with ongoing saves.
-
-"LittleRedSonja's ZR Army Truck" Vehilces, enabled.
-Adds a new vehicle, the Zombie Removers Army Truck. 
-Includes a "Rusty Cammo" and a "Dyable" variants. Capacity for 10 players. 
-7 mod slots. Big storage. Custom visuals for all the installable vehicle mods.
-
-"Cloud's No Invisible Trader Walls" OP, enabled.  
-Removes the Invisible forcefield surrounding the Trader.  
-Trader protection is still on, but you can walk behind them and loot.
-
-"Cloud's Chain Link Fences" Standard, enabled.
-Allows you to create/upgrade Chain Link Fences.
-
+"
 Mods Updated: 
 
 "EFTX Suite"
