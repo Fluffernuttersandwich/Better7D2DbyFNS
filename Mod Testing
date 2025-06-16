@@ -9,9 +9,7 @@ This is a major revision to the list, you will need to RWG a new world and start
 Every time TFP updates the game version, I will need to test everything again, supply new game hashes to Wabbajack, and update the list.
 
 3. Reminder: I will never officially support Experimental versions.  
-I will test them, and let people know unofficially in my fns-smorgasbord channel at Guppy's if they can use the list on an experimental version.
-But I do not update the ModList until a version goes stable because bugs and lack of framework mod support can leave the list in a broken state.
-I generally only have time for quick and simple tests.  Some bugs take several hours and unique methods to unearth, it's impossible for me to account for everything.
+I do not update the ModList until a version goes stable because bugs and lack of framework mod support can leave the list in a broken state.
 Also, if framework (requirement) mods have not been updated, I am forced to wait on them.  
 So, even if a game version goes stable, Smorgasbord might still be waiting for other mods to update.  As Mod Authors, we are always playing catch up after updates.  
 The main takaway is this: Please be patient during a major game revision season.
@@ -21,11 +19,17 @@ The main takaway is this: Please be patient during a major game revision season.
 I can help 7DVR players troubleshooting 7DVR+Smorgasbord issues specifically, but if you have generic 7DVR/VR problems, please ask over at the "Flatscreen to VR" Discord Server.  
 I will be recording 7DVR+Smorgasbord videos at some point in the future.  
 
+5. With 2.0, I'm gutting a ton of mods that had mild to moderate compatibility issues.
+I don't have the time I previously did to help users troubleshoot.  
+Also, the list is becoming more popular, meaning there's more people seeking assistance.
+I have to dummy-proof the list to cut down on troubleshooting.  
+I will keep a section in the ReadMe called "Unsupported Smorgasbord Mods", if you feeling like putting them back into your own game.  
+
 Mods with Status Changes:
 
 "FPV Legs" changed to disabled because it messes up 7DVR.  If you are not playing with 7DVR, feel free to enable this mod.
-
 "Custom FPV FOV" changed to disabled because it messes up 7DVR.  If you are not playing with 7DVR, feel free to enable this mod. 
+"Player Spawn Protect" changed to disabled.  I kept getting users not understanding what was going on complaining something was broken.  
 
 I also moved a few mods to different Separator sections.  
 
@@ -46,6 +50,13 @@ If you are willing to troubleshoot things YOURSELF, you can add them back into y
 "Blood Moon Loot Bags"
 "Wandering Horde Loot Bags"
 "Telric's Compact Health Bar"
+"TWD POI Pack" Ignorant users kept saying my ModList had messed up textures and RWG issues... it kept being these POIs.
+"Random zombie idle movement speed"
+"Beefy Hordes by GR"
+"Stack Increaser suite" Just back to the one from StallionsDen... want more, add them yourself.  
+"OCB Pretty Grass"
+"OCB More Flowers and Plants"
+
 
 
 
