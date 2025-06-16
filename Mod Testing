@@ -1,23 +1,28 @@
-2.01: TBD
+2.1.1: TBD
 
 Comments: 
 
-1. The Smorgasbord ModList is now exclusively compatible with 7 Days to Die game version 2xy.
+1. The Smorgasbord ModList is now exclusively compatible with 7 Days to Die game version 2.1b14.  
 This is a major revision to the list, you will need to RWG a new world and start a new game.
+Going forward, I will be doing using the first two digits of the game version for the first two digits of Smorgasbord
+If the game version changes from 2.1b14 to 2.2b12 Smorgasbord will move from 2.1.1 to 2.2.1.
+If during game version 2.2b12 I release subsequent updates to Smorgasbord, I will only change the third digit.  2.2.2, 2.2.3, etc.
 
 2. History has shown us that TFP will likely have several small hotfix version updates over the next few weeks.  
 Every time TFP updates the game version, I will need to test everything again, supply new game hashes to Wabbajack, and update the list.
 
 3. Reminder: I will never officially support Experimental versions.  
-I do not update the ModList until a version goes stable because bugs and lack of framework mod support can leave the list in a broken state.
+I do not update the ModList for official public release until a version goes stable because unforeseen bugs and lack of framework mod support can leave the list in a broken state.
 Also, if framework (requirement) mods have not been updated, I am forced to wait on them.  
-So, even if a game version goes stable, Smorgasbord might still be waiting for other mods to update.  As Mod Authors, we are always playing catch up after updates.  
+So, even if a game version goes stable, Smorgasbord might still be waiting a few days for other mods to update.  
+Remember I also need time to test.  As Mod Authors, we are always playing catch up after updates.  
 The main takaway is this: Please be patient during a major game revision season.
 
 4. Smorgasbord is now compatible with 7DVR, BUT (big BUT) you must manually unzip the latest supported version of 7DVR files directly into your base-game files.  
 7DVR players using Smorgasbord can play in the same server as players with Smorgasbord that do not have 7DVR installed.  They need the same list of mods enabled/disabled!  
 I can help 7DVR players troubleshooting 7DVR+Smorgasbord issues specifically, but if you have generic 7DVR/VR problems, please ask over at the "Flatscreen to VR" Discord Server.  
 I will be recording 7DVR+Smorgasbord videos at some point in the future.  
+If you have problems installing Smorgasbord on top of the changes 7DVR made to Smorgasbord, do a full reinstall of 7DtD, then download Smorgasboard, then manually unzip 7DVR into the base files.  
 
 5. With 2.0, I'm gutting a ton of mods that had mild to moderate compatibility issues.
 I don't have the time I previously did to help users troubleshoot.  
@@ -51,20 +56,18 @@ If you are willing to troubleshoot things YOURSELF, you can add them back into y
 "Wandering Horde Loot Bags"
 "Telric's Compact Health Bar"
 "TWD POI Pack" Ignorant users kept saying my ModList had messed up textures and RWG issues... it kept being these POIs.
-"Random zombie idle movement speed"
-"Beefy Hordes by GR"
+"Random zombie idle movement speed" 
+"Beefy Hordes by GR" WalkerSim is superior.  
 "Stack Increaser suite" Just back to the one from StallionsDen... want more, add them yourself.  
-"OCB Pretty Grass"
-"OCB More Flowers and Plants"
-
-
+"OCB Pretty Grass" These worked fine, but I prefer BetterBiomes.
+"OCB More Flowers and Plants" These worked fine, but I prefer BetterBiomes.
 
 
 Mods Added:
 
-"Torchbearer" QoL, enabled. Configurable mod that allows you to one-button drop a torch with the "G" key.  
+"Torchbearer" OP, disabled. Configurable mod that allows you to one-button drop a torch with the "G" key. 
 
-"TMO Apocalyptic Melee Weapons" OP, enabled.  Adds more melee weapons... candleabra, pipe sword, handicap sign, mailbox, etc.  
+"TMO Apocalyptic Melee Weapons" OP, disabled.  Adds more melee weapons... candleabra, pipe sword, handicap sign, mailbox, etc.  
 
 "YouTube Video Player" QoL, enabled.  Allows you to play YouTube videos from URLs from in-game movie theaters.
 
