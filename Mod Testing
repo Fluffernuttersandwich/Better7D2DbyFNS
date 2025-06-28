@@ -1,11 +1,11 @@
-2.1.1: TBD
+2.0.1: 10:00 EST 28JUN2025
 
 Comments: 
 
-1. The Smorgasbord ModList is now exclusively compatible with 7 Days to Die game version 2.1b14.  
+1. The Smorgasbord ModList is now exclusively compatible with 7 Days to Die game version 2.0b295.  
 This is a major revision to the list, you will need to RWG a new world and start a new game.
-Going forward, I will be doing using the first two digits of the game version for the first two digits of Smorgasbord
-If the game version changes from 2.1b14 to 2.2b12 Smorgasbord will move from 2.1.1 to 2.2.1.
+Going forward, I will be using the first two digits of the game version for the first two digits of Smorgasbord version.
+If the game version changes from 2.0b295 to 2.1b17 Smorgasbord will move from 2.0.1 to 2.1.1.
 If during game version 2.2b12 I release subsequent updates to Smorgasbord, I will only change the third digit.  2.2.2, 2.2.3, etc.
 
 2. History has shown us that TFP will likely have several small hotfix version updates over the next few weeks.  
@@ -28,7 +28,7 @@ If you have problems installing Smorgasbord on top of the changes 7DVR made to S
 I don't have the time I previously did to help users troubleshoot.  
 Also, the list is becoming more popular, meaning there's more people seeking assistance.
 I have to dummy-proof the list to cut down on troubleshooting.  
-I will keep a section in the ReadMe called "Unsupported Smorgasbord Mods", if you feeling like putting them back into your own game.  
+I will keep a section in the ReadMe called "Unsupported Smorgasbord Mods", if you feel like putting them back into your own game.  
 
 Mods with Status Changes:
 
