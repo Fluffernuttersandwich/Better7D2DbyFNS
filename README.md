@@ -508,28 +508,48 @@ _It's unwise to disable/enable mods midgame unless you know what you are doing a
 I populated it with "Less Annoying Slower Vultures" (disabled) just as a reference.  
 ![image](https://github.com/user-attachments/assets/be21bd28-f205-4aed-86c0-47625c72cf46)
 
-Unsupported Smorgasbord Mods
+---
+
+### **Unsupported Smorgasbord Mods**
+
 
 If you feel like putting them back into your own game, and are willing to troubleshoot, have at it.
 
+
 The following mods were removed because I am trying to reduce Warnings and "tolerable" Errors on the list to make it easier for me to troubleshoot.  
+
 
 If you are willing to troubleshoot things YOURSELF, you can add them back into your own game.
 
+
 "Telric's Decorations" 
+
 "Flogi's Perk mods" 
+
 "Flogi's Quest Mod"
+
 "DoubleBlundy's Bounty Quests" 
+
 "Trader Quest Addendum" 
+
 "Blood Moon Loot Bags" 
+
 "Wandering Horde Loot Bags"
+
 "Telric's Compact Health Bar"
+
 "TWD POI Pack" Ignorant users kept saying my ModList had messed up textures and RWG issues... it kept being these POIs.
+
 "Random zombie idle movement speed" 
+
 "Beefy Hordes by GR" WalkerSim is superior.  
-"Stack Increaser suite" Just back to the one from StallionsDen... want more, add them yourself.  
+
+"Stack Increaser suite" Just back to the one from StallionsDen... want more, add them yourself. 
+
 "OCB Pretty Grass" These worked fine, but I prefer BetterBiomes.
+
 "OCB More Flowers and Plants" These worked fine, but I prefer BetterBiomes.
+
 
 Here are some popular off-site (not included in the list) mods that were (and might still be) compatible with this ModList if you want to add them to your own game:
 
@@ -537,8 +557,14 @@ https://7daystodiemods.com/double-g-zombies/
 
 https://7daystodiemods.com/non-script-radios-video-games/
 
+
+### How to add your own mods to the list:
+
+
 You can download these mods, drag the zip folders into the Downloads folder within the MO2 folder for this ModList.  
+
 Then drag them from there into MO2, in the Yellow "Where you may choose to add compatible Mods..." section in the MO2 ModList.  
+
 If Mods are double-nested, you will need to fix that yourself.  
 
 ## Optional Overpowered Mods are to be enabled/disabled at a players discretion.  
