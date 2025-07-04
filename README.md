@@ -1216,9 +1216,8 @@ Mod Authors still get download credit, complete ownership of their mods, and Don
 
 Wabbajack and MO2 work in harmony to provide curators like me (FNS) the ability to create ModLists for users to efficiently download and run with.
 
-It's like paying for someone else to do the grocery shopping.  
-A ModPack curator provides the ModList. 
-The user just swings by and picks up the groceries that the Wabbajack-Store workers have already bagged. 
+It's like having a friend do the grocery shopping and cooking for you.  You just sit back and enjoy the meal.  
+A ModPack curator (like FNS) provides the ModList. 
 That's it.
 
 ---
@@ -1226,19 +1225,21 @@ That's it.
 13. "Does a Wabbajack/MO2 ModList require permission from the others mod authors?"
 
 No, because again, as far as Nexus Mods sees it, it's no different than a user going and downloading each of the mods from the ModList independantly and stringing them together exactly as I did.
-All the Wabbajack/MO2 applications do is make the process more efficient to use someone else's list.  It does **_not_** rebundle/repackage mods!  
+All the Wabbajack/MO2 applications do is make the process more efficient to use someone else's list.  It does **_not_** rebundle/repackage mods! 
+Your boy Fin (FNS) goes to great length to ask for permission to use Requirements, and if an author demanded I remove their mods, I would honor the request.
+But, that's never been an issue because we try to keep people happy.
 
 ---
 
-14. "Is Wabbajack/MO2 complicated to use... do I have to use that command-line thing?"
+14. "Is Wabbajack/MO2 complicated to use... do I have to use that balck screen with the white letters thing?"
 
-Nope, it's the easiest method to enjoy other people's ModLists.  No CLI, just a simple GUI.
+Nope, it's the easiest method to enjoy other people's ModLists.  No command-line-interface, just a simple GUI.
 
 ---
 
 15. Is it difficult to make your own ModList for 7DtD?
 
-That depends how IT-savvy you are.  
+That depends how IT-savvy you are. If you have slightly above normie IT skills, you too can create a Wabbajack list. 
 
 The Wabbajack Wiki on how to Compile your own ModLists is great, but it requires you to read and follow directions.
 
@@ -1390,6 +1391,20 @@ This mod removes vanilla pipe guns from loot and traders, but you should still b
 It also makes it so the Trader rewards you with an EFT gun when you complete the initial Buried Supplies mission.  
 
 
+---
+
+Ragsy's **Vehicle Madness** 
+
+You must have this mod enabled when you start a new save.
+
+It adds repairable wrecked vehicles throughout the world.
+
+Please see this page for details on how the mod works:
+
+https://community.thefunpimps.com/resources/vehicle-madness.74/
+
+
+
 ______________________________________________________________________________________________________________________
 
 
@@ -1408,13 +1423,13 @@ However, there are multiple compatibility issues with other mods on the ModList.
 
 The Nomad doesn't have full functionality in multiplayer.
 
-IDC Core is boobytrapped to not work with the Beyond Storage mod.  
+IDC Core is boobytrapped to not work with any Storage Broadcasting mods.  
 
 ---
 
 C. This Mod List is not compatible with the main EFT Overhaul, Rebirth, Darkness Falls, nor most other Overhauls.  
 
-No I will not make it compatible, that's too much work.
+No, I will not make it compatible, that's too much work.  
 
 ---
 
@@ -1428,7 +1443,7 @@ E. "Active Ingredients", it was breaking compatibility with other mods in the li
 
 ---
 
-F. "OCB Advanced Pin Recipes (V1.2)"  Conflicts with various UI mods, might work with only using the vanilla UI.  
+F. "OCB Advanced Pin Recipes"  Conflicts with various UI mods, might work with only using the vanilla UI.  
 
 ---
 
@@ -1625,7 +1640,7 @@ ________________________________________________________________________________
 
 - StallionsDen for allowing me to include the CompoPack in this ModList, and being a good bro helping me tidy up my POIs.  
 
-- The good folks at Guppy's 7DtD Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, GoblinRemovalist, creepers152, AM1908, JNS, Keywal, Kajdaniac, and many others. 
+- The good folks at Guppy's 7DtD Modding Discord Server, with particular gratitude to: LittleRedSonja, Emu, creepers152, AM1908, JNS, Keywal, Kajdaniac, and many others. 
 
 
 ![image](https://github.com/user-attachments/assets/b06dbf93-7271-4f97-833a-140f6efbc7ce)
@@ -1648,5 +1663,7 @@ If you feel so inclined, you can donate through the PayPal Donate link on my Nex
 ![image](https://github.com/user-attachments/assets/24818a2f-e839-47cd-bc3e-35e66f4a4b34)
 
 
-Donations are always appreciated, but never expected.  
+Donations are always appreciated, but never expected.
+
+I promise I will never treat non-donators like second-class citizens.  That behavior has made me leave other communities... golden rule and all that.  
 
