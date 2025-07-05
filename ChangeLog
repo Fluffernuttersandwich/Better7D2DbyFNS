@@ -1,3 +1,38 @@
+2.0.2: 19:00 EST 04JUL2025
+
+Comments: 
+
+1. Added VRoid Support.  It makes playing third person super fun.  
+Currently only 3 of the default Avatars have full animation and hand placement support.  
+We just need to wait on the mod authors to update their Avatars accordingly in time.  
+And VRoid is not just for weebs, there's human looking characters too, not just cute anime girlies.  
+
+2. Adjusted WalkerSim from Population Desnisty 300, down to 180.  Sorry, 300 was overkill.  
+If you liked it that way, it's easy to adjust in the xml yourself.
+I only learned I could proliferate xml/folder changes to players through Wabbajack today.  Neat!  
+
+Mods Removed: 
+N/A
+
+Mods Added:
+"More Shots" I think he fixed and updated for 2.0.  Adds rifle and bow/crossbow mods.  I tested, seemed fine.  
+
+"VRoid Mod" + all of the Avatars I baked in.
+
+"True ThirdPerson - Early Access" 
+How to Use:
+Press F5 to toggle between first-person and third-person views.
+While in third-person, click the middle mouse button to switch the camera between the right and left shoulder.
+Enjoy an immersive and flexible camera perspective as you explore the world!
+
+Mods Updated: 
+"More Gore"
+
+
+__________________________________________________________
+
+
+
 2.0.1: 19:30 EST 04JUL2025
 
 MAJOR UPDATE!
