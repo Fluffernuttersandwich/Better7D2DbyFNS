@@ -1,56 +1,37 @@
-2.0.1: 10:00 EST 04JUL2025
+2.0.1: 19:30 EST 04JUL2025
 
 Comments: 
 
-1. The Smorgasbord ModList is now exclusively compatible with 7 Days to Die game version 2.0b295.  
-
-For people returning to Smorgasbord in 2.0, please delete/uninstall previous version.  Start with a fresh install please.
-
-For first time users, welcome!
+1. The Smorgasbord ModList is now exclusively compatible with 7 Days to Die game version: 2.0b295 
 
 This is a major revision to the list, you will need to RWG a new world and start a new game.
 
-Going forward, I will be using the first two digits of the game version for the first two digits of Smorgasbord version.
+Going forward, I will be using the first two digits of the game version for the first two digits of the Smorgasbord version.
 If the game version changes from 2.0b295 to 2.1b17 Smorgasbord will move from 2.0.1 to 2.1.1.
-If during game version 2.2b12 I release subsequent updates to Smorgasbord, I will only change the third digit.  2.2.2, 2.2.3, etc.
+If during game version 2.2b12, I release subsequent updates to Smorgasbord, I will only change the third digit.  2.2.2, 2.2.3, etc.
 
 2. History has shown us that TFP will likely have several small hotfix version updates over the next few weeks/months.  
 Every time TFP updates the game version, I will need to test everything again, supply new game hashes to Wabbajack, and update the list.
 This can take longer if support mods need to be recompiled and tested.  
-Please be patient, every major game update is a mod-pocalypse for us Mod Authors... we just started crawling out of the wreckage, don't beat us down or you get no mods.  
+Please be patient, every major game update is a mod-pocalypse for us Mod Authors... we just started crawling out of the rubble, don't beat us down or you get no mods.  
 
-3. Reminder: I will never officially support Experimental Game versions.  Only Stable versions!  
-I do not update the ModList for official public release until a version goes stable because unforeseen bugs and lack of framework mod support can leave the list in a broken state.
-Also, if framework (requirement) mods have not been updated, I am forced to wait on them.  
-So, even if a game version goes stable, Smorgasbord might still be waiting a few days for other mods to update.  
-
-4. Smorgasbord is now compatible with 7DVR, BUT (big BUT) you must manually unzip the latest supported version of 7DVR files directly into your base-game files.  
+3. Smorgasbord is now compatible with 7DVR, BUT (big BUT) you must manually unzip the latest supported version of 7DVR files directly into your base-game files.  
 7DVR players using Smorgasbord can play in the same server as players with Smorgasbord that do not have 7DVR installed.  They need the same list of mods enabled/disabled!  
 I can help 7DVR players troubleshooting 7DVR+Smorgasbord issues specifically, but if you have generic 7DVR/VR problems, please ask over at the "Flatscreen to VR" Discord Server.  
 I will be recording 7DVR+Smorgasbord videos at some point in the future.  
 If you have problems installing Smorgasbord on top of the changes 7DVR made to Smorgasbord, do a full reinstall of 7DtD, then download Smorgasboard, then manually unzip 7DVR into the base files.
 Search the GitHub ReadMe here for 7DVR for more details.  
 
-5. With 2.0, I gutted a ton of mods that had mild to moderate compatibility issues.
+4. With 2.0, I gutted a ton of mods that had mild to moderate compatibility issues.
 I don't have the time I previously did to help users troubleshoot.  
 Also, the list is becoming more popular, meaning there's more people seeking assistance.  So I have even less time to help community members.  
 I have to dummy-proof the list to cut down on time spent troubleshooting.  
 
-Mods with Status Changes:
-Too many to list.
-
-Mods Removed: 
-Too many to list.
-
-Mods Added:
-Too many to list.  
-
-Mods Updated: 
-Too many to list.  
-
 Known Issues:
-One benign Error with Izy's AIO "Akimbo" reference.  Will be patched next week or so. 
-Several benign Warnings.
-None of these have cause problems.  
+1. One benign Error with Izy's AIO "Akimbo" reference.  Will be patched next week or so. 
+There are some minor issues with Izy AIO v5, but still playable.  
+2. Several benign Warnings. None of these have caused problems.
+3. Some foliage is flickering.  I haven't determined what that is.  
+4. I forgot to disable OCB Parachute.  It pops open the console with a benign error.  You can disable as you choose. 
 
 __________________________________________________________
