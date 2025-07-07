@@ -11,9 +11,16 @@ As Avatars are updated to 2.0, I will reintroduce them.
 This should bring the storage requirement down, and I apologize for not considering the size implication.
 
 Mods Removed: 
-All of the mods that have not been updated for 2.x.  
-All of the major Mod Authors have made the biggy updates.
-Most of the mods that have not been updated are for sound, or NPC add-ons.  
+1. All NPC mods.  
+These might come back at some point in the future of the list, but I spent too much time testing to remove some bugs, and I can't find them all.
+It's not the fault of the NPC-Core mod, it's just too many other mods on the list are throwing compatibility issue when I add in NPC-Core.
+If I had to choose other mods I like to play with personally, over NPC-Core, I will always choose the other mods on the list.  
+
+2. All of the mods that have not been updated for 2.x.  
+All of the major Mod Authors have made the biggy updates that were easy fixes for 2.0.
+Anything else could take substantially longer.
+Most of the mods that have not been updated are for sound.  
+Those actually are easy fixes, just a directory fix, but that's on them to fix their mods.  
 Give them time.
 
 Mods Added:
