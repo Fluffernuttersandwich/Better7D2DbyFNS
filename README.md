@@ -1453,6 +1453,53 @@ Please see this page for details on how the mod works:
 https://community.thefunpimps.com/resources/vehicle-madness.74/
 
 
+---
+
+How do I use **VRoid?**
+
+> [!IMPORTANT]
+> Do not use FPV Legs, Custom FPV FoV, True Third Person, or Witos Camera with VRoid. 
+
+
+VRoid replaces your standard character with a new Avatar.  
+There are three anime characters to choose from by default.  
+I will continue to add Avatars as they are added.
+
+
+Currently. the older Avatars do not have all of their hand motions mapped to 2.x!  
+I would recommend waiting until Avatars are updated to 2.x.
+I will add updated Avatars for you in future updates to Smorgasbord.  
+
+
+To use/change VRoid Avatars, in-game, open the Character tab, press the golden hexagon icon. Select the Avatar of your choice. 
+It might look like the VRoid Avatar is overlayed on top of a normal 7DtD character, but that will clear up when you back out of the menu.  
+You might see a stutter, or even a Null Error warning, but it will go away.  
+
+![image](https://github.com/user-attachments/assets/e71dcd96-96d3-44aa-ad00-72cf52ce7863)
+
+
+I will add Avatars and new Dances to Smorgasbord as they come online for 2.x.  
+
+If you want to add the old ones, you must add those Avatar files (from individual mods) manually to the Avatars folder under VRoid in MO2's folder directory.
+
+Dance files need to be manually dragged into the Dances folder under the main VRoid Mod manually yourself! 
+Do NOT add too many, either you won't be able to see some of them within the radial Dance (Tab) menu, or none of them will display at all.  
+Pick a handful at a time to test what you like.  They are very cute.  
+
+![image](https://github.com/user-attachments/assets/7806aa33-5dc9-4063-9cad-65ba762021fd)
+
+
+I will not be adding NSFW skins, you can do that yourself, no judgement, I just can't do that at Guppy's.
+
+**How do I make them dance?**
+
+Hold the Tab key on your keyboard.
+Move the cursor to the Dance symbol.
+The dance symbol will then open up the Dance Option screen.  
+Move the cursor to the dance of your choice.  
+Enjoy the dance.
+Cancel the dance with the Escape key.  
+
 
 ______________________________________________________________________________________________________________________
 
@@ -1482,7 +1529,7 @@ No, I will not make it compatible, that's too much work.
 
 ---
 
-D. "More Shots", "Brazmocks Archery", and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  
+D. "Brazmocks Archery", and "Falcons Bicycle Changes" are currently messing up the progression.xml code in other mods.  Until those are fixed, I'm leaving them out.  
 
 If one of you guys want to try to figure it out, please help the community if you are able!  
 
