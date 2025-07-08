@@ -1495,14 +1495,14 @@ They are very cute.
 
 I will not be adding NSFW skins, you can do that yourself, no judgement, I just can't do that at Guppy's.
 
-**How do I make them dance?**
+**How do I make them Gesture and Dance?**
 
 Hold the Tab key on your keyboard.
-Move the cursor to the Dance symbol.
-The dance symbol will then open up the Dance Option screen.  
-Move the cursor to the dance of your choice.  
-Enjoy the dance.
-Cancel the dance with the Escape key.  
+Move the cursor to either the Gesture or Dance balloon.
+This will open up either Gesture or Dance Option screen.  
+Move the cursor to the Gesture or Dance of your choice.  
+Enjoy the Gesture/Dance.
+You can also cancel the gesture/dance with the Escape key.  
 
 
 ______________________________________________________________________________________________________________________
