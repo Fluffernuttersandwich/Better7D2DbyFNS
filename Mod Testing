@@ -7,7 +7,7 @@ I make no promises that you can continue in the same save.
 You should either make a backup and be willing to revert the game to 2.0, or wait to update the modlist until you are ready to start a new game for 2.1+.
 
 2. Adjusted VRoid to remove the excessive number of not fully functional Avatars.  
-As Avatars are updated to 2.0, I will reintroduce them. 
+As Avatars are updated to 2.x, I will reintroduce them. 
 This should bring the storage requirement down, and I apologize for not considering the size implication.
 
 Mods Removed: 
@@ -15,6 +15,8 @@ Mods Removed:
 These might come back at some point in the future of the list, but I spent too much time testing to remove some bugs, and I can't find them all.
 It's not the fault of the NPC-Core mod, it's just too many other mods on the list are throwing compatibility issue when I add in NPC-Core.
 If I had to choose other mods I like to play with personally, over NPC-Core, I will always choose the other mods on the list.  
+Something on my list was causing unkillable vultures to spawn inside of POIs with NPCCore enabled.  
+If one of you folks with more time than I have want to try to track it down, by all means please share your results.  
 
 2. All of the mods that have not been updated for 2.x.  
 All of the major Mod Authors have made the biggy updates that were easy fixes for 2.0.
@@ -24,10 +26,14 @@ Those actually are easy fixes, just a directory fix, but that's on them to fix t
 Give them time.
 
 3. "Thor" It was throwing too many errors.  I just don't have the time for nuanced troubleshooting right now.  
+This one has always been a bit tempermental on this list, it might not be coming back.
+
+4.  "OCB No Sudden Exit"
+I expect this one to return when OCB Maurice updates the mod for v2.  
 
 Mods Added:
 "Shared Reading"
-
+"VRoid Dance Pack"
 
 Mods Updated: 
 "VRoid"
