@@ -1,14 +1,13 @@
-2.1.1: TBD
+2.0.3: 17:45
 
 Comments: 
 
-1. The ModList has been updated for 2.1 STABLE.  
-I make no promises that you can continue in the same save.  
-You should either make a backup and be willing to revert the game to 2.0, or wait to update the modlist until you are ready to start a new game for 2.1+.
+1. The ModList has been updated for 2.0b295 STABLE.  We are still on this version, because it's the latest Stbale version.    
 
 2. Adjusted VRoid to remove the excessive number of not fully functional Avatars.  
 As Avatars are updated to 2.x, I will reintroduce them. 
 This should bring the storage requirement down, and I apologize for not considering the size implication.
+I added a section to the ReadMe about Vroid if you want more information.  
 
 Mods Removed: 
 1. All NPC mods.  
@@ -33,12 +32,20 @@ I expect this one to return when OCB Maurice updates the mod for v2.
 
 Mods Added:
 "Shared Reading"
-"VRoid Dance Pack"
+"VRoid Dance Pack" 
+"LittleRedSonja & Mumpfy's Armor Pack 5: TactiGirls"
+"Pant's Lightsaber"
 
 Mods Updated: 
 "VRoid"
 "Score"
 "True Third Person View"
+"Bdub's vehicles"
+"TMO Interchangeable Skies"
+"Galaxy..."
+"Vault Pack (for Descent)"
+"Score"
+"Zombie Fall Damage"
 
 
 __________________________________________________________
