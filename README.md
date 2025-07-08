@@ -1483,8 +1483,12 @@ I will add Avatars and new Dances to Smorgasbord as they come online for 2.x.
 If you want to add the old ones, you must add those Avatar files (from individual mods) manually to the Avatars folder under VRoid in MO2's folder directory.
 
 Dance files need to be manually dragged into the Dances folder under the main VRoid Mod manually yourself! 
-Do NOT add too many, either you won't be able to see some of them within the radial Dance (Tab) menu, or none of them will display at all.  
-Pick a handful at a time to test what you like.  They are very cute.  
+
+Do _**not**_ add too many dances, either you won't be able to see some of them within the radial Dance (Tab) menu, or none of them will display at all.  
+
+Pick a handful at a time to test what you like.  
+
+They are very cute.  
 
 ![image](https://github.com/user-attachments/assets/7806aa33-5dc9-4063-9cad-65ba762021fd)
 
