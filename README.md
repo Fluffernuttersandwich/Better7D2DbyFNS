@@ -1331,12 +1331,20 @@ https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is
 
 ---
 
-17. Is there a way to disable the extra HP on zombies spawning as a result of the blood moon and wandering hordes? 
+17. Do you make any edits to Mod Authors files, on your list?
+    
+Yes, but only under **_very specific_** situations:
 
-Sure, disable the following two mods: A. "Wandering Horde Lootbags", B. "Blood Moon Loot Bags".  
-They are both towards the bottom of the list in MO2.  It's best practice to only enable-disable mods when you start a new world.  
-It's those mods making the Horde/Wandering-Horde zombies stronger.  
-If you are going to disable those in the middle of a saved-world/playthrough, I would make a backup first, just in case.
+A. I asked the author, and he gave me direct permission to do so for Smorgasbord.  WalkerSim is an example.
+I felt the Zombie Population Density was too high.  I asked Zeh_Matt, and he allowed me to diseminate that change to Smorgasbord users.  
+
+B. Manually adding VRoid Avatars to the main Vroid Mod folder structure, so players don't screw it up.
+
+C. Fixing Folder Structure, non-existent file name, or adding missing files to allow the mod to work correctly.
+
+D. Patching a bug in their xml. Example: Tool Time has (had) a bug where you decreased experience points when mining. We fixed it.  
+
+I vow to never alter mod content without direct authorization.  
 
 
 ---
@@ -1365,8 +1373,24 @@ It then places the 7DVR Loader into the Steam VR overlay.
 
 ---
 
+19. "I'm a Mod Author, and I'd like you to consider adding my mod to Smorgasbord." or "Hey, can you add this super cool mod?!"
 
-19. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
+I follow all new/updated mods on NexusMods.  
+If one somehow slipped my radar, hit me up on my channel at Guppy's Discord Server.  
+
+I will consider all good mods.  
+
+However, they must offer something unique, that is compatible with other mods on the list, and be available via NexusMods or Git. 
+I can't use Google Drives, Mega, or other sites.  They won't work, increase problems, or have cybersecurity risks I won't expose myself/users to.
+
+There are like 372 Stack Increaser and Backpack mods.  I don't want to add more of those!
+_At this very moment, someone is uploading another as you read this._
+
+Give me something new, or fun, that fits the list, and is available for Wabbajack to download and I will 100% add it.  
+
+---
+
+20. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
 
 It's long because it's comprehensive.  
 
