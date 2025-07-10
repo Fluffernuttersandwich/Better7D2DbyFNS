@@ -142,7 +142,9 @@ Some of the mods will lower FPS (15-20) somewhat, if you are experiencing issues
 > 
 > B. Lower your Graphics settings.
 > 
-> C. Play without these mods.  
+> C. See the write-up further below on if you should consider using the Lossless Scaling Application.  
+>
+> D. Play without these mods.
 
 
 > [!TIP]
