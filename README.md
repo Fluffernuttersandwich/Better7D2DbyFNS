@@ -1504,6 +1504,7 @@ Move the cursor to the Gesture or Dance of your choice.
 Enjoy the Gesture/Dance.
 You can also cancel the gesture/dance with the Escape key.  
 
+Video Display: https://www.youtube.com/watch?v=k9HHp7VajZg
 
 ______________________________________________________________________________________________________________________
 
