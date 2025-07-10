@@ -637,11 +637,19 @@ Recommended RWG Settings for this modpack if you want to see a better variety of
 
 ## Step 8.  Recommended Game Settings
 
-**Loot Consideration:** Play with Loot Abundance set to 75% or lower.  There is more than enough loot from the "FNS's Loot All the Things" (LAtT) mod.  
+**Loot Consideration:** 
+Play with Loot Abundance set to 75% or lower.  
+I prefer 50% for the challenge.  
+There is more than enough loot from the "FNS's Loot All the Things" (LAtT) mod.  
 
 ![image](https://github.com/user-attachments/assets/a541ac67-95b3-4d67-a6a2-9e92d7b260d5)
 
-**Difficulty Recommendation:** Since the weapons from EFT and Izy are stronger than vanilla guns, you are strongly encouraged to play with higher than your normal difficulty settings.  
+**Difficulty Recommendation:** 
+Since the weapons from EFT and Izy are stronger than vanilla guns, you are strongly encouraged to play with higher than your normal difficulty settings.
+Increase zombie speed as well if you can tolerate it.
+If you want to see more/less zombies, adjust the Zombie Population Density within the WalkerSim -> WalkerSim.xml file.  
+I like 180 for a comfortably populated singleplayer world.  
+At 300, it's nearly impossible to get quests, or harvesting done, you're under constant attack!
 
 
 ---
@@ -912,7 +920,17 @@ If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 0_Harmony
 
 ______________________________________________________________________________________________________________________
 
-# How do we update the ModList?
+
+# How do we find out about updates to Smorgasbord?
+
+
+![image](https://github.com/user-attachments/assets/4f77d02f-0736-401c-93a5-bb18235e76db)
+
+
+**I will post update notifications to Guppy's Unofficial 7DtD Modding Discord Server**
+It will be the top pin, on my #fns-smörgåsbord channel at Guppy's.  discord.gg/WpVPJWj7Xk
+
+# How do we update the Smorgasbord ModList?
 
 First: You should not try to update my list piecemeal in MO2 manually yourself unless you are an advanced user.  
 As much as I love MO2, it has one deficiency: Versioning
@@ -925,7 +943,6 @@ So, this is why I don't recommend you DIY Nexus updates from the mods in MO2.
 
 _Just wait for me to update the ModList._ 
 
-**I will post update notifications to Guppy's Unofficial 7DtD Modding Discord Server, and SnowBee's**, on my #fns-smörgåsbord channel.  discord.gg/WpVPJWj7Xk
 
 > [!CAUTION]
 > Sometimes you can keep using the same save-world and safely update to a new version of a ModList.  
