@@ -1193,6 +1193,9 @@ Darkness Falls and Rebirth are both excellent Overhauls, but contain mods I wish
 With my ModList, it's like a buffet table, take the things you like, and leave the things you don't.  
 
 
+![NewSmorg](https://github.com/user-attachments/assets/507e39c4-862d-4164-b30b-c91b1cd1a6bd)
+
+
 
 ---
 
