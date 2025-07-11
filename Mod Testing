@@ -9,12 +9,11 @@ Comments:
 The ModList is still on 2.0b295 STABLE.  We are still on this version, because it's the latest Stable version.    
 
 Personal news: I am leaving a terrible job for greener pastures in my career.  
-I'm sorry, I don't like to complain about personal stuff in public, that place was killing me.  
+I'm sorry, I don't like to complain about personal stuff in public, but that place was killing me.  
 So, I will have a shorter commute, and I might be able to work from home occasionally.  
 I really hit it off with my new boss, so I have high hopes it will be a better work environment than the last position.
 
 Fin's Shout-out thank yous:
-
 1. ShadowWolf579 for finding and squashing a bug with Tool Time.  It was making players lose experience when mining.
 He also found the Beefy Reload issue below.  
 2. All of the new people trying Smorgasbord for the first time.  Welcome, and glad to have you with us.  
@@ -22,12 +21,31 @@ He also found the Beefy Reload issue below.
 
 Mods Removed: 
 "Beefy Reload Speed".  It was causing a double-reload animation on Izy Vanilla Replacer guns.  
+"No Stamina Drain on Aiming Down Sight" Not compatible with modded guns, throwing an annoying Warning.
+"Closer's Experimental Weapons Pack" Causing compatibility issues.  
+You can add it to your own game, it's stable, but I have to remove any mods with warnings that cause crafting issues.  
 
 Mods Added:
-"Firefly" VRoid Avatar.
-"QuickStack" Previously, it was throwing errors. It's working again.  
-"Increase Lootstage Cap" 
-Sets the LootCap to high in all biomes, so you don't need to leave the Forest Biome if you don't want to.  
+
+"Firefly" VRoid Avatar.  
+I already added it to VRoid. 
+She's cute, but the shadows aren't applied to her properly.  
+I have already informed the author.  He got the shadows right on his AzureLane NewJersey girl.  
+
+"QuickStack" Previously, it was throwing errors. It's working again.  Woot!  
+
+"Increase Lootstage Cap"
+Sets the LootCap to high in all biomes, so you don't need to leave the Forest Biome if you don't want to. 
+Thanks Chessa!  
+
+"Modded CompoPack Suite" Adds about 4,000 POIs.  
+CompoPack POIs are much more challenging than vanilla!  You will die more often inside of them!
+The CompoPack adds time to RWG and loading into the world.  
+Additionally, a handful of the POIs are over 150x150 blocks in size, causing those few to render in poorly at times. 
+The aesthetics are a mixed bag, please don't complain about it. This mod is a "historical preservation society" for every community made POI ever made. 
+The POIs have been preserved as-is, from earlier Alphas.  Not everyone is a great artist, but we appreciate their contributions all the same.  
+If you don't like their look or challenge, that's fine, but please don't complain about it.  Just play without these mods.
+Please remember, a lot of love and hard work went into making and preserving these POIs.  
 
 Mods Updated: 
 "OCB mods" most of them were updated for v2.  
@@ -36,9 +54,8 @@ Mods Updated:
 "Voltralux POI Pack"
 "Witos Camera"
 "Natural Progression"
-"Tool Time" (the version did not change, we made an internal patch you are now receiving)
+"Tool Time" The version did not change, we made an internal patch you are now receiving.
 "Izy AIO v5" It didn't really change, just repackagaed the same upload because some users said they couldn't download/unzip it properly.  
 "True Third Person"
-
 
 __________________________________________________________
