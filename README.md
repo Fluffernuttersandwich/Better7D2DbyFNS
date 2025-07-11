@@ -1342,9 +1342,12 @@ B. Manually adding VRoid Avatars to the main Vroid Mod folder structure, so play
 
 C. Fixing Folder Structure, non-existent file name, or adding missing files to allow the mod to work correctly.
 
+Exception... I have commented out something within someone's xml mod to allow it to function in the pack.
+
 D. Patching a bug in their xml. Example: Tool Time has (had) a bug where you decreased experience points when mining. We fixed it.  
 
 I vow to never alter mod content without direct authorization.  
+
 
 
 ---
