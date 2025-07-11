@@ -1302,7 +1302,7 @@ But, that's never been an issue because we try to keep people happy.
 
 ---
 
-14. "Is Wabbajack/MO2 complicated to use... do I have to use that balck screen with the white letters thing?"
+14. "Is Wabbajack/MO2 complicated to use... do I have to use that black screen with the white letters thing?"
 
 Nope, it's the easiest method to enjoy other people's ModLists.  No command-line-interface, just a simple GUI.
 
