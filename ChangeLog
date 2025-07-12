@@ -1,3 +1,33 @@
+2.0.5: 12:00 EST 12JUL2025
+
+Standard warning: 
+There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
+It's best practice to wait to update the ModList until you are ready to start a new playthrough.  
+I have been able to continue my same playthrough, but YMMV.
+
+Comments: 
+
+This revision to the ModList is really just a few hot fixes.
+
+The ModList is still on 2.0b295 STABLE.  We are still on this version, because it's the latest Stable version.    
+
+Mods Removed: 
+All of the Requirement mods that were supporting the Closer Weapons Pack.  
+That pack is gone, and the reqs were duplicated in EFTX.
+
+Mods Added:
+N/A
+
+Mods Updated: 
+"Modded CompoPack" Stallion fixed a RWG error when you combined the CompoPack with Descent. Zyncosa_Mine
+"High Performance Running Shoe footwear mod" Fixed localization bug
+"LittleRedSonja & Mumpfy's ArmorPack01 DangerGirls" Small fixes.
+"Firefly Avatar for VRoid" The author improved her shadow.  You might have to reload her to fix it.  I noticed it's improved, but still a little blinky.  
+"VRoid" Improved OmniShadows on Avatars. Also Updated to allow a page-through the radial menu for additional dances.  I added the Dance pack mod to the main folder so it's now in the game.
+
+__________________________________________________________
+
+
 2.0.4: 17:10 EST 11JUL2025
 
 The ModList is still on 2.0b295 STABLE.
