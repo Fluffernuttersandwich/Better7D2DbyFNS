@@ -1,13 +1,13 @@
 2.1.1: TBD
 
-Standard warning: 
-There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
-It's best practice to wait to update the ModList until you are ready to start a new playthrough.  
-I have been able to continue my same playthrough, but YMMV.
-
-Comments: 
-
-The ModList is still on 2.0b295 STABLE.  We are still on this version, because it's the latest Stable version.    
+Major Change Warning!
+The Smorgasbord ModList has moved to Stable game version 2.1b7.
+You will most likely need to start a new game.
+If you ignore this advice and try to move your 2.0 game to a 2.1 game with this ModList, it will most likely destroy your game!
+I tested this on two tester worlds I had in 2.0, and it broke both of my test saves.  
+YOU WERE WARNED!
+There's no reason to update the game/list if you are happy to continue in your current playthrough!
+You are not missing out on any major uplifts, just wait to update both until you start a new game!
 
 Mods Removed: 
 N/A
@@ -16,16 +16,17 @@ Mods Added:
 
 "Armor Racks" Adds an Armor Rack to display suits of armor.
 
-"Better Lighting" This is one of two lighting options for the ModList. 
+"Better Lighting" This is one of two lighting options now available for the ModList. 
 Choose this mod, or "World Lighting Tuned", but not both. 
-Better Lighting adds a more natural Eye Light Adaption between sunny and shaded areas for more realistic lighting.
+Better Lighting adds a more natural Eye Light Adaption phase between sunny and shaded areas for more realistic lighting.
 You can go to that NexusMods page and also download the ReShade manually and add it to your own game if you so choose.
 I do not add/offer ReShades to this ModList.
 I find the World Lighting Tuned to be darker, and less realistic, but I like it's deeper darkness and color saturation levels.  
 Lighting purists will prefer Better Lighting's more realistic shadows and eyesight light-level acclimation.  
 
 "Drone Weapons" Adds weapon mods available to the drone. 
-You add the weapon mod to the drone itself, deploy the drone, add the specific drone-weapon-mod ammo to it's inventory, and can give the drone simple comboat orders with the Tab key radial menu. 
+You add the weapon mod to the drone itself within your backpack, deploy the drone in game, add the specific drone-weapon-mod ammo to it's drone inventory.
+Then you can give the drone simple combat orders with the Tab key radial menu. 
 Just set it to 'fire at will'.
 I like it, but for late game when you don't care about stealth.
 
