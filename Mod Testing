@@ -1,4 +1,4 @@
-2.0.5: TBD
+2.0.6: TBD
 
 Standard warning: 
 There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
@@ -10,16 +10,31 @@ Comments:
 The ModList is still on 2.0b295 STABLE.  We are still on this version, because it's the latest Stable version.    
 
 Mods Removed: 
-All of the Requirement mods that were supporting the Closer Weapons Pack.  That pack is gone, and the reqs were duplicated in EFTX.
-
-Mods Added:
 N/A
 
+Mods Added:
+
+"Armor Racks" Adds an Armor Rack to display suits of armor.
+
+"Better Lighting" This is one of two lighting options for the ModList. 
+Choose this mod, or "World Lighting Tuned", but not both. 
+Better Lighting adds a more natural Eye Light Adaption between sunny and shaded areas for more realistic lighting.
+You can go to that NexusMods page and also download the ReShade manually and add it to your own game if you so choose.
+I do not add/offer ReShades to this ModList.
+I find the World Lighting Tuned to be darker, and less realistic, but I like it's deeper darkness and color saturation levels.  
+Lighting purists will prefer Better Lighting's more realistic shadows and eyesight light-level acclimation.  
+
+"Drone Weapons" Adds weapon mods available to the drone. 
+You add the weapon mod to the drone itself, deploy the drone, add the specific drone-weapon-mod ammo to it's inventory, and can give the drone simple comboat orders with the Tab key radial menu. 
+Just set it to 'fire at will'.
+I like it, but for late game when you don't care about stealth.
+
 Mods Updated: 
-"Modded CompoPack" Stallion fixed a RWG error when you combined the CompoPack with Descent. Zyncosa_Mine
-"High Performance Running Shoe footwear mod" Fixed localization bug
-"LittleRedSonja & Mumpfy's ArmorPack01 DangerGirls" Small fixes.
-"Firefly Avatar for VRoid" The author improved her shadow.  You might have to reload her to fix it.  I noticed it's improved, but still a little blinky.  
-"VRoid" Improved OmniShadows on Avatars. Also Updated to allow a page-through the radial menu for additional dances.  I added the Dance pack mod to the main folder so it's now in the game.
+"VoltraLux POI Pack"
+"CAT UI"
+"Custom FPV FOV"
+"The Descent"
+"Torch"
+
 
 __________________________________________________________
