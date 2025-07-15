@@ -1,89 +1,20 @@
-2.1.1: TBD
+2.1.2: TBD
 
-Major Revision Warning!
-The Smorgasbord ModList has moved to Stable game version 2.1b7.
-You will most likely need to start a new game!
-If you ignore this advice and try to move your 2.0 game to a 2.1 game with this ModList, it will most likely destroy your game!
-I tested this on two tester worlds I had in 2.0, and it broke both of my test saves.  
-You could try making a backup, but here's your boy Fin telling you that it's probably a waste of time.
-There's no reason to update the game/list if you are happy to continue in your current playthrough!
-You are not missing out on any major uplifts, just wait to update both until you start a new game!
-YOU WERE WARNED!
+Standard warning: 
+There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
+It's best practice to wait to update the ModList until you are ready to start a new playthrough.  
+I have been able to continue my same playthrough, but YMMV.
 
 Mods Removed: 
 N/A
 
 Mods Added:
 
-"Armor Racks" Decor & Armor, enabled.
-Adds an Armor Rack to display suits of armor.  This returned after it's update.  
 
-"Gouki's Trader Smoothies" Biome Progression, enabled.
-Adds Biome Smoothies to trader vending machine inventories.
-
-"Plant on Dirt" OP, disabled.
-You don't need a Farm Plot, now you can plant seeds on existing dirt, or create a dirt block (from clay).
-Reminder, a dirt block is an earthen brown dirt looking block, not the normal grass block that yields clay when you dig it up. 
-Nor is it sand. Dirt is uniquely it's own block in the game.  
-OP, disabled by default.  
-
-"Better Lighting" Graphics... enabled.  
-This is one of two lighting options now available for the ModList. 
-Choose this mod, or "World Lighting Tuned", but not both. 
-Better Lighting adds a more natural Eye Light Adaption phase between sunny and shaded areas for more realistic lighting.
-You can go to that NexusMods page and also download the ReShade manually and add it to your own game if you so choose.
-I do not add/offer ReShades to this ModList.  Watch a YouTube video if you want to know how to use ReShade.
-I find the World Lighting Tuned to be darker, and less realistic, but I like it's deeper darkness and color saturation levels.  
-Lighting purists will prefer Better Lighting's more realistic shadows and eyesight light-level acclimation.  
-
-"Drone Weapons" OP, enabled. 
-Adds weapon mods available to the drone. 
-You add the weapon mod to the drone itself within your backpack, deploy the drone in game, add the specific drone-weapon-mod ammo to it's drone inventory.
-Then you can give the drone simple combat orders with the Tab key radial menu. 
-Just set it to 'fire at will'.
-I like it, but for late game when you don't care about stealth.
-
-"Weather Returns"
-Weather Returns seeks to bring back and expand upon the pre-2.0 temperature and weather system. Below are some of the key features of Weather Returns:
-Body temperature makes a return
-Wetness makes a return
-Hypo- and Hyper-thermia resistance make a return on all armor sets
-Insulated Liner and Cooling Mesh Return
-New All Season Liner mod
-New TPU Liner mod (waterproof)
-New Insulated TPU Liner mod
-New Cooling TPU Liner mod
-Hot, Sweltering, Cold, and Freezing debuffs make a return
-Hot now makes you thirsty, decreases stamina regen, and decreases weapon handling and reload speed
-Sweltering does all that hot does, but worse. You will also occasionally become heat-stroked, and be stunned for a few seconds
-Cold now makes you hungrier, decrease stamina regen, and slows down scavenging, crafting, lock picking, and reloading. Lockpicks will also break more often.
-Freezing does all that cold does, but worse.
-All weather debuffs will slowly make your character weaker, decreasing your max health the longer you stay outside of homeostasis. Get back to a comfortable temperature to regain your max health!
-Get back your health faster by cooling down under some shade or in water, or by heating by a warm fire
-Campfires and torches dry you off and warm you
-Desperate for warmth? Set yourself on fire!
-Various drinks now give you the "Cooled" buff, helping you stay cool for a period of time
-Various drinks now give you the "Warmed" buff, helping you stay warm for a period of time
-Coffee, Blackstrap, and Yucca Juice Smoothies get their temperature insulating properties back
-Old Yucca Juice Smoothie bug fixed, now cools you down instead of heating you up
-From Fin: I have tested this with the other Biome Progression mods enabled with this section.  If you see something concerning, please let me know.  
 
 Mods Updated: 
-"VoltraLux POI Pack"
-"CAT UI"
-"Custom FPV FOV"
-"The Descent"
-"Torch"
-"Insomnia"
-"0-Score"
-"ZZ-Tong's POI Pack"
-"AGF 84-Slot Backpack"
-"CATUI 91-Slot Backpack"
-"Elemental Zombie Damage"
-"Vita Quartz Minimap"
-"TechFresh Land Mine XP"
-"TechFresh Spike Trap XP"
-"Firefly Vroid Avatar"
+
+"LittleRedSonja and Mumpfy ArmorPack04 GNS Armors
 
 
 
