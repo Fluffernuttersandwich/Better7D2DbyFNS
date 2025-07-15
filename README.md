@@ -1393,7 +1393,22 @@ Give me something new, or fun, that fits the list, and is available for Wabbajac
 
 ---
 
-20. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
+20. "Why aren't you on Reddit?  You'd get more people trying your list."
+
+Sure, I'd like more people to play Smorgasbord, but I really don't like that platform. 
+
+I've lurked there in the past, and seen people get doxxed for wrong-think.  That disgusts me.
+
+Have you spent anytime on the 7daystodie subreddit?  
+At least 50% read like they were written by this guy:
+
+![IMG_20250715_111743](https://github.com/user-attachments/assets/087936e4-6669-4393-87c7-bca9036133cf)
+
+
+---
+
+
+21. "Hey FNS, could you make this ReadMe any longer?  I'm really looking for something beefy after finishing <ins>War and Peace</ins>."
 
 It's long because it's comprehensive.  
 
