@@ -14,17 +14,29 @@ N/A
 
 Mods Added:
 
-"Armor Racks" Adds an Armor Rack to display suits of armor.
+"Armor Racks" Decor & Armor, enabled.
+Adds an Armor Rack to display suits of armor.  This returned after it's update.  
 
-"Better Lighting" This is one of two lighting options now available for the ModList. 
+"Gouki's Trader Smoothies" Biome Progression, enabled.
+Adds Biome Smoothies to trader vending machine inventories.
+
+"Plant on Dirt" OP, disabled.
+You don't need a Farm Plot, now you can plant seeds on existing dirt, or create a dirt block (from clay).
+Reminder, a dirt block is an earthen brown dirt looking block, not the normal grass block that yields clay when you dig it up. 
+Nor is it sand. Dirt is uniquely it's own block in the game.  
+OP, disabled by default.  
+
+"Better Lighting" Graphics... enabled.  
+This is one of two lighting options now available for the ModList. 
 Choose this mod, or "World Lighting Tuned", but not both. 
 Better Lighting adds a more natural Eye Light Adaption phase between sunny and shaded areas for more realistic lighting.
 You can go to that NexusMods page and also download the ReShade manually and add it to your own game if you so choose.
-I do not add/offer ReShades to this ModList.
+I do not add/offer ReShades to this ModList.  Watch a YouTube video if you want to know how to use ReShade.
 I find the World Lighting Tuned to be darker, and less realistic, but I like it's deeper darkness and color saturation levels.  
 Lighting purists will prefer Better Lighting's more realistic shadows and eyesight light-level acclimation.  
 
-"Drone Weapons" Adds weapon mods available to the drone. 
+"Drone Weapons" OP, enabled. 
+Adds weapon mods available to the drone. 
 You add the weapon mod to the drone itself within your backpack, deploy the drone in game, add the specific drone-weapon-mod ammo to it's drone inventory.
 Then you can give the drone simple combat orders with the Tab key radial menu. 
 Just set it to 'fire at will'.
@@ -39,6 +51,14 @@ Mods Updated:
 "Insomnia"
 "0-Score"
 "ZZ-Tong's POI Pack"
+"AGF 84-Slot Backpack"
+"CATUI 91-Slot Backpack"
+"Elemental Zombie Damage"
+"Vita Quartz Minimap"
+"TechFresh Land Mine XP"
+"TechFresh Spike Trap XP"
+"Firefly Vroid Avatar"
+
 
 
 __________________________________________________________
