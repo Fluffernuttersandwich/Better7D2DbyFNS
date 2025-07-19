@@ -25,7 +25,7 @@ This might effect your FPS on higher tier POIs.
 This mod triples the amount of zombies spawning in all POI quests. 
 Not just Infested missions, but all POIs will have triple the amount of zombies.  
 
-"Collectible Toys"
+"Collectible Toys" Decor, disabled.
 Adds a set of collectible toys and a wooden shelf you can build to display them. 
 "Nikke Standees - Collectible Toys Addon"
 Must have "Collectible Toys" enabled! Adds 478 acrylic standees with art from Nikke. 
@@ -44,14 +44,16 @@ I will continue to include more add-on NPC packs as they come online for 2.0.  I
 "Doros VRoid Avatar" VRoid, already added to the VRoid mod folder.
 Another anime waifu.
 
-"No More Storm Warnings"
+"No More Storm Warnings" Biome, enabled.
 Turns off the on-screen-display notification that a storm is incoming.
+It makes for a more fun experience not knowing.
 
 "World Gen Tweaker"
 "Randomized Traders (v2.1)"
 These mods allow for smaller and maps 2k-16k, cities in the forest biome, more cities, larger cities, and unlocks traders from specific biomes... Not just Rekt in forest.
 I would reccomend 6k-12k maps in general. Smaller maps will give you trader issues.  Larger maps are really unecessary, slow to make, slow to load, but you do you.
-Disable both if using CompoPack!
+This can make finding the Trader intially more difficult, read the troubleshooting notes.
+Disable both if using CompoPack! CompoPack does it's own thing for RWG, and other mods that effect RWG settings can mess it up.
 
 "Foggy Ridges 41 Colorful Smoke V2"
 41 Variants of different color smoke using the chimney cap.
