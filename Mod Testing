@@ -1,107 +1,23 @@
-2.1.2: TBD
+2.1.3: TBD
 
-Major Revision Warning:
-I'm 99% sure this update will destroy an existing save. EFTX update, Weather Returns update, removed MoreShots... 
-Either continue to play your current game as is, or update when you are ready to start a new save.
 
 This ModList works with game version 2.1b9.  
-There was a bit of confusion on my part... did TFP sneak a mini revision into 2.1 Stable from b7 to b9? idk 
 
-This is the NPCs return to 2.0 update.
 
 Reminder: Adding your own mods to this ModList voids the warranty on getting assitance from FNS.  
 I will work to reduce/eliminate issues in the list I provide you, but I cannot help you when you make your own additions.
 It's not that I don't want to help you, it's just my time is limited.  When you add stuff, you are on your own!
 
 Mods Removed: 
-"PGz Massive Cities" swapped for "World Gen Tweaker".
-"More Shots" messes with Izy AIO crafting unlock progression.
+N/A
 
 Mods Added:
 
-"LittleRedSonja Barbie Davidson Vehicle" Vehicle, enabled.  
-Adds a Pink Barbie-themed Harley-Davidson to the game
-
-"Vayben's Deployable Mineshaft" OP, enabled.
-Portable Mineshaft spawner block. 
-Create a mineshaft spawner block, deploy the block, activate the block, watch the magic as it hollows out a mineshaft. 
-Mineshaft comes with a door, walls, hatch, and ladder down. Best placed on an ore vein. It hollows out dirt and stone, leaving the ore for you to mine at your leisure.  
-
-"POIs Always Infested x3" Quest mod section, disabled by default.
-Do not combine with "Harder Infestations". 
-This might effect your FPS on higher tier POIs. 
-This mod triples the amount of zombies spawning in all POI quests. 
-Not just Infested missions, but all POIs will have triple the amount of zombies.  
-
-"Collectible Toys" Decor, disabled.
-Adds a set of collectible toys and a wooden shelf you can build to display them. 
-"Nikke Standees - Collectible Toys Addon"
-Must have "Collectible Toys" enabled! Adds 478 acrylic standees with art from Nikke. 
-These are scantily clad anime waifu.
-
-"NPCCore Suite" New Separator, all disabled by default.
-NPCs are still a bit experimental and janky. 
-NPCs will drastically change the game. Maybe play a test game for an hour or two before deciding you want to settle in to a long play with them.
-By default NPCs are common. They will also spawn in with/without WalkerSim.  
-Some users complain NPCs are loud, annoying, and disrupt the more chill vibes of the vanilla apocalypse feel of the game. 
-I added them to the list because some player like the dynamic variety they add.
-Some of the add-ons bring in unkillable neutral/ally NPCs. Read the notes carefully.
-Some of the add-ons are silly. Weird animals, friendly zombies with guns, robots, etc.  
-I will continue to include more add-on NPC packs as they come online for 2.0.  I only included updated/functioning mods.
-
-"Doros VRoid Avatar" VRoid, and I already added her to the VRoid mod folder.
-Another anime waifu.
-
-"No More Storm Warnings" Biome, enabled.
-Turns off the on-screen-display notification that a storm is incoming.
-It makes for a more fun experience not knowing.
-
-"World Gen Tweaker" POI, enabled.
-"Randomized Traders (v2.1)" POI, enabled.
-These mods allow for smaller and maps 2k-16k, cities in the forest biome, more cities, larger cities, and unlocks traders from specific biomes... Not just Rekt in forest.
-I would reccomend 6k-12k maps in general. Smaller maps will give you trader issues.  Larger maps are really unecessary, slow to make, slow to load, but you do you.
-This can make finding the Trader intially more difficult, read the troubleshooting notes.
-Disable both if using CompoPack! CompoPack does it's own thing for RWG, and other mods that effect RWG settings can mess it up.
-
-"Syrinuv JetArmorMod" OP, enabled.
-Adds a JetPack armor mod. You won't hover in mid-air, it's more like a super long jump.
-You must remove the helmet flashlight, and  not hold a Izy gun.
-Press the F key to super long jump forward.
-Do not use from a roof top unless you like broken legs.  Or, max out Parkor, or take the Oh Shitz Drops candy first.
-Tip : Holding shift while moving forward pressing F + SpaceBar gives you a great boost forward. 7 League Boots :)
-
-"Syrinuv ShockArmorMod" OP, disabled.
-A mod that can be installed on armor to shock enemy when they hit you.
-
-"TiaoZao MiniMap" UI Suite Options, disabled.
-This mod is UI agnostic. 
-Choose one mimimap mod! 
-This optional version displays the minimap in the mid-right of the screen.
-
-"WMMChangeColorOfCoalOnMap"
-Changes the color of Coal on the map screen from a black dot to a red dot making it easier to spot. Again WookieNookie doing the Lord's work.  
-
-"My Time At Sandrock Food Pack" Decor, disabled.
-Really nice food and oven pack.  
+"
 
 Mods Updated: 
 
-"LittleRedSonja and Mumpfy ArmorPack04 GNS Armors"
-"LittleRedSonja and Mumpfy ArmorPack05 TactiGirls"
-"LittleRedSonja and Mumpfy ArmorPack02 VanillaRevamp"
-"CATUI"
-"Secret Base"
-"Weather Returns"
-"Zombie Fall Damage"
-"Oakraven Chicken Coops"
-"LittleRedSonja's Shopping Time" Added new optional Add-Ons to the main mod.
-"EFTX Suite"
-"Weather is Real"
-"True Third Person"
-
+"
 Mod Status change:
-"LittleRedSonja Plumbed In Water Solutions"
-Currently other UI/HUD mods break the compatibility of this mod. Until I can figure out how to fix it, it is disabled by default. 
-I will look into it as time permits.  
 
 __________________________________________________________
