@@ -4,7 +4,7 @@ Standard warning:
 There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
 It's best practice to wait to update the ModList until you are ready to start a new playthrough. 
 
-Pretty sure this update will destroy an existing save. EFTX update, Weather Returns update, removed MoreShots... 
+I'm 99% sure this update will destroy an existing save. EFTX update, Weather Returns update, removed MoreShots... 
 
 Reminder: Adding your own mods to this ModList voids the warranty on getting assitance from FNS.  
 I will work to reduce/eliminate issues in the list I provide you, but I cannot help you when you make your own additions.
@@ -69,10 +69,16 @@ Do not use from a roof top unless you like broken legs.  Or, max out Parkor, or 
 "Syrinuv ShockArmorMod" OP, disabled.
 A mod that can be installed on armor to shock enemy when they hit you.
 
+"TiaoZao MiniMap" UI Suite Options, disabled.
+This mod is UI agnostic. 
+Choose one mimimap mod! 
+This optional version displays the minimap in the mid-right of the screen.
+
 Mods Updated: 
 
 "LittleRedSonja and Mumpfy ArmorPack04 GNS Armors"
 "LittleRedSonja and Mumpfy ArmorPack05 TactiGirls"
+"LittleRedSonja and Mumpfy ArmorPack02 VanillaRevamp"
 "CATUI"
 "Secret Base"
 "Weather Returns"
@@ -81,6 +87,7 @@ Mods Updated:
 "LittleRedSonja's Shopping Time" Added new optional Add-Ons to the main mod.
 "EFTX Suite"
 "Weather is Real"
+"True Third Person"
 
 Mod Status change:
 "LittleRedSonja Plumbed In Water Solutions"
