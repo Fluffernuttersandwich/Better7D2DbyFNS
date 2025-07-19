@@ -1,15 +1,13 @@
 2.1.2: TBD
 
-This ModList works with game version 2.1b7 or 2.1b9.  
+Major Revision Warning:
+I'm 99% sure this update will destroy an existing save. EFTX update, Weather Returns update, removed MoreShots... 
+Either continue to play your current game as is, or update when you are ready to start a new save.
+
+This ModList works with game version 2.1b9.  
 There was a bit of confusion on my part... did TFP sneak a mini revision into 2.1 Stable from b7 to b9? idk 
 
 This is the NPCs return to 2.0 update.
-
-Standard warning: 
-There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
-It's best practice to wait to update the ModList until you are ready to start a new playthrough. 
-
-I'm 99% sure this update will destroy an existing save. EFTX update, Weather Returns update, removed MoreShots... 
 
 Reminder: Adding your own mods to this ModList voids the warranty on getting assitance from FNS.  
 I will work to reduce/eliminate issues in the list I provide you, but I cannot help you when you make your own additions.
@@ -44,7 +42,7 @@ These are scantily clad anime waifu.
 "NPCCore Suite" New Separator, all disabled by default.
 NPCs are still a bit experimental and janky. 
 NPCs will drastically change the game. Maybe play a test game for an hour or two before deciding you want to settle in to a long play with them.
-By default, NPCs are common. They will also spawn in with WalkerSim.  
+By default NPCs are common. They will also spawn in with/without WalkerSim.  
 Some users complain NPCs are loud, annoying, and disrupt the more chill vibes of the vanilla apocalypse feel of the game. 
 I added them to the list because some player like the dynamic variety they add.
 Some of the add-ons bring in unkillable neutral/ally NPCs. Read the notes carefully.
@@ -72,7 +70,6 @@ Press the F key to super long jump forward.
 Do not use from a roof top unless you like broken legs.  Or, max out Parkor, or take the Oh Shitz Drops candy first.
 Tip : Holding shift while moving forward pressing F + SpaceBar gives you a great boost forward. 7 League Boots :)
 
-
 "Syrinuv ShockArmorMod" OP, disabled.
 A mod that can be installed on armor to shock enemy when they hit you.
 
@@ -80,6 +77,9 @@ A mod that can be installed on armor to shock enemy when they hit you.
 This mod is UI agnostic. 
 Choose one mimimap mod! 
 This optional version displays the minimap in the mid-right of the screen.
+
+"WMMChangeColorOfCoalOnMap"
+Changes the color of Coal on the map screen from a black dot to a red dot making it easier to spot. Again WookieNookie doing the Lord's work.  
 
 "My Time At Sandrock Food Pack" Decor, disabled.
 Really nice food and oven pack.  
