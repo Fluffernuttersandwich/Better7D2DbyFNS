@@ -1,3 +1,16 @@
+2.1.2.2: HOTFIX 15:35 19JUL2025
+
+Fixed NPC Mod downloading error.  It was my mistake. Files need to end in .zip, not .git, silly Fin being silly. 
+
+Re-Added old / Updated the WookieNookie WMM mods on the list.
+
+The NPC Suite is a bit different.  
+Lockipicking game, Mechs, and birds are part of the main mod... you can remove what you don't want locally.
+I'll try to make this more modular in the future, but I was pressed for time today.
+
+YOU MUST START A NEW GAME WITH THIS UPDATE!
+
+
 2.1.2: 12:10 EST 19JUL2025
 
 Major Revision Warning:
