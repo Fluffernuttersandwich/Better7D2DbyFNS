@@ -4,7 +4,7 @@ Standard warning:
 There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
 It's best practice to wait to update the ModList until you are ready to start a new playthrough. 
 
-Pretty sure this update will destroy an existing save. EFTX update and Weather Returns... 
+Pretty sure this update will destroy an existing save. EFTX update, Weather Returns update, removed MoreShots... 
 
 Reminder: Adding your own mods to this ModList voids the warranty on getting assitance from FNS.  
 I will work to reduce/eliminate issues in the list I provide you, but I cannot help you when you make your own additions.
@@ -12,6 +12,7 @@ It's not that I don't want to help you, it's just my time is limited.
 
 Mods Removed: 
 "PGz Massive Cities" swapped for "World Gen Tweaker".
+"More Shots" messes with Izy AIO crafting unlock progression.
 
 Mods Added:
 
@@ -45,7 +46,7 @@ Some of the add-ons bring in unkillable NPCs. Read the notes carefully.
 Some of the add-ons are silly. Weird animals, friendly zombies with guns, robots, etc.  
 I will continue to include more add-on NPC packs as they come online for 2.0.  I only included updated/functioning mods.
 
-"Doros VRoid Avatar" VRoid, already added to the VRoid mod folder.
+"Doros VRoid Avatar" VRoid, and I already added her to the VRoid mod folder.
 Another anime waifu.
 
 "No More Storm Warnings" Biome, enabled.
@@ -59,14 +60,14 @@ I would reccomend 6k-12k maps in general. Smaller maps will give you trader issu
 This can make finding the Trader intially more difficult, read the troubleshooting notes.
 Disable both if using CompoPack! CompoPack does it's own thing for RWG, and other mods that effect RWG settings can mess it up.
 
-"Foggy Ridges 41 Colorful Smoke V2" Decor, disabled.
-41 Variants of different color smoke using the chimney cap.
-
 "Syrinuv JetArmorMod" OP, enabled.
 Adds a JetPack armor mod. You won't hover in mid-air, it's more like a super long jump.
 You must remove the helmet flashlight, and  not hold a Izy gun.
 Press the F key to super long jump forward.
 Do not use from a roof top unless you like broken legs.  Or, max out Parkor, or take the Oh Shitz Drops candy first.
+
+"Syrinuv ShockArmorMod" OP, disabled.
+A mod that can be installed on armor to shock enemy when they hit you.
 
 Mods Updated: 
 
