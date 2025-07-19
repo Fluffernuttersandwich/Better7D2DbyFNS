@@ -1616,6 +1616,10 @@ G. "SMX" UI Suite.  I like this UI Suite, but it throws compatibility issues wit
 From the author Sirillion himself: SMX does not play nice with added workstation mods, and any mod that adds a progression.xml file.
 If one of you guys wants to patch the SMX UI mod, I'd be happy to provide this suite on the list, but right now I have too much on my plate.
 
+---
+
+H. "More Shots" messes with Izy AIO crafting unlock progression.
+
 ______________________________________________________________________________________________________________________
 
 
