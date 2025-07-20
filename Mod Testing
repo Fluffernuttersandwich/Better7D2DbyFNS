@@ -1,8 +1,6 @@
-2.1.3 TBD
-
+2.1.2.3 TBD
 
 This ModList works with game version 2.1b9.  
-
 
 Reminder: Adding your own mods to this ModList voids the warranty on getting assitance from FNS.  
 I will work to reduce/eliminate issues in the list I provide you, but I cannot help you when you make your own additions.
@@ -13,11 +11,22 @@ N/A
 
 Mods Added:
 
-"
+"Wasteland Cuisine"
 
 Mods Updated: 
 
-"
+"GNS Beautiful Bases"
+"Alternative Biome Progression"
+"Tool Time" 
+"Witos Camera"
+"NPCCore Suite"
+"VRoid" Added new Avatars.
+
 Mod Status change:
+
+I Broke "NPCCore" into sub-component mods. So, if you want to play with normal NPCs, but not robots, you can disable robots individually.
+
+"Descent" I did just figure something out.  I was getting some lighting flickering at night outside.  
+It was Descen't cave-lights folder.  The author told me I could safely remove it.  I am removing it going forward.
 
 __________________________________________________________
