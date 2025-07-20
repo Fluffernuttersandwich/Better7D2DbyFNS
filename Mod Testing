@@ -1,4 +1,4 @@
-2.1.2.3 15:30 EST 20JUL2025
+2.1.2.4 TBD
 
 This ModList works with game version 2.1b9.  
 
@@ -10,22 +10,14 @@ Mods Removed:
 N/A
 
 Mods Added:
-"Wasteland Cuisine" adds new recipes using existing ingredients, so no loot bloat.
+"
 
 Mods Updated: 
 
-"GNS Beautiful Bases"
-"Alternative Biome Progression"
-"Tool Time" 
-"Witos Camera"
-"NPCCore Suite"
-"VRoid" Added new Avatars.
+"OCDRuntime"
 
 Mod Status change:
 
-I Broke "NPCCore" into sub-component mods. So, if you want to play with normal NPCs, but not robots, you can disable robots individually.
 
-"Descent" I did just figure something out.  I was getting some lighting flickering at night outside.  
-It was Descen't cave-lights folder.  The author told me I could safely remove it.  I am removing it going forward.
 
 __________________________________________________________
