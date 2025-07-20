@@ -1,3 +1,24 @@
+2.1.2.4: HOTFIX 16:40 20JUL2025
+
+This ModList works with game version 2.1b9.  
+
+Standard warning: 
+There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
+It's best practice to wait to update the ModList until you are ready to start a new playthrough. 
+
+Mods Removed: 
+Removed NPCCore for now.  There is an issue with the NPCCore Git links. I will try to re-add them in later.  
+
+Mods Added:
+
+
+Mods Updated: 
+
+"OCDRuntime"
+
+Mod Status change:
+
+
 2.1.2.3 Minor Revision 15:30 EST 20JUL2025
 
 This ModList works with game version 2.1b9.  
