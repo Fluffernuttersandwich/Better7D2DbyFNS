@@ -1,23 +1,45 @@
-2.1.2.4 TBD
+2.1.3 TBD
+
+Return of the NPCs! 
+For real this time!
 
 This ModList works with game version 2.1b9.  
+
+Big thanks to Xyth, the creator of the NPCCore mods. 
+I asked, and Xyth was kind enough to host NPCCore from NexusMods. 
+This fixed the NPCCore download issue we were having.
+Please endorse his mods and say thanks to him for making them available to us.
+When a mod author lends support to help Smorgasbord, please let them know you appreciate it.
 
 Standard warning: 
 There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
 It's best practice to wait to update the ModList until you are ready to start a new playthrough. 
 
 Mods Removed: 
-Removed NPCCore for now.  There is an issue with the NPCCore Git links. I will try to re-add them in later.  
+N/A
 
 Mods Added:
 
+"Wasteland Cuisine" QoL Optional, enabled.
+Adds new food and beverage recipes using vanilla ingredients. No loot bloat.
+
+"NPCCore Suite" NPC, disabled.
+Re-added after working with Xyth to distribute the mods from NexusMods.  
+
+"Locks" QoL Optional, disabled.
+Standalone mod.
+Do not use a gamepad on locks! Requires 0-Score (already enabled as a Framework mod). 
+When you try to pick a lock on a locked container, it will open up a Skyrim style lockpicking mini game.
+
+"Mute Traders suite" Sound, disabled.
+Mute individual traders, or all traders.
 
 Mods Updated: 
 
 "OCDRuntime"
-
-Mod Status change:
-
-
+"GNS Beautiful Bases"
+"VRoid"
+"Witos Camera"
+"AGF HUD"
 
 __________________________________________________________
