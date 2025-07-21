@@ -1,4 +1,4 @@
-2.1.3 16:40 21JUL2025
+2.1.3 16:40 EST 21JUL2025
 
 Return of the NPCs 
 For real this time!
@@ -27,7 +27,7 @@ Adds new food and beverage recipes using vanilla ingredients. No loot bloat.
 "NPCCore Suite" NPC, disabled.
 Re-added after working with Xyth to distribute the mods from NexusMods.  
 
-"Locks" QoL Optional, disabled.
+"Skyrim Style Lockpicking Minigame" QoL Optional, disabled.
 Standalone mod.
 Do not use a gamepad on locks! Requires 0-Score (already enabled as a Framework mod). 
 When you try to pick a lock on a locked container, it will open up a Skyrim style lockpicking mini game.
@@ -41,7 +41,6 @@ Mods Updated:
 "GNS Beautiful Bases"
 "VRoid"
 "Witos Camera"
-"AGF HUD"
 
 __________________________________________________________
 
