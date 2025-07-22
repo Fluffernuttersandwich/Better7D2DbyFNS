@@ -1620,6 +1620,14 @@ If one of you guys wants to patch the SMX UI mod, I'd be happy to provide this s
 
 H. "More Shots" messes with Izy AIO crafting unlock progression.
 
+---
+
+I. "Tank" mod. Errors. 
+
+---
+
+J. "AGF HUD" recent update broke the Perks screen with Smorgasbord.  
+
 ______________________________________________________________________________________________________________________
 
 
