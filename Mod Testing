@@ -1,22 +1,84 @@
-2.1.3.2 TBD
+2.2.1 TBD
 
-Minor Update
+Major Update
 
-This ModList works with game version 2.1b9.  
+This ModList works with game version 2.2 TBD.  
 
-Standard warning: 
-There are no guarantees updating the ModList will allow you to keep playing in an existing save.  
-It's best practice to wait to update the ModList until you are ready to start a new playthrough. 
+YOU MUST MAKE A NEW GAME WITH THIS UPDATE!
+If you are not ready to start a new game, hold off on updating!
+When you are ready, upgrade the game version, and ModList together.
+
+FNS Gratitude Shout Outs:
+
+leopardtheboss: For offering his "Zombies eat gore" framework as opensource from his Descent mod.  I used it in my Bait Bag mod. 
+
+Guppycur: For hosting the Discord server, and his kind words.  He's kept it going for a long time, and kept the community in a healthy state.
+
+TFP: For addressing the community concerns to perform the needed course correction. Not an easy decision I'm sure, but it was the right move.  
 
 Mods Removed: 
 
-"
+The previous RWG and RWG-Trader mods.  Swapped back to the one from PGz, less headaches.  
 
 Mods Added:
 
-"
+"IED Conversion Kit by FNS" Standard, enabled.
+Convert different types of explosives into other kinds using a multitude of recipes at the Workbench.
+You can use this mod in tandem with "Pick Up Mines", to then convert them to pipebombs which you can use in...
+
+"FNS Bait Bags and Baited Mines" Standard, enabled.
+Craft a Bait Bag to lure zombies away from you. Also, upgrade your Bait Bag with a Pipe Bomb for a lured mine.
+If you haven't seen the video, you should!
+
+"BdubsVehicles2VehicleMadness" Vehicles, enabled.
+Use with both Bdubs Vehicles and Vehicle Madness. 
+This mod makes Bdubs Vehicles spawn as repairable vehicles if using Vehicle Madness.
+Ivern the Cruel did a great job with this one. Well done buddy.  
+
+"OCB No Sudden Exit" Standard, enabled.
+Adds a delay when exiting an aircraft, to buy you enough time to hit the Esc key to cancel.
+
+"OCB Remote Turret Control CCTV (V2.0)"
+Remote control station for using the sentry guns.
+
+"NPCX Spider Colony" NPC Suite.
+This mod has been nerfed since the previous edition which is a good thing.
+The Queen Spiders are still not to be triffled with.  
+
+"Fari's Lightsabers" OP, disabled.
+Too OP, but fun.
+
+"PGz Boosted Big Cities" POI/RWG, enabled.
+This one is the less problematic RWG mod.  
+
+"ZZZ Mechanic Tweaks" OP, enabled.
+Mildly nerfs the Mechanic mod.
 
 Mods Updated: 
 
-"
+"Modded CompoPack"
+
+"OCB Parachute" Removed the benign error.
+
+"Black Wolf's Better Explosives"
+
+"Witos Camera"
+
+"LittleRedSonja ZombiePack" 
+From Sonja: I hope you brought bandages... now with Michael Myers.
+
+"LittleRedSonja BarbieDavidson" 
+
+"RuntimeOCD"
+
+"EFTX Suite"
+StallionsDen once again with about 9000 ChangeLog entries. You have to go to that mod page to read 'em all. 
+
+"WalkerSim" 
+Now the zombies have much better hearing! Stealth will be a priority, especially in the early game.
+Zombie Population Density has been set to 180 in the WalkerSim.xml file. Adjust it to your own liking.  
+WalkerSim and NPCCore are now more compatible with eachother. 
+If playing with NPCCore, you should see fewer NPCs since WalkerSim will not be spawning them.
+Makes for a less frantic experience. 
+
 __________________________________________________________
