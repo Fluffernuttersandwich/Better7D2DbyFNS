@@ -1,8 +1,8 @@
-2.2.1 TBD
+2.1.4.1 20:30 EST 31JUL2025
 
 Major Update to the Smorgasbord ModList:
 
-This ModList is now compatible with the Stable game version 2.2
+This ModList is compatible with the Stable game version 2.1.
 
 YOU MUST MAKE A NEW GAME WITH THIS UPDATE!
 If you are not ready to start a new game, hold off on updating!
@@ -16,6 +16,8 @@ Guppycur: For hosting the Discord server, and his kind words.  He's kept it goin
 
 TFP: For addressing the community concerns to perform the needed course correction on Biome Progression. 
 Not an easy decision I'm sure, but it was the right move.  
+
+To the folks who hang out in my fns channel at Guppy's... we get up to some fun banter and productive mod discussions. 
 
 Mods Removed: 
 
@@ -44,7 +46,8 @@ Remote control station for using the sentry guns.
 
 "NPCX Spider Colony" NPC Suite, disabled.
 This mod has been nerfed since the previous edition which is a good thing.
-The Queen Spiders are still not to be triffled with.  
+The Queen Spiders are still not to be triffled with!
+If you think the spiders are too strong, let me know...
 
 "Fari's Lightsabers" OP, disabled.
 Too OP, but fun.
@@ -55,7 +58,53 @@ This one is the less problematic RWG mod.
 "ZZZ Mechanic Tweaks" OP, enabled.
 Mildly nerfs the Mechanic mod.
 
+"(V2) Oak's Cold Bloods (NPC Mod Add On Pack)"
+Rawr! Dinosaurs!
+
+"(V2) Oak's Zombie Head Hunters (NPC Mod Add On Pack)"
+"Nerfed Head Hunter NPCs Add-on Patch"
+Aarramus updated Oak's HeadHunters. I made a companion patch to nerf them so they're actually fun to play with.
+
+"Apocalyptic Friends Multitrader POI base"
+
+"Fari's Lightsaber"
+Insanely OP, but fun.
+
+"Live Reloader"
+For modders reloading xml in-game-live.
+
+"Jewelcrafting" Decor, disabled.
+
+"Hunlight's Starter Kit" OP, enabled.
+Gets you past the repetative early game menial tasks faster so you can get to the game more quickly.
+Elegant implementation! You start with a note, you use that note in the crafting menu to select your starter pack.
+
+Multiple Hunlight patch mods. Disabled by default. 
+
+"Witos Jetpack" Veicles, enabled.
+Awesome vehicle!
+
+"Fast Travel" OP, enabled.
+Fast travel using ham radios between traders or custom destination... costs dukes. 
+
+"SCG Defense Solutions" OP, enabled.
+Adds new base turrets. 
+
+"Bobcat" Veicles, enabled.
+Badass mining vehicle.
+
+"Jewelcrafting" Decor, disabled. 
+Adds a new system for mining gems, workstation, jewelry crafting, etc. 
+You should read more at the NexusMods page, there's a ton of things to learn about this mod's functionality.
+
 Mods Updated: 
+
+"Deluxe Block POI Pack by FNS"
+Added the Disposable Heroes POI... video incoming later.
+
+"Additional Research"
+
+"Gears"
 
 "Modded CompoPack"
 
@@ -70,12 +119,40 @@ From Sonja: I hope you brought bandages... now with Michael Myers.
 
 "LittleRedSonja BarbieDavidson" 
 
+""LittleRedSonja Fancy Zombies"
+
+"Weather Returns"
+
+"Noble Katanas"
+
+"Better Lighting - Gentle..."
+
+"Disable Glitchy Zombie movement"
+"ReplaceZombieKnockdown"
+
 "RuntimeOCD"
 
-"GirlsFrontline Jiangyu" new Avatar for VRoid. 
+"Mute Traders"
+
+"MoreGore"
+
+"Gup's zombies"
+fixed floor sitting bug.
+
+"Descent"
+
+"LRS Armors..."
+
+
+
+"VRoid"
+"GirlsFrontline Jiangyu"
+"Honkai3 TheresaApocalypse"
+New Avatars for VRoid. 
 
 "EFTX Suite"
 StallionsDen once again with about 9000 ChangeLog entries. You have to go to that mod page to read 'em all. 
+Seriously, not enough peopl realize how much work he puts into this mod. Please let him know you value the mod.
 
 "WalkerSim" 
 Now the zombies have much better hearing! Stealth will be a priority, especially in the early game.
@@ -83,5 +160,6 @@ Zombie Population Density has been set to 180 in the WalkerSim.xml file. Adjust 
 WalkerSim and NPCCore are now more compatible with eachother. 
 If playing with NPCCore, you should see fewer NPCs since WalkerSim will not be spawning them.
 Makes for a less frantic experience. 
+If the Walker's hearing is too much for you, you can disable it in the xml: <EnhancedSoundAwareness>false</EnhancedSoundAwareness>
 
 __________________________________________________________
