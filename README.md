@@ -1399,6 +1399,20 @@ Sure, I'd like more people to play Smorgasbord, but I really don't like that pla
 
 I've lurked there in the past, and seen people get doxxed for wrong-think.  That disgusts me.
 
+
+<img width="1280" height="931" alt="image" src="https://github.com/user-attachments/assets/6a93fcdd-7338-45c2-854c-e8e8043cf94e" />
+
+
+There are are some good users like cinnaspice and ZeroWulhf, but the majority of people there are toxic in their negativity. 
+
+When I see someone post something they worked hard on, like a mod, or a YouTube video, the crowd just gets nasty.
+
+
+Most of Reddit = joyless cretins who only derive satisfaction by shitting on the works of better men. 
+
+<img width="640" height="795" alt="image" src="https://github.com/user-attachments/assets/3281c1cc-9819-48c9-ae71-2063b94ce86e" />
+
+
 Have you spent anytime on the 7daystodie subreddit?  
 At least 50% read like they were written by this guy:
 
