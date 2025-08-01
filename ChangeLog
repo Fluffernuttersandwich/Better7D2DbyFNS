@@ -1,3 +1,167 @@
+2.1.4.1 21:00 EST 31JUL2025
+
+Major Update to the Smorgasbord ModList:
+
+This ModList is compatible with the Stable game version 2.1.
+
+YOU MUST MAKE A NEW GAME WITH THIS UPDATE!
+If you are not ready to start a new game, hold off on updating!
+When you are ready, upgrade the game version and ModList together.
+
+FNS Gratitude Shout Outs:
+
+leopardtheboss: For offering his "Zombies eat gore" framework as opensource from his Descent mod.  I used it in my Bait Bag mod. 
+
+Guppycur: For hosting the Discord server, and his kind words.  He's kept it going for a long time, and kept the community in a healthy state.
+
+TFP: For addressing the community concerns to perform the needed course correction on Biome Progression. 
+Not an easy decision I'm sure, but it was the right move.  
+
+To the folks who hang out in my FNS channel at Guppy's... we get up to some fun banter and productive mod discussions. 
+
+Mods Removed: 
+
+The previous RWG and RWG-Trader mods.  Swapped back to the one from PGz, less headaches.  
+
+Mods Added:
+
+"IED Conversion Kit by FNS" Standard, enabled.
+Convert different types of explosives into other kinds using a multitude of recipes at the Workbench.
+You can use this mod in tandem with "Pick Up Mines", to then convert them to pipebombs which you can use in...
+
+"FNS Bait Bags and Baited Mines" Standard, enabled.
+Craft a Bait Bag to lure zombies away from you. Also, upgrade your Bait Bag with a Pipe Bomb for a lured mine.
+If you haven't seen the video, you should!
+
+"BdubsVehicles2VehicleMadness" Vehicles, enabled.
+Use with both Bdubs Vehicles and Vehicle Madness. 
+This mod makes Bdubs Vehicles spawn as repairable vehicles if using Vehicle Madness.
+Ivern the Cruel did a great job with this one. Well done buddy.  
+
+"OCB No Sudden Exit" Standard, enabled.
+Adds a delay when exiting an aircraft to buy you enough time to hit the Esc key to cancel.
+
+"OCB Remote Turret Control CCTV (V2.0)" Standard, enabled.
+Remote control station for using the sentry guns.
+
+"NPCX Spider Colony" NPC Suite, disabled.
+This mod has been nerfed since the previous edition which is a good thing.
+The Queen Spiders are still not to be triffled with!
+If you think the spiders are too strong, let me know...
+
+"Fari's Lightsabers" OP, disabled.
+Too OP, but fun.
+
+"PGz Boosted Big Cities" POI/RWG, enabled.
+This one is the less problematic RWG mod.  
+
+"ZZZ Mechanic Tweaks" OP, enabled.
+Mildly nerfs the Mechanic mod.
+
+"(V2) Oak's Cold Bloods (NPC Mod Add On Pack)"
+Rawr! Dinosaurs!
+
+"(V2) Oak's Zombie Head Hunters (NPC Mod Add On Pack)"
+"Nerfed Head Hunter NPCs Add-on Patch"
+Aarramus updated Oak's HeadHunters. I made a companion patch to nerf them so they're actually fun to play with.
+
+"Apocalyptic Friends Multitrader POI base"
+
+"Fari's Lightsaber"
+Insanely OP, but fun.
+
+"Live Reloader"
+For modders reloading xml in-game-live.
+
+"Jewelcrafting" Decor, disabled.
+
+"Hunlight's Starter Kit" OP, enabled.
+Gets you past the repetative early game menial tasks faster so you can get to the game more quickly.
+Elegant implementation! You start with a note, you use that note in the crafting menu to select your starter pack.
+
+Multiple Hunlight Add-on patch mods. All over, disabled by default. 
+
+"Witos Jetpack" Veicles, enabled.
+Awesome vehicle!
+
+"Fast Travel" OP, enabled.
+Fast travel using ham radios between traders or custom destination... costs dukes. 
+
+"SCG Defense Solutions" OP, enabled.
+Adds new base turrets. 
+
+"Bobcat" Veicles, enabled.
+Badass mining vehicle.
+
+"Jewelcrafting" Decor, disabled. 
+Adds a new system for mining gems, workstation, jewelry crafting, etc. 
+You should read more at the NexusMods page, there's a ton of things to learn about this mod's functionality.
+
+Mods Updated: 
+
+"Deluxe Block POI Pack by FNS"
+Added the Disposable Heroes POI... video incoming later.
+
+"Additional Research"
+
+"Gears"
+
+"Modded CompoPack"
+
+"OCB Parachute" Removed the benign error.
+
+"Black Wolf's Better Explosives"
+
+"Witos Camera"
+
+"LittleRedSonja ZombiePack" 
+From Sonja: I hope you brought bandages... now with Michael Myers.
+
+"LittleRedSonja BarbieDavidson" 
+
+""LittleRedSonja Fancy Zombies"
+
+"Weather Returns"
+
+"Noble Katanas"
+
+"Better Lighting - Gentle..."
+
+"Disable Glitchy Zombie movement"
+"ReplaceZombieKnockdown"
+
+"RuntimeOCD"
+
+"Mute Traders"
+
+"MoreGore"
+
+"Gup's zombies"
+fixed floor sitting bug.
+
+"Descent"
+
+"LRS+Mumpfy Armors..."
+
+"VRoid"
+"GirlsFrontline Jiangyu"
+"Honkai3 TheresaApocalypse"
+Several new Avatars for VRoid. 
+
+"EFTX Suite"
+StallionsDen once again with about 9000 ChangeLog entries. You have to go to that mod page to read 'em all. 
+Seriously, not enough peopl realize how much work he puts into this mod. Please let him know you value the mod.
+
+"WalkerSim" 
+Now the zombies have much better hearing! Stealth will be a priority, especially in the early game.
+Zombie Population Density has been set to 180 in the WalkerSim.xml file. Adjust it to your own liking.  
+WalkerSim and NPCCore are now more compatible with eachother. 
+If playing with NPCCore, you should see fewer NPCs since WalkerSim will not be spawning them.
+Makes for a less frantic experience. 
+If the Walker's hearing is too much for you, you can disable it in the xml: <EnhancedSoundAwareness>false</EnhancedSoundAwareness>
+
+__________________________________________________________
+
 2.1.3.1 21:00 EST 23JUL2025
 
 Minor Update
