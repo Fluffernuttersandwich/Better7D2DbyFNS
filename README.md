@@ -1428,18 +1428,21 @@ At least 50% read like they were written by this guy:
 21. "Why don't you add nude mods?"  or "Why not add DoubleG's Zombies now that it's available on NexusMods?"
 
 I'm not a prude, and I hate censorship. I beleive in freedom of choice and association.
+I like being able to talk about anything without attacking someone over expression.  
 
 I like Double G's Zombies mod, I want to add it to the list, but I can't for one reason.
 
 It contains a female cadaver zombie with an exposed nipple. 
 I would say it's medically accurate, and grody, but it still counts as nudity.
 
-Smorgasbord cannot contain any mods that could potentially add any of the following labels: Nudity, Adult, NSFW.
 
-This is for three reasons:
+Smorgasbord cannot contain any mods that could potentially add any of the following labels: Nudity, Adult, NSFW.
+Just having a Wabbajack ModList with these tags will reduce interest from new users.  
+
+Three reasons:
 
 A. Guppycur's Discord Server does not allow NSFW mods.
-Adding Adult mods to Smorgasbord would get me kicked from that server.
+Adding Adult mods means most Discord Servers in the 7DtD community would not allow me to post links on their servers.
 
 
 B. Some of my original community members are parents who play this game with their children.
@@ -1450,11 +1453,13 @@ I'm a family man myself and don't want to push these people away.
 
 C. YouTubers and Streamers could potentially get a strike against their channels if using these mods.
 I don't want that to happen to them, and refuse to take on that responsibility.
-Don't beleive me? I was watching a live stream on YT of a guy playing a FNV Overhaul, didn't realize it contained nude female bandits.
+Don't beleive me? 
+I was watching a live stream on YT of a guy playing a FNV Overhaul, he didn't realize it contained nude female raiders.
 He got a strike against his channel and that video taken down.  
 
 
-At the end of the day, it's so easy for you to add the mods into your own MO2 instance. 
+At the end of the day, it's so easy for you to add those mods into your own MO2 instance.
+I'm not judging you, I play with mature mods in other games, but not here in Smorgasbord.
 
 
 ---
