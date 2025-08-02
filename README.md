@@ -1346,8 +1346,6 @@ Exception... I have commented out something within someone's xml mod to allow it
 
 D. Patching a bug in their xml. Example: Tool Time has (had) a bug where you decreased experience points when mining. We fixed it.  
 
-I vow to never alter mod content without direct authorization.  
-
 
 
 ---
