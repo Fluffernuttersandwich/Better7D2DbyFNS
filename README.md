@@ -4,7 +4,7 @@
 
 
 
-______________________________________________________________________________________________________________________
+______________________________________________________________________________________________________
 
 
 **Smörgåsbord**
@@ -18,7 +18,7 @@ an extensive array or variety:
 That list is a smorgasbord of mods.
 
 
-______________________________________________________________________________________________________________________
+______________________________________________________________________________________________________
 
 
 ## Distinctive features about this Mod List:
@@ -88,12 +88,14 @@ So, even though you need to click through to download each mod, one-at-a-time, i
  
 ```C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods```
 
+_______________________________________________________________________________________________________
 
-"Yeah, but is it hard to install?"
+## "Yeah, but is it hard to install?"
 
 I's like making a cake from a cake mix box.
 
 Just read and follow the directions.
+
 
 ![Extra_Chromosone_21](https://github.com/user-attachments/assets/2b60a297-08bf-4ec7-a02b-7ec8e7310375)
 
