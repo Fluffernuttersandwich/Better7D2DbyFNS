@@ -661,11 +661,27 @@ At 300, it's nearly impossible to get quests, or harvesting done, you're under c
 
 One of our Community Members named **Kajdaniec** has converted this ModList to run on a Dedicated Server using MO2.  
 
+In Steam, you must have "Tools" checked in your games Library Games dropdown:
 
-![image](https://github.com/user-attachments/assets/5c1763ae-40db-416b-b958-e979e910157b)
+<img width="326" height="308" alt="image" src="https://github.com/user-attachments/assets/344aa76c-43f1-452f-8c73-0d435fdaef3d" />
 
+Then you must download the latest stable version of the 7 Days to Die Dedicated Server tool. 
 
-He changed the MO2 *.exe file into a *.bat file, and used the Dedicated Server tool.
+_The image might be old by the time you are reading this!_
+
+<img width="737" height="419" alt="image" src="https://github.com/user-attachments/assets/caae90e0-0274-42a5-9068-69ed94409b48" />
+
+In MO2 -> From the top of the Application, in the Tools tab -> press Executables.
+
+This will open up the Modify Executables pop-up window.
+
+For the machine you are converting into a Dedicated Server, you will want to change the Binary line from this:
+
+<img width="902" height="684" alt="image" src="https://github.com/user-attachments/assets/7198d1f0-247f-4716-87d1-bd45c4f14322" />
+
+To this:
+
+<img width="1000" height="682" alt="image" src="https://github.com/user-attachments/assets/8657b148-e470-4456-9193-4c5ca4928b8d" />
 
 
 Just tell MO2 to use the server install folder instead of the game folder, as in this MO2 screenshot. 
@@ -673,10 +689,7 @@ Just tell MO2 to use the server install folder instead of the game folder, as in
 ![image](https://github.com/user-attachments/assets/e315a042-cfab-4a49-859e-e697abf67ccb)
 
 
-Replace that with the server folder and executable for the .bat file within server folder that's all I did.
-
 There are users who have used Kajdaniec's method on a separate computer, and some users who have self-hosted the Dedicated Server from the same machine they are running their own game from.  
-
 
 I'm still waiting to see if users have been able to run this from a Dedicated Server Provider like Havoc.  
 
