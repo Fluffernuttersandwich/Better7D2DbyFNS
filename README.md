@@ -458,27 +458,14 @@ _The following screenshots in this section were uploaded from Revision version 1
 > [!CAUTION]
 > Choose only one UI Provider or disable them all!  Do not mix and match from multiple Providers.
 
-**Pick _one_ UI Suite from the following four options:**
+**Pick _one_ UI Suite from the following three options:**
 
 A. CAT UI
 
 B. Steel UI
 
-C. AGF HUD UI
+C. Disable all the UI mods, and play with the vanilla UI.
 
-D. Disable all the UI mods, and play with the vanilla UI.
-
-"Zombie Hunter Scifi Minimap"
-
-"Zombie Hunter Scifi Minimap - Visible Enemy Dots"
-
-These are both UI Mods, they're optional, and disabled by default. 
-
-This mod adds a Sci-Fi themed Minimap to the bottom right corner of the screen.  
-
-One version shows enemy dots on the minimap, the other doesn't.
-
-Animal mobs (both hostile and prey types) do not show up as dots on the minimap.
 
 You can play with the minimap settings under the GEARS "Mods" section in the Game's Menu Options.
 
@@ -491,6 +478,9 @@ You can live with it, use a different UI, disable the 15-Slot toolbelt, or use t
 
 ### **Prefabs, POIs, and RWG tweaks.**  
 If you want to add _and_ enable, or disable any prefab/POIs, do it here _prior to making a new world_.  
+
+You must RWG a new world if you wan tto see new COmmunity made POIs from this section. 
+
 **DO NOT DISABLE PREFABS/POIs MID-SAVE!**
 ![image](https://github.com/user-attachments/assets/12161046-e02b-49f2-9b8f-a5141c956e07)
 
@@ -513,11 +503,6 @@ But again, it's best practice to start a new game anytime you alter mods.
 ![image](https://github.com/user-attachments/assets/8e5a4b37-03e1-4b5b-bad6-d702667f1d44)
 
 _It's unwise to disable/enable mods midgame unless you know what you are doing as it could corrupt your save._  
-
-
-### Optional Insomnia Sleep System (disabled by default)  
-
-![image](https://github.com/user-attachments/assets/839b08de-3dba-4b67-8329-21995a93ce0b)
 
 
 ### I also left a separator/section for you to add your own mods.  
@@ -582,7 +567,7 @@ You can download these mods, drag the zip folders into the Downloads folder with
 
 Then drag them from there into MO2, in the Yellow "Where you may choose to add compatible Mods..." section in the MO2 ModList.  
 
-If Mods are double-nested, you will need to fix that yourself.  
+If Mods are double-nested, or missing a folder layer, you will need to fix that yourself.  
 
 ## Optional Overpowered Mods are to be enabled/disabled at a players discretion.  
 But again, it's best practice to start a new game anytime you alter mods. 
@@ -941,13 +926,23 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/4f77d02f-0736-401c-93a5-bb18235e76db)
 
+You should track the mod from NexusMods. Everytime I make a Major update, it will show up there.
 
 **I will post update notifications to Guppy's Unofficial 7DtD Modding Discord Server**
 It will be the top pin, on my #fns-smörgåsbord channel at Guppy's.  discord.gg/WpVPJWj7Xk
 
 # How do we update the Smorgasbord ModList?
 
-First: You should not try to update my list piecemeal in MO2 manually yourself unless you are an advanced user.  
+Just like you downloaded everything the first time.  
+The difference is, it will only download new/updated mods.
+
+
+You open up the Wabbajack application again -> Browse lists -> Check the box for Include: Non-featured games ->
+Select **7 Days to Die** from the dropdown arrow -> Select Smorgasbord -> press the Download and Install button.
+If asked to Overwrite your existing files, the answer is **yes**.
+
+
+Caution: You should not try to update my list piecemeal in MO2 manually yourself unless you are an advanced user.  
 As much as I love MO2, it has one deficiency: Versioning
 
 MO2, it's weird about versioning updates.
@@ -964,6 +959,18 @@ _Just wait for me to update the ModList._
 > However, there are no guarantees this will be safe.
 > It's considered best practice to start a new world-save when you move to an updated version of a ModList.  
 > So, if you want to keep playing in an existing save, wait until you are done with that playthrough prior to updating the ModList in Wabbajack.
+
+"What if I want to keep mods I added?"
+You'd need to go into MO2 and add [NoDelete] in the mod name in the beginning of the mod name.
+After you update, Wabbajack will spit it out at the bottom of the mod list and not touch it.
+
+
+"Will it remember changes I made to mods xml?" 
+"Will it rmember mods I enabled/disabled between updates?"
+Nope. I don't have a workaround for this. 
+This is why I only recommend you update the list when you want to start a new game.
+Get a good long playthrough out of it, take a break, mayber play a different overhaul, and come back to us when you're ready.
+You'll be back. :)
 
 ---
 
