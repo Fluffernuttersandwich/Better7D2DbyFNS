@@ -1541,22 +1541,16 @@ ________________________________________________________________________________
 
 ---
 
-"I turned off World Lighting Tuned, but my game is still too dark?!"
+"My game is still too dark?!"
 
-The Descent Mod effects lighting globally making your game darker.  You have two options:
+Experiment with other Lighting mods in the pack, or disable all of them and play with vanilla Lighting.
 
+---
 
-A. Play without The Descent.
+"I'm seeing the UI glitch out when I go to claim a reward after a quest completion?!"
 
-
-B. Manually delete the cave-lights folder from your Descent mod folder.  
-
-From the Author, he said Descent will work without the cave-light.
-
-
-![image](https://github.com/user-attachments/assets/86fae4c1-b5a9-4625-b280-cd2b9c0da83a)
-
-The Torch mod also has a global effect on lighting.  If you don't like those mods, disable them.  You can also adjust the in-game Brightness setting.
+"WMMTraderQuestMap" from WookieNookie is having a conflict with "TiaoZaoMinimap". Disable one or the other or both. 
+Vita Minimap works with Steel UI and "WMMTraderQuestMap"
 
 ---
 
