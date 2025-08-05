@@ -675,13 +675,14 @@ In MO2 -> From the top of the Application, in the Tools tab -> press Executables
 
 This will open up the Modify Executables pop-up window.
 
-For the machine you are converting into a Dedicated Server, you will want to change the Binary line from this:
+For the machine you are converting into a Dedicated Server, you will want to change the **"Binary"** and **"Start in"** line from this:
 
 <img width="902" height="684" alt="image" src="https://github.com/user-attachments/assets/7198d1f0-247f-4716-87d1-bd45c4f14322" />
 
-To this:
+**_To this:_**
 
-<img width="1000" height="682" alt="image" src="https://github.com/user-attachments/assets/8657b148-e470-4456-9193-4c5ca4928b8d" />
+<img width="949" height="687" alt="image" src="https://github.com/user-attachments/assets/cc6e7953-aeab-4b65-a30c-8193b35828cb" />
+
 
 
 There are users who have used Kajdaniec's method on a separate computer, and some users who have self-hosted the Dedicated Server from the same machine they are running their own game from.  
