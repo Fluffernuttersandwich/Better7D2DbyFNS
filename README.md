@@ -684,11 +684,6 @@ To this:
 <img width="1000" height="682" alt="image" src="https://github.com/user-attachments/assets/8657b148-e470-4456-9193-4c5ca4928b8d" />
 
 
-Just tell MO2 to use the server install folder instead of the game folder, as in this MO2 screenshot. 
-
-![image](https://github.com/user-attachments/assets/e315a042-cfab-4a49-859e-e697abf67ccb)
-
-
 There are users who have used Kajdaniec's method on a separate computer, and some users who have self-hosted the Dedicated Server from the same machine they are running their own game from.  
 
 I'm still waiting to see if users have been able to run this from a Dedicated Server Provider like Havoc.  
