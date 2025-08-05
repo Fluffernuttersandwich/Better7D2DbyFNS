@@ -4,17 +4,18 @@ Major Revision.
 
 Mods Removed: 
 
-1. All of the mods under the Biome Progression Separator. Someone out there is gaspging; "Nani?!"
-They were all replaced by Jawoodle & FuriousRamsay's "Better Storms Biome Progression and More"
+1. "OCB Map Waypoints (V2.0)" Removed because a new Mod Conflict with other new mods... most likely the next mod: "Better Storms Biome Progression and More"
 
+2. All of the mods under the Biome Progression Separator. Someone out there is gaspging; "Nani?!"
+They were all replaced by Jawoodle & FuriousRamsay's "Better Storms Biome Progression and More"
 Other modlets removed because they are now part of "Better Storms Biome Progression and More"
 "Horn Opens Doors"
 "TheMeanOnes Return of Empty Glass Jar"
 "Reduce Insect Swarm Debuff"
 
-"TiaoZaoMinimap" Quest Reward screen bug with "WMMTraderQuestMap" and "FNS Make Quest Rewards Great Again"
+3. "TiaoZaoMinimap" Quest Reward screen bug with "WMMTraderQuestMap" and "FNS Make Quest Rewards Great Again"
 
-"QuickStack" keeps bugging out and causing mod conflicts. 
+4. "QuickStack" keeps bugging out and causing mod conflicts. 
 
 Mods Added:
 
@@ -23,8 +24,8 @@ Mods Added:
 
 "Nugz Neon Lights" Decor, disabled. 
 
-"Nugz Lasersword" OP, enabled. 
-Adds craftable lightsabers.
+"Nugz Laser sword" OP, disabled. 
+Adds craftable lightsabers.  Too OP for my tatse.
 
 "Hunlight Guppycur's Zombies Spawn Remaster" Zombie Spawning, enabled.
 A lightweight patch that corrects the spawn progression of the Guppy Zombies mods, preventing powerful zombies from appearing in the early game for a more balanced experience.
