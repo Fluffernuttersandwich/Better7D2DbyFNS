@@ -88,7 +88,20 @@ So, even though you need to click through to download each mod, one-at-a-time, i
  
 ```C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods```
 
-______________________________________________________________________________________________________________________
+
+"Yeah, but is it hard to install?"
+
+I's like making a cake from a cake mix box.
+
+Just read and follow the directions.
+
+![Extra_Chromosone_21](https://github.com/user-attachments/assets/2b60a297-08bf-4ec7-a02b-7ec8e7310375)
+
+
+_Remember, Square Peg into Square Hole._
+
+
+_______________________________________________________________________________________________________
 
 # Contents
 
@@ -1391,7 +1404,11 @@ Give me something new, or fun, that fits the list, and is available for Wabbajac
 
 ---
 
-20. "Why aren't you on Reddit?  You'd get more people trying your list."
+20. "**Why aren't you on Reddit?  You'd get more people trying your list.**"
+
+TL;DR version: Reddit is a mob of malding disgruntled peasants with pitchforks and torches who just want to piss on everything.
+
+Blog Post version:
 
 Sure, I'd like more people to play Smorgasbord, but I really don't like that platform. 
 
@@ -1399,12 +1416,10 @@ I've lurked there in the past, and seen people get doxxed for wrong-think.  That
 
 Giving people like that a platform is like handing a loaded gun to a toddler.  
 
-They have no civility, or charity in what passes for their souls.
+They have no civility, charity, nor nobility in what passes for their raisin souls.
 
 When I see someone post something they worked hard on, like a mod, or a YouTube video, the crowd just gets nasty.
 It takes courage for a new creator to put their works on display... 
-
-Reddit is a mob of malding disgruntled peasants with pitchforks and torches who just want to piss on everything.
 
 They're joyless cretins who only derive satisfaction by crapping on the works of better men. 
 
@@ -1412,7 +1427,10 @@ They're joyless cretins who only derive satisfaction by crapping on the works of
 <img width="1280" height="931" alt="image" src="https://github.com/user-attachments/assets/6a93fcdd-7338-45c2-854c-e8e8043cf94e" />
 
 
-There are are some good users like cinnaspice and ZeroWulhf, but the majority of people there are toxic in their negativity. 
+There are are some good users like cinnaspice and Zer0Wulf, who have plugged Smorgasbord there, and I appreciate it, but the majority of people there are toxic in their negativity.
+
+**Be a wizard, not a goblin!**
+
 
 <img width="640" height="795" alt="image" src="https://github.com/user-attachments/assets/3281c1cc-9819-48c9-ae71-2063b94ce86e" />
 
@@ -1423,17 +1441,21 @@ At least 50% read like they were written by this guy:
 ![IMG_20250715_111743](https://github.com/user-attachments/assets/087936e4-6669-4393-87c7-bca9036133cf)
 
 
+It ultimately comes down to this: the majority of them are whiney sniveling emotional cripples on the sidelines of life criticizing those of us who provide others with value.  
+
+<img width="1080" height="835" alt="image" src="https://github.com/user-attachments/assets/4675fccf-2e37-4c61-b632-e01093ca4ec9" />
+
+
 ---
 
 21. "Why don't you add nude mods?"  or "Why not add DoubleG's Zombies now that it's available on NexusMods?"
 
-I'm not a prude, and I hate censorship. I beleive in freedom of choice and association.
-I like being able to talk about anything without attacking someone over expression.  
+I'm not a prude, and I hate censorship. I beleive in freedom of choice, speach, and association.
 
-I like Double G's Zombies mod, I want to add it to the list, but I can't for one reason.
+I like Double G's Zombies mod, I want to add it to the list, but I can't for one reason:
 
 It contains a female cadaver zombie with an exposed nipple. 
-I would say it's medically accurate, and grody, but it still counts as nudity.
+I would say it's medically accurate, and grody, not prawn-o-graphic, but it still counts as nudity.
 
 
 Smorgasbord cannot contain any mods that could potentially add any of the following labels: Nudity, Adult, NSFW.
