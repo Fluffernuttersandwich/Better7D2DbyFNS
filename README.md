@@ -323,7 +323,7 @@ Either Free or Premium will work.
 
 If you have a Free account, prepare to do _a lot_ of clicking.  
 For Free accounts, Wabbajack will open one-browser-tab-at-a-time, for you to manually download each mod.  
-350 mods = 350 tabs to open and click through one-at-a-time. 
+500+ mods = 500+ tabs to open and click through one-at-a-time. 
 
 Premium accounts will click once to download all of the Nexus mods, and download them at a higher speed.  
 
@@ -710,8 +710,6 @@ ________________________________________________________________________________
 
 1. Are you sure you are on the correct game version?  Currently this is 7DtD game version: **2.1**
 ![image](https://github.com/user-attachments/assets/35817f2d-4a25-447c-87ef-48097b12d104)
-
-
 
 
 
