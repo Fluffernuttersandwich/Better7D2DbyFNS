@@ -20,23 +20,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Fluffernuttersandwich/Better7D2DbyFNS/refs/heads/main/Smorgasbord/Smorg1.jpg",
       "readme": "https://github.com/Fluffernuttersandwich/Better7D2DbyFNS/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Sm\u00F6rg\u00E5sbord.wabbajack_c5911aed-9883-4ce4-951c-44f531a2be9a",
+      "download": "https://authored-files.wabbajack.org/Sm\u00F6rg\u00E5sbord.wabbajack_42ad3045-34e3-4163-b7bf-f007ac6d9f1d",
       "machineURL": "Better7D2D",
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "F6WdNmhHKig=",
-      "Size": 280863479,
-      "NumberOfArchives": 485,
-      "SizeOfArchives": 28884001716,
-      "NumberOfInstalledFiles": 48863,
-      "SizeOfInstalledFiles": 40629805643,
-      "TotalSize": 69513807359
+      "Hash": "UyazoZpY58s=",
+      "Size": 280908108,
+      "NumberOfArchives": 480,
+      "SizeOfArchives": 29057320112,
+      "NumberOfInstalledFiles": 49247,
+      "SizeOfInstalledFiles": 40872338511,
+      "TotalSize": 69929658623
     },
-    "version": "2.1.4.3",
+    "version": "2.1.5.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-03T02:05:06.627207Z",
+    "dateUpdated": "2025-08-05T22:44:16.8853993Z",
     "repositoryName": ""
   }
 ]
