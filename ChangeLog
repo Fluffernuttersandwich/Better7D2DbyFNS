@@ -1,3 +1,115 @@
+2.1.5.1 18:45 EST 05AUG2025
+
+Major Revision.  Start a new save, or wait to update.
+
+Note: I removed the Perks Separator, it's just under OP now.  
+
+Mods Removed: 
+
+1. "OCB Map Waypoints (V2.0)" Removed because a new Mod Conflict with other new mods... most likely the next mod: "Better Storms Biome Progression and More"
+
+2. All of the mods under the Biome Progression Separator. Someone out there is gaspging; "Nani?!"
+They were all replaced by Jawoodle & FuriousRamsay's "Better Storms Biome Progression and More"
+Other modlets removed because they are now part of "Better Storms Biome Progression and More"
+"Horn Opens Doors"
+"TheMeanOnes Return of Empty Glass Jar"
+"Reduce Insect Swarm Debuff"
+
+3. "TiaoZaoMinimap" Quest Reward screen bug with "WMMTraderQuestMap" and "FNS Make Quest Rewards Great Again"
+
+4. "QuickStack" keeps bugging out and causing mod conflicts. 
+
+Mods Added:
+
+"Nugz Vehicle Pack" Vehicles, enabled.
+"Nugz Hover Board" Vehicles, enabled.
+
+"Nugz Neon Lights" Decor, disabled. 
+
+"Nugz Laser sword" OP, disabled. 
+Adds craftable lightsabers.  Too OP for my tatse.
+
+"Hunlight Guppycur's Zombies Spawn Remaster" Zombie Spawning, enabled.
+A lightweight patch that corrects the spawn progression of the Guppy Zombies mods, preventing powerful zombies from appearing in the early game for a more balanced experience.
+
+"Izy's Pistols in Toilets, Cars, and Purses" OP, enabled.
+Optional add-on for Izy so you have a very low chance of finding Izy pistols in those places after certain gamestages.
+
+"(V2) NPC Mod Prefabs (NPC Mod Add On Pack)" NPC, disabled.
+Adds a handful of Bandit POIs filled with hostile NPCs. 
+You must RWG a new world with Score + NPCCore and this mod enabled. 
+
+"CollectedItemListFix" QoL, enabled.
+You know how when you collect too many items/resources, it can often jumble the display showing an overlapping mess of items piled on top of one another? 
+This mod fixes that issue. 
+
+"NVG Booster - an add-on for Better Lighting" Graphics, enabled.
+Enable this along with either of the two Better Lighting mod versions. Drop your in-game Brightness setting to 0%, and this mod will help improve NVG display.
+
+"Modern's Packages" OP, disabled.
+Starter Kit, start with box of Tier 1 items.  
+I prefer Hunlight's for balance, where you start with a box of Tier 0 items.
+
+"Better Storms Biome Progression and More"
+The best all in one weather storms and Biome Progression mods. 
+If you listened to Jawoodles video to TFP on fixing 2.0, this is the mod that answers the mail.
+
+1. Overview
+Configurable storms and biome progression with a dash of quality of life.
+
+2. Key Features
+Optional/Configurable:
+Storm Frequency (Vanilla or constant)
+Forest Storms
+Craftable Porta Potty
+Thunder frequency (constant or delayed)
+Thunder sound volume and distance randomness
+Thunder volume reduction while "inside"
+Storm Warning removal
+Storm border effect removal
+Configure Storm debuff values per debuff, per phase and per biome
+Storm Grace Period
+Storm penalty type (Vanilla, debuffs, none)
+Vehicle Storm Protection
+Zombie Speed Override during storms
+Wetness debuff and recovery
+Biome Hazard protection item variance (Smoothies, Custom)
+Reduction of Burnt Zombie, Plague Spitters and Frost Claws
+Additional Waypoint Icons
+Honey probabilities and chance to spawn bees
+Bee spawns guarantee honey
+Turn off debuffs from bees
+Keep tracking animals after they die
+Bring back empty jars and fill them from water sources such as sinks
+Ability to interact with doors unlocked with switches
+Individually silence traders
+Horns open trader gates
+Smaller buff list icons
+Show zombie names, color, health bars
+Assign random zombie names (good for showing Patron names)
+
+Not Optional:
+Vehicles no longer slide during storms
+Porta Potties protect from Storms and Wetness
+
+(Optional) Edit blocks.xml to tweak defaults.  
+
+Mods Updated:
+"Oak's HeadHunters" added charged and infernals.
+"Nerfed HeadHunters" adjusted values slightly.
+"EFTX" minor update.
+"MiniBosses"
+"Additional Research" added the EFTX weapon mod schematics, but made them expensive for balance. 
+"Jewelcrafting"
+"LittleRedSonja CyberGirls NPCs" Less Rocket girls :P
+"Additional Research"
+"Black Wolf's faster resources and ammo scrapping and crafting"
+"TheMeanOnes Zombies Cant Dig x"
+"Modded CompoPack" Fin corrected small error.
+"CATUI"
+
+__________________________________________________________
+
 2.1.4.3 22:15 EST 02AUG2025
 
 Minor Revision.
