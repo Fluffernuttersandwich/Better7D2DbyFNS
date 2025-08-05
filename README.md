@@ -92,7 +92,7 @@ ________________________________________________________________________________
 
 ## "Yeah, but is it hard to install?"
 
-I's like making a cake from a cake mix box.
+It's like making a cake from a cake mix box.
 
 Just read and follow the directions.
 
