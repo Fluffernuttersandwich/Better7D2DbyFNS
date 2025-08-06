@@ -1429,13 +1429,16 @@ That depends how IT-savvy you are. If you have slightly above normie IT skills, 
 
 The Wabbajack Wiki on how to Compile your own ModLists is great, but it requires you to read and follow directions.
 
-Additionally, the Wabbajack Discord group is extrememly helpful in making ModLists.  
+Additionally, the Wabbajack Discord group is extrememly helpful in making ModLists.
+
+Word of caution, they are very much old-school IT people: #RTFM!
 
 If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki specifically for 7DtD.  
 
 https://discord.gg/wabbajack
 
-https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html This is the process to create your own Wabbajack/MO2 ModList.  It now supports 7DtD.  Just ping me if you need help in making one.
+https://wiki.wabbajack.org/modlist_author_documentation/Compilation.html 
+This is the process to create your own Wabbajack/MO2 ModList.  It now supports 7DtD.  Just ping me if you need help in making one.
 
 ---
 
