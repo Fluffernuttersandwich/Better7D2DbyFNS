@@ -720,6 +720,25 @@ If you want to see more/less zombies, adjust the Zombie Population Density withi
 I like 180 for a comfortably populated singleplayer world.  
 At 300, it's nearly impossible to get quests, or harvesting done, you're under constant attack!
 
+---
+
+## Step 9.  Your first time playing the list.
+
+Mods can be very subjective to personal taste.  
+
+Because of this, I highly recommend you start a short test game for your first time with this list.
+
+Why: Let's say you were super excited to try NPCs. But after trying them for a few hours, you realize they're not for you. 
+
+The good thing is, now you know.  The bad thing is, you will want to start a new game to disable them.
+
+This is because some mods cannot be toggled midsave without gamebreaking errors.
+Some mods, you need to commit to, or start a new save!
+
+This is why I suggest you get in a short test game of an hour or two before you settle in for a long haul playthrough. 
+
+You'll quickly learn what mods you love and hate. 
+
 
 ---
 
