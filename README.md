@@ -1614,24 +1614,14 @@ ________________________________________________________________________________
 
 They're benign and can be safely ignored.  
 
-Yes, I am working on fixing them eventually.  
+The red benigng "Akimbo" Error will be patched next time Izy updates.
 
-However, I have played this ModList for hundreds of hours with these issues without catastrophic failures.  
+There is another benign Error when Descent runs with Bait Bags. It's harmless.
 
-![image](https://github.com/user-attachments/assets/a01bea39-653a-4c2d-83cf-144bb9213f6e)
-
-![image](https://github.com/user-attachments/assets/43ce3c23-d97b-4009-9e4b-5dfb211560b3)
-
-![image](https://github.com/user-attachments/assets/607d1919-409b-4942-b65f-5ec78d04c35f)
+There's a zillion Yellow Warnings... that's WalkerSim working as intended.  It's fine, no issues.
 
 
-Do not select Daily Quest Progression Limit of 0 (Custom), unless you want a game without quests!
-
-If you want unlimited Quests, choose Unlimited!
-
-
-![image](https://github.com/user-attachments/assets/6fd328be-a438-4399-af97-269141cd1635)
-
+I have played this ModList for hundreds of hours with these issues without catastrophic failures.  
 
 ______________________________________________________________________________________________________________________
 
@@ -1643,12 +1633,6 @@ ________________________________________________________________________________
 
 Experiment with other Lighting mods in the pack, or disable all of them and play with vanilla Lighting.
 
----
-
-"I'm seeing the UI glitch out when I go to claim a reward after a quest completion?!"
-
-"WMMTraderQuestMap" from WookieNookie is having a conflict with "TiaoZaoMinimap". Disable one or the other or both. 
-Vita Minimap works with Steel UI and "WMMTraderQuestMap"
 
 ---
 
