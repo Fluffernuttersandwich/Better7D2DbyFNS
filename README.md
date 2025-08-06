@@ -598,6 +598,73 @@ None of the "OP" mods listed here are aggregiously OP.
 
 ---
 
+## How to confiure the "Better Storms Biome Progression and More" blocks.xml file.
+
+<img width="1796" height="681" alt="image" src="https://github.com/user-attachments/assets/e8bf0393-8bc8-4254-af89-e7d1768e14b7" />
+
+Open the blocks.xml file from within the Better Storms Biome Progression and More mods folder from the MO2 installation.
+Within the mO2 application, you can right-click the mod, and "Open in Explorer"
+-> zzz_RebirthMods -> Config -> blocks.xml
+
+
+<img width="1096" height="274" alt="image" src="https://github.com/user-attachments/assets/12b1766e-4e20-4999-9228-3a3636b41273" />
+
+
+I prefer to use the free application Notepad++ for editing xml.
+https://notepad-plus-plus.org/
+
+Inside the blocks.xml file, you can edit values. turn false to true, or change numbers and percentages as you like.  
+
+Then save the blocks.xml file.
+
+It would be wise for you to make a copy of your edits as every update will overwrite your changes! 
+
+Store it outside of your MO2 installation!
+
+If you make a copy of the edited blocks.xml file, you can just drag your copy over and overwrite the modlist version.
+
+
+1. Overview
+Configurable storms and biome progression with a dash of quality of life.
+Note: For multiplayer, must be installed both on clients and the server.
+
+2. Key Features
+Optional/Configurable:
+Storm Frequency (Vanilla or constant)
+Forest Storms
+Craftable Porta Potty
+Thunder frequency (constant or delayed)
+Thunder sound volume and distance randomness
+Thunder volume reduction while "inside"
+Storm Warning removal
+Storm border effect removal
+Configure Storm debuff values per debuff, per phase and per biome
+Storm Grace Period
+Storm penalty type (Vanilla, debuffs, none)
+Vehicle Storm Protection
+Zombie Speed Override during storms
+Wetness debuff and recovery
+Biome Hazard protection item variance (Smoothies, Custom)
+Reduction of Burnt Zombie, Plague Spitters and Frost Claws
+Additional Waypoint Icons
+Honey probabilities and chance to spawn bees
+Bee spawns guarantee honey
+Turn off debuffs from bees
+Keep tracking animals after they die
+Bring back empty jars and fill them from water sources such as sinks
+Ability to interact with doors unlocked with switches
+Individually silence traders
+Horns open trader gates
+Smaller buff list icons
+Show zombie names, color, health bars
+Assign random zombie names (good for showing Patron names)
+Not Optional:
+Vehicles no longer slide during storms
+Porta Potties protect from Storms and Wetness
+
+
+---
+
 
 ## Step 6.  Launch the game from MO2.  
 
