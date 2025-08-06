@@ -598,7 +598,13 @@ None of the "OP" mods listed here are aggregiously OP.
 
 ---
 
-## How to confiure the "Better Storms Biome Progression and More" blocks.xml file.
+## How to configure the "Better Storms Biome Progression and More" blocks.xml file.
+
+
+Watch this video for a faster explanation:
+
+https://www.youtube.com/watch?v=6xQ8yYey9lU
+
 
 <img width="1796" height="681" alt="image" src="https://github.com/user-attachments/assets/e8bf0393-8bc8-4254-af89-e7d1768e14b7" />
 
@@ -625,41 +631,75 @@ If you make a copy of the edited blocks.xml file, you can just drag your copy ov
 
 
 1. Overview
+
 Configurable storms and biome progression with a dash of quality of life.
+
 Note: For multiplayer, must be installed both on clients and the server.
 
 2. Key Features
+
 Optional/Configurable:
+
 Storm Frequency (Vanilla or constant)
+
 Forest Storms
+
 Craftable Porta Potty
+
 Thunder frequency (constant or delayed)
+
 Thunder sound volume and distance randomness
+
 Thunder volume reduction while "inside"
+
 Storm Warning removal
+
 Storm border effect removal
+
 Configure Storm debuff values per debuff, per phase and per biome
+
 Storm Grace Period
+
 Storm penalty type (Vanilla, debuffs, none)
+
 Vehicle Storm Protection
+
 Zombie Speed Override during storms
+
 Wetness debuff and recovery
+
 Biome Hazard protection item variance (Smoothies, Custom)
+
 Reduction of Burnt Zombie, Plague Spitters and Frost Claws
+
 Additional Waypoint Icons
+
 Honey probabilities and chance to spawn bees
+
 Bee spawns guarantee honey
+
 Turn off debuffs from bees
+
 Keep tracking animals after they die
+
 Bring back empty jars and fill them from water sources such as sinks
+
 Ability to interact with doors unlocked with switches
+
 Individually silence traders
+
 Horns open trader gates
+
 Smaller buff list icons
+
 Show zombie names, color, health bars
+
 Assign random zombie names (good for showing Patron names)
+
 Not Optional:
+
 Vehicles no longer slide during storms
+
 Porta Potties protect from Storms and Wetness
 
 
