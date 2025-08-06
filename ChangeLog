@@ -1,3 +1,35 @@
+2.1.5.4 16:00 EST 06AUG2025
+
+Minor Revision: 
+Standard warning applies! There's no gurantees an update won't break an existing save. 
+It's always best practice to wait until you want to start a new game before updating.
+
+Comment:
+Adjusted "Better Storms Biome Progression and More" disabled Horns open Doors feature, because I re-added the mod that does that back in.  
+I like the mod version better for increased functionality.  Leave that setting disabled!
+
+Mods Removed: 
+N/A
+
+Mods Added:
+
+"QuickStack" Standard, enabled. 
+My fault, I was using an old version.
+
+All of the Funukemaguro's Icon replacer mods. QoL, enabled.
+
+"Better Scrap n Craft Tweaks" Standard, enabled.
+Hunlight's Balance patch of Better Scrapping by Black Wolf.
+
+Mods Updated:
+
+"Tool Time Reblanced"
+"OCB Storage Pouch"
+"Drone Lock to Player"
+"Horns open doors and elevators"
+"EFTX Armored Zs" small fix.
+__________________________________________________________
+
 2.1.5.3 22:40 EST 05AUG2025
 
 Hotfix: updated "Better Storms Biome Progression and More" blocks.xml file to be what most players will prefer (not 100% storms 100% of the time).
