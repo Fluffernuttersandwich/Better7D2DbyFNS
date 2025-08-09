@@ -1,21 +1,45 @@
-2.1.5.5 TBD
+2.2.1 TBD
 
-Comment:
+Major Update: Smorgasbord has been updated to stable game version 2.2!
 
+Standard warning: There's no gurantee you can play in an old save. You can try to make a back up and test it, but chances are it won't work.
+If you are happy with your game on 2.1, wait to update both the game and list until you are ready to move to a new game. 
+Don't FOMO! The list isn't going anywhere!
+
+Comments:
+
+1. SteelUI was not updated for 2.2, but I made some easy fixes myself for 2.2 for the list.  
+It's not perfect, you will see containers with more slots than should be available.
+The SteelUI suite was moved to a new separator called: Pending Update to 2.2
+
+2. There is a new Experimental separator at the bottom of the list. 
+The mods here are new(ish) and I have not had extensive amounts of time to play with them. 
+I am asking anyone who's willing to risk losing a playthrough to extensively help me test them and report back.
+If you don't want to take that chance, leave them disabled.  
+I only tested that they didn't cause initial errors or introduce obvious problems into the early game. 
+I am fairly confident OCB's mods will be problem free.
+Blood Moon Chaos and Halicopter could potentially cause issues...
+
+3. We just hit over 500 modlets on the list.  Wow! This list started with 60 mods about 18 months ago!  
 
 Mods Removed: 
 
-"Backup Mod" Kajdaniec reported it was broken. It was glitchy when I lst tested it, so pulling until it receives an update and can be reassessed. 
+"Backup Mod" Kajdaniec reported it was broken. It was glitchy when I last tested it, so pulling until it receives an update and can be reassessed. 
 
 "GW71_NoMagazineXP" replaced with my own improved version.
 
 Mods Added:
 
 "TechFreq's Pouch Add-Ons to OCB's Pouch system." OP, mostly disabled.
-I enabled the one for the wallet, because I like being able to store all Dukes in one slot. 
-The others are disabled for: Medical, Ammo, and Minerals. Too OP for me. 
+I enabled the one for the wallet, because I like being able to store all Dukes in one slot like every other video game ever. 
+The others are disabled for: Medical, Ammo, snacks, and Minerals. Too OP for me. 
 
-"No Exp from Reading" QoL, enabled.
+"Enhanced LCB or Enhanced Land Claim Block (V2.1)" OP, enabled.
+Primarily for unlocking doors/garage-doors for POIs you take over as a base. It has other uses. 
+Please don't use the Enhanced LCB to cheese loot locked behind doors, that's not what this meant for! 
+It was meant to be a convenient QoL item to unlock existing doors in a POI you want to make your home base.
+
+"No Exp from Reading" QoL, disable.
 You do not receive experience points for reading any book, magazines, or schematics. 
 This includes modded versions so long as they used normal item name nomenclature. 
 This mod was made for people who prefer slower progression to keep the game going longer.
@@ -25,14 +49,39 @@ There's nothing wrong with double looting a Crack-a-Book POI, I don't mind the L
 "The Walking Dead Avatar Pack UPDATED 2.1" VRoid, disabled, but already added to the Avatar folder.
 New TWD Avatars added to VRoid.
 
+"Babel_Inc" POI, enabled. 
+I haven't found/run it yet. It was a request.
+I do try to listen to you guys most of the time...
+
+"POI Renamer" Standard, enabled.
+Mount this block inside the boundary of a POI, and you can rename it to whatever you like.
 
 
+"OCB Pretty Grass (V2.X)" Standard, enabled.
+Superior Grass shader.  Not glow in the dark grass liek vanilla.
+
+New(ish) Experiemntal mods, disabled. 
+"OCB Electricity Wind Power (V2.X)"
+"OCB Electricity Overhaul (V2.X)"
+"OCB Electricity Multiway Switches (V2.X)"
+"Blood Moon Chaos" 
+Random Blood Moons! It's customizable in the xml. In-Game Blood Moon GUI Settings don't matter. 
 
 Mods Updated:
 
 "Deluxe Block POI Pack by FNS" 
 StallionsDen provided me with some new Military Assets for the Disposable Heroes POI.  
 Sincerely appreciated mate!
+
+"Steel UI Suite" added some additional backpack options. 
+
+"EFTX" 
+
+"TechFreq's Spikes and Mines"
+
+"Better Storms..."
+
+"All of Hunlights mods" name changes mostly.  
 
 
 
