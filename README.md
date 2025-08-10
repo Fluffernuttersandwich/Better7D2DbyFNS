@@ -1686,6 +1686,15 @@ ________________________________________________________________________________
 
 Experiment with other Lighting mods in the pack, or disable all of them and play with vanilla Lighting.
 
+Adjust your Brightness settings.
+
+Default recommendations:
+
+Set in-game Brightness to 0%.
+
+<img width="1157" height="243" alt="image" src="https://github.com/user-attachments/assets/8b03f6de-ed3c-479a-9e6e-34dc82bda5d8" />
+
+
 
 ---
 
