@@ -742,6 +742,19 @@ Know your limitations, or upgrade your potato, don't blame me because you haven'
 Recommended RWG Settings for this modpack if you want to see a better variety of the Community Made POIs:
 ![image](https://github.com/user-attachments/assets/c318e31b-4926-45fe-8a97-edd045927889)
 
+
+If you are generating a new world with The Descent mod enabled, and you see an error in your log exclaiming "DivideByZero" or "delaunay triangulation" this is not your fault.
+
+The Descent uses extremely complex algorithims for carving out caves in the underworld, and can sometimes make a fatal mistake.
+
+Solution: Generate a new world with Descent, using default Descent Settings. It's unlikely you should see this error again.
+
+I have generated dozens of Descent worlds and not encountered this issue, but it is a rare oddity according to the Mod Author. 
+
+
+<img width="1585" height="154" alt="image" src="https://github.com/user-attachments/assets/608e7000-f209-4df0-9829-2f2359152284" />
+
+
 ---
 
 ## Step 8.  Recommended Game Settings
