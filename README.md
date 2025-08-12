@@ -555,8 +555,6 @@ If you are willing to troubleshoot things YOURSELF, you can add them back into y
 
 Here are some popular off-site (not included in the list) mods that were (and might still be) compatible with this ModList if you want to add them to your own game:
 
-https://7daystodiemods.com/double-g-zombies/
-
 https://7daystodiemods.com/non-script-radios-video-games/
 
 
@@ -1640,6 +1638,11 @@ He got a strike against his channel and that video taken down.
 
 At the end of the day, it's so easy for you to add those mods into your own MO2 instance.
 I'm not judging you, I play with mature mods in other games, but not here in Smorgasbord.
+
+If you want to add it to your own game:
+https://www.nexusmods.com/7daystodie/mods/8212
+
+Put `[No Delete]` in front of the name of it so the next update of Smorgasbord will not delete the added mod.
 
 
 ---
