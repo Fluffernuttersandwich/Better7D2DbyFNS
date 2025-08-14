@@ -10,6 +10,11 @@ Mods Removed:
 
 "POI Renamer" glitchy UI problems.
 
+"Babel Inc POI" 
+too much of a performance sink... 
+overlapping lights, too many zombies spawning all at once, building is too large, too many reflective surfaces
+It dropped my 80 FPS to like 20, and I'm not even playing with Better Biomes or Triple Infested POIs. 
+
 Mods Added:
 
 "Damage Numbers" UI, enabled.
