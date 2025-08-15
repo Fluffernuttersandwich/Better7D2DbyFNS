@@ -6,6 +6,22 @@ Standard warning: There's no guarantee you can update the ModList and continue t
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
 Don't FOMO! The list isn't going anywhere!
 
+Comments:
+
+1. "Dewtas Hold Multiple Quests -- 1.0 Stable" is now set to disabled. 
+Normally this mod allows you to take more than one quest at a time.
+Currently this mod can be intermittently buggy. The bug intensifies if playing with Apocalyptic Quests. 
+If you go to a quest marker, and it's missing (or you can't interact with it), you need to complete and return other quest(s) prior to initiating this one.
+You might also need to exit/reenter the game.
+When JNS updates his "MoreQuests" for 2.x, I will try his again.
+I know WookieNookie (WMM) was also working on something similar, but I don't think he's made it public yet.
+
+
+
+Added/re-added two separators:
+Perk Suite
+Apocalyptic Quests
+
 Mods Removed: 
 
 "POI Renamer" 
@@ -49,12 +65,15 @@ If your previous game had Legend Perks, do not use this mod simultaneously!
 If you ignore my advice, and try to play with two Perk Suites at the same time, only one will be selectable in the Skills screen!
 Example: if you try to play with both Legend Perks and Perk Mastery, only Perk Mastery will be selectable. 
 
+"Apocalyptic Jobs" 
+
 Mods Updated:
 
 "VRoid - Avatar - Master Chief from Halo 3"
 "Drone Weapons"
 "Blood Moon Chaos" Fixed the Quest Progression bug.
 "FNS Super Rad BMX"
+"Halicopter"
 "CATUI"
 
 I moved a few mods out of Experimental, as I was able to test them more extenisvely.
