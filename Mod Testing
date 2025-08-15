@@ -2,8 +2,9 @@
 
 Reminder, the Smorgasbord ModList is currently on game version 2.2!
 
-If you are not ready to start a new save, wait to update the list!
-EFTX received a major update! This means you will 100% need to start a new save. 
+Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
+If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
+Don't FOMO! The list isn't going anywhere!
 
 Mods Removed: 
 
@@ -13,8 +14,8 @@ Was causing too many glitchy UI problems.
 "Babel Inc POI" 
 Too much of a performance sink... 
 overlapping lights, too many zombies spawning all at once, building is too large, too many reflective surfaces.
-You (might) get away with one of those problems, but all at once, it kills your FPS.
-It dropped my 80 FPS to like 20, and I'm not even playing with Better Biomes or Triple Infested POIs. 
+You (might) get away with one of those problems, but not all at once, it kills your FPS.
+It dropped my 80 FPS to like 20, and I'm not even playing with Better Biomes, NPCs, or Triple Infested POIs. 
 
 Mods Added:
 
@@ -23,7 +24,8 @@ This mod is UI agnostic. When you shoot zombies, it displays damage numbers over
 
 "UI Sound Mod" Sound, disabled.
 From Author: Simple mod that replaces some (57) of the more repetitious, arguably annoying sounds (hovering, clicks, opening the backpack etc). 
-Customizable in xml. From Fin: The vanilla sound effects don't bother me personally, and the new ones are too mild for my taste.
+Customizable in xml.
+From Fin: The vanilla sound effects don't bother me personally, and the new ones are too mild for my taste.
 
 "Tip of the Spear by FNS" Standard, enabled.
 Just a small boost to the Spear Hunter book series to keep the spear more relevant into late game... 
@@ -34,7 +36,6 @@ Mods Updated:
 "VRoid - Avatar - Master Chief from Halo 3"
 "Drone Weapons"
 "Blood Moon Chaos" Fixed the Quest Progression bug.
-"EFTX" Major Update!
 
 I moved a few mods out of Experimental, as I was able to test them more extenisvely. 
 
