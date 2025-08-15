@@ -1,9 +1,11 @@
 2.2.1.4 TBD
 
 Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
+Yes, I am in fact aware 2.3 Experimental has been released, but Smorgasbord does not move to Experimental betas. Ever.
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
+There are no critical patches, or life-altering mods that absoloutely cannot wait until your next playthrough. 
 Don't FOMO! The list isn't going anywhere!
 
 Comments:
@@ -15,8 +17,6 @@ If you go to a quest marker, and it's missing (or you can't interact with it), y
 You might also need to exit/reenter the game.
 When JNS updates his "MoreQuests" for 2.x, I will try his again.
 I know WookieNookie (WMM) was also working on something similar, but I don't think he's made it public yet.
-
-
 
 Added/re-added two separators:
 Perk Suite
@@ -34,6 +34,26 @@ You (might) get away with one of those problems, but not all at once, it kills y
 It dropped my FPS from 80 to 20, and I'm not even playing with Better Biomes, NPCs, or Triple Infested POIs. 
 
 Mods Added:
+
+"Sort Trader's Quests by Distance" Quest, enabled.
+Lists quests at the trader selection screen by those closest to you first.
+I think this mod just fell off the list when I wasn't looking.
+
+"Quest Revamp-Gears Edition" 
+Adds a Gears UI screen to toggle Quest mod options. Also adds some other Quest UI functionality for compatibility with other Quest mods.
+This is very customizable, and I encourage you to tailor it to your playstyle. 
+One major change I made by executive decision. You can now Move up Quest tier after 1 job instead of 10. 
+That just alarmed some of you, and you're out there shouting: "Why?!"
+Fin's the master chef cooking you up somehting nice, so hear me out on describing this dish:
+Because it rewards players who have the balls to want to tackle harder POIs earlier. 
+It also keeps you from having to do the same old tier 1-3 POIs you always do. 
+If you can handle higher tier POIs, why not?
+No one is forcing you to do higher tier POIs. 
+Yes, this can throw off balance a bit, but it encourages players to make a risk vs reward decision.
+I personally find being stuck doing tier 1-3 POIs in order to stifle my play style. 
+I want to have the freedom to challenge myself, but I also want to be properly compensated!
+This setting is *Chef's Kiss.  
+And, most importantly: If you don't like the change, you can either disable the mod, or change it back to 10 in the Gears Mods menu UI.
 
 "Damage Numbers" UI, enabled.
 This mod is UI agnostic. When you shoot zombies, it displays damage numbers over their heads similar to Borderlands.
@@ -66,12 +86,20 @@ If you ignore my advice, and try to play with two Perk Suites at the same time, 
 Example: if you try to play with both Legend Perks and Perk Mastery, only Perk Mastery will be selectable. 
 
 "Apocalyptic Jobs" 
+Click the link to NexusMods (from MO2) to read more! 
+Adds a whole bunch of new quest types, boss encounters, perks, magazines, and expansions. 
+The subsequent AddOn mods help you configure Apocalyptic Quests by disabling features from it you'd rather play without.
+It will largely take over the Quest menu. 
+
+"VRoid - Avatar - Master Chief from Halo 3"
+Queue up that Gregorian chant intro boys, Master Chief Petty Officer John-117 has got another mission against The Flood.
 
 Mods Updated:
 
-"VRoid - Avatar - Master Chief from Halo 3"
+
 "Drone Weapons"
 "Blood Moon Chaos" Fixed the Quest Progression bug.
+"Hunlight's Rebalnce of Guppy's Zombies"
 "FNS Super Rad BMX"
 "Halicopter"
 "CATUI"
