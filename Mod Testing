@@ -1,4 +1,4 @@
-2.2.1.4 TBD
+2.2.2.1 TBD
 
 Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
 Yes, I am in fact aware 2.3 Experimental has been released, but Smorgasbord does not move to Experimental betas. Ever.
@@ -23,6 +23,10 @@ Added/re-added two separators:
 Perk Suite
 
 Apocalyptic Quests
+
+Renamed the "Biome Progression" Separator to "Survival, Weather, Biome Progression Options" to allow more things into it.
+I moved a bunch of other mods into this section.
+I am trying to appeal to appeal to users who want to make the survival aspects of the game more challenging. 
 
 Mods Removed: 
 
@@ -63,6 +67,17 @@ I personally find being stuck doing tier 1-3 POIs in order to stifle my play sty
 I want to have the freedom to challenge myself, but I also want to be properly compensated!
 This setting is *Chef's Kiss.  
 And, most importantly: If you don't like the change, you can either disable the mod, or change it back to 10 in the Gears Mods menu UI.
+Caution: If you did a quest for Rekt that opens up the next quest tier level with Rekt, please remember to reset quests!
+This is important if you bounce between traders before reseting jobs!
+Example of what not to do: Finish one job with Rekt, immediately go see Jen, take a tier 2 quest from Jen, cannot find/interact with that Quest Marker.
+If you complete a job, you can reset the trader jobs to open up the next tier level!  This should resolve any missing Quest Markers.
+
+"IzPrebuilt's Immersive Survival" Survival, enabled.
+Water mod.
+This mod aims to increase immersion, freedom and challenge to return 7 Days To Die to a more sandbox survival experience. 
+Currently this only tackles hydration. 
+Disinfect your water in a variety of ways and then filter it. 
+You can also work towards late-game water objectives.
 
 "Damage Numbers" UI, enabled.
 This mod is UI agnostic. When you shoot zombies, it displays damage numbers over their heads similar to Borderlands.
