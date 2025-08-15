@@ -1,6 +1,6 @@
 2.2.1.4 TBD
 
-Reminder, the Smorgasbord ModList is currently on game version 2.2!
+Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
@@ -15,7 +15,7 @@ Was causing too many glitchy UI problems.
 Too much of a performance sink... 
 overlapping lights, too many zombies spawning all at once, building is too large, too many reflective surfaces.
 You (might) get away with one of those problems, but not all at once, it kills your FPS.
-It dropped my 80 FPS to like 20, and I'm not even playing with Better Biomes, NPCs, or Triple Infested POIs. 
+It dropped my FPS from 80 to 20, and I'm not even playing with Better Biomes, NPCs, or Triple Infested POIs. 
 
 Mods Added:
 
@@ -27,17 +27,36 @@ From Author: Simple mod that replaces some (57) of the more repetitious, arguabl
 Customizable in xml.
 From Fin: The vanilla sound effects don't bother me personally, and the new ones are too mild for my taste.
 
+"Immersive Camera" QoL, disabled.
+From the Author: Adds leaning, swaying, breathing, and head-bob to the first person camera. Also allows altering the player height. All settings can be configured via CameraEffectsConfig.txt.
+From Fin: Do not use this mod if you are prone to video motion sickness. 
+Adds "realistic" head-wobble when the character is moving. 
+Effects aiming and 3rd person! 
+A community memeber asked me to include this mod, so I did, but I think most people will disable this mod after trying it for about 30 seconds. 
+
 "Tip of the Spear by FNS" Standard, enabled.
 Just a small boost to the Spear Hunter book series to keep the spear more relevant into late game... 
 I felt it was left behind by the sledgehammer, stun baton, etc. Spear is one of the greatest melee weapons ever made and games rarely do it justice. 
+
+"Perk Mastery" Perks, enabled.
+You must use either SteelUI or CATUI for this mod to function! This is because the vanilla UI might not display the extra column for the new Perk System.
+Do not mix with most other modded Perk suites (like Legend Perks or Flogi's). Pick one main Perk Suite only!
+This mod offers a wide variety of Perk Masteries that you can unlock after allocating the default ones.
+For example, after taking a point in Archery, the Bowman mastery unlocks!
+Adds new perk trees for every weapon in the game!
+Start a new game!
+If your previous game had Legend Perks, do not use this mod simultaneously! 
+If you ignore my advice, and try to play with two Perk Suites at the same time, only one will be selectable in the Skills screen!
+Example: if you try to play with both Legend Perks and Perk Mastery, only Perk Mastery will be selectable. 
 
 Mods Updated:
 
 "VRoid - Avatar - Master Chief from Halo 3"
 "Drone Weapons"
 "Blood Moon Chaos" Fixed the Quest Progression bug.
+"FNS Super Rad BMX"
+"CATUI"
 
-I moved a few mods out of Experimental, as I was able to test them more extenisvely. 
-
+I moved a few mods out of Experimental, as I was able to test them more extenisvely.
 
 __________________________________________________________
