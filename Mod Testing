@@ -15,11 +15,13 @@ Normally this mod allows you to take more than one quest at a time.
 Currently this mod can be intermittently buggy. The bug intensifies if playing with Apocalyptic Quests. 
 If you go to a quest marker, and it's missing (or you can't interact with it), you need to complete and return other quest(s) prior to initiating this one.
 You might also need to exit/reenter the game.
-When JNS updates his "MoreQuests" for 2.x, I will try his again.
+When JNS updates his "MoreQuests" for 2.x, I will try his again... it's currently hidden, pending his update.
 I know WookieNookie (WMM) was also working on something similar, but I don't think he's made it public yet.
 
 Added/re-added two separators:
+
 Perk Suite
+
 Apocalyptic Quests
 
 Mods Removed: 
@@ -64,14 +66,16 @@ And, most importantly: If you don't like the change, you can either disable the 
 
 "Damage Numbers" UI, enabled.
 This mod is UI agnostic. When you shoot zombies, it displays damage numbers over their heads similar to Borderlands.
+This is configurable in-game, in Mods settings.
 
 "UI Sound Mod" Sound, disabled.
-From Author: Simple mod that replaces some (57) of the more repetitious, arguably annoying sounds (hovering, clicks, opening the backpack etc). 
+From the Mod Author: Simple mod that replaces some (57) of the more repetitious, arguably annoying sounds (hovering, clicks, opening the backpack etc). 
 Customizable in xml.
 From Fin: The vanilla sound effects don't bother me personally, and the new ones are too mild for my taste.
 
 "Immersive Camera" QoL, disabled.
-From the Author: Adds leaning, swaying, breathing, and head-bob to the first person camera. Also allows altering the player height. All settings can be configured via CameraEffectsConfig.txt.
+From the Mod Author: Adds leaning, swaying, breathing, and head-bob to the first person camera. Also allows altering the player height. 
+All settings can be configured via CameraEffectsConfig.txt.
 From Fin: Do not use this mod if you are prone to video motion sickness. 
 Adds "realistic" head-wobble when the character is moving. 
 Effects aiming and 3rd person! 
@@ -79,19 +83,26 @@ A community memeber asked me to include this mod, so I did, but I think most peo
 
 "Tip of the Spear by FNS" Standard, enabled.
 Just a small boost to the Spear Hunter book series to keep the spear more relevant into late game... 
-I felt it was left behind by the sledgehammer, stun baton, etc. Spear is one of the greatest melee weapons ever made and games rarely do it justice. 
+I promise this is not OP, it's a very mild boost.
+I felt the spear was left behind by the sledgehammer, stun baton, etc. 
+Spear is one of the greatest melee weapons ever made and games rarely do it justice. 
 
 "Perk Mastery" Perks, enabled.
-You must use either SteelUI or CATUI for this mod to function! This is because the vanilla UI might not display the extra column for the new Perk System.
-Do not mix with most other modded Perk suites (like Legend Perks or Flogi's). Pick one main Perk Suite only!
+You must use either SteelUI or CATUI for this mod to function! 
+This is because the vanilla UI might not display the extra column for the new Perk System.
+Do not mix with most other modded Perk suites (like "Legend Perks or "Flogi's..."). Pick one main Perk Suite only!
 This mod offers a wide variety of Perk Masteries that you can unlock after allocating the default ones.
 For example, after taking a point in Archery, the Bowman mastery unlocks!
 Adds new perk trees for every weapon in the game!
 Start a new game!
 If your previous game had Legend Perks, do not use this mod simultaneously! 
 If you ignore my advice, and try to play with two Perk Suites at the same time, only one will be selectable in the Skills screen!
+Or you could get game breaking errors... have fun with that.
 Example: if you try to play with both Legend Perks and Perk Mastery, only Perk Mastery will be selectable. 
 I disabled Legend Perks just to play with Perk Mastery for a while to see which I prefer. I like them both.
+
+"VRoid - Avatar - Master Chief from Halo 3"
+Queue up that Gregorian chant intro boys, Master Chief Petty Officer John-117 has got another mission against The Flood.
 
 "Apocalyptic Jobs" 
 Click the link to NexusMods (from MO2) to read more! 
@@ -99,11 +110,11 @@ Adds a whole bunch of new quest types, boss encounters, perks, magazines, and ex
 The subsequent AddOn mods help you configure Apocalyptic Quests by disabling features from it you'd rather play without.
 It will largely take over the Quest menu. 
 
-"VRoid - Avatar - Master Chief from Halo 3"
-Queue up that Gregorian chant intro boys, Master Chief Petty Officer John-117 has got another mission against The Flood.
+One of the Add-On patches to "Apocalyptic Jobs" is causing an error: "(ADDON) More Vanilla Quest Chance"
+Here Fin is asking for any and all community assistance to troubleshoot. 
+Currently this patch is causing an error where you can't choose quests at the trader, it's probably a Mod Conflict. 
 
 Mods Updated:
-
 
 "Drone Weapons"
 "Blood Moon Chaos" Fixed the Quest Progression bug.
