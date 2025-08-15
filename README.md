@@ -512,6 +512,74 @@ I populated it with "Less Annoying Slower Vultures" (disabled) just as a referen
 
 ---
 
+Choose only _One_ major **Perk Suite** Provider!
+
+Choose _either_ "Perk Mastery" or "Legend Perks", _not_ both!
+
+If you add Flogi's Perk mod to your MO2 Instance, disable other Perk Suites.  
+
+I do not recommend Flogi's Perk Mod.  This is not because it's a bad mod, but because it can cause mod compaibility issues. 
+
+<img width="1099" height="146" alt="image" src="https://github.com/user-attachments/assets/bbbdd9ab-bee6-4f93-ac43-5c3393a9b4a8" />
+
+---
+
+<img width="1103" height="122" alt="image" src="https://github.com/user-attachments/assets/83e4a1a3-e555-4b4b-bd14-ed3150bcafc8" />
+
+### **Apocalyptic Jobs**
+Adds a whole bunch of new quest types, boss encounters, perks, magazines, and expansions. 
+The subsequent AddOn mods help you configure Apocalyptic Quests by disabling features from it you'd rather play without.
+It will largely take over the Quest menu. 
+
+
+---
+
+### **Quest Mods**
+
+<img width="1100" height="313" alt="image" src="https://github.com/user-attachments/assets/5acd06e5-c25b-4c5c-8e5d-584458419bd7" />
+
+
+"**Quest Revamp-Gears Edition**"
+
+Adds a Gears UI screen to toggle Quest mod options. Also adds some other Quest UI functionality for compatibility with other Quest mods.
+
+This is very customizable, and I encourage you to tailor it to your playstyle. 
+
+One major change I made by executive decision. You can now move up Quest tier after 1 job instead of 10. 
+
+That just alarmed some of you, and you're out there shouting: "Why?!"
+
+Fin's the master chef cooking you up somehting nice, so hear me out on describing this dish:
+
+Because it rewards players who have the balls to want to tackle harder POIs earlier. 
+
+It also keeps you from having to do the same old tier 1-3 POIs you always do. 
+
+If you can handle higher tier POIs, why not?
+
+No one is forcing you to do higher tier POIs. 
+
+Yes, this can throw off balance a bit, but it encourages players to make a risk vs reward decision.
+
+I personally find being stuck doing tier 1-3 POIs in order to stifle my play style. 
+
+I want to have the freedom to challenge myself, but I also want to be properly compensated!
+
+This setting is *Chef's Kiss.  
+
+And, most importantly: If you don't like the change, you can either disable the mod, or change it back to 10 in the Gears Mods menu UI.
+
+Caution: If you did a quest for Rekt that opens up the next quest tier level with Rekt, please remember to reset quests!
+
+This is important if you bounce between traders before reseting jobs!
+
+Example of what not to do: Finish one job with Rekt, immediately go see Jen, take a tier 2 quest from Jen, cannot find/interact with that Quest Marker.
+
+If you complete a job, you can reset the trader jobs to open up the next tier level!  This should resolve any missing Quest Markers.
+
+
+---
+
 ### **Unsupported Smorgasbord Mods**
 
 
@@ -521,7 +589,7 @@ If you feel like putting them back into your own game, and are willing to troubl
 The following mods were removed because I am trying to reduce Warnings and "tolerable" Errors on the list to make it easier for me to troubleshoot.  
 
 
-If you are willing to troubleshoot things YOURSELF, you can add them back into your own game.
+If you are willing to troubleshoot things _YOURSELF_, you can add them back into your own game.
 
 
 "Telric's Decorations" 
@@ -1670,11 +1738,13 @@ ________________________________________________________________________________
 
 They're benign and can be safely ignored.  
 
-The red benigng "Akimbo" Error will be patched next time Izy updates.
+The red benign "Akimbo" Error will be patched next time Izy updates.
 
 There is another benign Error when Descent runs with Bait Bags. It's harmless.
 
 There's a zillion Yellow Warnings... that's WalkerSim working as intended.  It's fine, no issues.
+
+khzZombies has some warnings and is glitchy.  The mod still works, but is due for an update.
 
 
 I have played this ModList for hundreds of hours with these issues without catastrophic failures.  
@@ -1693,7 +1763,13 @@ Adjust your Brightness settings.
 
 Default recommendations:
 
-Set in-game Brightness to 0%.
+Enabled only "Better Lighting - Gentle Contrast Edition" as your Lighting mod under the Graphics Separator.
+
+Also enable "Add-on to Better Lighting - Night Vision Goggles Booster".  It's great!
+
+**Set in-game Brightness to 0%.**
+
+This is how this game is meant to be played!
 
 <img width="1157" height="243" alt="image" src="https://github.com/user-attachments/assets/8b03f6de-ed3c-479a-9e6e-34dc82bda5d8" />
 
@@ -1713,7 +1789,7 @@ It's a test mod, not 100% perfect, but it's super fun!
 
 ---
 
-Key Binds for EFT/EFT Extraction Pack:
+**Key Binds for EFT/EFT Extraction Pack:**
 
 How do I change firing type? From Full-Auto to Single-Fire or Burst?  Z-key
 
@@ -1742,6 +1818,23 @@ It adds repairable wrecked vehicles throughout the world.
 Please see this page for details on how the mod works:
 
 https://community.thefunpimps.com/resources/vehicle-madness.74/
+
+
+---
+
+What about the **CompoPack**?
+
+
+These are very challenging POIs! 
+
+
+The aesthetics are a mixed bag, please don't complain about it. 
+
+
+This mod is a "historical preservation society" for every community made POI ever made over the years. 
+
+
+If you don't like it, that's fine, but please don't complain about it.  Just play without these mods.
 
 
 ---
