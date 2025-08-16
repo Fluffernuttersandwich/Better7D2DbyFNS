@@ -924,24 +924,22 @@ This section was largely trail-blazed by community member RipJammer. If you see 
 
 1. In MO2, enable the mods you want to include into your Dedicated Server version of the Smorgasbord Mod List for your users.
 
-2. Open MO2 -> change the top dropdown from 7 Days to Die to Explore Virtual Folder. Hit Run. 
+2. Open MO2 -> change the top dropdown from 7 Days to Die to Explore Virtual Folder. Hit Run.
+(remember to revert this when you go back to single player)
 
 <img width="576" height="386" alt="image" src="https://github.com/user-attachments/assets/60011efb-2f39-463b-9aff-5f991d4fd7fe" />
 
-3. Create a temp_mods_for_Smorgasbord folder somewhere else on your computer (not in your MO2 installtion folder). 
 
-<img width="734" height="240" alt="image" src="https://github.com/user-attachments/assets/7450ff97-5fe9-4f1e-8832-5c4ee1be2d1b" />
-
-4. Grab all of the mods from the Mods - Explorer++ virtual folder that opened when you hit Run within MO2. 
+3. Grab all of the mods from the Mods - Explorer++ virtual folder that opened when you hit Run within MO2. 
 
 <img width="2423" height="1226" alt="image" src="https://github.com/user-attachments/assets/aca0fa81-ec26-4d18-93a5-9a39cb756c33" />
 
-5. Within the Mods - Explorer++ virtual folder, Ctrl+a and Ctrl+c to select and copy all of those mods. 
+4. Within the Mods - Explorer++ virtual folder, Ctrl+a and Ctrl+c to select and copy all of those mods. 
 From the top of that window, press the "Copy to" button.
 
 <img width="730" height="304" alt="image" src="https://github.com/user-attachments/assets/f9c689e6-2719-4b81-9177-a8bb7ef9a881" />
 
-Make a New Folder.
+5. Make a New Folder.
 
 <img width="415" height="507" alt="image" src="https://github.com/user-attachments/assets/52a60df8-1323-48cb-832f-46629b6607e7" />
 
@@ -952,22 +950,47 @@ The copying process can take a while.
 Once it's complete, you can exit the virtual folder and MO2 as you like. 
 
 Your temp_mods folder is now full. You can zip this folder and store it online for redistribution for users.
-You can host this with a Server Provider, a Google Drive (if you've paid for extra storage beyond the 15 GB free), or something like Azure.
 
-I would not recommend hosting from Google for Security Reasons, but you do you. 
-If you are playing with a private group of friends, it's fine.
+You can host this with a Server Provider, a Google Drive (if you've paid for extra storage beyond the 15 GB free), or somewhere else like Azure.
+
+
+I would not recommend hosting from Google for security reasons, but you do you. 
+If you are playing with a private group of friends, it's probably fine.
 For public servers, you open up yourself and other users to being hacked.
+It's just not a secure platform, and I wouldn't personally download random dll files from disreputable Google Drives.
 
 
 > [!WARNING]
 > Do _not_ host this on NexusMods, or other mod hosting sites!
 > **This is not your work!**
-> Bundling other people's mods as your own will have negative consequences.
+> Bundling other people's mods as your own will have negative consequences. You will be branded a mod thief!
 > You are only allowed to distribute this to people using your Dedicated Server directly.
 > If you ignore this advice. I promise you your Mod Page will get delisted, and account could be banned.
 
 
-Optional. If you get something you are satisfied with and don't plan to enable/disable/update mods any time in the near future, you can drop using MO2 entirely if you just rename your _temp_Mods folder to Mods and launch the game as normal through Steam (without EAC of course) using the Dedicated Server Tool.
+Next Steps:
+
+Drag a copy of all of the mods you just made, and place them into the 7DtD Dedicated Server Tool Mods folder.
+
+
+Configure and Launch your server as you normally would.
+
+
+Remember, all users (Clients) and the server itself must have all of these mods. 
+Smorgasbord has both Client and Server side mods. 
+FNS does not have the time to track down which mods are client side.  
+Make sure everyone (and the server) has all of the mods!
+
+Your players must add the list of mods from your zip, unzipped, into their Mods folder. 
+
+They must have Harmony present!
+
+You must play with EAC disabled! Too many of the mods on this list will trigger EAC if it is enabled. 
+I would be careful who you invite into your dedicated server when EAC is off!
+
+If they are running additional mods out of other folders, they're probably going ot have errors.
+
+FNS is not your paid tech support for this. You kind of need to figure this stuff out yourself.  
 
 
 ______________________________________________________________________________________________________________________
