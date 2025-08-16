@@ -15,7 +15,7 @@ _noun_
 
 an extensive array or variety:
 
-That list is a smorgasbord of mods.
+That list is a _smorgasbord_ of mods.
 
 
 ______________________________________________________________________________________________________
@@ -26,8 +26,9 @@ ________________________________________________________________________________
 - This is the most modular approach to modding you will see for a 7DtD ModPack.
 Unlike other Overhaul Lists that add things not all players like, you have complete control over what mods to enable/disable in your game to suit your own play style by using ModOrganizer2 (MO2). 
 
-- Unlike other Overhaul ModPacks, you are not learning a new game.
-Yet, it still feels like a fresh experience.  
+- You are not learning a new game.  Yet, it still feels like a fresh experience.
+I try to add mods that are intuitive.
+I dislike systems that require you to go read third party documentation just to play a game. 
 
 - This Mod List is not about overhauling major systems, nor adding too many new features.
 This list is all about improving dozens of small details that as a whole make for a better overall experience of the original game.
