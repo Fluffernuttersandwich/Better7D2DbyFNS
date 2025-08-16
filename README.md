@@ -381,11 +381,11 @@ Login to your Nexus Mods account from inside of the Wabbajack application, and e
 
 ### Step 3. Find the "Smörgåsbord" by FNS Overhaul ModPack in the Wabbajack Gallery of ModLists.  
 
-From the Wabbajack Appliction, Browse Modlist:
+From the Wabbajack Appliction, press the "Browse lists" button:
 
-You can press the "Game" dropdown arrow and select 7 Days to Die.  Make sure "Show Unnofficial Lists" is also checked.  
+You can press the "All games" dropdown arrow and select 7 Days to Die.  Make sure - Include "Non-featured" - is also checked.  
 
-Sometimes the Wabbajack App gets stuck, and will only display 50+ ModLists instead of 120+... if this happens, 
+Sometimes the Wabbajack App gets stuck, and will only display 50+ ModLists instead of 120+... if this happens: 
 
 Reset Filters, then try again to select Non-Featured ModLists, and the dropdown should be back to 120+ ModLists.  
 
