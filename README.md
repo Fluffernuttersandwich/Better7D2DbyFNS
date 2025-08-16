@@ -205,6 +205,9 @@ B. EAC has been disabled from the Game Launcher.  Not just temporarily muted for
 C. You did *not* delete the "0_TFP_Harmony" folder in the base game's Mods folder!  
 >  C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods
 
+<img width="726" height="250" alt="image" src="https://github.com/user-attachments/assets/bdf7e4ab-e98b-44cc-9fe3-f00788e4e0d0" />
+
+
 ---
 
 D. You ran the vanilla game to the main start-up menu once.  *This is so it can build out folder directories.*
