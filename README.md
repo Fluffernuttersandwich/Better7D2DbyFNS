@@ -398,7 +398,14 @@ Reset Filters, then try again to select Non-Featured ModLists, and the dropdown 
 
 At the time of this writting, my ModPack is the first and only Wabbajack list for the 7DtD game.
 
-Download the "Smörgåsbord" Overhaul ModPack.
+Click the "Smörgåsbord" Overhaul ModPack.
+
+Now press the "Download & Install" button.
+
+
+<img width="1414" height="681" alt="image" src="https://github.com/user-attachments/assets/7201ff30-09cb-479e-a239-4f51d9b06d20" />
+
+
 
 The Wabbajack Application will prompt you to input an Installation Location folder:
 
@@ -417,6 +424,7 @@ Here's what it looks like as Wabbajack is downloading and installing the ModList
 ![image](https://github.com/user-attachments/assets/8c395d4b-7890-45d2-9828-f18119963a39)
 
 ![image](https://github.com/user-attachments/assets/6797a7ba-23b9-44ed-a8b9-d9eea8d68214)
+
 
 ---
 
