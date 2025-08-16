@@ -1416,7 +1416,9 @@ No, I will not make you a version compatible with Darkness Falls, nor Rebirth, n
 
 Not my circus, not my monkeys.  
 
-Both Khaine and FuriousRamsey do their own thing, and don't like people adding crap to their packs.  
+Both Khaine and FuriousRamsey do their own thing for their own overhauls.  
+
+Overhaul mods make too many big changes and are not compatible with many mods. 
 
 ---
 
@@ -1556,13 +1558,13 @@ Nope, it's the easiest method to enjoy other people's ModLists.  No command-line
 
 15. Is it difficult to make your own ModList for 7DtD?
 
-That depends how IT-savvy you are. If you have slightly above normie IT skills, you too can create a Wabbajack list. 
+That depends how IT-savvy you are. If you have slightly above boomer-tier IT skills, you too can create a Wabbajack list. 
 
 The Wabbajack Wiki on how to Compile your own ModLists is great, but it requires you to read and follow directions.
 
 Additionally, the Wabbajack Discord group is extrememly helpful in making ModLists.
 
-Word of caution, they are very much old-school IT people: #RTFM!
+Word of caution, they are very much old-school IT people and will shout at you to: #RTFM!
 
 If you want to make one, hit me up on Discord, and I can show you some of the pitfalls not addressed in the wiki specifically for 7DtD.  
 
@@ -1584,17 +1586,21 @@ This is the process to create your own Wabbajack/MO2 ModList.  It now supports 7
     
 Yes, but only under **_very specific_** situations:
 
-A. I asked the author, and he gave me direct permission to do so for Smorgasbord.  WalkerSim is an example.
-I felt the Zombie Population Density was too high.  I asked Zeh_Matt, and he allowed me to diseminate that change to Smorgasbord users.  
+A. I asked the author, and he/she gave me direct permission to do so for Smorgasbord.  WalkerSim is an example.
+I felt the Zombie Population Density was too high.  I asked Zeh_Matt, and he allowed me to diseminate that change to Smorgasbord users.
+LittleRedSonja also allowed me to reduce the rate in which some of her special zombies spawn.  
 
 B. Manually adding VRoid Avatars to the main Vroid Mod folder structure, so players don't screw it up.
+Not really an edit, just a convenience. VRoid was made to have Avatars and Dances added to it.
+I just do it for users to make everyone's life easier.
 
 C. Fixing Folder Structure, non-existent file name, or adding missing files to allow the mod to work correctly.
+Some Mod authors leave a mod folder out, or double-nest folders. I fix this for Smorgasbord.
 
 Exception... I have commented out something within someone's xml mod to allow it to function in the pack.
-
-D. Patching a bug in their xml. Example: Tool Time has (had) a bug where you decreased experience points when mining. We fixed it.  
-
+D. Patching a bug in their xml. 
+Example: Tool Time ha) a bug where you decreased experience points when mining. 
+We fixed it, and had it patched for our community prior to the Mod Author updating their mod.  
 
 
 ---
@@ -1602,6 +1608,9 @@ D. Patching a bug in their xml. Example: Tool Time has (had) a bug where you dec
 18. Does Smorgasbord work with 7DVR?
 
 Yes, but you need to manually install 7DVR into the base game files, then configure the 7DtD game to launch MO2 from Steam.
+
+Because this effects the main game's base files, I encourage any 7DVR users to make a second copy of the base game in a different location.
+Launch 7DVR and or Smorgasbord+7DVR from the secondary location.
 
 Recommendation: Go into the Properties of the MO2.exe and set the permissions to Always Run as Administrator.
 
@@ -1633,7 +1642,7 @@ I will consider all good mods.
 However, they must offer something unique, that is compatible with other mods on the list, and be available via NexusMods or Git. 
 I can't use Google Drives, Mega, or other sites.  They won't work, increase problems, or have cybersecurity risks I won't expose myself/users to.
 
-There are like 372 Stack Increaser and Backpack mods.  I don't want to add more of those!
+There are like 372 Stack Increaser and 973 Backpack mods.  I don't want to add more of those!
 _At this very moment, someone is uploading another as you read this._
 
 Give me something new, or fun, that fits the list, and is available for Wabbajack to download and I will 100% add it.  
@@ -1642,19 +1651,20 @@ Give me something new, or fun, that fits the list, and is available for Wabbajac
 
 20. "**Why aren't you on Reddit?  You'd get more people trying your list.**"
 
-TL;DR version: Reddit is a mob of malding disgruntled peasants with pitchforks and torches who just want to piss on everything.
+TL;DR version: Not my scene. I hate doxxing, hive-mind, and how agrieved they are about everything.
 
 Blog Post version:
 
 Sure, I'd like more people to play Smorgasbord, but I really don't like that platform. 
 
-I've lurked there in the past, and seen people get doxxed for wrong-think.  That disgusts me.
+I've lurked there in the past, and seen people get doxxed for wrong-think for having a contrary opinion.  That, disgusts me.
 
 Giving people like that a platform is like handing a loaded gun to a toddler.  
 
 They have no civility, charity, nor nobility in what passes for their raisin souls.
 
-When I see someone post something they worked hard on, like a mod, or a YouTube video, the crowd just gets nasty.
+When I see someone post something they worked hard on, like a mod, or a YouTube video, the crowd just pisses on it.
+
 It takes courage for a new creator to put their works on display... 
 
 They're joyless cretins who only derive satisfaction by crapping on the works of better men. 
@@ -1663,12 +1673,7 @@ They're joyless cretins who only derive satisfaction by crapping on the works of
 <img width="1280" height="931" alt="image" src="https://github.com/user-attachments/assets/6a93fcdd-7338-45c2-854c-e8e8043cf94e" />
 
 
-There are are some good users like cinnaspice and Zer0Wulf, who have plugged Smorgasbord there, and I appreciate it, but the majority of people there are toxic in their negativity.
-
-**Be a wizard, not a goblin!**
-
-
-<img width="640" height="795" alt="image" src="https://github.com/user-attachments/assets/3281c1cc-9819-48c9-ae71-2063b94ce86e" />
+There are are some good users like Cinnaspice and Zer0Wulf, who have plugged Smorgasbord there, and I appreciate it, but the majority of people there are toxic in their negativity.
 
 
 Have you spent anytime on the 7daystodie subreddit?  
@@ -1677,7 +1682,7 @@ At least 50% read like they were written by this guy:
 ![IMG_20250715_111743](https://github.com/user-attachments/assets/087936e4-6669-4393-87c7-bca9036133cf)
 
 
-It ultimately comes down to this: the majority of them are whiney sniveling emotional cripples on the sidelines of life criticizing those of us who provide others with value.  
+It ultimately comes down to this: the majority of them are whiney sniveling emotional cripples, malding on the sidelines of life criticizing those of us who provide others with value.  
 
 <img width="1080" height="835" alt="image" src="https://github.com/user-attachments/assets/4675fccf-2e37-4c61-b632-e01093ca4ec9" />
 
@@ -1686,7 +1691,7 @@ It ultimately comes down to this: the majority of them are whiney sniveling emot
 
 21. "Why don't you add nude mods?"  or "Why not add DoubleG's Zombies now that it's available on NexusMods?"
 
-I'm not a prude, and I hate censorship. I beleive in freedom of choice, speach, and association.
+I'm not a prude, and I hate censorship. I beleive in freedom of choice, speech, and association.
 
 I like Double G's Zombies mod, I want to add it to the list, but I can't for one reason:
 
@@ -1697,7 +1702,7 @@ I would say it's medically accurate, and grody, not prawn-o-graphic, but it stil
 Smorgasbord cannot contain any mods that could potentially add any of the following labels: Nudity, Adult, NSFW.
 Just having a Wabbajack ModList with these tags will reduce interest from new users.  
 
-Three reasons:
+Three amplifying reasons:
 
 A. Guppycur's Discord Server does not allow NSFW mods.
 Adding Adult mods means most Discord Servers in the 7DtD community would not allow me to post links on their servers.
@@ -1719,9 +1724,11 @@ He got a strike against his channel and that video taken down.
 At the end of the day, it's so easy for you to add those mods into your own MO2 instance.
 I'm not judging you, I play with mature mods in other games, but not here in Smorgasbord.
 
-If you want to add it to your own game:
+If you want to add it to your own game, there it is:
 https://www.nexusmods.com/7daystodie/mods/8212
 
+Download and drag the zip into your MO2 "downloads" folder.
+Then when you see it on the right of the MO2 application Downloads section, drag it over to the Mod List and enable it.
 Put `[No Delete]` in front of the name of it so the next update of Smorgasbord will not delete the added mod.
 
 
@@ -1735,6 +1742,10 @@ It's long because it's comprehensive.
 For people who have been modding this game for years, they already know most of this stuff.  
 
 The more self-service users are with troubleshooting their own problems, the less work and aggravation there is for me!  
+
+Fin is not paid tech support.  Sorry, I just don't have the time. I do the best I can, but I am one man doing this as a hobby.
+
+So far 2,000 people have downloaded this list.  I am expecting another three to ten-thousand users in time. I don't want to burn myself out.
 
 It's always someone's first day, so I assume anyone reading this could be entering the world of game modding with an empty cup.  
 
@@ -1752,7 +1763,7 @@ They're benign and can be safely ignored.
 
 The red benign "Akimbo" Error will be patched next time Izy updates.
 
-There is another benign Error when Descent runs with Bait Bags. It's harmless.
+There is another benign Error when both the Descent and Bait Bags are enabled. It's harmless.
 
 There's a zillion Yellow Warnings... that's WalkerSim working as intended.  It's fine, no issues.
 
@@ -1760,6 +1771,11 @@ khzZombies has some warnings and is glitchy.  The mod still works, but is due fo
 
 
 I have played this ModList for hundreds of hours with these issues without catastrophic failures.  
+
+
+There is an "Experimental" Separator.  Those mods have not been thoroughly vetted. 
+
+I cannot claim they are safe, but they are there for community members to test.  I sincerely appreciate the help, but it is risky to a playthrough.
 
 ______________________________________________________________________________________________________________________
 
@@ -1775,7 +1791,7 @@ Adjust your Brightness settings.
 
 Default recommendations:
 
-Enabled only "Better Lighting - Gentle Contrast Edition" as your Lighting mod under the Graphics Separator.
+"Better Lighting - Gentle Contrast Edition" enabled as your Lighting mod under the Graphics Separator.
 
 Also enable "Add-on to Better Lighting - Night Vision Goggles Booster".  It's great!
 
@@ -1784,7 +1800,6 @@ Also enable "Add-on to Better Lighting - Night Vision Goggles Booster".  It's gr
 This is how this game is meant to be played!
 
 <img width="1157" height="243" alt="image" src="https://github.com/user-attachments/assets/8b03f6de-ed3c-479a-9e6e-34dc82bda5d8" />
-
 
 
 ---
@@ -1840,7 +1855,7 @@ What about the **CompoPack**?
 These are very challenging POIs! 
 
 
-The aesthetics are a mixed bag, please don't complain about it. 
+The aesthetics are a mixed bag.
 
 
 This mod is a "historical preservation society" for every community made POI ever made over the years. 
