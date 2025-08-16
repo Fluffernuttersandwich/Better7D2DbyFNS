@@ -374,7 +374,8 @@ Login to your Nexus Mods account from inside of the Wabbajack application, and e
 
 **If you successfully entered your login username, password, captcha, and (optional) MFA token; it will look like this screenshot.**
 
-![image](https://github.com/user-attachments/assets/d7197a91-44ba-4c5c-ba03-59ea4279c000)
+<img width="1425" height="678" alt="image" src="https://github.com/user-attachments/assets/acb20c87-4d54-48a5-8601-cb4f984f3076" />
+
 
 ---
 
