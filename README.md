@@ -877,7 +877,7 @@ You'll quickly learn what mods you love and hate.
 
 ---
 
-## How to convert this ModList to run on a Dedicated Server:
+## How to convert this ModList to run on a **Self-Hosted** Dedicated Server:
 
 
 One of our Community Members named **Kajdaniec** has converted this ModList to run on a Dedicated Server using MO2.  
@@ -908,14 +908,67 @@ For the machine you are converting into a Dedicated Server, you will want to cha
 
 There are users who have used Kajdaniec's method on a separate computer, and some users who have self-hosted the Dedicated Server from the same machine they are running their own game from.  
 
-I'm still waiting to see if users have been able to run this from a Dedicated Server Provider like Havoc.  
-
 
 Here are the XML changes he made:
 
 ![image](https://github.com/user-attachments/assets/54b55fe3-7728-46b1-a5cc-a1ec055c160c)
 
 ![image](https://github.com/user-attachments/assets/69a11a3a-9c11-4c9d-a2b4-48fd2fffc979)
+
+______________________________________________________________________________________________________________________
+
+
+## How to convert this ModList to run on a Service Provider **Hosted** Dedicated Server:
+
+This section was largely trail-blazed by community member RipJammer. If you see him around, just give him a thank you if you used this process.  
+
+1. In MO2, enable the mods you want to include into your Dedicated Server version of the Smorgasbord Mod List for your users.
+
+2. Open MO2 -> change the top dropdown from 7 Days to Die to Explore Virtual Folder. Hit Run. 
+
+<img width="576" height="386" alt="image" src="https://github.com/user-attachments/assets/60011efb-2f39-463b-9aff-5f991d4fd7fe" />
+
+3. Create a temp_mods_for_Smorgasbord folder somewhere else on your computer (not in your MO2 installtion folder). 
+
+<img width="734" height="240" alt="image" src="https://github.com/user-attachments/assets/7450ff97-5fe9-4f1e-8832-5c4ee1be2d1b" />
+
+4. Grab all of the mods from the Mods - Explorer++ virtual folder that opened when you hit Run within MO2. 
+
+<img width="2423" height="1226" alt="image" src="https://github.com/user-attachments/assets/aca0fa81-ec26-4d18-93a5-9a39cb756c33" />
+
+5. Within the Mods - Explorer++ virtual folder, Ctrl+a and Ctrl+c to select and copy all of those mods. 
+From the top of that window, press the "Copy to" button.
+
+<img width="730" height="304" alt="image" src="https://github.com/user-attachments/assets/f9c689e6-2719-4b81-9177-a8bb7ef9a881" />
+
+Make a New Folder.
+
+<img width="415" height="507" alt="image" src="https://github.com/user-attachments/assets/52a60df8-1323-48cb-832f-46629b6607e7" />
+
+The copying process can take a while. 
+
+<img width="445" height="283" alt="image" src="https://github.com/user-attachments/assets/769482cf-44db-4c3e-9a64-9114f4645117" />
+
+Once it's complete, you can exit the virtual folder and MO2 as you like. 
+
+Your temp_mods folder is now full. You can zip this folder and store it online for redistribution for users.
+You can host this with a Server Provider, a Google Drive (if you've paid for extra storage beyond the 15 GB free), or something like Azure.
+
+I would not recommend hosting from Google for Security Reasons, but you do you. 
+If you are playing with a private group of friends, it's fine.
+For public servers, you open up yourself and other users to being hacked.
+
+
+> [!WARNING]
+> Do _not_ host this on NexusMods, or other mod hosting sites!
+> **This is not your work!**
+> Bundling other people's mods as your own will have negative consequences.
+> You are only allowed to distribute this to people using your Dedicated Server directly.
+> If you ignore this advice. I promise you your Mod Page will get delisted, and account could be banned.
+
+
+Optional. If you get something you are satisfied with and don't plan to enable/disable/update mods any time in the near future, you can drop using MO2 entirely if you just rename your _temp_Mods folder to Mods and launch the game as normal through Steam (without EAC of course) using the Dedicated Server Tool.
+
 
 ______________________________________________________________________________________________________________________
 
