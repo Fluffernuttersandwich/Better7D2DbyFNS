@@ -103,6 +103,9 @@ Just read and follow the directions.
 _Remember, Square Peg into Square Hole._
 
 
+Apparantly, this image is going viral and rustling some jimmies. That's hilarious. It was meant as a joke.
+
+
 _______________________________________________________________________________________________________
 
 # Contents
