@@ -16,16 +16,21 @@ I like Fire Spreads. I think it should be vanilla.
 If you don't like Fire Spreads, or are worried about performance on a server, you can manually disable it.
 To Disable Fire Spreads, go into 0-Score's blocks.xml file. 
 (use Notepad++, you can download it for free!)
-Search for "FireManagement" (Ctrl+f), set these values to false.
+Search (Ctrl+f) the blocks.xml file for "FireManagement" , and set these values to false.
                 <property name="Logging" value="false"/>
                 <property name="FireEnable" value="false"/>              
                 <property name="FirePersists" value="false"/> 
+Additionally, Sphereii, the author of Score, has gone to great lengths to improve Fire's impact on performance.
+It's much better than it used to be. Most systems should be able to handle it.
 
-"Apocalyptic Quests" 
+2. "Apocalyptic Quests" 
 Disabled for now. 
-You can play with it (I am), but I labled Experimental for now.
+You can play with it (I am), but I labeled it Experimental for now.
 It needs an update!
 Some of the Quest Markers for Infested/Special quests cannot be found/interacted with at POIs.
+
+3. "Izy AIO" Major Update!
+See that page for details.
 
 Mods Removed: 
 
