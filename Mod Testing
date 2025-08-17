@@ -66,6 +66,19 @@ Just another scantilly clad waifu.
 3. Trader Bob has also all the parts for the Motorcycle, the 4x4 Truck, and the Gyrocopter and all the vehicle mods. 
 4. Traders will NOT carry complete vehicles (to be confirmed).
 
+"Undo Block Placement" Standard, enabled.
+Usage: Press Control+Z to try and undo your placement
+Settings
+You can undo 10 placements within 60 seconds of placing a block by default. You can customise this behaviour in the ModSettings.json file that gets created after the first time the mod loads.
+MaxUndoSeconds = how many seconds since the block placement can it be undone (default 60. Zero means no time limit)
+MaxUndoHistory = how many blocks to keep track of (default 10)
+Close and re-open the game if you want to apply changes to your settings.
+Rules when undoing:
+1) The block must be the same type that you placed
+2) The block can NOT be damaged. Once repaired it can be undone.
+3) The chunk must be active (i.e. you have to be in the area)
+4) You have to have space to receive the block into your inventory
+
 Mods Updated:
 
 "Zombie Fall Damage"
@@ -77,6 +90,7 @@ Mods Updated:
 "CATUI"
 "(V2) Baron Wildpig Castles (with zombies variant)"
 "Highlighting of buttons and container states"
+"LittleRedSonja and Mumpfy ArmorPack05 TactiGirls"
 "Izy AIO" Major Update!
 
 __________________________________________________________
