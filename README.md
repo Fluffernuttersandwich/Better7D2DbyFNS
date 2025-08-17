@@ -49,9 +49,13 @@ ________________________________________________________________________________
 
 When people think of a stable Vanilla+ mod pack that enhances the original game, I want them to think of this ModList.
 
-This list is friendly to a more casual play style for people who want a relaxed game experience.  
+I have tried to make this Mod List flexible enough to appeal to anyone depending on how you customize the mods.
 
-If you are a hardcore gamer, this pack is _probably_ not for you.
+For Casual Gamers, you can disable some of the challenging mods.
+
+For Hardcore gamers, disable the OP mods, and enable the challenging mods.
+
+For Power Gaming Munchkins, you can turn on every OP mod.
 
 ---
 
@@ -130,7 +134,7 @@ If you can run the base game, you can run _most_ of the mods on this ModList wit
 
 ![image](https://github.com/user-attachments/assets/15da16e1-14f4-4461-a89a-2618035a5363)
 
-Some of the mods will lower FPS (15-20) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
+Some of the mods will lower FPS (15-30) somewhat, if you are experiencing issues, you could lower your Graphic Settings from Ultra to High or lower as needed depending on your hardware constraints.  
 
 > [!CAUTION]
 > Do not make maps larger than 10k if you are running on potato-grade hardware!
@@ -155,7 +159,7 @@ Some of the mods will lower FPS (15-20) somewhat, if you are experiencing issues
 > your hardware is likey not able to support The Descent suite of mods.
 
 > [!WARNING]
-> MPLogue's "Better Biomes" and "Urban Decay" will hit your performance.
+> MPLogue's "Better Biomes" and will hit your performance 15-30 FPS.
 > 
 > A. Optimize your PC for performance.
 > 
@@ -183,7 +187,7 @@ Wabbajack only recently added 7DtD compatability, so you must use the latest ver
 https://www.wabbajack.org/ 
 
 3. Storage consideration: currently the collection is about 40GB.
-"What, but 7D2D mods are small?!"
+"What?! but 7D2D mods are small?!"
 Yes, generally, but mods like: the CompoPack, EFT Extraction Pack, Izy's AIO Gun Pack, Bdub's vehicles, and all the Decor mods add up.
 Do you want to play a nice list or not?
 
