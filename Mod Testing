@@ -1,8 +1,9 @@
-2.2.2.1 TBD
+2.2.3.1 TBD
 
 Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
 
-Fin is 95% sure you will need to start a new game with this update.
+Fin is 95% sure you will need to start a new game with this update because of the update to Izy!
+
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
 There are no critical patches, or life-altering mods that absoloutely cannot wait until your next playthrough. 
@@ -10,134 +11,67 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. "Dewtas Hold Multiple Quests -- 1.0 Stable" is now set to disabled. 
-Normally this mod allows you to take more than one quest at a time.
-Currently this mod can be intermittently buggy. The bug intensifies if playing with Apocalyptic Quests. 
-If you go to a quest marker, and it's missing (or you can't interact with it), you need to complete and return other quest(s) prior to initiating this one.
-You might also need to exit/reenter the game.
-When JNS updates his "MoreQuests" for 2.x, I will try his again... it's currently hidden, pending his update.
-I know WookieNookie (WMM) was also working on something similar, but I don't think he's made it public yet.
+1. "0-SCore" Fire Spreads is now the default for Smorgasbord. 
+I like Fire Spreads. I think it should be vanilla. 
+If you don't like Fire Spreads, or are worried about performance on a server, you can manually disable it.
+To Disable Fire Spreads, go into 0-Score's blocks.xml file. 
+(use Notepad++, you can download it for free!)
+Search for "FireManagement" (Ctrl+f), set these values to false.
+                <property name="Logging" value="false"/>
+                <property name="FireEnable" value="false"/>              
+                <property name="FirePersists" value="false"/> 
 
-Added/re-added two separators:
-
-Perk Suite
-
-Apocalyptic Quests
-
-Renamed the "Biome Progression" Separator to "Survival, Weather, Biome Progression Options" to allow more things into it.
-I moved a bunch of other mods into this section.
-I am trying to appeal to appeal to users who want to make the survival aspects of the game more challenging. 
+"Apocalyptic Quests" 
+Disabled for now. 
+You can play with it (I am), but I labled Experimental for now.
+It needs an update!
+Some of the Quest Markers for Infested/Special quests cannot be found/interacted with at POIs.
 
 Mods Removed: 
 
-"POI Renamer" 
-Was causing too many glitchy UI problems.
-
-"Babel Inc POI" 
-Too much of a performance sink... 
-overlapping lights, too many zombies spawning all at once, building is too large, too many reflective surfaces.
-You (might) get away with one of those problems, but not all at once, it kills your FPS.
-It dropped my FPS from 80 to 20, and I'm not even playing with Better Biomes, NPCs, or Triple Infested POIs. 
-
-"Remove Intro to Buried Supplies Quest"
-"Danutas Reasonable Quest Time Limits"
-"Reset Trader's Quests"
-All three of these mod features were incoporated into "Quest Revamp-Gears Edition" as options.
+"Guppycur's Fire" I enabled Fire Spreads in Score.
+"...No Crispies" it was an add-on to Guppy's Fire.
 
 Mods Added:
 
-"Sort Trader's Quests by Distance" Quest, enabled.
-Lists quests at the trader selection screen by those closest to you first.
-I think this mod just fell off the list when I wasn't looking.
-Or maybe it was part of a different mod that I removed.  
-Either way, the feature is back.
+"Singularity" QoL, enabled.
+"XFX"
 
-"Quest Revamp-Gears Edition" Quest, enabled.
-Adds a Gears UI screen to toggle Quest mod options. Also adds some other Quest UI functionality for compatibility with other Quest mods.
-This is very customizable, and I encourage you to tailor it to your playstyle. 
-One major change I made by executive decision. You can now Move up Quest tier after 1 job instead of 10. 
-That just alarmed some of you, and you're out there shouting: "Why?!"
-Fin's the master chef cooking you up somehting nice, so hear me out on describing this dish:
-Because it rewards players who have the balls to want to tackle harder POIs earlier. 
-It also keeps you from having to do the same old tier 1-3 POIs you always do. 
-If you can handle higher tier POIs, why not?
-No one is forcing you to do higher tier POIs. 
-Yes, this can throw off balance a bit, but it encourages players to make a risk vs reward decision.
-I personally find being stuck doing tier 1-3 POIs in order to stifle my play style. 
-I want to have the freedom to challenge myself, but I also want to be properly compensated!
-This setting is *Chef's Kiss.  
-And, most importantly: If you don't like the change, you can either disable the mod, or change it back to 10 in the Gears Mods menu UI.
-Caution: If you did a quest for Rekt that opens up the next quest tier level with Rekt, please remember to reset quests!
-This is important if you bounce between traders before reseting jobs!
-Example of what not to do: Finish one job with Rekt, immediately go see Jen, take a tier 2 quest from Jen, cannot find/interact with that Quest Marker.
-If you complete a job, you can reset the trader jobs to open up the next tier level!  This should resolve any missing Quest Markers.
+"Better Biomes harvest perk patch" Graphics, disabled.
+Add-on to BB. Fixes tags for trees in the Better Biomes mod to be affected by perks that increase yield (i.e. Motherlode).
 
-"IzPrebuilt's Immersive Survival" Survival, enabled.
-Water mod.
-This mod aims to increase immersion, freedom and challenge to return 7 Days To Die to a more sandbox survival experience. 
-Currently this only tackles hydration. 
-Disinfect your water in a variety of ways and then filter it. 
-You can also work towards late-game water objectives.
+"Dismantle Items to Schematics" Standard, enabled. 
+Allows you to disassemble an item like a quad-pocket-mod for some (not all) of the resources.
+You must do this at the workbench!
+It grants you the schematic to reproduce more of that item. 
+Like a reverse-engineering toolkit mod.  
+Currently it's only limited to a few recipes.  
+More will be added in time!
 
-"Damage Numbers" UI, enabled.
-This mod is UI agnostic. When you shoot zombies, it displays damage numbers over their heads similar to Borderlands.
-This is configurable in-game, in Mods settings.
+"LittleRedSonja Punisher NPC" NPC, disabled.
+Adds neutral/ally hireable Frank Castle (The Punisher). 
+The only way to stop the bad guys is to hire a worse one, And Frank is ready to help you kick some zombie ass.
 
-"UI Sound Mod" Sound, disabled.
-From the Mod Author: Simple mod that replaces some (57) of the more repetitious, arguably annoying sounds (hovering, clicks, opening the backpack etc). 
-Customizable in xml.
-From Fin: The vanilla sound effects don't bother me personally, and the new ones are too mild for my taste.
+"GirlsFrontline ClukaySummer" VRoid, Avatar, already included when you enable the main VRoid mod.
+Just another scantilly clad waifu.
 
-"Immersive Camera" QoL, disabled.
-From the Mod Author: Adds leaning, swaying, breathing, and head-bob to the first person camera. Also allows altering the player height. 
-All settings can be configured via CameraEffectsConfig.txt.
-From Fin: Do not use this mod if you are prone to video motion sickness. 
-Adds "realistic" head-wobble when the character is moving. 
-Effects aiming and 3rd person! 
-A community memeber asked me to include this mod, so I did, but I think most people will disable this mod after trying it for about 30 seconds. 
-
-"Tip of the Spear by FNS" Standard, enabled.
-Just a small boost to the Spear Hunter book series to keep the spear more relevant into late game... 
-I promise this is not OP, it's a very mild boost.
-I felt the spear was left behind by the sledgehammer, stun baton, etc. 
-Spear is one of the greatest melee weapons ever made and games rarely do it justice. 
-
-"Perk Mastery" Perks, enabled.
-You must use either SteelUI or CATUI for this mod to function! 
-This is because the vanilla UI might not display the extra column for the new Perk System.
-Do not mix with most other modded Perk suites (like "Legend Perks or "Flogi's..."). Pick one main Perk Suite only!
-This mod offers a wide variety of Perk Masteries that you can unlock after allocating the default ones.
-For example, after taking a point in Archery, the Bowman mastery unlocks!
-Adds new perk trees for every weapon in the game!
-Start a new game!
-If your previous game had Legend Perks, do not use this mod simultaneously! 
-If you ignore my advice, and try to play with two Perk Suites at the same time, only one will be selectable in the Skills screen!
-Or you could get game breaking errors... have fun with that.
-Example: if you try to play with both Legend Perks and Perk Mastery, only Perk Mastery will be selectable. 
-I disabled Legend Perks just to play with Perk Mastery for a while to see which I prefer. I like them both.
-
-"VRoid - Avatar - Master Chief from Halo 3"
-Queue up that Gregorian chant intro boys, Master Chief Petty Officer John-117 has got another mission against The Flood.
-
-"Apocalyptic Jobs" 
-Click the link to NexusMods (from MO2) to read more! 
-Adds a whole bunch of new quest types, boss encounters, perks, magazines, and expansions. 
-The subsequent AddOn mods help you configure Apocalyptic Quests by disabling features from it you'd rather play without.
-It will largely take over the Quest menu. 
-
-One of the Add-On patches to "Apocalyptic Jobs" is causing an error: "(ADDON) More Vanilla Quest Chance"
-Here Fin is asking for any and all community assistance to troubleshoot. 
-Currently this patch is causing an error where you can't choose quests at the trader, it's probably a Mod Conflict. 
+"Buy On Day One - Vehicle Parts and Mods" OP, disabled.
+1. Buy On Day One - Vehicle Parts and Mods lets you buy all vanilla vehicle parts and vehicle mods starting on your first day in the zombie apocalypse. 
+2. All traders carry bicycle and minibike parts.
+3. Trader Bob has also all the parts for the Motorcycle, the 4x4 Truck, and the Gyrocopter and all the vehicle mods. 
+4. Traders will NOT carry complete vehicles (to be confirmed).
 
 Mods Updated:
 
-"Drone Weapons"
-"Blood Moon Chaos" Fixed the Quest Progression bug.
-"Hunlight's Rebalnce of Guppy's Zombies"
-"FNS Super Rad BMX"
+"Zombie Fall Damage"
+"Runtime OCD" now enabled. ByteBlazar improved performance, no longer set to 'very verbose'.
+"Oak's Big Foot"
+"IzPrebuilt's Immersive Survival"
+"NPCCore"
 "Halicopter"
 "CATUI"
-
-I moved a few mods out of Experimental, as I was able to test them more extenisvely.
+"(V2) Baron Wildpig Castles (with zombies variant)"
+"Highlighting of buttons and container states"
+"Izy AIO" Major Update!
 
 __________________________________________________________
