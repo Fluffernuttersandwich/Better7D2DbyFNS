@@ -1941,6 +1941,33 @@ It also makes it so the Trader rewards you with an EFT gun when you complete the
 
 ---
 
+
+**Izayo's All in One Weapons Pack (Izy AIO)**
+
+Some Tier 3 and all Tier 4 Weapons require the Advanced Weapons Repair Kit.
+If a weapon has a gold star on the icon, it needs an Advanced Weapons Repair Kit to repair it. Search your crafting menu for the recipe for how to make it... requires a Legendary Part. 
+
+<img width="879" height="594" alt="image" src="https://github.com/user-attachments/assets/d79aa1c8-5bd5-4082-9d13-fbfa1d0206ce" />
+  
+
+If you want to change the shape variation of the red-dot sight, hold the reflex sight in hand and press the right or left mouse button. 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7eb0d261-5834-4ac6-99b3-5a28cc924cc2" />
+No, within the game you will not see pictures in a picture, this image is just a representation.  
+
+
+How am I supposed to actually use the minigun?!
+Take steroids first, then use minigun.  You can only fire the minigun in first-person while juiced on 'roids. 
+
+
+Notice 10: How do I use the flashlight and kick?
+When holding an Izy Weapon, you press the F-key to kick.
+If you want to toggle the flashlight on/off, you can crouch, then press the F-key.
+Or, you can swap to an non-izy item in your tool belt, and press the F-key. 
+
+
+---
+
+
 Ragsy's **Vehicle Madness** 
 
 You must have this mod enabled when you start a new save.
