@@ -2049,6 +2049,13 @@ You can also cancel the gesture/dance with the Escape key.
 
 Video Display: https://www.youtube.com/watch?v=k9HHp7VajZg
 
+---
+
+How do I decrease/increase the Zombie Population in **WalkerSim**?
+
+<img width="1400" height="1015" alt="image" src="https://github.com/user-attachments/assets/387c5c6f-a13d-4615-b622-802814eba06c" />
+
+
 ______________________________________________________________________________________________________________________
 
 
