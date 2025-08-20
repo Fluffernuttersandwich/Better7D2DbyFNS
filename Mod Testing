@@ -1,96 +1,44 @@
-2.2.3.1 21:45 EST 17AUG2025
+2.2.4.1 TBD
 
 Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
-
-Fin is 95% sure you will need to start a new game with this update!
 
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
 There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
 Don't FOMO! The list isn't going anywhere!
 
-Comments:
-
-1. "0-SCore" Fire Spreads is now the default for Smorgasbord. 
-I like Fire Spreads. I think it should be vanilla. 
-If you don't like Fire Spreads, or are worried about performance on a server, you can manually disable it.
-To Disable Fire Spreads, go into 0-Score's blocks.xml file. 
-(use Notepad++, you can download it for free!)
-Search (Ctrl+f) the blocks.xml file for "FireManagement" , and set these values to false.
-                <property name="Logging" value="false"/>
-                <property name="FireEnable" value="false"/>              
-                <property name="FirePersists" value="false"/> 
-Additionally, Sphereii, the author of Score, has gone to great lengths to improve Fire's impact on performance.
-It's much better than it used to be. Most systems should be able to handle it.
-
-2. "Apocalyptic Quests" 
-Disabled for now. 
-You can play with it (I am), but I labeled it Experimental for now.
-It needs an update!
-Some of the Quest Markers for Infested/Special quests cannot be found/interacted with at POIs.
-
-3. "Izy AIO" Major Update!
-See that page for details.
-
 Mods Removed: 
 
-"Guppycur's Fire" I enabled Fire Spreads in Score.
-"...No Crispies" it was an add-on to Guppy's Fire.
+"Little Buddy" The Mod Author pulled it. 
 
 Mods Added:
 
-"Singularity" QoL, enabled.
-"XFX"
+"Random Zombie Speed" Zombie, enabled.
+Zombies have a random speed rating regardless of your game speed setting. 
+I did reduce the top speed, because the author set it past Nightmare+ speed.
+It was too janky and unpleasant. 
+After reducing their top speed, it's much nicer!  
 
-"Better Biomes harvest perk patch" Graphics, disabled.
-Add-on to BB. Fixes tags for trees in the Better Biomes mod to be affected by perks that increase yield (i.e. Motherlode).
+"Oak's Bandit Head Hunters" NPC, disabled.
+Adds new Bandit Head Hunters.
+Unlike the Zombie Head Hunters, these are balanced as is.
 
-"Dismantle Items to Schematics" Standard, enabled. 
-Allows you to disassemble an item like a quad-pocket-mod for some (not all) of the resources.
-You must do this at the workbench!
-It grants you the schematic to reproduce more of that item. 
-Like a reverse-engineering toolkit mod.  
-Currently it's only limited to a few recipes.  
-More will be added in time!
-
-"LittleRedSonja Punisher NPC" NPC, disabled.
-Adds neutral/ally hireable Frank Castle (The Punisher). 
-The only way to stop the bad guys is to hire a worse one, And Frank is ready to help you kick some zombie ass.
-
-"GirlsFrontline ClukaySummer" VRoid, Avatar, already included when you enable the main VRoid mod.
-Just another scantilly clad waifu.
-
-"Buy On Day One - Vehicle Parts and Mods" OP, disabled.
-1. Buy On Day One - Vehicle Parts and Mods lets you buy all vanilla vehicle parts and vehicle mods starting on your first day in the zombie apocalypse. 
-2. All traders carry bicycle and minibike parts.
-3. Trader Bob has also all the parts for the Motorcycle, the 4x4 Truck, and the Gyrocopter and all the vehicle mods. 
-4. Traders will NOT carry complete vehicles (to be confirmed).
-
-"Undo Block Placement" Standard, enabled.
-Usage: Press Control+Z to try and undo your placement
-Settings
-You can undo 10 placements within 60 seconds of placing a block by default. You can customise this behaviour in the ModSettings.json file that gets created after the first time the mod loads.
-MaxUndoSeconds = how many seconds since the block placement can it be undone (default 60. Zero means no time limit)
-MaxUndoHistory = how many blocks to keep track of (default 10)
-Close and re-open the game if you want to apply changes to your settings.
-Rules when undoing:
-1) The block must be the same type that you placed
-2) The block can NOT be damaged. Once repaired it can be undone.
-3) The chunk must be active (i.e. you have to be in the area)
-4) You have to have space to receive the block into your inventory
+"MXMRMXS POI Pack" POI, enabled.
+He's a new prefabber. I like to encourage the development of other prefabbers as the old salts did that for me.
+Some of the POIs are not as balanced as you might hope for, but not bad. He's new, balance will come with time.
+What I like is that he's innovating, and trying some new ideas.  We need more of that daring in POI design.  
 
 Mods Updated:
 
-"Zombie Fall Damage"
-"Runtime OCD" now enabled. ByteBlazar improved performance, no longer set to 'very verbose'.
-"Oak's Big Foot"
-"IzPrebuilt's Immersive Survival"
-"NPCCore"
+"Undo Block Placement"
+"Baron Wildpig Castle"
+"Singularity"
+"Runtime OCD"
+"7 Days of Insomnia"
+"XFX"
+"Armor Rack"
+"TMO Zombies Can't Dig"
+"Fari's Lightsaber"
 "Halicopter"
-"CATUI"
-"(V2) Baron Wildpig Castles (with zombies variant)"
-"Highlighting of buttons and container states"
-"LittleRedSonja and Mumpfy ArmorPack05 TactiGirls"
-"Izy AIO" Major Update!
 
 __________________________________________________________
