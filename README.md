@@ -26,6 +26,10 @@ ________________________________________________________________________________
 To provide players with a deluxe highly customizable overhaul experience that still has it's own voice.  
 
 
+______________________________________________________________________________________________________
+
+
+
 **Who is my new target audience:**
 
 
@@ -42,6 +46,8 @@ They have have hundreds or thousands of hours into this game; they want what was
 
 
 However, I do think the default version of this list will appeal to some of those people and touch them in ways they never knew they needed. 
+
+______________________________________________________________________________________________________
 
 
 **Here is a short list of the mods I have included to give Smorgasbord some unique character:**
@@ -64,10 +70,16 @@ However, I do think the default version of this list will appeal to some of thos
 - **WalkerSim**: This mod is revolutionary! It adds more zombies into the game world with organic global movement forecasting based on where the player travels to. It also recalls unneeded zombies to keep performance high. This mod is a game changer for making you actually feel like you are in a real zombie apocalypse setting.
 
 
+______________________________________________________________________________________________________
+
+
 
 **At the end of the day, Smorgasbord’s greatest strength remains it’s modularity.**
 
 Though I am making it a grittier experience by default, players are still free to customize it to be whatever their own version of perfection is.  
+
+
+______________________________________________________________________________________________________
 
 
 ### This Mod List is currently compatible with Stable game version: v2.2
@@ -83,6 +95,8 @@ Someone out there is going: _"Why is that video 2 hours long!?"_
 That video doesn't cover just the installation process.
 It thoroughly explains what everything is, how the applications work, provides an overview of customizing the list, and also includes a showcase of major mods.
 
+
+______________________________________________________________________________________________________
 
 
 ## Distinctive features about this Mod List:
