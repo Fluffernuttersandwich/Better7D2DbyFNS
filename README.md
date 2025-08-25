@@ -1926,10 +1926,25 @@ That drives me up the wall. This is why Fin shops at 6am and works remotely when
 <img width="1536" height="1024" alt="grocery1" src="https://github.com/user-attachments/assets/cd4cd04f-011d-4fc5-b2d6-02f8d7f89d25" />
 
 
+
 Also, I'm the sort of person old enough to remember when PC Gaming required an above 8th grade literacy level.
+
 Man, I miss those days.
 
-## Remeber kids, Gatekeeping is not a curse-word, it's your civic duty! 
+**What it comes down to is this:**
+
+Your boy Fin is passionate about modding. 
+
+You'll see NPCs regurgitate platitudes like "he just needs to touch grass", but those people don't have souls. 
+
+Modding is important to me. 
+Yet, I am all for making the process more convenient for users. 
+Wabbajack has made it the easiet it's ever been, but it still requires a sense of ownership. 
+
+**If a user is unwillingly to read and follow the directions, _they do not deserve the deluxe modded experience_.**
+
+
+## Remember kids, Gatekeeping is not a curse-word, it's your civic duty! 
 
 <img width="1024" height="1536" alt="Gatekeep2" src="https://github.com/user-attachments/assets/99b2156a-6857-43c5-a4a9-6b57a72750d3" />
 
@@ -1940,11 +1955,8 @@ ________________________________________________________________________________
 
 **1. These are some Warnings and Errors you will see when you load into the world.**
 
-They're benign and can be safely ignored.  
 
-The red benign "Akimbo" Error will be patched next time Izy updates.
-
-There is another benign Error when both the Descent and Bait Bags are enabled. It's harmless.
+There is a benign Error when both the Descent and Bait Bags are enabled. It's harmless. It doesn't open the console.
 
 There's a zillion Yellow Warnings... that's WalkerSim working as intended.  It's fine, no issues.
 
