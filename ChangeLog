@@ -1,3 +1,147 @@
+2.2.5.1 13:15 EST 25AUG2025
+
+Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
+
+You will need a new save for this update!
+Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
+If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
+There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
+Don't FOMO! The list isn't going anywhere!
+
+Comments:
+
+Over the last several months I have been trying to improve the "default" mods enabled in Smorgasbord to make it a more balanced experience. 
+With this latest update, I am trying to steer the "default" experience to be more intricate and challenging. 
+When I say intricate, I don't mean unnecessarily confusing, I'd hate that. I'm aiming for pleasantly complex, while remaining intuitive.  
+I want the player to have to manage more for a grittier game experience where decisions matter.
+And I also love the random interruptions from mods like: Blood Moon Chaos, Better Storms, WalkerSim, and Random Zombie Movement.
+
+I have changed the name of the catch-all separator to "Survivalist".
+I also used a uniform phrase you can filter by in MO2 "Challenge Boosting Mod (CBM)!"
+A CBM is anything that adds a layer of complexity, challenge, or thoughtful change to provide a more stimulating experience over vanilla.  
+For a long time people have viewed Smorgasbord as just "whatever you want it to be" which it still can be depending on how you personalize your experience.
+But, for a default experience, I really want to deliver something with character.
+People hate bland play-it-safe games, they want a memorable experience.  
+
+As you all have seen, A16 is all the rage right now. 
+If I was to try and condense the main attractions of A16, I'd say this: Sophisticated players want a more engaging game.
+2.0 vanilla is too dumbed down.  So how can Smorgasbord's default-as-delivered Mod List offer players what they really want?
+
+1. Non-linear experience: People hate being railroaded to the same path every game.
+With the mods I selected and modified, I have tried to offer the freedom players want without removing or completely overhauling existing systems. 
+
+2. Intricacy: They want complexity without convolution. 
+Survival games should not resolve all survival issues too early into a playthrough.
+I really think the mods I've recently added and tweaked will scratch that itch.
+Better Storms, Immersive Survival, Medical Conditions, Insomnia. 
+
+I understand not everyone is going to like Medical Conditions or Insomnia, but again, they can just disable them.
+However, I think people should try them to see how it makes for a grittier game where your choices and skill matter.
+
+Getting injured in the early game has serious consequences with the Medical Conditions mod.
+
+The 7 Days of Insomnia mod forces you to manage sleep and the safety of your sleeping area. 
+You have to more carefully plan your forays into the world.
+Even though I have personally moved away from classic horde base construction in recent playthroughs, 
+I do like feeling the pressure of securing a place to sleep out of the elements.
+
+Mods Removed: 
+
+N/A
+
+Mods Added:
+
+"Darks Soldierz" NPC, disabled.
+Adds neutral/ally Soldiers.
+
+"Darks Cleanerz" NPC, disabled.
+Adds hostile Soldiers.
+
+"Arrows And Bolts Cause Bleed" OP, enabled.
+Vanilla Arrows and Bolts cause bleeds, if you take points in the Deep Cuts Perk.
+I don't think it's too OP, I think it just helps keep archery relevant in the middle-to-late game.
+
+"ProjectileBleedMod" OP, disabled.
+Vanilla guns cause bleeds, if you take points in "Deep Cuts".
+"IZY_Bleed_Patch" OP, disabled.
+Vanilla and Izy guns cause bleeds, if you take points in "Deep Cuts".
+Both of these were disabled by default because in my opinion, guns don't need a buff in Smorgasbord.
+
+"IZPrebuilt's Improved Loot Experience" OP, enabled.
+This mod aims to add more immersion, choice and risk vs reward to 7 days to die 2.0
+by adding a bunch of low level T1 and T2 items back to the logical loot table like what was already in the game a few alphas ago. 
+It adds tools to tool containers and guns and weapons to gun containers. Recommend new playthrough, with hard zombies to compensate.
+
+"Rope and Realism" Survivalist, enabled.
+Makes rope a required resource to craft as an ingredient in some recipes to increase immersion and complexity.
+
+"Nails and crafting adjustments" Survivalist, enabled.
+Adds nails as a requirement ingredient to crafting recipes that would logically require them.
+Adds nails as resource items received when salvaging several blocks. Adds nails to stone tools crafting, generally to replace duct tape.
+The point of this mod is to make nails more important since they are only needed for the Workbench and then you never use them again in the vanilla game.  
+
+"Immersive Calendar" UI, disabled. 
+Does not work with CAT and Steel UI, only when using the vanilla HUD. 
+A small modlet that changes the date display below the compass.
+
+"Medical Conditions" Survivalist, enabled.
+Challenge Boosting Mod (CBM)! 
+Adds complexity to medical conditions for a more challenging game. 
+Adds around 50 negative medical conditions to enhance survival experience. 
+Identical symptoms from different conditions dont stack(With few rare exceptions).
+Vanilla food and medications gain new meaning as a treatment to those conditions.
+Added vitamins system to back up hypovitaminosis.
+Variety of biome-specific conditions and ways to surpass them.
+Some vanilla perks ineract with medical conditions in an intuitive and predictable way.
+Medical conditions are hidden by default. 
+To reveal them, players must diagnose them by either: having the corresponding Physician perk level (1–3), or reading enough Medical Journals (25, 50, or 75). 
+Higher Perception reduces the required number of Medical Journals. Players can check allies by standing next to them.
+
+"ByteBlazar's Screamers" Zombies, enabled.
+Makes Screamers silent until they shout their Alarm. 
+Also replaces vanilla screamers with Feral and Radiated versions. 
+So if you are mining away, or hanging out in your base, 
+you will not be able to distinguish normal zombies thrashing around outside your base with a Screamer until she shouts the alarm.
+Their movement is also uniquely creepy.  
+
+"New Spawn Start Zone" Survivalist, disabled.
+Challenge Boosting Mod (CBM)! 
+This mod requires you to manually edit the xml to allow you to pick a different starting Biome.
+For you hardcore nutters, you can now spawn into a different biome and be forced to survive its hardships immediately. 
+
+"CrouchStaminaRegeneration" OP, disabled.
+Crouching makes your stamnia regenrate much faster. Too OP!
+
+"Faster Paintbrush and Infinite Paint" Standard, enabled. 
+Self-explanatory.
+
+"LittleRedSonja and Mumpfy ArmorPack06 Resident Evil" Armor & Decor, enabled.
+New RE inspired Armors!
+
+Mods Updated:
+
+"TechFreqsPickupPlantsPickupCrops"
+"SCoreChanges-Gears Edition"
+"Runtime OCD"
+"LittleRedSonja Flying Fancy Magic Broom"
+"Oak's Cold Bloods"
+"Better Biomes wood harvest patch"
+"Halicopter"
+"LittleRedSonja ZombiePack"
+"MXMRMXs poi pack"
+"Undo Block Placement"
+"MoreGore"
+"Quest Revamp"
+"Singularity"
+"Additional Research"
+"Dismantle Items to Schematics"
+"Jewelcrafting"
+"LittleRedSonja's CAS"
+
+
+__________________________________________________________
+
+
 2.2.4.1 20:00 EST 20AUG2025
 
 Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
