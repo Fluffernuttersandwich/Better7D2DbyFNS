@@ -35,6 +35,17 @@ Survival games should not resolve all survival issues too early into a playthrou
 I really think the mods I've recently added and tweaked, will scratch that itch.
 Better Storms, Immersive Survival, Medical Conditions, Insomnia. 
 
+I understand not everyone is going to like Medical Conditions or Insomnia, but again, they can just disable them.
+However, I think people should try them to see how it makes for a grittier game where your choices and skill matter.
+
+Getting injured early game has serious consequences with Medical Conditions.
+
+Insomnia forces you to manage sleep and the safety of your sleeping area. 
+You have to more carefully plan your forays into the world.
+Even though I have personally moved away from classic horde base construction in recent playthroughs, 
+I do like feeling the pressure of securing a place to sleep out of the elements.
+
+
 
 Mods Removed: 
 
@@ -59,11 +70,52 @@ Vanilla and Izy guns cause bleeds, if you take points in "Deep Cuts".
 Both of these were disabled by default because in my opinion, guns don't need a buff in Smorgasbord.
 
 "IZPrebuilt's Improved Loot Experience" OP, enabled.
+This mod aims to add more immersion, choice and risk vs reward to 7 days to die 2.0
+by adding a bunch of low level T1 and T2 items back to the logical loot table like what was already in the game a few alphas ago. 
+It adds tools to tool containers and guns and weapons to gun containers. Recommend new playthrough, with hard zombies to compensate.
 
+"Rope and Realism" Survivalist, enabled.
+Makes rope a required resource to craft as an ingredient in some recipes to increase immersion and complexity.
 
+"Nails and crafting adjustments" Survivalist, enabled.
+Adds nails as a requirement ingredient to crafting recipes that would logically require them.
+Adds nails as resource items received when salvaging several blocks. Adds nails to stone tools crafting, generally to replace duct tape.
+The point of this mod is to make nails more important since they are only needed for the Workbench and then you never use them again in the vanilla game.  
 
+"Immersive Calendar" UI, disabled. 
+Does not work with CAT and Steel UI, only when using the vanilla HUD. 
+A small modlet that changes the date display below the compass.
 
+"Medical Conditions" Survivalist, enabled.
+Challenge Boosting Mod (CBM)! 
+Adds complexity to medical conditions for a more challenging game. 
+Adds around 50 negative medical conditions to enhance survival experience. 
+Identical symptoms from different conditions dont stack(With few rare exceptions).
+Vanilla food and medications gain new meaning as a treatment to those conditions.
+Added vitamins system to back up hypovitaminosis.
+Variety of biome-specific conditions and ways to surpass them.
+Some vanilla perks ineract with medical conditions in an intuitive and predictable way.
+Medical conditions are hidden by default. 
+To reveal them, players must diagnose them by either: having the corresponding Physician perk level (1–3), or reading enough Medical Journals (25, 50, or 75). 
+Higher Perception reduces the required number of Medical Journals. Players can check allies by standing next to them.
 
+"ByteBlazar's Screamers" Zombies, enabled.
+Makes Screamers silent until they shout their Alarm. 
+Also replaces vanilla screamers with Feral and Radiated versions. 
+So if you are mining away, or hanging out in your base, 
+you will not be able to distinguish normal zombies thrashing around outside your base with a Screamer until she shouts the alarm.
+Their movement is also uniquely creepy.  
+
+"New Spawn Start Zone" Survivalist, disabled.
+Challenge Boosting Mod (CBM)! 
+This mod requires you to manually edit the xml to allow you to pick a different starting Biome.
+For you hardcore nutters, you can now spawn into a different biome and be forced to survive its hardships immediately. 
+
+"CrouchStaminaRegeneration" OP, disabled.
+Crouching makes your stamnia regenrate much faster. Too OP!
+
+"Faster Paintbrush and Infinite Paint" Standard, enabled. 
+Self-explanatory.
 
 Mods Updated:
 
@@ -74,6 +126,16 @@ Mods Updated:
 "Oak's Cold Bloods"
 "Better Biomes wood harvest patch"
 "Halicopter"
+"LittleRedSonja ZombiePack"
+"MXMRMXs poi pack"
+"Undo Block Placement"
+"MoreGore"
+"Quest Revamp"
+"Singularity"
+"Additional Research"
+"Dismantle Items to Schematics"
+"Jewelcrafting"
+"LittleRedSonja's CAS"
 
 
 __________________________________________________________
