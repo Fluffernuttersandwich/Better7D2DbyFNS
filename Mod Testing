@@ -1,44 +1,79 @@
-2.2.4.1 20:00 EST 20AUG2025
+2.2.5.1 11:30 EST 25AUG2025
 
 Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
 
+You will need a new save for this update!
 Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
 If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
 There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
 Don't FOMO! The list isn't going anywhere!
 
+Comments:
+
+Over the last several months I have been trying to improve the "default" mods enabled in Smorgasbord to make it a more balanced experience. 
+With this latest update, I am trying to steer the "default" experience to be more intricate and challenging. 
+When I say intricate, I don't mean unnecessarily confusing, I'd hate that. I'm aiming for pleasantly complex, while remaining intuitive.  
+I want the player to have to manage more for a grittier game experience where decisions matter.
+And I also love the random interruptions from mods like: Blood Moon Chaos, Better Storms, WalkerSim, and Random Zombie Movement.
+
+I have changed the name of the catch-all separator to "Survivalist".
+I also used a uniform phrase you can filter by in MO2 "Challenge Boosting Mod (CBM)!"
+A CBM is anything that adds a layer of complexity, challenge, or thoughtful change to provide a more stimulating experience over vanilla.  
+For a long time people have viewed Smorgasbord as just "whatever you want it to be" which it still can be depending on how you personalize your experience.
+But, for a default experience, I really want to deliver something with character.
+People hate bland play-it-safe games, they want a memorable experience.  
+
+As you all have seen, A16 is all the rage right now. 
+If I was to try and condense the main attractions of A16, I'd say this: Sophisticated players want a more engaging game.
+2.0 vanilla is too dumbed down.  So how can Smorgasbord's default-as-delivered Mod List offer players what they really want?
+
+1. Non-linear experience: People hate being railroaded to the same path every game.
+With the mods I selected and modified, I have tried to offer the freedom players want without removing or completely overhauling existing systems. 
+
+2. Intricacy: They want complexity without convolution. 
+Survival games should not resolve all survival issues too early into a playthrough.
+I really think the mods I've recently added and tweaked, will scratch that itch.
+Better Storms, Immersive Survival, Medical Conditions, Insomnia. 
+
+
 Mods Removed: 
 
-"Little Buddy" The Mod Author pulled it. 
+N/A
 
 Mods Added:
 
-"Random Zombie Speed" Zombie, enabled.
-Zombies have a random speed rating regardless of your game speed setting. 
-I did reduce the top speed, because the author set it past Nightmare+ speed.
-It was too janky and unpleasant. 
-After reducing their top speed, it's much nicer!  
+"Darks Soldierz" NPC, disabled.
+Adds neutral/ally Soldiers.
 
-"Oak's Bandit Head Hunters" NPC, disabled.
-Adds new Bandit Head Hunters.
-Unlike the Zombie Head Hunters, these are balanced as is.
+"Darks Cleanerz" NPC, disabled.
+Adds hostile Soldiers.
 
-"MXMRMXS POI Pack" POI, enabled.
-He's a new prefabber. I like to encourage the development of other prefabbers as the old salts did that for me.
-Some of the POIs are not as balanced as you might hope for, but not bad. He's new, balance will come with time.
-What I like is that he's innovating, and trying some new ideas.  We need more of that daring in POI design.  
+"Arrows And Bolts Cause Bleed" OP, enabled.
+Vanilla Arrows and Bolts cause bleeds, if you take points in the Deep Cuts Perk.
+I don't think it's too OP, I think it just helps keep archery relevant in the middle-to-late game.
+
+"ProjectileBleedMod" OP, disabled.
+Vanilla guns cause bleeds, if you take points in "Deep Cuts".
+"IZY_Bleed_Patch" OP, disabled.
+Vanilla and Izy guns cause bleeds, if you take points in "Deep Cuts".
+Both of these were disabled by default because in my opinion, guns don't need a buff in Smorgasbord.
+
+"IZPrebuilt's Improved Loot Experience" OP, enabled.
+
+
+
+
+
 
 Mods Updated:
 
-"Undo Block Placement"
-"Baron Wildpig Castle"
-"Singularity"
+"TechFreqsPickupPlantsPickupCrops"
+"SCoreChanges-Gears Edition"
 "Runtime OCD"
-"7 Days of Insomnia"
-"XFX"
-"Armor Rack"
-"TMO Zombies Can't Dig"
-"Fari's Lightsaber"
+"LittleRedSonja Flying Fancy Magic Broom"
+"Oak's Cold Bloods"
+"Better Biomes wood harvest patch"
 "Halicopter"
+
 
 __________________________________________________________
