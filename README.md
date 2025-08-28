@@ -1914,20 +1914,9 @@ It's always someone's first day, so I assume anyone reading this could be enteri
 
 ---
 
-23. "Hey Fin, we noticed you're, I don't know, a bit extra salty lately. Is everything alright at home?"
+###"Fin, you're kind of an odd duck about this modding stuff?"
 
-Yeah, I'm good. I don't hate people, I promise.
-I'm just salty from years of working in IT.
-I just don't have any patience left for dealing with the plummeting IQ rates among the general population.
-There just seems to be a shocking lack of awareness-of-others, civility, decency, etc.
-Like when you go to the grocery store, and see people randomly stop with their shopping carts sideways gabbing with eachother while preventing you from efficiently grabbing what you need.
-That drives me up the wall. This is why Fin shops at 6am and works remotely when possible.  I just can't deal with stupid any more.
-
-<img width="1536" height="1024" alt="grocery1" src="https://github.com/user-attachments/assets/cd4cd04f-011d-4fc5-b2d6-02f8d7f89d25" />
-
-
-
-Also, I'm the sort of person old enough to remember when PC Gaming required an above 8th grade literacy level.
+Well, maybe I am. You see, I'm the sort of person old enough to remember when PC Gaming required an above 8th grade literacy level.
 
 Man, I miss those days.
 
