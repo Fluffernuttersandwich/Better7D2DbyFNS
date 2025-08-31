@@ -9,23 +9,35 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
+1. I tested SMX UI Suite. It sort of works for Smorgasbord, but I am deciding against inclduing it for now because it's a bit too buggy.
+You can add it to your own game.
+If someone here wanted to make a patch for it, I would include it, but not as it stands now. 
+I actually prefer CATUI and SteelUI. And those rarely have issues with other mods. 
+
+2. We are still on 2.2, and I expect when 2.3 goes Stable, it will break a lot of mods.  
+So, when this happens, it might take me some time to update Smorgasbord. 
+I will work on it as time permits, but remember, I can't move forward without the dependancy mods that support us.
+I know things like Quartz, Gears, Score, and a bunch of mods that touch UI screens will need to be updated. 
+I have at least a dozen more I know that will need to be updated so far.  
+
 
 Mods Removed: 
 
 "GNS Slashing Axes"
 "Tool Time"
-both replaced by "IZPrebuilt's Tools are Weapons"
+Both were replaced by "IZPrebuilt's Tools are Weapons"
 
 Mods Added:
 
 "2.0 Danzo Hide Version" QoL, enabled.
-Hides the game version normally displayed on the top right of the screen. Makes for nicer screenshots and videos. 
+Hides the game version normally displayed on the top right of the screen. 'Makes for nicer screenshots and videos. 
 
 "IZPrebuilt's Tools are Weapons" Standard, enabled. 
 Makes tools more viable weapons without being OP or requiring books. Other adjacent book series Perks work for them.  
 
+"GirlsFrontline Cheeta"
 "MillenniumTourELF stranger cosmos (rabbit)" VRoid, Avatar, already manually added.
-Bunny girl with floppy ears. 
+More waifus.
 
 "Razz's Unarmed Combat Flow" OP, enabled.
 Makes using fists a more viable combat option for folks who like to engage in some fisticuffs.
@@ -35,8 +47,9 @@ This mod is set to default game difficulty until you manually change it in GEARS
 Uses GEARS to allow you to edit player and zombie damage and health. 
 Allows you to customize player and zombie stats. 
 This way it also allows you to go beyond Insane difficulty!
-
-Changing player and zombie modifiers is done from the New/Continue screen before loading into your game. Currently limited to Damage and Max Health. Ranges between -75% and +200% for Health, -75% and +500% Damage for zombies, capped to +200% for the player.
+Changing player and zombie modifiers is done from the New/Continue screen before loading into your game. 
+Currently limited to Damage and Max Health. 
+Ranges between -75% and +200% for Health, -75% and +500% Damage for zombies, capped to +200% for the player.
 
 
 Mods Updated:
@@ -52,6 +65,7 @@ Mods Updated:
 "LittleRedSonja Zombie Pack"
 "FPV Legs"
 "Aaramus's Baron Von Wildpig's Castle POI"
+"QuestTimerArea"
 
 
 
