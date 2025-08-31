@@ -20,16 +20,23 @@ I will work on it as time permits, but remember, I can't move forward without th
 I know things like Quartz, Gears, Score, and a bunch of mods that touch UI screens will need to be updated. 
 I have at least a dozen more I know that will need to be updated so far.  
 
+3. Added a separator for "Advanced Random World Generation"
+A. I moved my RWG mixer there.
+B. PGz is for casual users who just want to generate a world and jump right in.
+C. World Gen Tweaker + Randomized Traders is for more advanced users.
+For users who won't mind possibly generating multiple worlds to get something special they really want.
+Disable this whole section if using CompoPack.
+
 
 Mods Removed: 
 
 "GNS Slashing Axes"
 "Tool Time"
-Both were replaced by "IZPrebuilt's Tools are Weapons"
+Both were replaced by "IZPrebuilt's Tools are Weapons".
 
 "Galaxy Far Far Away"
 "(TMO) Interchangeable Skies x Custom Skybox Support"
-Both were replaced by Laydor's "Rainstorm"
+Both were replaced by Laydor's "Rainstorm".
 
 Mods Added:
 
@@ -58,7 +65,6 @@ Ranges between -75% and +200% for Health, -75% and +500% Damage for zombies, cap
 "Rainstorm" Environmental, enabled.
 Laydor's Rainstorm mod overhauls the vanilla clouds, skybox, and visual weather effects systems. 
 It adds new volumetric clouds and volumetric fog and a physically based skybox, with more to come.
-
 
 Mods Updated:
 
