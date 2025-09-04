@@ -1,4 +1,4 @@
-2.2.6.1 18:50 EST 31AUG2025
+2.2.7.1 TBD
 
 Reminder, the Smorgasbord ModList is currently on the STABLE game version 2.2!
 
@@ -7,78 +7,39 @@ If you are happy with your current playthrough, stay on that version until you a
 There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
 Don't FOMO! The list isn't going anywhere!
 
-Comments:
-
-1. I tested SMX UI Suite. It sort of works for Smorgasbord, but I am deciding against inclduing it for now because it's a bit too buggy.
-You can add it to your own game.
-If someone here wanted to make a patch for it, I would include it, but not as it stands now. 
-I actually prefer CATUI and SteelUI. And those rarely have issues with other mods. 
-
-2. We are still on 2.2, and I expect when 2.3 goes Stable, it will break a lot of mods.  
-So, when this happens, it might take me some time to update Smorgasbord. 
-I will work on it as time permits, but remember, I can't move forward without the dependancy mods that support us.
-I know things like Quartz, Gears, Score, and a bunch of mods that touch UI screens will need to be updated. 
-I have at least a dozen more I know that will need to be updated so far.  
-
-3. Added a separator for "Advanced Random World Generation"
-A. I moved my RWG mixer there.
-B. PGz is for casual users who just want to generate a world and jump right in.
-C. World Gen Tweaker + Randomized Traders is for more advanced users.
-For users who won't mind possibly generating multiple worlds to get something special they really want.
-Disable this whole section if using CompoPack.
-
-
 Mods Removed: 
 
-"GNS Slashing Axes"
-"Tool Time"
-Both were replaced by "IZPrebuilt's Tools are Weapons".
-
-"Galaxy Far Far Away"
-"(TMO) Interchangeable Skies x Custom Skybox Support"
-Both were replaced by Laydor's "Rainstorm".
+N/A
 
 Mods Added:
 
-"2.0 Danzo Hide Version" QoL, enabled.
-Hides the game version normally displayed on the top right of the screen. 'Makes for nicer screenshots and videos. 
+"Natural Selection - Animal AI Overhaul" QoL, enabled.
+It gives each animal prey behavior around its potential predators (e.g.: a boar or a coyote never fights a bear, they flee on sight).
 
-"IZPrebuilt's Tools are Weapons" Standard, enabled. 
-Makes tools more viable weapons without being OP or requiring books. Other adjacent book series Perks work for them.  
+"HonkaiStarRail Saber" VRoid, Avatar, already manually included.
+New waifu.
 
-"GirlsFrontline Cheeta"
-"MillenniumTourELF stranger cosmos (rabbit)" VRoid, Avatar, already manually added.
-More waifus.
+"Sprain Icons" Standard, enabled.
+Makes Sprain Icons more distinctive to visually spearate it from Break icons. 
 
-"Razz's Unarmed Combat Flow" OP, enabled.
-Makes using fists a more viable combat option for folks who like to engage in some fisticuffs.
+"More Relays" Standard, enabled.
+Adds a variety of relay options.
 
-"Customizable Difficulty" Zombies, enabled.
-This mod is set to default game difficulty until you manually change it in GEARS. 
-Uses GEARS to allow you to edit player and zombie damage and health. 
-Allows you to customize player and zombie stats. 
-This way it also allows you to go beyond Insane difficulty!
-Changing player and zombie modifiers is done from the New/Continue screen before loading into your game. 
-Currently limited to Damage and Max Health. 
-Ranges between -75% and +200% for Health, -75% and +500% Damage for zombies, capped to +200% for the player.
+"Mazda CX-5" Vehicle, enabled. 
+Adds car. 
 
-"Rainstorm" Environmental, enabled.
-Laydor's Rainstorm mod overhauls the vanilla clouds, skybox, and visual weather effects systems. 
-It adds new volumetric clouds and volumetric fog and a physically based skybox, with more to come.
 
 Mods Updated:
 
-"Oak's CowHands"
-"LittleRedSonja and Mumpfy ArmorPack06 Resident Evil"
-"WMMTraderQuestMap"
-"Jereth's Vehicle TurnTables"
-"More MotorTool Mods" This was previously known as "More Augers"
-"GEARS"
-"Quest Revamp"
-"WalkerSim2"
-"LittleRedSonja Zombie Pack"
-"FPV Legs"
-"Aaramus's Baron Von Wildpig's Castle POI"
+"Azarth Park"
+"Customizable Difficulty" fixed a multiplayer issue.
+"LittleRedSonja_FancyZombieVariants_FULLQUALITY" Fixed the Mutated skin extend issue.
+"Plumbed In Water Solutions"
+"LittleRedSonja Barbie Davidson Vehicle"
+"Medical Conditions" Changed the variant to work better with Insomnia. 
+"Cloud's Combine Tool Box"
+"Singularity" fixed a multiplayer issue.
+
 
 
 
