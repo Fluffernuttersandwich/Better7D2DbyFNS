@@ -10,9 +10,33 @@ N/A
 
 Mods Added:
 
-"
+"Witos Hovercraft" Vehicles, enabled.
+Adds Hovercraft.
+
+"Player Movement Patch" QoL, enabled
+Patches the game to fix issues with player movement. 
+In particular, some issues related to sprinting occur when the sprint lock option is disabled. 
+Therefore, if the sprint lock option is enabled, this mod will have no effect on sprint behavior.
+Fixed an issue where tapping a key briefly would cause the player to continue sprinting even after the key was released. 
+This behavior is commonly referred to as Toggle Sprint, and this Mod also disables Toggle Sprint if the Sprint Lock option is disabled.
+Fixed an issue where releasing the sprint button after opening a container or inventory with the sprint button held down would cause the container or inventory to remain in sprint state even after closing it.
+Fixed an issue where holding down the jump key would cause the player to jump again immediately after landing.
+
+"Hunlight's 7DtD Rebalance" Survivalist, enabled.
+Challenge Boosting Mod (CBM)! 
+Introduces a comprehensive progression system with delayed iron, steel, and mechanical advancement alongside stricter trader tier requirements. 
+This standalone mod features balanced zombie XP, economy adjustments, and improved containers while remaining fully compatible with most other mods.
+
+"TMO Crosshair Plus" UI Suite, enabled.
+This mod is UI agnostic. Customizable Crosshair. 
+Change shape, size, and color in the Console. 
+For crosshair Console commands, see NexusMods documentation or video: https://www.youtube.com/watch?v=ST1SJtBBM9Y
 
 Mods Updated:
+
+"EFT Recoil Patch"
+"FPV Legs"
+
 
 "CATUI"
 "IZ Prebuilt Imersive Survival Water"
