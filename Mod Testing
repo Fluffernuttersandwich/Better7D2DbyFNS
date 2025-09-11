@@ -1,31 +1,45 @@
 2.3.1.1 TBD
 
 ALERT! The Smorgasbord ModList has moved to STABLE game version 2.3!
-This will 100% require a new save!
+
+Major Update: This will 100% require a new save!
 
 Comments:
 
 1. It wasn't as bad as going from 1.4 to 2.0, but still a lot of restarting and testing. 
-I did swap, disable, edit, and move a few mods around.  
+I did swap, disable, edit, and move a few mods around on the list.  
 I keep striving for balance in the default selection of enabled mods.
 
-2. I am starting to test adding pregenerated maps for Smorgasbord, stored in the RWG Mixer mod folder.
-This was made using Advanced RWG with mods, not a handmade map, I don't have the time for that.  
-"10k_Smorgasbord_v231"
-If you choose to deselect The Descent, this map should still work.
-This map uses the default enabled POIs I already preselected. 
+2. I am starting to test adding pregenerated maps for Smorgasbord, you'll see them under the RWG Seperator.
+These were made using Advanced RWG with mods, not handmade manual map tools, I don't have the time for that.  
+If you choose to deselect The Descent mod, these maps should still work.
+I'm doing this to save players some time, and help people with weaker hardware.
+
+A. "9k_Popular_v231"
+You must enable MPLogue and Zeebark's POI packs to use this map! 
+This map has the following POI Packs disabled: DwarvenCitadel, CompoPack, and WildPigCastle.
+If you add/enable any additional POIs, they will not show up on this map, because it was pregenerated without those POIs!
+
+B. "10k_Default_v231"
 This map has the following POI Packs disabled: DwarvenCitadel, CompoPack, WildPigCastle, MPLogue, and Zeebark.
+This map uses the default enabled POIs I already preselected.  So long as you leave the POI Seperator mods alone, this map works. 
 If you enable those additional POIs, they will not show up on this map, because it was pregenerated without those POIs!
+
+C. "12k_All_v231"
+To use this map, you must enable EVERY mod under the POI Separator, including the CompoPack.
+
+D. "13k_All_plus_NPC_v231"
+To use this map, you must enable EVERY mod under the POI Separator, including the CompoPack.
+You must also enable at least the first three mods under the NPC Separator in MO2.
 
 Mods Removed: 
 
 "Jareth Vehicle Turn Table" Errors.  We still have "VehicleSpinner V1" at home.  
-
 "Dot Crosshair" Replaced by TMO's.  
 
 Mods Added:
 
-"Witos Hovercraft" Vehicles, enabled.
+"Witos Hovercraft" Vehicles, disabled.
 Adds Hovercraft.
 
 "Player Movement Patch" QoL, enabled
@@ -37,7 +51,7 @@ This behavior is commonly referred to as Toggle Sprint, and this Mod also disabl
 Fixed an issue where releasing the sprint button after opening a container or inventory with the sprint button held down would cause the container or inventory to remain in sprint state even after closing it.
 Fixed an issue where holding down the jump key would cause the player to jump again immediately after landing.
 
-"Hunlight's 7DtD Rebalance" Experimental, enabled.
+"Hunlight's 7DtD Rebalance" Survivalist, enabled.
 Challenge Boosting Mod (CBM)! 
 Introduces a comprehensive progression system with delayed iron, steel, and mechanical advancement alongside stricter trader tier requirements. 
 This standalone mod features balanced zombie XP, economy adjustments, and improved containers while remaining fully compatible with most other mods.
@@ -62,7 +76,7 @@ Note! Some of the recipes require tree seeds to boil down to resin to create car
 
 "Pick Locked Doors" OP, disabled.
 This mod destroys the intended path of a POI experience, but I do beleive in personal choice.
-On one hand, I like the realism and freedom of being able to unlock doors and go your own way.
+On one hand I like the realism and freedom of being able to unlock doors and go your own way.
 On the other, it allows cheeseballs to go straight through steel doors for end loot.   
 
 Mods Updated:
