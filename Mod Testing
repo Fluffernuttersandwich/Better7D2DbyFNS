@@ -5,15 +5,23 @@ This will 100% require a new save!
 
 Comments:
 
-1. I added a 10K sized map for Smorgasbord (in the RWG Mixer mod folder) using the default enabled POIs I already preselected. 
-This is a test, but please let me know if you like it.  
-This was made using Advanced RWG with mods, not a manually custom made map.  
+1. It wasn't as bad as going from 1.4 to 2.0, but still a lot of restarting and testing. 
+I did swap, disable, edit, and move a few mods around.  
+I keep striving for balance in the default selection of enabled mods.
+
+2. I am starting to test adding pregenerated maps for Smorgasbord, stored in the RWG Mixer mod folder.
+This was made using Advanced RWG with mods, not a handmade map, I don't have the time for that.  
+"10k_Smorgasbord_v231"
+If you choose to deselect The Descent, this map should still work.
+This map uses the default enabled POIs I already preselected. 
+This map has the following POI Packs disabled: DwarvenCitadel, CompoPack, WildPigCastle, MPLogue, and Zeebark.
+If you enable those additional POIs, they will not show up on this map, because it was pregenerated without those POIs!
 
 Mods Removed: 
 
 "Jareth Vehicle Turn Table" Errors.  We still have "VehicleSpinner V1" at home.  
 
-"Dot Crosshair" Replaced...
+"Dot Crosshair" Replaced by TMO's.  
 
 Mods Added:
 
@@ -33,11 +41,13 @@ Fixed an issue where holding down the jump key would cause the player to jump ag
 Challenge Boosting Mod (CBM)! 
 Introduces a comprehensive progression system with delayed iron, steel, and mechanical advancement alongside stricter trader tier requirements. 
 This standalone mod features balanced zombie XP, economy adjustments, and improved containers while remaining fully compatible with most other mods.
+I haven't seen any errors, but other mods you have enabled for increased loot will nullify the purpose of this mod.
 
 "TMO Crosshair Plus" UI Suite, enabled.
 This mod is UI agnostic. Customizable Crosshair. 
 Change shape, size, and color in the Console. 
 For crosshair Console commands, see NexusMods documentation or video: https://www.youtube.com/watch?v=ST1SJtBBM9Y
+I like that this mod works well in 3rd person for modded guns like Izy Shotguns and Rifles.  
 
 "Animal Babies" Zombies, disabled.
 Adds baby animals.  It's disabled because they're too small for my personal taste.  
@@ -52,6 +62,8 @@ Note! Some of the recipes require tree seeds to boil down to resin to create car
 
 "Pick Locked Doors" OP, disabled.
 This mod destroys the intended path of a POI experience, but I do beleive in personal choice.
+On one hand, I like the realism and freedom of being able to unlock doors and go your own way.
+On the other, it allows cheeseballs to go straight through steel doors for end loot.   
 
 Mods Updated:
 
