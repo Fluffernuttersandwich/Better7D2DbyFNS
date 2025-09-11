@@ -3,10 +3,17 @@
 ALERT! The Smorgasbord ModList has moved to STABLE game version 2.3!
 This will 100% require a new save!
 
+Comments:
+
+1. I added a 10K sized map for Smorgasbord (in the RWG Mixer mod folder) using the default enabled POIs I already preselected. 
+This is a test, but please let me know if you like it.  
+This was made using Advanced RWG with mods, not a manually custom made map.  
+
 Mods Removed: 
 
 "Jareth Vehicle Turn Table" Errors.  We still have "VehicleSpinner V1" at home.  
-"Dot Crosshair" Replaced.
+
+"Dot Crosshair" Replaced...
 
 Mods Added:
 
@@ -32,6 +39,20 @@ This mod is UI agnostic. Customizable Crosshair.
 Change shape, size, and color in the Console. 
 For crosshair Console commands, see NexusMods documentation or video: https://www.youtube.com/watch?v=ST1SJtBBM9Y
 
+"Animal Babies" Zombies, disabled.
+Adds baby animals.  It's disabled because they're too small for my personal taste.  
+
+"Archery Expansion" Standard, enabled.
+Adds three new arrow and bolt types: Scrap, Iron Hunter, Steel Hunter.  
+Scrap arrows/bolts are just a variant cheap arrow/bolt, better than stone, but not as good as Iron.  
+"Hunter" arrows cause bleeds.  Steel being superior Iron.
+Adds some new bow/crossbow weapon mods.  
+Your boy Fin made this mod compatible with "Transmute Arrows to Bolts"
+Note! Some of the recipes require tree seeds to boil down to resin to create carbon fiber so keep "FNS Self-Planting Trees" disabled if you want to use this mod.  
+
+"Pick Locked Doors" OP, disabled.
+This mod destroys the intended path of a POI experience, but I do beleive in personal choice.
+
 Mods Updated:
 
 "EFT Recoil Patch"
@@ -55,6 +76,12 @@ Mods Updated:
 "Drone Weapons"
 "Collectible Toys"
 "TMO Zombies Can't Dig"
-
+"Steel UI"
+"FNS Transmute Arrows to Bolts"
+"Quest Revamp"
+"MXMRMXS POI Pack"
+"Better Mod Compatibility"
+"FPV Legs"
+"EFTX"
 
 __________________________________________________________
