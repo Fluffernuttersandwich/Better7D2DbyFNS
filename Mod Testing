@@ -1,4 +1,4 @@
-2.3.1.1 TBD
+2.3.1.1 21:15 EST 12SEP2025
 
 ALERT! The Smorgasbord ModList has moved to STABLE game version 2.3!
 
@@ -10,7 +10,7 @@ Comments:
 I did swap, disable, edit, and move a few mods around on the list.  
 I keep striving for balance in the default selection of enabled mods.
 
-2. I am starting to test adding pregenerated maps for Smorgasbord, you'll see them under the RWG Seperator.
+2. I am starting to test adding pregenerated maps for Smorgasbord, you'll see them under the RWG Separator.
 These were made using Advanced RWG with mods, not handmade manual map tools, I don't have the time for that.  
 If you choose to deselect The Descent mod, these maps should still work.
 I'm doing this to save players some time, and help people with weaker hardware.
@@ -22,7 +22,7 @@ If you add/enable any additional POIs, they will not show up on this map, becaus
 
 B. "10k_Default_v231"
 This map has the following POI Packs disabled: DwarvenCitadel, CompoPack, WildPigCastle, MPLogue, and Zeebark.
-This map uses the default enabled POIs I already preselected.  So long as you leave the POI Seperator mods alone, this map works. 
+This map uses the default enabled POIs I already preselected.  So long as you leave the POI Separator mods alone, this map works. 
 If you enable those additional POIs, they will not show up on this map, because it was pregenerated without those POIs!
 
 C. "12k_All_v231"
@@ -85,6 +85,9 @@ On the other, it allows cheeseballs to go straight through steel doors for end l
 
 "Serenity Cave Prefabs by Svarii" POI, enabled.
 This pack for The Descent, adds some new cave entrances and underground filler prefabs.
+
+"Klukai SpeedStar" VRoid, Avatar, already manually added.
+Another waifu.
 
 Mods Updated:
 
