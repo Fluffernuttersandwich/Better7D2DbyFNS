@@ -82,7 +82,7 @@ Though I am making it a grittier experience by default, players are still free t
 ______________________________________________________________________________________________________
 
 
-### This Mod List is currently compatible with Stable game version: v2.2
+### This Mod List is currently compatible with Stable game version: v2.3
 
 ### You must use the Wabbajack Application to download this Mod List!
 
