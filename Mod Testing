@@ -1,124 +1,28 @@
-2.3.1.1 21:15 EST 12SEP2025
+2.3.1.2 19:30 EST 13SEP2025
 
-ALERT! The Smorgasbord ModList has moved to STABLE game version 2.3!
+For Game version 2.3
 
-Major Update: This will 100% require a new save!
+Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
+If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
+There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
+Don't FOMO! The list isn't going anywhere!
+
 
 Comments:
 
-1. It wasn't as bad as going from 1.4 to 2.0, but still a lot of restarting and testing. 
-I did swap, disable, edit, and move a few mods around on the list.  
-I keep striving for balance in the default selection of enabled mods.
-
-2. I am starting to test adding pregenerated maps for Smorgasbord, you'll see them under the RWG Separator.
-These were made using Advanced RWG with mods, not handmade manual map tools, I don't have the time for that.  
-If you choose to deselect The Descent mod, these maps should still work.
-I'm doing this to save players some time, and help people with weaker hardware.
-
-A. "9k_Popular_v231"
-You must enable MPLogue and Zeebark's POI packs to use this map! 
-This map has the following POI Packs disabled: DwarvenCitadel, CompoPack, and WildPigCastle.
-If you add/enable any additional POIs, they will not show up on this map, because it was pregenerated without those POIs!
-
-B. "10k_Default_v231"
-This map has the following POI Packs disabled: DwarvenCitadel, CompoPack, WildPigCastle, MPLogue, and Zeebark.
-This map uses the default enabled POIs I already preselected.  So long as you leave the POI Separator mods alone, this map works. 
-If you enable those additional POIs, they will not show up on this map, because it was pregenerated without those POIs!
-
-C. "12k_All_v231"
-To use this map, you must enable EVERY mod under the POI Separator, including the CompoPack.
-
-D. "13k_All_plus_NPC_v231"
-To use this map, you must enable EVERY mod under the POI Separator, including the CompoPack.
-You must also enable at least the first three mods under the NPC Separator in MO2.
-
 Mods Removed: 
 
-"Jareth Vehicle Turn Table" Errors.  We still have "VehicleSpinner V1" at home.  
-"Dot Crosshair" Replaced by TMO's.  
-"Fasterer Lockpicking" Replaced by Tam's.
+N/A
 
 Mods Added:
 
-"Witos Hovercraft" Vehicles, disabled.
-Adds Hovercraft.
-
-"Player Movement Patch" QoL, enabled
-Patches the game to fix issues with player movement. 
-In particular, some issues related to sprinting occur when the sprint lock option is disabled. 
-Therefore, if the sprint lock option is enabled, this mod will have no effect on sprint behavior.
-Fixed an issue where tapping a key briefly would cause the player to continue sprinting even after the key was released. 
-This behavior is commonly referred to as Toggle Sprint, and this Mod also disables Toggle Sprint if the Sprint Lock option is disabled.
-Fixed an issue where releasing the sprint button after opening a container or inventory with the sprint button held down would cause the container or inventory to remain in sprint state even after closing it.
-Fixed an issue where holding down the jump key would cause the player to jump again immediately after landing.
-
-"Hunlight's 7DtD Rebalance" Survivalist, enabled.
-Challenge Boosting Mod (CBM)! 
-Introduces a comprehensive progression system with delayed iron, steel, and mechanical advancement alongside stricter trader tier requirements. 
-This standalone mod features balanced zombie XP, economy adjustments, and improved containers while remaining fully compatible with most other mods.
-I haven't seen any errors, but other mods you have enabled for increased loot will nullify the purpose of this mod.
-
-"TMO Crosshair Plus" UI Suite, enabled.
-This mod is UI agnostic. Customizable Crosshair. 
-Change shape, size, and color in the Console. 
-For crosshair Console commands, see NexusMods documentation or video: https://www.youtube.com/watch?v=ST1SJtBBM9Y
-I like that this mod works well in 3rd person for modded guns like Izy Shotguns and Rifles.  
-
-"Animal Babies" Zombies, disabled.
-Adds baby animals.  It's disabled because they're too small for my personal taste.  
-
-"Archery Expansion" Standard, enabled.
-Adds three new arrow and bolt types: Scrap, Iron Hunter, Steel Hunter.  
-Scrap arrows/bolts are just a variant cheap arrow/bolt, better than stone, but not as good as Iron.  
-"Hunter" arrows cause bleeds.  Steel being superior Iron.
-Adds some new bow/crossbow weapon mods.  
-Your boy Fin made this mod compatible with "Transmute Arrows to Bolts"
-Note! Some of the recipes require tree seeds to boil down to resin to create carbon fiber so keep "FNS Self-Planting Trees" disabled if you want to use this mod.  
-
-"Tam's Improved Lockpicking" OP, enabled.
-75% faster lockpicking, 75% more durable lockpicks, spending more perks points in the skill.
-
-"Pick Locked Doors" OP, disabled.
-This mod destroys the intended path of a POI experience, but I do beleive in personal choice.
-On one hand I like the realism and freedom of being able to unlock doors and go your own way.
-On the other, it allows cheeseballs to go straight through steel doors for end loot.   
-
-"Serenity Cave Prefabs by Svarii" POI, enabled.
-This pack for The Descent, adds some new cave entrances and underground filler prefabs.
-
-"Klukai SpeedStar" VRoid, Avatar, already manually added.
-Another waifu.
+N/A
 
 Mods Updated:
 
-"EFT Recoil Patch"
-"FPV Legs"
-"TechFreq's Extra Briefcase" This is now a catchall mod to replace the multiple previous mods that added up to this. 
-"(V2) 1-SCore Remote Crafting and Auto-Sort Drop Box"
-"(V2) 1-SCore Remote Upgrade and Repair"
-"CATUI"
-"IZ Prebuilt Imersive Survival Water"
-"Better Pipe Guns"
-"Score"
+"LittleRedSonja Ammunition Recycling"
 "Gears"
-"Quest Area Timer (test!)"
-"Quartz"
-"7DaysSuperResolution"
-"Bobcat"
-"Insomnia" Big thanks to ByteBlazar for extending it to work with Blood Moon Chaos.  
-"Better Storms"
-"Show Remaining Clear"
-"Armor Racks"
-"Drone Weapons"
-"Collectible Toys"
-"TMO Zombies Can't Dig"
-"Steel UI"
-"FNS Transmute Arrows to Bolts"
-"Quest Revamp"
-"MXMRMXS POI Pack"
-"Better Mod Compatibility"
-"FPV Legs"
-"Byteblazar's Screamers"
-"EFTX"
+"7DtD Super Resolution"
+"Serenity - Cave Prefabs"
 
 __________________________________________________________
