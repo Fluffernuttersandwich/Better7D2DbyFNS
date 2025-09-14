@@ -575,7 +575,7 @@ You can live with it, use a different UI, disable the 15-Slot toolbelt, or use t
 ### **Prefabs, POIs, and RWG tweaks.**  
 If you want to add _and_ enable, or disable any prefab/POIs, do it here _prior to making a new world_.  
 
-You must RWG a new world if you wan tto see new COmmunity made POIs from this section. 
+You must RWG a new world if you wan tto see new Community made POIs from this section. 
 
 **DO NOT DISABLE PREFABS/POIs MID-SAVE!**
 ![image](https://github.com/user-attachments/assets/12161046-e02b-49f2-9b8f-a5141c956e07)
@@ -915,6 +915,19 @@ I have generated dozens of Descent worlds and not encountered this issue, but it
 
 
 <img width="1585" height="154" alt="image" src="https://github.com/user-attachments/assets/608e7000-f209-4df0-9829-2f2359152284" />
+
+Problem with Descent during Advanced RWG:
+
+2. POI Errors loading into a newly generated world: Most likely a "Descent" issue
+
+In previous versions, most of the time, Descent could generate a map larger than 10k.
+It has intermittent issues!
+Sometimes it will Error and hang, and you need to exit the game.
+Sometimes it can "stealth fail" where the map generates, doesn't pop-open the Console showing that The Descent failed to run, 
+but still spit you out a map that when you go to launch your game, it's riddled with POI errors.
+For now, if using The Descent to perform Advanced RWG, stick to maps lower than 10k.
+If you want to try for larger maps, run RWG with the Console open, and be prepared for it to take multiple attempts.  
+Or, just use my default maps, they all have Descent, even the 12k and 13k
 
 
 ---
