@@ -1,4 +1,4 @@
-2.3.1.3 10:30 EST 14SEP2025
+2.3.1.4 16:30 EST 14SEP2025
 
 For Game version 2.3
 
@@ -9,19 +9,9 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. Hot fix, small update on a few mods.
+1. Moved Halicopter to "Pending Update, broken!" status
 
-2. POI Errors loading into a newly generated world: Most likely a "Descent" issue
-
-In previous versions, most of the time, Descent could generate a map larger than 10k.
-However, now in 2.3, it fails more often than not.  
-It has intermittent issues!
-Sometimes it will Error and hang, and you need to exit the game.
-Sometimes it can "stealth fail" where the map generates, doesn't pop-open the Console showing that The Descent failed to run, 
-but still spit you out a map that when you go to launch your game, it's riddled with POI errors.
-For now, if using The Descent to perform Advanced RWG, stick to maps lower than 10k.
-If you want to try for larger maps, run RWG with the Console open, and be prepared for it to take multiple attempts.  
-Or, just use my default maps, they all have Descent, even the 12k and 13k
+2. Disabled a few extraneoues lighting mods I accidentally left enabled during testing.  
 
 Mods Removed: 
 
@@ -32,10 +22,5 @@ Mods Added:
 N/A
 
 Mods Updated:
-
-"QuickStack"
-"Klikai SpeedStar" VRoid waifu.
-"WMMSleepUntilDawn"
-"EFTX"
-
+N/A
 __________________________________________________________
