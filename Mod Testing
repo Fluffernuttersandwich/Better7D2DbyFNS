@@ -1,4 +1,4 @@
-2.3.1.4 16:30 EST 14SEP2025
+2.3.1.5 09:40 EST 16SEP2025
 
 For Game version 2.3
 
@@ -9,9 +9,9 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. Moved Halicopter to "Pending Update, broken!" status
+1. Edited "Zzzz_Compat_Patch_CP_EFT_IZYS" CompoPack patch, to fix an error.
 
-2. Disabled a few extraneoues lighting mods I accidentally left enabled during testing.  
+2. Moved "WMMTraderQuestMap" to Pending Update separator as it was causing errors.
 
 Mods Removed: 
 
@@ -22,5 +22,8 @@ Mods Added:
 N/A
 
 Mods Updated:
-N/A
+"Quartz"
+"Quest Revamp - Gears Edition"
+"Score Changes Gears"
+"MoreGore"
 __________________________________________________________
