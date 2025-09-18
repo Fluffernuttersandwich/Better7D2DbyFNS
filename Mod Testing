@@ -13,12 +13,12 @@ Comments:
 
 Mods Removed: 
 
-N/A
+"Dewtas Hold Multiple Quests -- 1.0 Stable" It's superfluous with "Quest Revamp".
 
 Mods Added:
 
 "MoreQuests" Quests, enabled.
-Allows for the trader to offer multiple (like 30) quests.
+Allows for the trader to offer more than 5 quests.
 This mod previously caused problems on the list with mod compatibility.  
 I tested it as thouroughly as I could, and din't notice any issues.
 It works fine with the default list I give you.
@@ -27,8 +27,9 @@ It's possible, if you are adding other off-list Quest mods that add new quest ty
 "LittleRedSonja and Mumpfy ArmorPack07 The Walking Dead" Armor, enabled.
 Adds armor and cosmetic options from TWD.
 
-"(V2) Classic Crack-a-Book HQ POI" by arramus. POI, enabled.
+"(V2) Classic Crack-a-Book HQ POI" POI, enabled.
 Adds an updated version of the old tier 5 Crack-a-Book HQ.
+TFP created the original POI, but arramus updated it for v2.
 Many people preffered the older version compared to the new one.
 Note: I have not updated the Smorgasbord Maps yet, so if you want to see this POI, run a new Advanced RWG.  
 
