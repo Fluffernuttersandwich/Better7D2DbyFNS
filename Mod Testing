@@ -1,4 +1,4 @@
-2.3.1.5 09:40 EST 16SEP2025
+2.3.2.1 TBD
 
 For Game version 2.3
 
@@ -9,9 +9,7 @@ Don't FOMO! The list isn't going anywhere!
 
 Comments:
 
-1. Edited "Zzzz_Compat_Patch_CP_EFT_IZYS" CompoPack patch, to fix an error.
-
-2. Moved "WMMTraderQuestMap" to Pending Update separator as it was causing errors.
+1. Relatively small update.
 
 Mods Removed: 
 
@@ -19,11 +17,31 @@ N/A
 
 Mods Added:
 
-N/A
+"MoreQuests" Quests, enabled.
+Allows for the trader to offer multiple (like 30) quests.
+This mod previously caused problems on the list with mod compatibility.  
+I tested it as thouroughly as I could, and din't notice any issues.
+It works fine with the default list I give you.
+It's possible, if you are adding other off-list Quest mods that add new quest types, that it could cause an error.  
+
+"LittleRedSonja and Mumpfy ArmorPack07 The Walking Dead" Armor, enabled.
+Adds armor and cosmetic options from TWD.
+
+"(V2) Classic Crack-a-Book HQ POI" by arramus. POI, enabled.
+Adds an updated version of the old tier 5 Crack-a-Book HQ.
+Many people preffered the older version compared to the new one.
+Note: I have not updated the Smorgasbord Maps yet, so if you want to see this POI, run a new Advanced RWG.  
 
 Mods Updated:
-"Quartz"
-"Quest Revamp - Gears Edition"
-"Score Changes Gears"
-"MoreGore"
+
+"Rainstorm" You can expect another update to this one in the very near future.
+"LittleRedSonja's CAS"
+"Witos Camera"
+"DanzoLootBagAndAnimalIncreaseTimer"
+"Clopex Estate"
+"Gella Park"
+"Serenity - Cave Prefabs"
+"7 Days of Insomnia"
+"MXMRMXs poi pack"
+
 __________________________________________________________
