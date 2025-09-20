@@ -33,6 +33,13 @@ TFP created the original POI, but arramus updated it for v2.
 Many people preffered the older version compared to the new one.
 Note: I have not updated the Smorgasbord Maps yet, so if you want to see this POI, run a new Advanced RWG.  
 
+"Guppycur's Fire AddOn to Score" QoL, enabled.
+Back by popular request: Guppy's Fire adds Fire Extinghuishers, the ability to summon a biplane to drop water on an area, and other fire related goodies.
+Previously, this mod was having errors in 2.0, but either something in a Score update, or the settings I selected for FireManagement fixed the errors we had. 
+Caution, not tested on a Dedicated Server. If someone with a Dedi can test the Fire Extinguisher, and check logs, that would be great.  
+
+
+
 Mods Updated:
 
 "LittleRedSonja's CAS"
@@ -49,8 +56,14 @@ Mods Updated:
 "(V2) Oakraven Fish Farm"
 "Medical conditions(alternative rest buff source)"
 
+"Custom Avatars" This was previously called VRoid. 
+Alter fixed the "Third Hand" issue with Izy AIO, with a new workaround where your 3rd person character switches to AimDownScope (ADS). 
+Unfortunately, it introduced a new problem with ADS randomly pointing 90-degrees away from where you meant to aim when used with 3rd person. 
+
 "Rainstorm" 
 You can expect another update to this one in the very near future.
 Laydor is adjusting the fog.
+
+"Random Zombie Speed" This didn't update, but I dialed down the max speed from 3 to 2.5, since they were a little too fast. 
 
 __________________________________________________________
