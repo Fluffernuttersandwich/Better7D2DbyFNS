@@ -2088,7 +2088,7 @@ If you don't like it, that's fine, but please don't complain about it.  Just pla
 
 ---
 
-How do I use **VRoid?**
+How do I use **Custom Avatars (VRoid)?**
 
 > [!IMPORTANT]
 > Do not use FPV Legs, Custom FPV FoV, True Third Person, or Witos Camera with VRoid. 
