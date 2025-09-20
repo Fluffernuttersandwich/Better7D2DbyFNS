@@ -16,8 +16,16 @@ I find it that when I am constantly desperate and barely surviving, I have a bet
 I am playing with disabled stack size increaser, vanila toolbelt, EFT Ammo, selected less vehicle options, less loot mods, etc.  
 Chose more realistic (difficult) gun and ammo options, etc.  
 
+3. Caution: I edited WalkerSim settings. 200 Zombie population, and EnhancedSoundAwareness (sonic hearing) set to true. 
+I want to try a playthrough with it set like this for a a greater emphasis on stealth as a challenge. 
+Recently I started watching TWD for the first time, and really liked the importance of stealth and speed.  
+You are of course free to edit it to however you like.
+
+4. Renamed the EFTX Separator to Weapons.  
+It's EFTX, Izy AIO, add-ons to both, and other popular weapon mods.  
+
 Gratitude:
-ALo, Feras, and the rest of the guys discussing the Headshot Only conversation in out Discord channel at Guppy's. 
+ALo, Feras, and the rest of the guys discussing the Headshot Only conversation in our Discord channel at Guppy's. 
 I love productive brainstorming conversations that lead to cool mods and better ways to play.  
 
 Mods Removed: 
@@ -98,7 +106,11 @@ Mods Updated:
 
 "Custom Avatars" This was previously called VRoid. 
 If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu golden hexagon and uncheck "Aim Correction".
-Alter created a wrokaround o remove the "third hand" when combining this mod with IZY AIO... however, it's not perfect.
+Alter created a workaround to remove the "third hand" when combining this mod with IZY AIO... however, it's not perfect.
+Using Izy + Custom Avatar (VRoid) will still do a funny thing with the hands changing from 3rd person view to FPV when you ADS.
+Your Custom Avatar hands will be temporarily be replaced with the Izy hands when you ADS when using Custom Avatar (VRoid).
+This is because Izy does his hands differently than vanilla or EFT-O/X.
+Izy currently does not have plans to update his hands.
 
 "Rainstorm" 
 You can expect another update to this one in the very near future.
