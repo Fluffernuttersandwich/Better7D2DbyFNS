@@ -2133,7 +2133,14 @@ If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu
 
 
 
+
 I will not be adding NSFW skins, you can do that yourself, no judgement, I just can't do that at Guppy's.
+
+
+Note: Using Izy + Custom Avatar (VRoid) will still do a funny thing with the hands changing from 3rd person view to FPV when you ADS.  
+Your Custom Avatar hands will be temporarily be replaced with the Izy hands when you ADS when using Custom Avatar (VRoid).  
+This is because Izy does his hands differently than vanilla or EFT-O/X.  
+Izy currently does not have plans to update his hands.    
 
 
 **How do I make them Gesture and Dance?**
