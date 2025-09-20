@@ -2126,7 +2126,15 @@ They are very cute.
 ![image](https://github.com/user-attachments/assets/7806aa33-5dc9-4063-9cad-65ba762021fd)
 
 
+If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu golden hexagon and uncheck "Aim Correction".
+
+
+<img width="2553" height="1355" alt="image" src="https://github.com/user-attachments/assets/f9fe66f6-065f-49be-bf2e-3465996b356f" />
+
+
+
 I will not be adding NSFW skins, you can do that yourself, no judgement, I just can't do that at Guppy's.
+
 
 **How do I make them Gesture and Dance?**
 
