@@ -2,14 +2,23 @@
 
 For Game version 2.3
 
-Standard warning: There's no guarantee you can update the ModList and continue to play in an old save.  
-If you are happy with your current playthrough, stay on that version until you are ready to start a new game!
-There are no critical patches, or life-altering mods that absolutely cannot wait until your next playthrough. 
-Don't FOMO! The list isn't going anywhere!
-
 Comments:
 
-1. Relatively small update.
+1. You might need to start a new save... this is not because that many mods updated, but because I have been disabling several mods.
+There are so many changes, it could mess up your existing save.  
+Like always, if you are happy with your current playthrough: WAIT TO UPDATE!
+
+2. I found myself getting into a rut playing the same way over and over. 
+My recent playthrough was getting too easy.
+So, I am making the default list more challenging.  By default, it will force the player to work harder for everything.  
+I didn't add any grind, just disabled (but left in place) some things that were too good.
+I find it that when I am constantly desperate and barely surviving, I have a better time with 7DtD. 
+I am playing with disabled stack size increaser, vanila toolbelt, EFT Ammo, selected less vehicle options, less loot mods, etc.  
+Chose more realistic (difficult) gun and ammo options, etc.  
+
+Gratitude:
+ALo, Feras, and the rest of the guys discussing the Headshot Only conversation in out Discord channel at Guppy's. 
+I love productive brainstorming conversations that lead to cool mods and better ways to play.  
 
 Mods Removed: 
 
@@ -36,9 +45,39 @@ Note: I have not updated the Smorgasbord Maps yet, so if you want to see this PO
 "Guppycur's Fire AddOn to Score" QoL, enabled.
 Back by popular request: Guppy's Fire adds Fire Extinghuishers, the ability to summon a biplane to drop water on an area, and other fire related goodies.
 Previously, this mod was having errors in 2.0, but either something in a Score update, or the settings I selected for FireManagement fixed the errors we had. 
-Caution, not tested on a Dedicated Server. If someone with a Dedi can test the Fire Extinguisher, and check logs, that would be great.  
+Caution, not tested on a Dedicated Server. If someone with a Dedi can test the Extinguisher on a fire, and check logs, that would be great.  
 
+"FNS No Crispies with Guppy's Fire Mod v2" QoL, enabled.
+If you disable Guppycur's Fire, also disable this mod! 
+Prevents Guppycur's Fire Mod from converting zombies set on fire to Burnt Zombies... I like molotovs to actually kill zombies, not just convert them to crispies!
 
+"Remote Explosive Charges - with optional Safe Cracker add-on" QoL, enabled.
+Portable explosives with remote detonation. 
+One for breaking blocks, one for damaging zombies, one for safe-cracking. 
+Don't like your undead neighbors car? Blow it up from your toilet! 
+Want to expand your base but that pesky wall is in the way? 
+Blow it up from a safe distance! Wanna just cause mayhem? It can probably do that too.
+
+"Headshots Preferred by FNS" Survivalist, enabled.
+Headshots do 33% more damage, body shots do 33% less damage.  
+Mod Author ALo gave us this modlet, so please thank him if you appreciate it.
+
+"Brain Dead Zed" Zombies, disabled.
+The zombies will, mostly, no longer act like structural engineers, bee-lining for the weakest part of your base from the far side. 
+They will now, more so, approach and  attack from the direction they saw you from. 
+This acts a bit more like  the old AI, or the AI from alpha 16, but without the issues from the time.
+Most zombies are now 'stupid' zombies. 
+Utility worker (construction) zombies retain the current 'smart' AI, and the Demolition zombie was given the 'smart' AI, making them far more dangerous.
+Zombie Dogs and Dire Wolves were left untouched.
+Be warned, your standard stilt cheese base will not work! 
+Only a fraction of the zombies will use your stairs, unless you get very lucky and the horde just approaches from that direction.
+From Fin: I disabled this by default because taking away a zombie's ability to climb stairs makes some POIs a worse experience. It's there if you want it. 
+
+"No More Drill Claws" Zombies, enabled.
+In vanilla 7 Days to Die, when a zombie has several 'allies' close by, they get a 20% block damage boost per 'ally.' 
+So, when a horde is attacking a wall, they can easily tear through even the hardest blocks. 
+For many people, this seriously breaks immersion, as a small group of rotting corpses will tear through a cubic meter of concrete in about the same time you can dig through it with an auger.
+This mod addresses that problem by completely removing the feature. Zombies will no longer get any block damage boost when in groups. As a result, concrete walls actually act like concrete.
 
 Mods Updated:
 
@@ -55,15 +94,14 @@ Mods Updated:
 "LittleRedSonja Shopping Time"
 "(V2) Oakraven Fish Farm"
 "Medical conditions(alternative rest buff source)"
+"Random Zombie Speed" This didn't update, but I dialed down the max speed from 3 to 2.5, since they were a little too fast. 
 
 "Custom Avatars" This was previously called VRoid. 
-Alter fixed the "Third Hand" issue with Izy AIO, with a new workaround where your 3rd person character switches to AimDownScope (ADS). 
-Unfortunately, it introduced a new problem with ADS randomly pointing 90-degrees away from where you meant to aim when used with 3rd person. 
+If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu golden hexagon and uncheck "Aim Correction".
+Alter created a wrokaround o remove the "third hand" when combining this mod with IZY AIO... however, it's not perfect.
 
 "Rainstorm" 
 You can expect another update to this one in the very near future.
 Laydor is adjusting the fog.
-
-"Random Zombie Speed" This didn't update, but I dialed down the max speed from 3 to 2.5, since they were a little too fast. 
 
 __________________________________________________________
