@@ -1302,7 +1302,9 @@ B. Disable/remove programs that could be preventing your game from launching: St
 C. This is an obscure one, but could be messing with 0_Harmony... Windows Security > Exploit Protection > Randomize Memory Allocations(Bottom-up ASLR).  
 If a user has Randomize Memory Allocations(Bottom-up ASLR) turned off, 0_Harmony will not be able to properly patch any method and will cause null pointers on the first method that is called that is patched.  To turn on ASLR, go to settings, look up Exploit Protection, set Randomize Memory Allocations(Bottom-up ASLR) to On by Default or Use default (On).
 
-![image](https://github.com/user-attachments/assets/d4ee4b18-7ef8-4956-9a23-e9b69e73322a)
+
+<img width="834" height="1153" alt="image" src="https://github.com/user-attachments/assets/69210ca5-0f6c-4e55-b6f8-5ac30efa9dd0" />
+
 
 
 ---
