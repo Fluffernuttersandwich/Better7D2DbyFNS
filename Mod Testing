@@ -6,23 +6,23 @@ Comments:
 
 1. You might need to start a new save... this is not because that many mods updated, but because I have been disabling several mods.
 There are so many changes, it could mess up your existing save.  
-Like always, if you are happy with your current playthrough: WAIT TO UPDATE!
+Like always, if you are happy with your current playthrough: WAIT, TO, UPDATE!
 
 2. I found myself getting into a rut playing the same way over and over. 
-My recent playthrough was getting too easy.
+My recent playthroughs were getting too easy.
 So, I am making the default list more challenging.  By default, it will force the player to work harder for everything.  
-I didn't add any grind, just disabled (but left in place) some things that were too good.
+I didn't add any grind, just disabled (but left in place) some mods that were too good.
 I find it that when I am constantly desperate and barely surviving, I have a better time with 7DtD. 
-I am playing with disabled stack size increaser, vanila toolbelt, EFT Ammo, selected less vehicle options, less loot mods, etc.  
-'Chose more realistic (difficult) gun and ammo options, etc.  
+If you don't legitmately fear death, you play sloppy, and you have less fun.
 
 3. Caution: I edited WalkerSim settings. 200 Zombie population, and EnhancedSoundAwareness (sonic hearing) set to true. 
+It appears the author Zeh_Matt has improved it, so it's not as overwhelming as it was.  However, stealth matters!
 I want to try a playthrough with it set like this for a greater emphasis on stealth as a challenge. 
 Recently I started watching TWD for the first time, and really liked the importance of stealth and speed.  
 You are of course free to edit it to however you like.
 
 4. Renamed the EFTX Separator to Weapons.  
-It's EFTX, Izy AIO, add-ons to both, and other popular weapon mods.  
+It's EFTX, Izy AIO, add-ons to both, and other more popular weapon mods.  
 
 Gratitude:
 ALo, Feras, and the rest of the guys discussing the Headshot Only conversation in our Discord channel at Guppy's. 
@@ -35,9 +35,9 @@ Mods Removed:
 Mods Added:
 
 "MoreQuests" Quests, enabled.
-Allows for the trader to offer more than 5 quests.
+Allows for the trader to offer more than 5 quests (how many depends on your UI).
 This mod previously caused problems on the list with mod compatibility.  
-I tested it as thouroughly as I could, and didn't notice any issues.
+I tested it as thouroughly as I could, and didn't notice any issues in our current load out.
 It works fine with the default list I give you.
 It's possible, if you are adding other off-list Quest mods that add new quest types, that it could cause an error.  
 
@@ -54,6 +54,7 @@ Note: I have not updated the Smorgasbord Maps yet, so if you want to see this PO
 Back by popular request: Guppy's Fire adds Fire Extinghuishers, the ability to summon a biplane to drop water on an area, and other fire related goodies.
 Previously, this mod was having errors in 2.0, but either something in a Score update, or the settings I selected for FireManagement fixed the errors we had. 
 Caution, not tested on a Dedicated Server. If someone with a Dedi can test the Extinguisher on a fire, and check logs, that would be great.  
+User sentiment: "Hey Fin, wouldn't it be nice to be able to you know, actually put out the fires, just sayin'."
 
 "FNS No Crispies with Guppy's Fire Mod v2" QoL, enabled.
 If you disable Guppycur's Fire, also disable this mod! 
@@ -69,11 +70,16 @@ Blow it up from a safe distance! Wanna just cause mayhem? It can probably do tha
 "Headshots Preferred by FNS" Survivalist, enabled.
 Headshots do 33% more damage, body shots do 33% less damage.  
 Mod Author ALo gave us this modlet, so please thank him if you appreciate it.
+Recommendation from Fin: From a recent playtest, I think it might be best for most players to disable the Armored Zombies mod from EFTX if using this mod.  
+Unless you really like an insane challenge. 
+My reasoning is this: Feral zombies with helmets, especially Wights are brutal in the early-to-mid game when you don't have AP rounds.
+They have high hit points, they get on top of you in the blink of an eye, and you already do low damage to their lower body.  
+This could be fun for a minority of players, but this would be unpleasant to most.  
 
 "Brain Dead Zed" Zombies, disabled.
-The zombies will, mostly, no longer act like structural engineers, bee-lining for the weakest part of your base from the far side. 
-They will now, more so, approach and  attack from the direction they saw you from. 
-This acts a bit more like  the old AI, or the AI from alpha 16, but without the issues from the time.
+From the Author: The zombies will, mostly, no longer act like structural engineers, bee-lining for the weakest part of your base from the far side. 
+They will now, more so, approach and attack from the direction they saw you from. 
+This acts a bit more like the old AI, or the AI from alpha 16, but without the issues from the time.
 Most zombies are now 'stupid' zombies. 
 Utility worker (construction) zombies retain the current 'smart' AI, and the Demolition zombie was given the 'smart' AI, making them far more dangerous.
 Zombie Dogs and Dire Wolves were left untouched.
@@ -106,6 +112,9 @@ Mods Updated:
 "(V2) Oakraven Fish Farm"
 "Medical conditions(alternative rest buff source)"
 "Random Zombie Speed" This didn't update, but I dialed down the max speed from 3 to 2.5, since they were a little too fast. 
+"WMMChangeColorOfCoalOnMap"
+"WMMZAirdropSpawnZeds"
+
 
 "Custom Avatars" This was previously called VRoid. 
 If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu golden hexagon and uncheck "Aim Correction".
@@ -114,9 +123,11 @@ Using Izy + Custom Avatar (VRoid) will still do a funny thing with the hands cha
 Your Custom Avatar hands will be temporarily be replaced with the Izy hands when you ADS when using Custom Avatar (VRoid).
 This is because Izy does his hands differently than vanilla or EFT-O/X.
 Izy currently does not have plans to update his hands.
+If you play as a male character in the base game of 7DtD, but use a female Avatar, with Izy guns, you will switch to man-hands in ADS/1st Person View. :P
 
 "Rainstorm" 
-You can expect another update to this one in the very near future.
-Laydor is adjusting the fog.
+Laydor is seeking feedback on Fog. 
+He added different levels of Fog, you can change this setting in the Gears Mods menu. 
+He has Normal (vanilla game fog), Rainstorm (intended fog), and Silent Hill level of oppressive constant fog. 
 
 __________________________________________________________
