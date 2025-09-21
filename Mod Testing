@@ -44,12 +44,6 @@ It's possible, if you are adding other off-list Quest mods that add new quest ty
 "LittleRedSonja and Mumpfy ArmorPack07 The Walking Dead" Armor, enabled.
 Adds armor and cosmetic options from TWD.
 
-"(V2) Classic Crack-a-Book HQ POI" POI, enabled.
-Adds an updated version of the old tier 5 Crack-a-Book HQ.
-TFP created the original POI, but arramus updated it for v2.
-Many people preffered the older version compared to the new one.
-Note: I have not updated the Smorgasbord Maps yet, so if you want to see this POI, run a new Advanced RWG.  
-
 "Guppycur's Fire AddOn to Score" QoL, enabled.
 Back by popular request: Guppy's Fire adds Fire Extinghuishers, the ability to summon a biplane to drop water on an area, and other fire related goodies.
 Previously, this mod was having errors in 2.0, but either something in a Score update, or the settings I selected for FireManagement fixed the errors we had. 
@@ -96,6 +90,24 @@ This mod addresses that problem by completely removing the feature. Zombies will
 "GirlsFrontline Jiangyu RaindropCleavingBlades" Custom Avatars (VRoid).
 Just another waifu.
 
+"(V2) Classic Crack-a-Book HQ" POI, enabled.
+Adds an updated version of the old tier 5 Crack-a-Book HQ.
+TFP created the original POI, but arramus updated it for v2.
+Many people preffered the older version compared to the new one.
+"(V2) Atomic Burger" POI, enabled.
+Adds in a reconstructed version of the base game's Wasteland rubble version which has been partially destroyed.
+It is a T2 POI hooked up for fetch, clear, restore power, and Infested. It can appear in the commercial, downtown, and country residential locations.
+Note: I have not updated the Smorgasbord Maps yet, so if you want to see these new POIs, run a new Advanced RWG.  
+
+"Recipes for Resin by FNS" Standard, enabled.
+This is a small Add-On modlet for the Archery Expansion mod. 
+My mod adds additional recipes to allow for different uses of the Resin resource added to the game by the Archery Expansion mod. 
+It provides new alternative recipes for: Torches, Glue, Aloe Cream, and Goldenrod Tea.
+
+"Shrader's NPCs All-in-One" NPCs, disabled.
+Adds a ton of new NPCs to the game. 
+I only briefly playtested this mod, no errors, the NPCs spawned in game and functioned as expected. 
+
 Mods Updated:
 
 "LittleRedSonja's CAS"
@@ -115,9 +127,8 @@ Mods Updated:
 "WMMChangeColorOfCoalOnMap"
 "WMMZAirdropSpawnZeds"
 
-
 "Custom Avatars" This was previously called VRoid. 
-If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu golden hexagon and uncheck "Aim Correction".
+If you have a problem with aiming, Aim Down Scope (ADS), go into this mod's menu golden hexagon in the character tab and uncheck "Aim Correction".
 Alter created a workaround to remove the "third hand" when combining this mod with IZY AIO... however, it's not perfect.
 Using Izy + Custom Avatar (VRoid) will still do a funny thing with the hands changing from 3rd person view to FPV when you ADS.
 Your Custom Avatar hands will be temporarily be replaced with the Izy hands when you ADS when using Custom Avatar (VRoid).
