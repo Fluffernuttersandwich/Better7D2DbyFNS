@@ -1,17 +1,17 @@
-2.3.2.1 TBD
+2.3.2.1 23:30 EST 21SEP2025
 
 For Game version 2.3
 
 Comments:
 
-1. You might need to start a new save... this is not because that many mods updated, but because I have been disabling several mods.
+1. You probably need to start a new save... this is not because that many mods updated, but because I have been disabling several mods.
 There are so many changes, it could mess up your existing save.  
 Like always, if you are happy with your current playthrough: WAIT, TO, UPDATE!
 
 2. I found myself getting into a rut playing the same way over and over. 
 My recent playthroughs were getting too easy.
 So, I am making the default list more challenging.  By default, it will force the player to work harder for everything.  
-I didn't add any grind, just disabled (but left in place) some mods that were too good.
+I didn't add any grind, just disabled (but left in place) some mods that were too OP.
 I find it that when I am constantly desperate and barely surviving, I have a better time with 7DtD. 
 If you don't legitmately fear death, you play sloppy, and you have less fun.
 
@@ -24,6 +24,13 @@ You are of course free to edit it to however you like.
 4. Renamed the EFTX Separator to Weapons.  
 It's EFTX, Izy AIO, add-ons to both, and other more popular weapon mods.  
 
+5. One of our Community Members Rwdillin75 has been experimenting with IZPrebuit's Learn By Doing Returns mod. 
+CAUTION! I added this mod to the list, but it is VERY EXPERIMENTAL! 
+You need to be a bit of an advanced mod user to attempt this with Smorgasbord.  
+You have to disable a few dozen mods for this to work.
+Basically, if a mod effects progression, perks, or crafting recipes tied to progression, it needs to be disabled!
+I will be posting a follow-up guide in the GutHub ReadMe once I test it out some more.  
+
 Gratitude:
 ALo, Feras, and the rest of the guys discussing the Headshot Only conversation in our Discord channel at Guppy's. 
 I love productive brainstorming conversations that lead to cool mods and better ways to play.  
@@ -33,13 +40,6 @@ Mods Removed:
 "Dewtas Hold Multiple Quests -- 1.0 Stable" It's superfluous with "Quest Revamp".
 
 Mods Added:
-
-"MoreQuests" Quests, enabled.
-Allows for the trader to offer more than 5 quests (how many depends on your UI).
-This mod previously caused problems on the list with mod compatibility.  
-I tested it as thouroughly as I could, and didn't notice any issues in our current load out.
-It works fine with the default list I give you.
-It's possible, if you are adding other off-list Quest mods that add new quest types, that it could cause an error.  
 
 "LittleRedSonja and Mumpfy ArmorPack07 The Walking Dead" Armor, enabled.
 Adds armor and cosmetic options from TWD.
@@ -69,6 +69,7 @@ Unless you really like an insane challenge.
 My reasoning is this: Feral zombies with helmets, especially Wights are brutal in the early-to-mid game when you don't have AP rounds.
 They have high hit points, they get on top of you in the blink of an eye, and you already do low damage to their lower body.  
 This could be fun for a minority of players, but this would be unpleasant to most.  
+Armored Zs is now disabled by default with a note explaining this. 
 
 "Brain Dead Zed" Zombies, disabled.
 From the Author: The zombies will, mostly, no longer act like structural engineers, bee-lining for the weakest part of your base from the far side. 
@@ -79,7 +80,8 @@ Utility worker (construction) zombies retain the current 'smart' AI, and the Dem
 Zombie Dogs and Dire Wolves were left untouched.
 Be warned, your standard stilt cheese base will not work! 
 Only a fraction of the zombies will use your stairs, unless you get very lucky and the horde just approaches from that direction.
-From Fin: I disabled this by default because taking away a zombie's ability to climb stairs makes some POIs a worse experience. It's there if you want it. 
+From Fin: I disabled this by default because taking away a zombie's ability to climb stairs easily makes some POIs a worse experience. 
+It's there if you want it. 
 
 "No More Drill Claws" Zombies, enabled.
 In vanilla 7 Days to Die, when a zombie has several 'allies' close by, they get a 20% block damage boost per 'ally.' 
@@ -137,8 +139,7 @@ Izy currently does not have plans to update his hands.
 If you play as a male character in the base game of 7DtD, but use a female Avatar, with Izy guns, you will switch to man-hands in ADS/1st Person View. :P
 
 "Rainstorm" 
-Laydor is seeking feedback on Fog. Do people like fog that stops at a certain height, or prefer fog that goes all the way up? 
-He added different levels of Fog, you can change this setting in the Gears Mods menu. 
-He has Normal (vanilla game fog), Rainstorm (intended fog), and Silent Hill level of oppressive constant fog. 
+Laydor added different levels of Fog: You can change this setting in the Gears Mods menu. 
+He has Normal vanilla game fog, Rainstorm mode improved fog, and a Silent Hill level of oppressive constant fog. 
 
 __________________________________________________________
