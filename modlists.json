@@ -26,9 +26,10 @@
       "discordURL": "https://discord.gg/WpVPJWj7Xk",
       "websiteURL": ""
     },
-    "download_metadata": {
-      "Hash": "hf7JJNbhvQI=",
-      "Size": 281198039,
+    "download_metadata": { 
+      "url": https://authored-files.wabbajack.org/Sm%C3%B6rg%C3%A5sbord%20V2.wabbajack_7487a40d-c963-4377-a1ec-14f02c947395
+      "Hash": "F9D44495933F3A38568DC52855D6F897617073284DEDFBB7DBE52B446BCE805D",
+      "Size": 135412049,
       "NumberOfArchives": 567,
       "SizeOfArchives": 32087879214,
       "NumberOfInstalledFiles": 52778,
@@ -42,6 +43,7 @@
   }
 
 ]
+
 
 
 
