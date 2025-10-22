@@ -1,6 +1,6 @@
 [
   {
-    "title": "Sm\u00F6rg\u00E5sbord",
+    "title": "Smorgasbord V2",
     "description": "This list is the modular buffet table of the very best mods available for 7 Days to Die.",
     "author": "FNS",
     "maintainers": [
@@ -27,7 +27,7 @@
       "websiteURL": ""
     },
     "download_metadata": { 
-      "url": https://authored-files.wabbajack.org/Smorgasbord%20V2.wabbajack_9891ed01-68ac-4865-9bb3-9c06f2dc2328
+      "url": "https://authored-files.wabbajack.org/Smorgasbord%20V2.wabbajack_9891ed01-68ac-4865-9bb3-9c06f2dc2328"
       "Hash": "F9D44495933F3A38568DC52855D6F897617073284DEDFBB7DBE52B446BCE805D",
       "Size": 135412049,
       "NumberOfArchives": 567,
@@ -43,6 +43,7 @@
   }
 
 ]
+
 
 
 
