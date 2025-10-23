@@ -7,7 +7,7 @@
       "github/Fluffernuttersandwich",
       "github/LBeast161776"
     ],
-    "game": "7daystodie",
+    "game": "SevenDaysToDie",
     "official": false,
     "tags": [
       "QoL",
@@ -47,4 +47,5 @@
     "repositoryName": "Better 7DTD"
   }
 ]
+
 
